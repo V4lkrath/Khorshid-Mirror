@@ -268,6 +268,8 @@ function rebuildIndex(
       post_count: snap.posts.length,
       media_count: countMedia(snap),
       snapshot_path: `channels/${username}/snapshot.json`,
+      avatar_url: snap.channel.photo_path,
+      subscriber_count: snap.channel.subscriber_count,
     });
   }
 

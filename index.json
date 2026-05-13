@@ -1,0 +1,78 @@
+{
+  "schema": 2,
+  "generated_at": "2026-05-13T16:18:58.040Z",
+  "channels": [
+    {
+      "username": "bbcpersian",
+      "title": "BBCPersian",
+      "last_fetched_at": "2026-05-13T16:18:51.050Z",
+      "post_count": 12,
+      "media_count": 13,
+      "snapshot_path": "channels/bbcpersian/snapshot.json"
+    },
+    {
+      "username": "dwpersian",
+      "title": "DW Persian | دویچه وله فارسی",
+      "last_fetched_at": "2026-05-13T16:18:50.969Z",
+      "post_count": 20,
+      "media_count": 5,
+      "snapshot_path": "channels/dwpersian/snapshot.json"
+    },
+    {
+      "username": "farsi_iranwire",
+      "title": "Iranwire",
+      "last_fetched_at": "2026-05-13T16:18:51.104Z",
+      "post_count": 20,
+      "media_count": 19,
+      "snapshot_path": "channels/farsi_iranwire/snapshot.json"
+    },
+    {
+      "username": "farsivoa",
+      "title": "Farsi VOA",
+      "last_fetched_at": "2026-05-13T16:18:53.462Z",
+      "post_count": 13,
+      "media_count": 16,
+      "snapshot_path": "channels/farsivoa/snapshot.json"
+    },
+    {
+      "username": "hranews",
+      "title": "خبرگزاری هرانا",
+      "last_fetched_at": "2026-05-13T16:18:54.222Z",
+      "post_count": 20,
+      "media_count": 9,
+      "snapshot_path": "channels/hranews/snapshot.json"
+    },
+    {
+      "username": "iranintltv",
+      "title": "Iran International ایران اینترنشنال",
+      "last_fetched_at": "2026-05-13T16:18:54.278Z",
+      "post_count": 20,
+      "media_count": 14,
+      "snapshot_path": "channels/iranintltv/snapshot.json"
+    },
+    {
+      "username": "mamlekate",
+      "title": "مملکته",
+      "last_fetched_at": "2026-05-13T16:18:56.007Z",
+      "post_count": 19,
+      "media_count": 10,
+      "snapshot_path": "channels/mamlekate/snapshot.json"
+    },
+    {
+      "username": "radiofarda",
+      "title": "RadioFarda",
+      "last_fetched_at": "2026-05-13T16:18:56.073Z",
+      "post_count": 20,
+      "media_count": 10,
+      "snapshot_path": "channels/radiofarda/snapshot.json"
+    },
+    {
+      "username": "sahamnewsorg",
+      "title": "سهام نیوز",
+      "last_fetched_at": "2026-05-13T16:18:56.613Z",
+      "post_count": 20,
+      "media_count": 9,
+      "snapshot_path": "channels/sahamnewsorg/snapshot.json"
+    }
+  ]
+}

@@ -79,6 +79,8 @@ export interface IndexEntry {
   post_count: number;
   media_count: number;
   snapshot_path: string; // "channels/<u>/snapshot.json"
+  photo_path: string | null;       // relative path to the local avatar file (or null if none)
+  subscriber_count: string | null;  // raw subscriber count string (e.g. "960K")
 }
 
 /**

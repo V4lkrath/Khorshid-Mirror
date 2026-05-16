@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-16T07:00:53.373Z",
+  "fetched_at": "2026-05-16T07:22:56.109Z",
   "channel": {
     "username": "media_hb",
     "title": "اخبار جنگ | مدیا هاب",
@@ -11,6 +11,29 @@
   },
   "posts": [
     {
+      "id": "Media_HB/94699",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DqJFirjo84-wzXufYnIsx9DK-6Rwxuv_3y3oIaxi0B8P4voX0GoOo9CtvLWtwHbHPgyMO5Ibxuqv5Lh0iPtStYpIO0-uQFzN44wRdSrBBQO-FS-oEaxUkHAHnvzsHexR2KUQray-4_be-gf8CmW3D2-x8AlRjFn7vFILBM8oY6HhzzQwTJjgZCU_U6Wqok-_yTn0hEuf5eTuTTqePVuEWMcvChJkK9PkLRnSK5EslF6uG8dbgiIGPNz8M6G9aPxDeQ5E8FAKas_JydhuT3V3zOA8o68XU_Faj5jktaEZspiBQ-EPcLqd70MUcjk9G2P_9CS-cqEDzys5RPa4PACUlQ.jpg",
+      "author_photo_path": "channels/media_hb/media/3020ebc7f663020f2d7066cd.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>نیویورک تایمز:<br><br>نیروهای نظامی آمریکا در حال آماده‌سازی برای دور دیگری از حملات هستند.این بار با شدت بیشتر. این حملات ممکن است از روز دوشنبه آغاز شود. اهداف نظامی بیشتری از ایران در نظر گرفته شده است که شامل زیرساخت‌ها نیز می‌شود.</b>",
+      "plain_text": "🔴نیویورک تایمز: نیروهای نظامی آمریکا در حال آماده‌سازی برای دور دیگری از حملات هستند.این بار با شدت بیشتر. این حملات ممکن است از روز دوشنبه آغاز شود. اهداف نظامی بیشتری از ایران در نظر گرفته شده است که شامل زیرساخت‌ها نیز می‌شود.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "17"
+        },
+        {
+          "emoji": "👎",
+          "count": "3"
+        }
+      ],
+      "views_label": "566",
+      "posted_at": "2026-05-16T07:11:31+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/94699"
+    },
+    {
       "id": "Media_HB/94698",
       "author_name": "اخبار جنگ | مدیا هاب",
       "author_photo_url": "https://cdn4.telesco.pe/file/DqJFirjo84-wzXufYnIsx9DK-6Rwxuv_3y3oIaxi0B8P4voX0GoOo9CtvLWtwHbHPgyMO5Ibxuqv5Lh0iPtStYpIO0-uQFzN44wRdSrBBQO-FS-oEaxUkHAHnvzsHexR2KUQray-4_be-gf8CmW3D2-x8AlRjFn7vFILBM8oY6HhzzQwTJjgZCU_U6Wqok-_yTn0hEuf5eTuTTqePVuEWMcvChJkK9PkLRnSK5EslF6uG8dbgiIGPNz8M6G9aPxDeQ5E8FAKas_JydhuT3V3zOA8o68XU_Faj5jktaEZspiBQ-EPcLqd70MUcjk9G2P_9CS-cqEDzys5RPa4PACUlQ.jpg",
@@ -18,8 +41,13 @@
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>کرملین:<br><br>پوتین روز سه شنبه کمتر از یک هفته پس از سفر پرزیدنت ترامپ به چین سفر خواهد کرد.</b>",
       "plain_text": "🔴کرملین: پوتین روز سه شنبه کمتر از یک هفته پس از سفر پرزیدنت ترامپ به چین سفر خواهد کرد.",
       "media": [],
-      "reactions": [],
-      "views_label": "226",
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "4"
+        }
+      ],
+      "views_label": "1.05K",
       "posted_at": "2026-05-16T06:57:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94698"
@@ -45,7 +73,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "54"
+          "count": "63"
         },
         {
           "emoji": "❤",
@@ -68,7 +96,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.51K",
+      "views_label": "2.89K",
       "posted_at": "2026-05-16T04:41:26+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94697"
@@ -84,7 +112,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "93"
+          "count": "103"
         },
         {
           "emoji": "🔥",
@@ -99,7 +127,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.06K",
+      "views_label": "4.32K",
       "posted_at": "2026-05-15T23:04:33+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/94696"
@@ -115,7 +143,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "44"
+          "count": "48"
         },
         {
           "emoji": "🖕",
@@ -126,7 +154,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.03K",
+      "views_label": "4.25K",
       "posted_at": "2026-05-15T22:57:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94695"
@@ -142,7 +170,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "32"
+          "count": "35"
         },
         {
           "emoji": "🖕",
@@ -157,7 +185,7 @@
           "count": "2"
         }
       ],
-      "views_label": "4.06K",
+      "views_label": "4.28K",
       "posted_at": "2026-05-15T22:56:21+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94694"
@@ -173,7 +201,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "52"
+          "count": "55"
         },
         {
           "emoji": "❤",
@@ -188,7 +216,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.04K",
+      "views_label": "4.26K",
       "posted_at": "2026-05-15T22:51:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94693"
@@ -204,7 +232,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "30"
+          "count": "32"
         },
         {
           "emoji": "🖕",
@@ -215,7 +243,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.82K",
+      "views_label": "3.99K",
       "posted_at": "2026-05-15T22:44:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94692"
@@ -231,7 +259,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "26"
+          "count": "28"
         },
         {
           "emoji": "🔥",
@@ -242,7 +270,7 @@
           "count": "4"
         }
       ],
-      "views_label": "3.82K",
+      "views_label": "3.98K",
       "posted_at": "2026-05-15T22:40:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94691"
@@ -258,7 +286,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "39"
+          "count": "40"
         },
         {
           "emoji": "🔥",
@@ -269,7 +297,7 @@
           "count": "4"
         }
       ],
-      "views_label": "3.78K",
+      "views_label": "3.94K",
       "posted_at": "2026-05-15T22:38:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94690"
@@ -285,10 +313,10 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "25"
+          "count": "27"
         }
       ],
-      "views_label": "3.87K",
+      "views_label": "3.99K",
       "posted_at": "2026-05-15T22:32:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94689"
@@ -304,10 +332,10 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "23"
+          "count": "25"
         }
       ],
-      "views_label": "3.79K",
+      "views_label": "3.9K",
       "posted_at": "2026-05-15T22:29:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94688"
@@ -323,14 +351,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "14"
+          "count": "16"
         },
         {
           "emoji": "🤩",
           "count": "2"
         }
       ],
-      "views_label": "3.83K",
+      "views_label": "3.96K",
       "posted_at": "2026-05-15T22:23:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94687"
@@ -346,14 +374,14 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "24"
+          "count": "26"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "3.79K",
+      "views_label": "3.92K",
       "posted_at": "2026-05-15T22:21:12+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94686"
@@ -369,18 +397,18 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "38"
+          "count": "40"
         },
         {
           "emoji": "🔥",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "❤",
           "count": "2"
         }
       ],
-      "views_label": "3.78K",
+      "views_label": "3.91K",
       "posted_at": "2026-05-15T22:20:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94685"
@@ -396,7 +424,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "49"
+          "count": "52"
         },
         {
           "emoji": "🖕",
@@ -404,14 +432,14 @@
         },
         {
           "emoji": "❤",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "😍",
           "count": "6"
         }
       ],
-      "views_label": "4.46K",
+      "views_label": "4.56K",
       "posted_at": "2026-05-15T21:03:55+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94684"
@@ -427,7 +455,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "43"
+          "count": "44"
         },
         {
           "emoji": "🔥",
@@ -442,7 +470,7 @@
           "count": "5"
         }
       ],
-      "views_label": "4.46K",
+      "views_label": "4.53K",
       "posted_at": "2026-05-15T20:54:44+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94683"
@@ -458,18 +486,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "32"
+          "count": "33"
         },
         {
           "emoji": "🔥",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "🖕",
           "count": "3"
         }
       ],
-      "views_label": "4.55K",
+      "views_label": "4.62K",
       "posted_at": "2026-05-15T20:53:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94682"
@@ -495,7 +523,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "207"
+          "count": "208"
         },
         {
           "emoji": "💔",
@@ -522,7 +550,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.94K",
+      "views_label": "4.97K",
       "posted_at": "2026-05-15T19:57:11+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94681"
@@ -548,7 +576,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "73"
+          "count": "74"
         },
         {
           "emoji": "❤",
@@ -563,7 +591,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.3K",
+      "views_label": "5.33K",
       "posted_at": "2026-05-15T18:51:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94680"
@@ -2886,37 +2914,6 @@
       "posted_at": "2026-05-14T17:06:26+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94597"
-    },
-    {
-      "id": "Media_HB/94596",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/sTKphBmG1C5FaSM9K6NJBNATVAI_4zaA8Oktet4fRIOyEUniB4RjHVaoq2OgqZDKRb3bfoqhuI8PNQh1SNBoH3a2YlZwLDYvuGGmKx0G54Ocick183qFTDfltPuzobF8ABigsCbK2pspCKgftL3uwPaq6oqHhIGCQDaxLO_mlf_T8UzaHA3UECGgOijFP-TMeoGqxQF_b9sZBJto2MVQ-OgAgnuPW5FztTF-W61d0AkM57UiHljyXJmE9Av4f0VXD370UdLBvYGp5Xgn91JX-MEPVfw51syyVf1UCj0z2DgBkLGW-Tqdj7_WActiOQ9ch4Ex7WqCinajdKnuXAwNhw.jpg",
-      "author_photo_path": "channels/media_hb/media/d465f39785416bf866eb46bc.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>پیت هگست:<br><br>علیرغم آنچه ممکن است در رسانه ها بشنوید، آمریکا در حال افول نیست. ما همچنان قوی‌ترین قدرت نظامی روی زمین هستیم، اما این قدرت مستلزم تجدید است. <br><br>با تهدیدهای جهانی که دائماً در حال تغییر هستند، زمان آن فرا رسیده است که یک سرمایه گذاری 1.5 تریلیون دلاری انجام دهید، یک پیش پرداخت نسلی.<br><br>این سرمایه‌گذاری تضمین می‌کند که ایالات متحده قدرت و قدرت بازدارندگی بی‌نظیری در برابر هر دشمنی را برای نسل‌های آینده حفظ کند.</b>",
-      "plain_text": "🔴پیت هگست: علیرغم آنچه ممکن است در رسانه ها بشنوید، آمریکا در حال افول نیست. ما همچنان قوی‌ترین قدرت نظامی روی زمین هستیم، اما این قدرت مستلزم تجدید است. با تهدیدهای جهانی که دائماً در حال تغییر هستند، زمان آن فرا رسیده است که یک سرمایه گذاری 1.5 تریلیون دلاری انجام دهید، یک پیش پرداخت نسلی. این سرمایه‌گذاری تضمین می‌کند که ایالات متحده قدرت و قدرت بازدارندگی بی‌نظیری در برابر هر دشمنی را برای نسل‌های آینده حفظ کند.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "16"
-        },
-        {
-          "emoji": "👎",
-          "count": "2"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "🤩",
-          "count": "1"
-        }
-      ],
-      "views_label": "4.85K",
-      "posted_at": "2026-05-14T16:49:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/94596"
     }
   ]
 }

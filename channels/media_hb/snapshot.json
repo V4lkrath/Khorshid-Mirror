@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-17T21:12:25.367Z",
+  "fetched_at": "2026-05-17T21:59:50.799Z",
   "channel": {
     "username": "media_hb",
     "title": "اخبار جنگ | مدیا هاب",
@@ -10,6 +10,74 @@
     "subscriber_count": "103K"
   },
   "posts": [
+    {
+      "id": "Media_HB/94809",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/XyKnRLqtHVJyeZKSSQk_6czilt9YoKREZxCpBRt2YfBoxlN6bNj-3w6daLlv46WWiR_ulrKg_p6CHeIWfVh-t0IxSZw2SFMUxlPmf2ZN46voeK7tO9B2Nft8lCiBmGqEvT0qQk0chTPtI7NsueFXciG63LA0IrgzL7zgvtZxOQ-kFMycfpgwxjTRxJO9rErsrVmaVmQyGqiYuGAB76fJk1DxJGbHqrtMX7-b9xkdPrNr8UB0HsnLO4dG9KM38m1uE6I5_iyCj_0_lYdtoeMzMYTOQ6CEFfGwoeOvOXz76VMDBnNGZsImy1abkrQARrhKfmJjRa1cJF-7awkUKXUzWw.jpg",
+      "author_photo_path": "channels/media_hb/media/8dc54b46f11093888c869750.jpg",
+      "body_html": "<b><tg-emoji emoji-id=\"5873216972388309720\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28189.png')\"><b>⁉️</b></i></tg-emoji></b><b>پست جدید ترامپ</b>",
+      "plain_text": "⁉️پست جدید ترامپ",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/94809",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hRbB17q74InE6eQy0iBY50EDYKT7F-kf2jx1Al394sOvjMZ_ortSXmxSYv2Ddw8eqlxT0gyZ-eO9Js-V3lw3J_dNXzOboskg8bHFrq546Y68tG8pcI2WLpTucGLf2LogFV62nSPvuN0Sx0ZsRGk9zCytdxMIro2Y_QEYOgk1-Hb_uIiNqg8_iLYfjXGPNFUthT8X7PQA3AU2p4KXgqLggdyEZlQAyUpW3e1AU6w83jb9C8ZiKKlIin0fIHS8FctPQ_Xku7yBmlVxiRx4Z0lf31MZUpASICLp5_i1S4ZY55qgrIH9LOudJhXJDXSvIEPeMM1WGZ7AeM9Gv-SGN7UvQg.jpg",
+          "thumbnail_path": "channels/media_hb/media/957e66f30d755da24d1e9432.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.6200000000000103
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "38"
+        },
+        {
+          "emoji": "🤣",
+          "count": "12"
+        },
+        {
+          "emoji": "👎",
+          "count": "7"
+        }
+      ],
+      "views_label": "1.41K",
+      "posted_at": "2026-05-17T21:38:05+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/94809"
+    },
+    {
+      "id": "Media_HB/94808",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/XyKnRLqtHVJyeZKSSQk_6czilt9YoKREZxCpBRt2YfBoxlN6bNj-3w6daLlv46WWiR_ulrKg_p6CHeIWfVh-t0IxSZw2SFMUxlPmf2ZN46voeK7tO9B2Nft8lCiBmGqEvT0qQk0chTPtI7NsueFXciG63LA0IrgzL7zgvtZxOQ-kFMycfpgwxjTRxJO9rErsrVmaVmQyGqiYuGAB76fJk1DxJGbHqrtMX7-b9xkdPrNr8UB0HsnLO4dG9KM38m1uE6I5_iyCj_0_lYdtoeMzMYTOQ6CEFfGwoeOvOXz76VMDBnNGZsImy1abkrQARrhKfmJjRa1cJF-7awkUKXUzWw.jpg",
+      "author_photo_path": "channels/media_hb/media/8dc54b46f11093888c869750.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>ترامپ به کانال 13 اسرائیل:<br><br>من فکر می‌کنم ایرانی‌ها باید از آنچه در حال حاضر می‌گذرد بترسند.<br><br>آنها باید مراقب من باشند.</b>",
+      "plain_text": "🔴ترامپ به کانال 13 اسرائیل: من فکر می‌کنم ایرانی‌ها باید از آنچه در حال حاضر می‌گذرد بترسند. آنها باید مراقب من باشند.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "31"
+        },
+        {
+          "emoji": "🤣",
+          "count": "5"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "2.1K",
+      "posted_at": "2026-05-17T21:18:31+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/94808"
+    },
     {
       "id": "Media_HB/94807",
       "author_name": "اخبار جنگ | مدیا هاب",
@@ -31,26 +99,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "55"
+          "count": "93"
         },
         {
           "emoji": "👍",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "😁",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "❤",
-          "count": "1"
+          "count": "2"
         },
         {
           "emoji": "🖕",
           "count": "1"
         }
       ],
-      "views_label": "1.16K",
+      "views_label": "2.82K",
       "posted_at": "2026-05-17T20:57:51+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/94807"
@@ -76,7 +144,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "31"
+          "count": "43"
         },
         {
           "emoji": "👍",
@@ -91,7 +159,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.85K",
+      "views_label": "3.17K",
       "posted_at": "2026-05-17T20:46:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94806"
@@ -118,17 +186,8 @@
       "body_html": "<tg-emoji emoji-id=\"5870699949754162502\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><tg-emoji emoji-id=\"5870745300313840282\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji> <b>سخنگوی وزارت دفاع عربستان: <br><br>رهگیری ۳ فروند پهپاد که از حریم هوایی عراق آمده بودند!</b>",
       "plain_text": "💢💢 سخنگوی وزارت دفاع عربستان: رهگیری ۳ فروند پهپاد که از حریم هوایی عراق آمده بودند!",
       "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "22"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        }
-      ],
-      "views_label": "3.06K",
+      "reactions": [],
+      "views_label": "3.94K",
       "posted_at": "2026-05-17T20:02:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94804"
@@ -144,11 +203,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "39"
+          "count": "45"
         },
         {
           "emoji": "😐",
-          "count": "31"
+          "count": "36"
         },
         {
           "emoji": "❤",
@@ -159,7 +218,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.12K",
+      "views_label": "3.97K",
       "posted_at": "2026-05-17T20:01:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94803"
@@ -175,11 +234,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "27"
+          "count": "37"
         },
         {
           "emoji": "🔥",
-          "count": "12"
+          "count": "14"
         },
         {
           "emoji": "👍",
@@ -194,7 +253,7 @@
           "count": "2"
         }
       ],
-      "views_label": "3.12K",
+      "views_label": "3.94K",
       "posted_at": "2026-05-17T19:59:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94802"
@@ -233,7 +292,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "13"
+          "count": "18"
         },
         {
           "emoji": "❤",
@@ -252,7 +311,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.52K",
+      "views_label": "4.21K",
       "posted_at": "2026-05-17T19:46:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94800"
@@ -268,7 +327,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "9"
+          "count": "11"
         },
         {
           "emoji": "❤",
@@ -287,7 +346,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.74K",
+      "views_label": "4.33K",
       "posted_at": "2026-05-17T19:31:25+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/94799"
@@ -303,7 +362,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "63"
+          "count": "70"
         },
         {
           "emoji": "😱",
@@ -314,7 +373,7 @@
           "count": "2"
         }
       ],
-      "views_label": "3.98K",
+      "views_label": "4.45K",
       "posted_at": "2026-05-17T19:19:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94797"
@@ -330,18 +389,18 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "28"
+          "count": "31"
+        },
+        {
+          "emoji": "🤣",
+          "count": "2"
         },
         {
           "emoji": "👍",
           "count": "1"
-        },
-        {
-          "emoji": "🤣",
-          "count": "1"
         }
       ],
-      "views_label": "3.99K",
+      "views_label": "4.45K",
       "posted_at": "2026-05-17T19:16:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94796"
@@ -357,11 +416,11 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "43"
+          "count": "46"
         },
         {
           "emoji": "🤣",
-          "count": "30"
+          "count": "31"
         },
         {
           "emoji": "😍",
@@ -372,7 +431,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.07K",
+      "views_label": "4.51K",
       "posted_at": "2026-05-17T19:08:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94795"
@@ -388,14 +447,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "84"
+          "count": "93"
         },
         {
           "emoji": "👍",
           "count": "3"
         }
       ],
-      "views_label": "4.05K",
+      "views_label": "4.48K",
       "posted_at": "2026-05-17T19:05:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94794"
@@ -411,14 +470,14 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "37"
+          "count": "42"
         },
         {
           "emoji": "🤣",
           "count": "6"
         }
       ],
-      "views_label": "3.98K",
+      "views_label": "4.39K",
       "posted_at": "2026-05-17T19:03:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94793"
@@ -444,7 +503,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "83"
+          "count": "86"
         },
         {
           "emoji": "🖕",
@@ -455,7 +514,7 @@
           "count": "2"
         }
       ],
-      "views_label": "4.61K",
+      "views_label": "4.92K",
       "posted_at": "2026-05-17T17:53:55+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94792"
@@ -481,7 +540,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "86"
+          "count": "89"
         },
         {
           "emoji": "😁",
@@ -496,7 +555,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.74K",
+      "views_label": "4.99K",
       "posted_at": "2026-05-17T17:42:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94786"
@@ -512,7 +571,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "27"
+          "count": "29"
         },
         {
           "emoji": "🔥",
@@ -527,7 +586,7 @@
           "count": "2"
         }
       ],
-      "views_label": "4.42K",
+      "views_label": "4.64K",
       "posted_at": "2026-05-17T17:33:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94785"
@@ -543,7 +602,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "30"
+          "count": "32"
         },
         {
           "emoji": "🖕",
@@ -554,7 +613,7 @@
           "count": "5"
         }
       ],
-      "views_label": "4.54K",
+      "views_label": "4.76K",
       "posted_at": "2026-05-17T17:19:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94784"
@@ -570,7 +629,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "37"
+          "count": "39"
         },
         {
           "emoji": "🖕",
@@ -585,7 +644,7 @@
           "count": "2"
         }
       ],
-      "views_label": "4.42K",
+      "views_label": "4.6K",
       "posted_at": "2026-05-17T17:18:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94783"
@@ -3176,60 +3235,6 @@
       "posted_at": "2026-05-15T22:44:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/94692"
-    },
-    {
-      "id": "Media_HB/94691",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DqJFirjo84-wzXufYnIsx9DK-6Rwxuv_3y3oIaxi0B8P4voX0GoOo9CtvLWtwHbHPgyMO5Ibxuqv5Lh0iPtStYpIO0-uQFzN44wRdSrBBQO-FS-oEaxUkHAHnvzsHexR2KUQray-4_be-gf8CmW3D2-x8AlRjFn7vFILBM8oY6HhzzQwTJjgZCU_U6Wqok-_yTn0hEuf5eTuTTqePVuEWMcvChJkK9PkLRnSK5EslF6uG8dbgiIGPNz8M6G9aPxDeQ5E8FAKas_JydhuT3V3zOA8o68XU_Faj5jktaEZspiBQ-EPcLqd70MUcjk9G2P_9CS-cqEDzys5RPa4PACUlQ.jpg",
-      "author_photo_path": "channels/media_hb/media/3020ebc7f663020f2d7066cd.jpg",
-      "body_html": "<b><tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji></b><b>سوال: آیا تحمل درد(مقاومت)ایران را دست کم گرفتید؟<br><br> ترامپ: من چیزی را دست کم نگرفتم. می‌توانستیم ظرف دو روز پل‌ها و ظرفیت برق آنها را نابود کنم.</b>",
-      "plain_text": "🔴سوال: آیا تحمل درد(مقاومت)ایران را دست کم گرفتید؟ ترامپ: من چیزی را دست کم نگرفتم. می‌توانستیم ظرف دو روز پل‌ها و ظرفیت برق آنها را نابود کنم.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "31"
-        },
-        {
-          "emoji": "🔥",
-          "count": "11"
-        },
-        {
-          "emoji": "🖕",
-          "count": "4"
-        }
-      ],
-      "views_label": "4.65K",
-      "posted_at": "2026-05-15T22:40:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/94691"
-    },
-    {
-      "id": "Media_HB/94690",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DqJFirjo84-wzXufYnIsx9DK-6Rwxuv_3y3oIaxi0B8P4voX0GoOo9CtvLWtwHbHPgyMO5Ibxuqv5Lh0iPtStYpIO0-uQFzN44wRdSrBBQO-FS-oEaxUkHAHnvzsHexR2KUQray-4_be-gf8CmW3D2-x8AlRjFn7vFILBM8oY6HhzzQwTJjgZCU_U6Wqok-_yTn0hEuf5eTuTTqePVuEWMcvChJkK9PkLRnSK5EslF6uG8dbgiIGPNz8M6G9aPxDeQ5E8FAKas_JydhuT3V3zOA8o68XU_Faj5jktaEZspiBQ-EPcLqd70MUcjk9G2P_9CS-cqEDzys5RPa4PACUlQ.jpg",
-      "author_photo_path": "channels/media_hb/media/3020ebc7f663020f2d7066cd.jpg",
-      "body_html": "<b><tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji></b><b>خبرنگار‌‌‌‌: فکر می کنید ایران به زودی تسلیم خواهد شد؟<br><br>ترامپ: من شک ندارم.</b>",
-      "plain_text": "🔴خبرنگار‌‌‌‌: فکر می کنید ایران به زودی تسلیم خواهد شد؟ ترامپ: من شک ندارم.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "41"
-        },
-        {
-          "emoji": "🔥",
-          "count": "5"
-        },
-        {
-          "emoji": "🖕",
-          "count": "4"
-        }
-      ],
-      "views_label": "4.61K",
-      "posted_at": "2026-05-15T22:38:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/94690"
     }
   ]
 }

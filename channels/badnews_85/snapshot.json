@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-17T12:10:31.261Z",
+  "fetched_at": "2026-05-17T12:40:12.315Z",
   "channel": {
     "username": "badnews_85",
     "title": "BadNews85 | بدنیوز",
@@ -10,6 +10,39 @@
     "subscriber_count": "206K"
   },
   "posts": [
+    {
+      "id": "BadNews_85/25876",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/NU56i9DOTKe63t95Ya65pDlK0QRLOPf37xDK9U9-G8EzJO2ei3x8ikAQWf6WoVNYRSWbgqzJ1c_CQDJh0d4NYrx6akmhmmn_36xeQi7XWG-MMORG9Y2gYjsCA8kYaPmxi99l1p0nMlAp6dPl5juOgbeLyUE_w4lRFB02QFCknLpDAHZtq47yv_eiCdwYvD--ChvfymVTcwCt-GV9FV6W8_KNLDBDCEax3LAhmuRY5xbMFS89r3j6VxdWMs0aVgOwC2Vu9LCRVBIU4C3VEXrgu8AyqYmPwTDtOcbDZ9BU02gVm3zfBtHav-iOLQQiK_NflySzzCxXnZ_YKJdLu-mHkA.jpg",
+      "author_photo_path": "channels/badnews_85/media/e055109a8b642d9b2a45ff2f.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>در حالی‌که اینترنت بین‌الملل ۷۹ روزه که در ایران قطع هست، پزشکیان این توییت رو زده:<br>روز جهانی ارتباطات مبارک<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
+      "plain_text": "🔴در حالی‌که اینترنت بین‌الملل ۷۹ روزه که در ایران قطع هست، پزشکیان این توییت رو زده: روز جهانی ارتباطات مبارک😂😂😂 @BadNews_85",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/BadNews_85/25876",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lgSlHeWYciRKPY-cnnkZQOWpiaCJqOZpSLoiZZSOLQtl0spjQtWZxgOEawRz0UenAWvtj6p-3Uplxj-9WhE5rIDbr0QCyY9TGkxBquxsl2ZRqkC8Yk_PU6L-2EixTBqgDsxSyNOUU6qdZdVm0-f0ORtChj7_KM_OQdtcAHfll5PLymhckID2lh53gEM9OvmfKH90JSEpYRygwSrOOoKxjSoGKdtKZiFUO31UOjnWtnCfu7QJaCi_PYIYKnyG2RYwVfaGSdje3rqncezCHaBGa2oIp2x1bbp33fhl6nsDZ4qzINvZWyB3quU0xTLIhtvhmi2lNqFY30y5cSTG6upXyg.jpg",
+          "thumbnail_path": "channels/badnews_85/media/424c8374ae836e2f61c25817.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.1412268188302426
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "27"
+        },
+        {
+          "emoji": "🖕",
+          "count": "10"
+        }
+      ],
+      "views_label": "897",
+      "posted_at": "2026-05-17T12:21:45+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/25876"
+    },
     {
       "id": "BadNews_85/25875",
       "author_name": "BadNews85 | بدنیوز",
@@ -21,10 +54,14 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "9"
+          "count": "12"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1"
         }
       ],
-      "views_label": "1.05K",
+      "views_label": "1.88K",
       "posted_at": "2026-05-17T11:48:35+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25875"
@@ -43,7 +80,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.42K",
+      "views_label": "2.16K",
       "posted_at": "2026-05-17T11:34:30+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25874"
@@ -69,10 +106,14 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "27"
+          "count": "29"
+        },
+        {
+          "emoji": "🤬",
+          "count": "1"
         }
       ],
-      "views_label": "1.81K",
+      "views_label": "2.49K",
       "posted_at": "2026-05-17T11:22:08+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25873"
@@ -96,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.75K",
+      "views_label": "2.4K",
       "posted_at": "2026-05-17T11:22:06+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25872"
@@ -122,7 +163,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "69"
+          "count": "70"
         },
         {
           "emoji": "❤",
@@ -142,14 +183,14 @@
         },
         {
           "emoji": "🤣",
-          "count": "1"
+          "count": "2"
         },
         {
           "emoji": "🍓",
           "count": "1"
         }
       ],
-      "views_label": "5.28K",
+      "views_label": "5.5K",
       "posted_at": "2026-05-17T01:19:33+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25871"
@@ -194,7 +235,7 @@
           "count": "2"
         }
       ],
-      "views_label": "5.82K",
+      "views_label": "6.01K",
       "posted_at": "2026-05-16T22:53:59+00:00",
       "edited": true,
       "permalink": "https://t.me/BadNews_85/25870"
@@ -208,7 +249,7 @@
       "plain_text": "2.23.167.113 2.23.245.35 2.22.250.149 72.246.28.37 184.86.251.12 96.16.122.154 96.16.53.134 96.16.122.141 96.16.53.152 لیست جدید DNS برای شیر و خورشید آموزش اتصال @BadNews_85",
       "media": [],
       "reactions": [],
-      "views_label": "5.85K",
+      "views_label": "6K",
       "posted_at": "2026-05-16T21:39:44+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25869"
@@ -234,7 +275,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "125"
+          "count": "126"
         },
         {
           "emoji": "🖕",
@@ -253,7 +294,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.03K",
+      "views_label": "6.15K",
       "posted_at": "2026-05-16T21:24:15+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25868"
@@ -287,7 +328,7 @@
         },
         {
           "emoji": "🤣",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "❤",
@@ -302,7 +343,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.28K",
+      "views_label": "6.38K",
       "posted_at": "2026-05-16T20:22:35+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25867"
@@ -341,7 +382,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.68K",
+      "views_label": "5.77K",
       "posted_at": "2026-05-16T20:21:21+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25866"
@@ -367,11 +408,11 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "105"
+          "count": "107"
         },
         {
           "emoji": "🤣",
-          "count": "30"
+          "count": "31"
         },
         {
           "emoji": "😐",
@@ -386,7 +427,7 @@
           "count": "2"
         }
       ],
-      "views_label": "5.82K",
+      "views_label": "5.91K",
       "posted_at": "2026-05-16T19:42:54+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25865"
@@ -400,7 +441,7 @@
       "plain_text": "151.101.192.223 151.101.64.223 151.101.0.223 151.101.66.137 151.101.2.137 لیست جدید DNS برای شیر و خورشید آموزش اتصال @BadNews_85",
       "media": [],
       "reactions": [],
-      "views_label": "5.37K",
+      "views_label": "5.46K",
       "posted_at": "2026-05-16T19:31:34+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25864"
@@ -440,10 +481,10 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "56"
+          "count": "57"
         }
       ],
-      "views_label": "5.82K",
+      "views_label": "5.91K",
       "posted_at": "2026-05-16T19:16:38+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25862"
@@ -477,14 +518,14 @@
         },
         {
           "emoji": "❤",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "🤬",
           "count": "1"
         }
       ],
-      "views_label": "5.61K",
+      "views_label": "5.67K",
       "posted_at": "2026-05-16T18:50:06+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25861"
@@ -511,7 +552,7 @@
           "count": "3"
         }
       ],
-      "views_label": "5.46K",
+      "views_label": "5.56K",
       "posted_at": "2026-05-16T18:48:58+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25860"
@@ -546,7 +587,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.04K",
+      "views_label": "6.14K",
       "posted_at": "2026-05-16T16:33:10+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25859"
@@ -573,7 +614,7 @@
           "count": "5"
         }
       ],
-      "views_label": "6.02K",
+      "views_label": "6.11K",
       "posted_at": "2026-05-16T15:51:20+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25858"
@@ -599,7 +640,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "107"
+          "count": "108"
         },
         {
           "emoji": "❤",
@@ -610,7 +651,7 @@
           "count": "5"
         }
       ],
-      "views_label": "6.25K",
+      "views_label": "6.31K",
       "posted_at": "2026-05-16T15:19:33+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25857"
@@ -639,7 +680,7 @@
           "count": "2"
         }
       ],
-      "views_label": "5.81K",
+      "views_label": "5.87K",
       "posted_at": "2026-05-16T15:19:26+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25856"
@@ -3034,41 +3075,6 @@
       "posted_at": "2026-05-13T22:36:54+00:00",
       "edited": true,
       "permalink": "https://t.me/BadNews_85/25772"
-    },
-    {
-      "id": "BadNews_85/25771",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/hDijAg_tsZu5kE7htvJBTpF4kS0EWqLafHY9-l6I_wmWf5tUVHEeI7qqi4eBA2zswL2oJ0A1rGeKLK99CeOPoBMA6q8mSWnoSxoltrfExCwykfUNPI5UwdCq39rgGCeMR-iNeXCJi6okJ6dB6sxWQPLosRAL3YzAEGTgefR6kU_RsReO9ox5uSZFqFHnb_qhx0quOa_Rxke6HOACAGNyi2fWhHVS4UWOqo3d-4PZe2Nc25PWrRXZ2oigO8F__0FHfBetgHmWCwYFL7ZQfTV16WJpllK-l9dWK8V13Y6GylVVx3iJOTWu8EM2Gp69eXcIZmQwUl32yMsxVVYVq1xyQw.jpg",
-      "author_photo_path": "channels/badnews_85/media/35a02d6b40216e655850d97d.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>کانال ۱۲ اسرائیل : ترامپ داره به صدور دستور برای از سرگیری درگیری با ایران فکر می‌کنه.  @AfshaHot",
-      "plain_text": "🔴کانال ۱۲ اسرائیل : ترامپ داره به صدور دستور برای از سرگیری درگیری با ایران فکر می‌کنه. @AfshaHot",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "44"
-        },
-        {
-          "emoji": "👍",
-          "count": "8"
-        },
-        {
-          "emoji": "😐",
-          "count": "8"
-        },
-        {
-          "emoji": "🖕",
-          "count": "4"
-        },
-        {
-          "emoji": "💔",
-          "count": "2"
-        }
-      ],
-      "views_label": "5.91K",
-      "posted_at": "2026-05-13T21:30:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/25771"
     }
   ]
 }

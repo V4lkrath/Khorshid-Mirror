@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-19T10:05:22.157Z",
+  "fetched_at": "2026-05-19T11:48:26.303Z",
   "channel": {
     "username": "badnews_85",
     "title": "BadNews85 | بدنیوز",
@@ -10,6 +10,33 @@
     "subscriber_count": "206K"
   },
   "posts": [
+    {
+      "id": "BadNews_85/25930",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/o26QqzGw9yYRB7VwZZrmMbOXp9bsn8cGLWqgDCXEXTqWqdXUiDu30zeXaBzGUqqJ4VDhHWVEXq_Xhq390tkML-dD76eQFtiOCSOtAyp9QB8gggyv43um2iNbdfy9vK878JqW-4u8fQbUMtmC1lN8Gkp2cDUsO-5j-bT81BDM78ZmKXuIyABCjXby8FzyXc3apFqPt2iQvQR13cE1V8tb21O1J4wZddXNce_C1CkqijpexB0R5B419UHH4FFWxmZqKgGG0AJAjRVL0CDkDTFVFT1uOY4q4bDCNt_EJky-SzIfK1rSKT13-W7i5WrlsWJmemG8iufPhBC2kUkUV62svA.jpg",
+      "author_photo_path": "channels/badnews_85/media/ca7d5ef70e9d405f44f6457a.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> صدای انفجار در قشم.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
+      "plain_text": "🔴 صدای انفجار در قشم. @BadNews_85",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "21"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "😐",
+          "count": "1"
+        }
+      ],
+      "views_label": "1.72K",
+      "posted_at": "2026-05-19T10:50:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/25930"
+    },
     {
       "id": "BadNews_85/25929",
       "author_name": "BadNews85 | بدنیوز",
@@ -21,14 +48,22 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "22"
+          "count": "94"
         },
         {
           "emoji": "🖕",
-          "count": "10"
+          "count": "57"
+        },
+        {
+          "emoji": "🤯",
+          "count": "1"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1"
         }
       ],
-      "views_label": "648",
+      "views_label": "3.02K",
       "posted_at": "2026-05-19T09:57:58+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25929"
@@ -63,10 +98,22 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "32"
+          "count": "82"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "😐",
+          "count": "1"
+        },
+        {
+          "emoji": "🖕",
+          "count": "1"
         }
       ],
-      "views_label": "935",
+      "views_label": "3.17K",
       "posted_at": "2026-05-19T09:50:00+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25927"
@@ -89,8 +136,13 @@
           "aspect_ratio": 1
         }
       ],
-      "reactions": [],
-      "views_label": "908",
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "3.13K",
       "posted_at": "2026-05-19T09:49:57+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25926"
@@ -106,22 +158,22 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "121"
+          "count": "136"
         },
         {
           "emoji": "🤣",
-          "count": "66"
+          "count": "75"
         },
         {
           "emoji": "🖕",
-          "count": "25"
+          "count": "26"
         },
         {
           "emoji": "❤",
           "count": "3"
         }
       ],
-      "views_label": "4.63K",
+      "views_label": "5.63K",
       "posted_at": "2026-05-18T23:14:58+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25925"
@@ -137,15 +189,15 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "105"
+          "count": "116"
+        },
+        {
+          "emoji": "🤣",
+          "count": "9"
         },
         {
           "emoji": "🖕",
           "count": "9"
-        },
-        {
-          "emoji": "🤣",
-          "count": "8"
         },
         {
           "emoji": "🔥",
@@ -160,7 +212,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.16K",
+      "views_label": "6.02K",
       "posted_at": "2026-05-18T22:14:41+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25924"
@@ -176,7 +228,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "18"
+          "count": "21"
         },
         {
           "emoji": "❤",
@@ -189,9 +241,13 @@
         {
           "emoji": "🔥",
           "count": "1"
+        },
+        {
+          "emoji": "🖕",
+          "count": "1"
         }
       ],
-      "views_label": "5.27K",
+      "views_label": "6.08K",
       "posted_at": "2026-05-18T22:09:12+00:00",
       "edited": true,
       "permalink": "https://t.me/BadNews_85/25922"
@@ -217,22 +273,26 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "31"
+          "count": "36"
         },
         {
           "emoji": "🖕",
-          "count": "7"
+          "count": "8"
+        },
+        {
+          "emoji": "🤣",
+          "count": "3"
         },
         {
           "emoji": "🔥",
           "count": "2"
         },
         {
-          "emoji": "🤣",
-          "count": "2"
+          "emoji": "❤",
+          "count": "1"
         }
       ],
-      "views_label": "5.39K",
+      "views_label": "6.16K",
       "posted_at": "2026-05-18T21:59:16+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25921"
@@ -258,7 +318,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "99"
+          "count": "105"
         },
         {
           "emoji": "🖕",
@@ -269,7 +329,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.75K",
+      "views_label": "6.3K",
       "posted_at": "2026-05-18T21:22:53+00:00",
       "edited": true,
       "permalink": "https://t.me/BadNews_85/25920"
@@ -285,7 +345,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "49"
+          "count": "53"
         },
         {
           "emoji": "🤣",
@@ -296,7 +356,7 @@
           "count": "5"
         }
       ],
-      "views_label": "5.65K",
+      "views_label": "6.12K",
       "posted_at": "2026-05-18T21:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25919"
@@ -312,7 +372,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "139"
+          "count": "145"
         },
         {
           "emoji": "😐",
@@ -327,11 +387,15 @@
           "count": "1"
         },
         {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
           "emoji": "🔥",
           "count": "1"
         }
       ],
-      "views_label": "6.68K",
+      "views_label": "7.02K",
       "posted_at": "2026-05-18T19:34:41+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25918"
@@ -357,7 +421,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "109"
+          "count": "115"
         },
         {
           "emoji": "👍",
@@ -372,7 +436,7 @@
           "count": "2"
         }
       ],
-      "views_label": "6.48K",
+      "views_label": "6.78K",
       "posted_at": "2026-05-18T19:24:44+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25917"
@@ -402,7 +466,7 @@
         },
         {
           "emoji": "🤣",
-          "count": "75"
+          "count": "78"
         },
         {
           "emoji": "❤",
@@ -411,9 +475,13 @@
         {
           "emoji": "😐",
           "count": "2"
+        },
+        {
+          "emoji": "🖕",
+          "count": "1"
         }
       ],
-      "views_label": "6.07K",
+      "views_label": "6.37K",
       "posted_at": "2026-05-18T19:22:00+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25916"
@@ -439,14 +507,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "48"
+          "count": "49"
         },
         {
           "emoji": "🤣",
           "count": "5"
         }
       ],
-      "views_label": "5.95K",
+      "views_label": "6.21K",
       "posted_at": "2026-05-18T19:12:42+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25915"
@@ -462,7 +530,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "123"
+          "count": "125"
         },
         {
           "emoji": "🤣",
@@ -477,7 +545,7 @@
           "count": "4"
         }
       ],
-      "views_label": "5.76K",
+      "views_label": "5.99K",
       "posted_at": "2026-05-18T19:08:20+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25914"
@@ -503,7 +571,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "48"
+          "count": "49"
         },
         {
           "emoji": "🖕",
@@ -538,7 +606,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.12K",
+      "views_label": "6.43K",
       "posted_at": "2026-05-18T19:06:44+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25913"
@@ -554,7 +622,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "62"
+          "count": "64"
         },
         {
           "emoji": "🖕",
@@ -565,7 +633,7 @@
           "count": "3"
         }
       ],
-      "views_label": "5.51K",
+      "views_label": "5.72K",
       "posted_at": "2026-05-18T18:56:34+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25912"
@@ -596,7 +664,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.81K",
+      "views_label": "5.99K",
       "posted_at": "2026-05-18T17:43:15+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25910"
@@ -622,7 +690,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "48"
+          "count": "49"
         },
         {
           "emoji": "🖕",
@@ -633,7 +701,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.9K",
+      "views_label": "6.11K",
       "posted_at": "2026-05-18T17:42:35+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25909"
@@ -3364,33 +3432,6 @@
       "posted_at": "2026-05-15T18:32:04+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/25825"
-    },
-    {
-      "id": "BadNews_85/25824",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/euwZgvqIdFUFcZUzKb437W3bqNSsOE2oVLuQar5oPt_FuHYcL0MJBq-y0Rq3OWNm6f2VSc4JXtv67DPfJxY44tvKaSclCNI2wsIipanHr2RGnfGV7x0QplkPbqtyXmEyPi2UTwvbCL7rl46wlGMnUaQUn6zVuVV3jSjF3scRhJZyWwjNHfQVGfAPa1iAkhCrg6jjotTkw7yyvSbGCdRpC3zwGyXsLERrEB0USV11mhoSIA1N6JrY8mnn4g-89Epb3OI2XYAnXyfRTSZLSRIQriJ2lA4K95pwjdQ12Ai0H9TGiWRMqSnKCUMM3V3Liv-9E-F2GcurGwzXvAlreLmHEg.jpg",
-      "author_photo_path": "channels/badnews_85/media/aa8e6ad5d103d3d4f7471af5.jpg",
-      "body_html": "<blockquote expandable=\"\"><a href=\"http://2.21.240.109/\" target=\"_blank\" rel=\"noopener\">2.21.240.109</a> <br><a href=\"http://2.19.205.9/\" target=\"_blank\" rel=\"noopener\">2.19.205.9</a> <br><a href=\"http://184.29.29.114/\" target=\"_blank\" rel=\"noopener\">184.29.29.114</a> <br><a href=\"http://23.40.179.157/\" target=\"_blank\" rel=\"noopener\">23.40.179.157</a> <br><a href=\"http://23.219.36.68/\" target=\"_blank\" rel=\"noopener\">23.219.36.68</a> <br><a href=\"http://23.210.73.157/\" target=\"_blank\" rel=\"noopener\">23.210.73.157</a> <br><a href=\"http://184.24.232.70/\" target=\"_blank\" rel=\"noopener\">184.24.232.70</a> <br><a href=\"http://2.20.12.79/\" target=\"_blank\" rel=\"noopener\">2.20.12.79</a> <br><a href=\"http://2.20.12.73/\" target=\"_blank\" rel=\"noopener\">2.20.12.73</a> <br><a href=\"http://23.210.73.143/\" target=\"_blank\" rel=\"noopener\">23.210.73.143</a> <br><a href=\"http://23.43.85.43/\" target=\"_blank\" rel=\"noopener\">23.43.85.43</a> <br><a href=\"http://23.210.73.141/\" target=\"_blank\" rel=\"noopener\">23.210.73.141</a> <br><a href=\"http://23.210.73.133/\" target=\"_blank\" rel=\"noopener\">23.210.73.133</a> <br><a href=\"http://2.19.217.103/\" target=\"_blank\" rel=\"noopener\">2.19.217.103</a> <br><a href=\"http://23.213.158.4/\" target=\"_blank\" rel=\"noopener\">23.213.158.4</a> <br><a href=\"http://2.21.2.34/\" target=\"_blank\" rel=\"noopener\">2.21.2.34</a> <br><a href=\"http://2.22.255.47/\" target=\"_blank\" rel=\"noopener\">2.22.255.47</a> <br><a href=\"http://23.196.4.131/\" target=\"_blank\" rel=\"noopener\">23.196.4.131</a> <br><a href=\"http://23.41.36.7/\" target=\"_blank\" rel=\"noopener\">23.41.36.7</a> <br><a href=\"http://23.44.201.142/\" target=\"_blank\" rel=\"noopener\">23.44.201.142</a> <br><a href=\"http://23.210.73.159/\" target=\"_blank\" rel=\"noopener\">23.210.73.159</a> <br><a href=\"http://23.10.42.234/\" target=\"_blank\" rel=\"noopener\">23.10.42.234</a> <br><a href=\"http://23.212.249.200/\" target=\"_blank\" rel=\"noopener\">23.212.249.200</a> <br><a href=\"http://23.196.130.35/\" target=\"_blank\" rel=\"noopener\">23.196.130.35</a> <br><a href=\"http://23.197.216.67/\" target=\"_blank\" rel=\"noopener\">23.197.216.67</a> <br><a href=\"http://23.40.179.30/\" target=\"_blank\" rel=\"noopener\">23.40.179.30</a> <br><a href=\"http://23.215.0.49/\" target=\"_blank\" rel=\"noopener\">23.215.0.49</a> <br><a href=\"http://23.207.136.194/\" target=\"_blank\" rel=\"noopener\">23.207.136.194</a> <br><a href=\"http://2.19.193.224/\" target=\"_blank\" rel=\"noopener\">2.19.193.224</a> <br><a href=\"http://2.21.2.8/\" target=\"_blank\" rel=\"noopener\">2.21.2.8</a> <br><a href=\"http://23.44.201.148/\" target=\"_blank\" rel=\"noopener\">23.44.201.148</a> <br><a href=\"http://23.48.203.245/\" target=\"_blank\" rel=\"noopener\">23.48.203.245</a> <br><a href=\"http://23.48.203.243/\" target=\"_blank\" rel=\"noopener\">23.48.203.243</a> <br><a href=\"http://23.61.213.197/\" target=\"_blank\" rel=\"noopener\">23.61.213.197</a> <br><a href=\"http://23.210.216.149/\" target=\"_blank\" rel=\"noopener\">23.210.216.149</a> <br><a href=\"http://23.196.4.146/\" target=\"_blank\" rel=\"noopener\">23.196.4.146</a> <br><a href=\"http://2.21.2.33/\" target=\"_blank\" rel=\"noopener\">2.21.2.33</a> <br><a href=\"http://23.1.241.91/\" target=\"_blank\" rel=\"noopener\">23.1.241.91</a> <br><a href=\"http://2.21.2.105/\" target=\"_blank\" rel=\"noopener\">2.21.2.105</a> <br><a href=\"http://23.207.154.92/\" target=\"_blank\" rel=\"noopener\">23.207.154.92</a> <br><a href=\"http://23.218.218.19/\" target=\"_blank\" rel=\"noopener\">23.218.218.19</a> <br><a href=\"http://2.20.12.81/\" target=\"_blank\" rel=\"noopener\">2.20.12.81</a> <br><a href=\"http://23.49.248.25/\" target=\"_blank\" rel=\"noopener\">23.49.248.25</a> <br><a href=\"http://23.194.127.60/\" target=\"_blank\" rel=\"noopener\">23.194.127.60</a> <br><a href=\"http://23.37.84.183/\" target=\"_blank\" rel=\"noopener\">23.37.84.183</a> <br><a href=\"http://23.49.248.38/\" target=\"_blank\" rel=\"noopener\">23.49.248.38</a> <br><a href=\"http://23.3.89.123/\" target=\"_blank\" rel=\"noopener\">23.3.89.123</a> <br><a href=\"http://23.196.4.151/\" target=\"_blank\" rel=\"noopener\">23.196.4.151</a> <br><a href=\"http://23.44.201.138/\" target=\"_blank\" rel=\"noopener\">23.44.201.138</a> <br><a href=\"http://23.34.82.20/\" target=\"_blank\" rel=\"noopener\">23.34.82.20</a> <br><a href=\"http://23.199.2.41/\" target=\"_blank\" rel=\"noopener\">23.199.2.41</a> <br><a href=\"http://95.100.170.51/\" target=\"_blank\" rel=\"noopener\">95.100.170.51</a> <br><a href=\"http://2.20.12.69/\" target=\"_blank\" rel=\"noopener\">2.20.12.69</a> <br><a href=\"http://23.210.73.169/\" target=\"_blank\" rel=\"noopener\">23.210.73.169</a> <br><a href=\"http://23.49.248.8/\" target=\"_blank\" rel=\"noopener\">23.49.248.8</a> <br><a href=\"http://23.3.91.162/\" target=\"_blank\" rel=\"noopener\">23.3.91.162</a> <br><a href=\"http://23.210.73.136/\" target=\"_blank\" rel=\"noopener\">23.210.73.136</a> <br><a href=\"http://23.44.201.135/\" target=\"_blank\" rel=\"noopener\">23.44.201.135</a> <br><a href=\"http://23.9.23.57/\" target=\"_blank\" rel=\"noopener\">23.9.23.57</a> <br><a href=\"http://2.19.204.87/\" target=\"_blank\" rel=\"noopener\">2.19.204.87</a> <br><a href=\"http://23.3.91.155/\" target=\"_blank\" rel=\"noopener\">23.3.91.155</a> <br><a href=\"http://23.219.1.4/\" target=\"_blank\" rel=\"noopener\">23.219.1.4</a> <br><a href=\"http://23.53.13.168/\" target=\"_blank\" rel=\"noopener\">23.53.13.168</a> <br><a href=\"http://23.213.158.25/\" target=\"_blank\" rel=\"noopener\">23.213.158.25</a> <br><a href=\"http://23.34.59.17/\" target=\"_blank\" rel=\"noopener\">23.34.59.17</a> <br><a href=\"http://23.210.73.162/\" target=\"_blank\" rel=\"noopener\">23.210.73.162</a> <br><a href=\"http://23.3.91.163/\" target=\"_blank\" rel=\"noopener\">23.3.91.163</a> <br><a href=\"http://2.19.204.242/\" target=\"_blank\" rel=\"noopener\">2.19.204.242</a> <br><a href=\"http://23.219.36.101/\" target=\"_blank\" rel=\"noopener\">23.219.36.101</a> <br><a href=\"http://23.213.158.17/\" target=\"_blank\" rel=\"noopener\">23.213.158.17</a> <br><a href=\"http://23.213.158.15/\" target=\"_blank\" rel=\"noopener\">23.213.158.15</a> <br><a href=\"http://23.213.158.12/\" target=\"_blank\" rel=\"noopener\">23.213.158.12</a> <br><a href=\"http://23.213.158.9/\" target=\"_blank\" rel=\"noopener\">23.213.158.9</a> <br><a href=\"http://23.210.216.148/\" target=\"_blank\" rel=\"noopener\">23.210.216.148</a> <br><a href=\"http://2.19.204.186/\" target=\"_blank\" rel=\"noopener\">2.19.204.186</a> <br><a href=\"http://23.222.125.60/\" target=\"_blank\" rel=\"noopener\">23.222.125.60</a> <br><a href=\"http://23.209.72.38/\" target=\"_blank\" rel=\"noopener\">23.209.72.38</a> <br><a href=\"http://23.44.209.184/\" target=\"_blank\" rel=\"noopener\">23.44.209.184</a> <br><a href=\"http://23.207.194.10/\" target=\"_blank\" rel=\"noopener\">23.207.194.10</a> <br><a href=\"http://23.11.35.158/\" target=\"_blank\" rel=\"noopener\">23.11.35.158</a> <br><a href=\"http://23.202.229.14/\" target=\"_blank\" rel=\"noopener\">23.202.229.14</a> <br><a href=\"http://23.193.109.144/\" target=\"_blank\" rel=\"noopener\">23.193.109.144</a> <br><a href=\"http://23.213.158.5/\" target=\"_blank\" rel=\"noopener\">23.213.158.5</a> <br><a href=\"http://23.213.158.6/\" target=\"_blank\" rel=\"noopener\">23.213.158.6</a> <br><a href=\"http://23.44.201.133/\" target=\"_blank\" rel=\"noopener\">23.44.201.133</a> <br><a href=\"http://23.219.1.8/\" target=\"_blank\" rel=\"noopener\">23.219.1.8</a> <br><a href=\"http://23.206.173.27/\" target=\"_blank\" rel=\"noopener\">23.206.173.27</a> <br><a href=\"http://23.209.72.140/\" target=\"_blank\" rel=\"noopener\">23.209.72.140</a> <br><a href=\"http://2.19.204.251/\" target=\"_blank\" rel=\"noopener\">2.19.204.251</a> <br><a href=\"http://23.213.158.11/\" target=\"_blank\" rel=\"noopener\">23.213.158.11</a> <br><a href=\"http://2.19.117.157/\" target=\"_blank\" rel=\"noopener\">2.19.117.157</a> <br><a href=\"http://2.20.12.99/\" target=\"_blank\" rel=\"noopener\">2.20.12.99</a> <br><a href=\"http://2.23.97.8/\" target=\"_blank\" rel=\"noopener\">2.23.97.8</a> <br><a href=\"http://23.221.241.87/\" target=\"_blank\" rel=\"noopener\">23.221.241.87</a> <br><a href=\"http://23.212.251.19/\" target=\"_blank\" rel=\"noopener\">23.212.251.19</a> <br><a href=\"http://2.23.237.154/\" target=\"_blank\" rel=\"noopener\">2.23.237.154</a> <br><a href=\"http://23.44.209.57/\" target=\"_blank\" rel=\"noopener\">23.44.209.57</a> <br><a href=\"http://23.206.173.11/\" target=\"_blank\" rel=\"noopener\">23.206.173.11</a> <br><a href=\"http://95.100.170.146/\" target=\"_blank\" rel=\"noopener\">95.100.170.146</a> <br><a href=\"http://23.196.14.122/\" target=\"_blank\" rel=\"noopener\">23.196.14.122</a> <br><a href=\"http://2.22.255.29/\" target=\"_blank\" rel=\"noopener\">2.22.255.29</a> <br><a href=\"http://2.20.12.75/\" target=\"_blank\" rel=\"noopener\">2.20.12.75</a> <br><a href=\"http://23.210.216.145/\" target=\"_blank\" rel=\"noopener\">23.210.216.145</a> <br><a href=\"http://2.19.204.187/\" target=\"_blank\" rel=\"noopener\">2.19.204.187</a> <br><a href=\"http://23.222.30.64/\" target=\"_blank\" rel=\"noopener\">23.222.30.64</a> <br><a href=\"http://23.63.84.202/\" target=\"_blank\" rel=\"noopener\">23.63.84.202</a> <br><a href=\"http://23.212.251.7/\" target=\"_blank\" rel=\"noopener\">23.212.251.7</a> <br><a href=\"http://23.212.251.8/\" target=\"_blank\" rel=\"noopener\">23.212.251.8</a> <br><a href=\"http://23.219.36.71/\" target=\"_blank\" rel=\"noopener\">23.219.36.71</a> <br><a href=\"http://23.206.173.43/\" target=\"_blank\" rel=\"noopener\">23.206.173.43</a> <br><a href=\"http://184.26.129.28/\" target=\"_blank\" rel=\"noopener\">184.26.129.28</a> <br><a href=\"http://23.44.201.144/\" target=\"_blank\" rel=\"noopener\">23.44.201.144</a> <br><a href=\"http://23.204.10.217/\" target=\"_blank\" rel=\"noopener\">23.204.10.217</a> <br><a href=\"http://23.210.216.136/\" target=\"_blank\" rel=\"noopener\">23.210.216.136</a> <br><a href=\"http://23.48.203.187/\" target=\"_blank\" rel=\"noopener\">23.48.203.187</a> <br><a href=\"http://23.45.96.209/\" target=\"_blank\" rel=\"noopener\">23.45.96.209</a> <br><a href=\"http://23.56.162.208/\" target=\"_blank\" rel=\"noopener\">23.56.162.208</a> <br><a href=\"http://2.21.2.59/\" target=\"_blank\" rel=\"noopener\">2.21.2.59</a> <br><a href=\"http://23.200.86.240/\" target=\"_blank\" rel=\"noopener\">23.200.86.240</a> <br><a href=\"http://23.47.112.185/\" target=\"_blank\" rel=\"noopener\">23.47.112.185</a> <br><a href=\"http://23.48.224.76/\" target=\"_blank\" rel=\"noopener\">23.48.224.76</a> <br><a href=\"http://2.21.2.18/\" target=\"_blank\" rel=\"noopener\">2.21.2.18</a> <br><a href=\"http://23.53.35.196/\" target=\"_blank\" rel=\"noopener\">23.53.35.196</a> <br><a href=\"http://23.53.127.109/\" target=\"_blank\" rel=\"noopener\">23.53.127.109</a> <br><a href=\"http://23.44.201.143/\" target=\"_blank\" rel=\"noopener\">23.44.201.143</a> <br><a href=\"http://2.20.12.77/\" target=\"_blank\" rel=\"noopener\">2.20.12.77</a> <br><a href=\"http://23.33.90.150/\" target=\"_blank\" rel=\"noopener\">23.33.90.150</a> <br><a href=\"http://2.19.204.234/\" target=\"_blank\" rel=\"noopener\">2.19.204.234</a> <br><a href=\"http://23.59.235.6/\" target=\"_blank\" rel=\"noopener\">23.59.235.6</a> <br><a href=\"http://2.19.117.105/\" target=\"_blank\" rel=\"noopener\">2.19.117.105</a> <br><a href=\"http://23.3.91.164/\" target=\"_blank\" rel=\"noopener\">23.3.91.164</a> <br><a href=\"http://23.210.73.153/\" target=\"_blank\" rel=\"noopener\">23.210.73.153</a> <br><a href=\"http://23.53.43.51/\" target=\"_blank\" rel=\"noopener\">23.53.43.51</a> <br><a href=\"http://23.211.49.25/\" target=\"_blank\" rel=\"noopener\">23.211.49.25</a> <br><a href=\"http://2.21.2.73/\" target=\"_blank\" rel=\"noopener\">2.21.2.73</a> <br><a href=\"http://2.21.2.50/\" target=\"_blank\" rel=\"noopener\">2.21.2.50</a></blockquote><br>ایرانسل تست شده.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
-      "plain_text": "2.21.240.109 2.19.205.9 184.29.29.114 23.40.179.157 23.219.36.68 23.210.73.157 184.24.232.70 2.20.12.79 2.20.12.73 23.210.73.143 23.43.85.43 23.210.73.141 23.210.73.133 2.19.217.103 23.213.158.4 2.21.2.34 2.22.255.47 23.196.4.131 23.41.36.7 23.44.201.142 23.210.73.159 23.10.42.234 23.212.249.200 23.196.130.35 23.197.216.67 23.40.179.30 23.215.0.49 23.207.136.194 2.19.193.224 2.21.2.8 23.44.201.148 23.48.203.245 23.48.203.243 23.61.213.197 23.210.216.149 23.196.4.146 2.21.2.33 23.1.241.91 2.21.2.105 23.207.154.92 23.218.218.19 2.20.12.81 23.49.248.25 23.194.127.60 23.37.84.183 23.49.248.38 23.3.89.123 23.196.4.151 23.44.201.138 23.34.82.20 23.199.2.41 95.100.170.51 2.20.12.69 23.210.73.169 23.49.248.8 23.3.91.162 23.210.73.136 23.44.201.135 23.9.23.57 2.19.204.87 23.3.91.155 23.219.1.4 23.53.13.168 23.213.158.25 23.34.59.17 23.210.73.162 23.3.91.163 2.19.204.242 23.219.36.101 23.213.158.17 23.213.158.15 23.213.158.12 23.213.158.9 23.210.216.148 2.19.204.186 23.222.125.60 23.209.72.38 23.44.209.184 23.207.194.10 23.11.35.158 23.202.229.14 23.193.109.144 23.213.158.5 23.213.158.6 23.44.201.133 23.219.1.8 23.206.173.27 23.209.72.140 2.19.204.251 23.213.158.11 2.19.117.157 2.20.12.99 2.23.97.8 23.221.241.87 23.212.251.19 2.23.237.154 23.44.209.57 23.206.173.11 95.100.170.146 23.196.14.122 2.22.255.29 2.20.12.75 23.210.216.145 2.19.204.187 23.222.30.64 23.63.84.202 23.212.251.7 23.212.251.8 23.219.36.71 23.206.173.43 184.26.129.28 23.44.201.144 23.204.10.217 23.210.216.136 23.48.203.187 23.45.96.209 23.56.162.208 2.21.2.59 23.200.86.240 23.47.112.185 23.48.224.76 2.21.2.18 23.53.35.196 23.53.127.109 23.44.201.143 2.20.12.77 23.33.90.150 2.19.204.234 23.59.235.6 2.19.117.105 23.3.91.164 23.210.73.153 23.53.43.51 23.211.49.25 2.21.2.73 2.21.2.50 ایرانسل تست شده. @BadNews_85",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "6"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        }
-      ],
-      "views_label": "5.14K",
-      "posted_at": "2026-05-15T18:29:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/25824"
     }
   ]
 }

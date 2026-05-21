@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-21T08:59:05.228Z",
+  "fetched_at": "2026-05-21T11:51:44.831Z",
   "channel": {
     "username": "tavaana_tavaanatech",
     "title": "آموزشکده توانا",
@@ -10,6 +10,44 @@
     "subscriber_count": "50K"
   },
   "posts": [
+    {
+      "id": "Tavaana_TavaanaTech/103720",
+      "author_name": "آموزشکده توانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/cu_K4PC5XAmx4nDWhtTlxEkIKYuenb_6wVBsT8AvmXnfMe2wLCkGvhZB6SEzMa9mvsG7yVjId-uY4yrrOK6j0SUkR76OiiZJTZHL1qhHurHlAiCNy1Jeg-O3XILQdo8jY_lM3Z5UTSfBsap8b7SLaXsX_sw-f5qHmJdwc83wXC6YIbEhE0MvBZnWO54tN5dGSsSLwSngiOWMdLkd9ei8RlM-8DrZGVUfTrJyTLbcnZEDSKp4G77PWTAQw4WMtfO8HDfeTlmiMoaFr8S9lcxqa4kZAPUPsMuCvVSrzCjhvu0wWdMPlBsWLFYeT9gSbdfd8TgJZDGp0PqTomLbznFqnw.jpg",
+      "author_photo_path": "channels/tavaana_tavaanatech/media/f68e4d69b53d11a53b9736a4.jpg",
+      "body_html": "<b>فیلترشکن شیر و خورشید؛ ویژگی‌ها و نکات امنیتی<br></b><br>شیر و خورشید یک نرم‌افزار متن‌باز است که بر پایه هسته اصلی سایفون (Psiphon) توسعه یافته اما به صورت مستقل و توسط یک تیم داوطلبانه منتشر شده است. این نرم‌افزار هیچ وابستگی رسمی به شرکت سازنده سایفون ندارد و کاملا یک پروژه مستقل است که با هدف پاسخ به نیازهای خاص کاربران ایرانی در شرایط قطعی و محدودیت شدید اینترنت طراحی شده است.<br><br>مهم‌ترین ویژگی این فیلترشکن، انتشار عمومی کدهای آن روی گیت‌هاب است. این یعنی هر متخصصی می‌تواند کدهای نرم‌افزار را بررسی کند و از نبود درِ پشتی یا عملکرد مخفیانه اطمینان حاصل کنن. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i><b>ویژگی‌های فنی که باید بدانید</b><br><br><tg-emoji emoji-id=\"5810051751654460532\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji>پروتکل Conduit<br><br>یکی از مهم‌ترین قابلیت‌های فنی این نرم‌افزار، پشتیبانی از پروتکل Conduit است. این پروتکل امکان مدیریت پیشرفته و هوشمند پروتکل‌های اتصال را فراهم می‌کند. <br><br><tg-emoji emoji-id=\"5810051751654460532\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji>فیلترینگ هوشمند سرورها<br><br>یکی از نگرانی‌های اصلی کاربران فیلترشکن در ایران این است که ممکن است ترافیکشان از سرورهای واقع در کشورهای مشکوک یا غیر امن رد شود. شیر و خورشید برای رفع این نگرانی، مکانیزمی برای جلوگیری از اتصال به سرورهای کشورهای مشکوک دارد. این یعنی ترافیک کاربر تنها از سرورهایی عبور می‌کند که از نظر امنیتی قابل اعتمادتر هستند.<br><br><tg-emoji emoji-id=\"5810051751654460532\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji>عدم نیاز به ثبت‌نام<br><br>برخلاف بسیاری از سرویس‌های VPN که برای استفاده نیاز به ایجاد حساب کاربری، ارائه ایمیل یا اطلاعات شخصی دارند، شیر و خورشید کاملا بدون نیاز به ثبت‌نام کار می‌کند. این ویژگی از زاویه حریم خصوصی اهمیت دارد، چون هیچ اطلاعات شخصی‌ای برای استفاده از نرم‌افزار به هیچ سرور یا شرکتی ارسال نمی‌شود.<br><br><tg-emoji emoji-id=\"5810051751654460532\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji>بهینه‌سازی برای اندروید<br><br>این نرم‌افزار در حال حاضر به طور خاص برای سیستم‌عامل اندروید بهینه‌سازی شده است. کاربران iOS و سیستم‌عامل‌های دیگر باید از ابزارهای جایگزین استفاده کنند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i><b>ارزیابی امنیتی وی‌پی‌ان شیر و خورشید</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>نکات مثبت امنیتی <br><br>بزرگ‌ترین مزیت امنیتی شیر و خورشید متن‌باز بودن آن است. وقتی کدهای یک نرم‌افزار به صورت عمومی در دسترس است، جامعه امنیت دیجیتال می‌تواند آن را بررسی کند و آسیب‌پذیری‌ها را شناسایی کند. این شفافیت به مراتب بهتر از فیلترشکن‌هایی است که کدهایشان کاملا سربسته و ناشناخته است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>نکات ضعف امنیتی <br><br>متن‌باز بودن به تنهایی کافی نیست. چند ریسک جدی وجود دارد که باید از آن‌ها آگاه باشید.<br><br><tg-emoji emoji-id=\"5251364879691962538\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji><a href=\"https://tech.tavaana.org/circumvention-tools/shir-khorshid/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br> <tg-emoji emoji-id=\"5931752965701374756\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')\"><b>💸</b></i></tg-emoji> <a href=\"https://t.me/tavaanatech\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">tavaanatech</a>",
+      "plain_text": "فیلترشکن شیر و خورشید؛ ویژگی‌ها و نکات امنیتی شیر و خورشید یک نرم‌افزار متن‌باز است که بر پایه هسته اصلی سایفون (Psiphon) توسعه یافته اما به صورت مستقل و توسط یک تیم داوطلبانه منتشر شده است. این نرم‌افزار هیچ وابستگی رسمی به شرکت سازنده سایفون ندارد و کاملا یک پروژه مستقل است که با هدف پاسخ به نیازهای خاص کاربران ایرانی در شرایط قطعی و محدودیت شدید اینترنت طراحی شده است. مهم‌ترین ویژگی این فیلترشکن، انتشار عمومی کدهای آن روی گیت‌هاب است. این یعنی هر متخصصی می‌تواند کدهای نرم‌افزار را بررسی کند و از نبود درِ پشتی یا عملکرد مخفیانه اطمینان حاصل کنن. ◾️ویژگی‌های فنی که باید بدانید 🟢پروتکل Conduit یکی از مهم‌ترین قابلیت‌های فنی این نرم‌افزار، پشتیبانی از پروتکل Conduit است. این پروتکل امکان مدیریت پیشرفته و هوشمند پروتکل‌های اتصال را فراهم می‌کند. 🟢فیلترینگ هوشمند سرورها یکی از نگرانی‌های اصلی کاربران فیلترشکن در ایران این است که ممکن است ترافیکشان از سرورهای واقع در کشورهای مشکوک یا غیر امن رد شود. شیر و خورشید برای رفع این نگرانی، مکانیزمی برای جلوگیری از اتصال به سرورهای کشورهای مشکوک دارد. این یعنی ترافیک کاربر تنها از سرورهایی عبور می‌کند که از نظر امنیتی قابل اعتمادتر هستند. 🟢عدم نیاز به ثبت‌نام برخلاف بسیاری از سرویس‌های VPN که برای استفاده نیاز به ایجاد حساب کاربری، ارائه ایمیل یا اطلاعات شخصی دارند، شیر و خورشید کاملا بدون نیاز به ثبت‌نام کار می‌کند. این ویژگی از زاویه حریم خصوصی اهمیت دارد، چون هیچ اطلاعات شخصی‌ای برای استفاده از نرم‌افزار به هیچ سرور یا شرکتی ارسال نمی‌شود. 🟢بهینه‌سازی برای اندروید این نرم‌افزار در حال حاضر به طور خاص برای سیستم‌عامل اندروید بهینه‌سازی شده است. کاربران iOS و سیستم‌عامل‌های دیگر باید از ابزارهای جایگزین استفاده کنند. ◾️ارزیابی امنیتی وی‌پی‌ان شیر و خورشید 🔹نکات مثبت امنیتی بزرگ‌ترین مزیت امنیتی شیر و خورشید متن‌باز بودن آن است. وقتی کدهای یک نرم‌افزار به صورت عمومی در دسترس است، جامعه امنیت دیجیتال می‌تواند آن را بررسی کند و آسیب‌پذیری‌ها را شناسایی کند. این شفافیت به مراتب بهتر از فیلترشکن‌هایی است که کدهایشان کاملا سربسته و ناشناخته است. 🔸نکات ضعف امنیتی متن‌باز بودن به تنهایی کافی نیست. چند ریسک جدی وجود دارد که باید از آن‌ها آگاه باشید. 🔗ادامه مطلب 💸 tavaanatech",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Tavaana_TavaanaTech/103720",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Zwfdtjy7SDHhOGuhS6NY3mlUqDrTkEjrMIyLl9RhKN3bNJQfbJ42j0TXU0DdlXmZVILm0w7igdK8MLJqvQIkOgNlb-75a0Ux6EfdBKNwloGZo9pKEMDrlSmcNxlT89qUr7Vgddvh0qnBLI6ZiXIgYyNCzlI-Mo7QLVUyQhoAQX6owxWatkbF_mM-zGl-ql5jE-_JxPEEHuSJV9JQZKVpzmGH8eqSOJXL2QJgLvQh0uS3maOJtHkiuTAFqLuPOHRUAvO-_hIe6OaUC6RufFMSV8_Mr-W59u_dFTG-t2Ccr_EOwqIxjU4laO5_JBVDwmSagFW8BQEpljZuBJQFAlNTMw.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/c3f48e192fa2258f757b0778.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7987500000000295
+        }
+      ],
+      "reactions": [],
+      "views_label": "231",
+      "posted_at": "2026-05-21T10:54:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Tavaana_TavaanaTech/103720"
+    },
+    {
+      "id": "Tavaana_TavaanaTech/103721",
+      "author_name": "آموزشکده توانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/cu_K4PC5XAmx4nDWhtTlxEkIKYuenb_6wVBsT8AvmXnfMe2wLCkGvhZB6SEzMa9mvsG7yVjId-uY4yrrOK6j0SUkR76OiiZJTZHL1qhHurHlAiCNy1Jeg-O3XILQdo8jY_lM3Z5UTSfBsap8b7SLaXsX_sw-f5qHmJdwc83wXC6YIbEhE0MvBZnWO54tN5dGSsSLwSngiOWMdLkd9ei8RlM-8DrZGVUfTrJyTLbcnZEDSKp4G77PWTAQw4WMtfO8HDfeTlmiMoaFr8S9lcxqa4kZAPUPsMuCvVSrzCjhvu0wWdMPlBsWLFYeT9gSbdfd8TgJZDGp0PqTomLbznFqnw.jpg",
+      "author_photo_path": "channels/tavaana_tavaanatech/media/f68e4d69b53d11a53b9736a4.jpg",
+      "body_html": "دانلود فیلترشکن <b>شیر و خورشید</b> ویژه اندروید <tg-emoji emoji-id=\"5926844131614657892\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5931752965701374756\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')\"><b>💸</b></i></tg-emoji> <a href=\"https://t.me/tavaanatech\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">tavaanatech</a>",
+      "plain_text": "دانلود فیلترشکن شیر و خورشید ویژه اندروید 📱 💸 tavaanatech",
+      "media": [],
+      "reactions": [],
+      "views_label": "238",
+      "posted_at": "2026-05-21T10:54:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Tavaana_TavaanaTech/103721"
+    },
     {
       "id": "Tavaana_TavaanaTech/103719",
       "author_name": "آموزشکده توانا",
@@ -30,19 +68,19 @@
       ],
       "reactions": [
         {
+          "emoji": "💔",
+          "count": "4"
+        },
+        {
           "emoji": "🕊",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "❤",
           "count": "1"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
         }
       ],
-      "views_label": "373",
+      "views_label": "642",
       "posted_at": "2026-05-21T06:17:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103719"
@@ -68,14 +106,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "🕊",
-          "count": "2"
+          "count": "3"
         }
       ],
-      "views_label": "833",
+      "views_label": "993",
       "posted_at": "2026-05-20T21:52:28+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103718"
@@ -146,14 +184,14 @@
       "reactions": [
         {
           "emoji": "👌",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "❤",
           "count": "2"
         }
       ],
-      "views_label": "863",
+      "views_label": "941",
       "posted_at": "2026-05-20T18:15:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103712"
@@ -183,14 +221,14 @@
         },
         {
           "emoji": "👍",
-          "count": "1"
+          "count": "2"
         },
         {
           "emoji": "🕊",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "716",
+      "views_label": "773",
       "posted_at": "2026-05-20T17:46:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103711"
@@ -220,14 +258,14 @@
         },
         {
           "emoji": "🕊",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "603",
+      "views_label": "647",
       "posted_at": "2026-05-20T17:32:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103710"
@@ -258,9 +296,13 @@
         {
           "emoji": "💔",
           "count": "2"
+        },
+        {
+          "emoji": "🕊",
+          "count": "1"
         }
       ],
-      "views_label": "676",
+      "views_label": "711",
       "posted_at": "2026-05-20T15:48:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103709"
@@ -290,10 +332,10 @@
         },
         {
           "emoji": "🕊",
-          "count": "2"
+          "count": "3"
         }
       ],
-      "views_label": "770",
+      "views_label": "814",
       "posted_at": "2026-05-20T14:34:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103708"
@@ -319,14 +361,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "828",
+      "views_label": "875",
       "posted_at": "2026-05-20T12:52:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103707"
@@ -343,8 +385,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/Tavaana_TavaanaTech/103706",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/v-r9f7j_rSanSbBu8lCHmlbc2_5kcQyC_5xhBbhUIUuzlpnJm5sTRHQLru80n3KRFV3lFWW6GS7vWqj97L6N27cuvPeV7pu8bUaVzoPAlDNJjU6AfS-PL7RBqm3GUlb9SmRmlWsq3YVjezYGW4tEEjn6X6RJ1wFa7bbPo1TrY7Kgfx9x9Nc6MRuHyu1hKmFUBmVb-JJxHTVnz4d8VNg8BwawpVuXaqwqIrq762PaZdWizOIpNhKtAtzyAYH93VKwDthzYxwwxGYCDSWkHPH1M7qAym3ETsUzys_4ULV3eXcuVqZ_GOhsGkHevTVahacy4mKXxfmTw6WZKEBCcRd2Mw.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/9599bd3e2c15ff7132b93c66.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qi7EbDX5soToIFNJybrfPGyC_FvCviV9334R-msZdJSACFdTIfGA2QhtLbgG4nho-GjoLWBXzQrul6TBcWTnAzB1cufuFsH2z8O94gGbKZ64VVMIkba7BSgsmqkXTMDXy-lEgf3NXO_OK9E5gPo615OPg3JN_kI2j1u_0UBbmmiUt7mfAWUZbwR03Vwm0dRQ3MfMQGOLYy-SVF5cmGUEndCIewN4VneUFXoWdUbt4-2oocWW4MPUw2m_59ehg_JCNIwKqAAGM3z2zZEbR_0SLEr3ubA9_q1fNADpRsP3melh4b3MdUEb6XclyLMdylvrvm3Cf0sGyFj3VZ-Po0iJBQ.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/b77b49c22a14a43cda4b892d.jpg",
           "duration_label": null,
           "aspect_ratio": 0.8
         }
@@ -352,10 +394,10 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "5"
+          "count": "6"
         }
       ],
-      "views_label": "826",
+      "views_label": "864",
       "posted_at": "2026-05-20T10:38:28+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103706"
@@ -372,8 +414,8 @@
           "kind": "video",
           "asset_url": "https://t.me/Tavaana_TavaanaTech/103705",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qDTdSSkkCCJF9USIgaWLhidHXqKwS95muodyYkAmvYJdLchK3dSN2Me97jyj3sRVHr1rMFL2wFWhAucwPCfi-yEb_1wUjkv3VBvVEMHCE85ws-KIPVeR8268EYZKaxshLYijODEi5I2jYLSzheMgbokm0csg3ue-HK951TsDddRzT9b9NnJzDBlEtJbzGgZmz5sgVyIqwDYMgu_kHtvP1ZoevQVZvIgt8vFvlpNXivEmiLP8fsf8T6_qmFVB98mJnq16ldCuvf4A-VpYZXUttda7ACdtRokUBcgb6sk_kgWUkz2WAINry_n-0nId5jzYgN79nA0DW57p-dTM6uVoeg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/14cf9567584865be3251c853.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jpY70PeJsL87Foz377OPE2itElRWIbgtbMgZwINeQYiMgalwAfdcVsvfXpPnm16IL9lS4Mil9CCdqS9KAnzHjNs2w7w3kaoJvumoMaweXDtPFsOPb2gRDpgONOr36_moYPnjTVTTE16x4m38ZVGPYQH6Z6gChLei5KK_XIqdS3H5VMDRQrgcjUgKncsDQ8I_QtxBN7LseFCxXB5aPSfYqjeK0MHEp0lvH0lqUcBrLFGquQ_MgHYkE7a-jcQTq3YDevUBveE8APGkLvrsR1sZhbjiCBZTAMFAy2TIhii5tWUbiVrBYyHLkLGdOY4yuckS-l0nFy1WfCB_yAdm_DAT3A",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/c5a36f7b72fe1d25e969c1c4.jpg",
           "duration_label": "0:40",
           "aspect_ratio": 0.7500000000000188
         }
@@ -385,10 +427,10 @@
         },
         {
           "emoji": "🕊",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "682",
+      "views_label": "705",
       "posted_at": "2026-05-20T10:23:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103705"
@@ -405,8 +447,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/Tavaana_TavaanaTech/103704",
           "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/GbKD4rANbF-kK8mhCbFMmyYUAX80yM6pcYtgjm0FQphwnzioPibX--yk3ngrIGYM9NFISR-xdG4rjIf0zHmIfdputcbjH7o6DY0MFcUstsU2zsrLwL_5LXbRoue2Rh0_e5rAqdjNokbzTq7muyKx9J8zFNVaWncC3fOkSLPs8RDsVY7pcS7gw3UdVCIbYCncNs--NTBVP-E4HBKaxK9Fe501L4b9M3z7viD7fGcdez4noLNS1lIofJBGmLo7zPrsHLv_FuOQd6e9GqX-6wcPs36HErcAnLUOuoNvKbDSkg296OiPKRysbdtbq2C6y6DEoXxlV4Wka8xj9ZfApc7ujA.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/3a218677f6fc2fb34aa4ce96.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/AJdWAGiWX5AdBDynHTgy41hM9NjfJvrsGvWXIysOaH1m7wcAlxGIGgoBtVfnyMPHmmH__cwDzgS22lZ_Z8XF8rf7yHjdgi40rbYncFEcegs1xvhYpXghCh0AGAswxgoQmRRVmBMxKNL4LD_qqjFppvJFugoa73HF2QXioE7eioeOnUgSuor9z24lYHgTTu-JdD3eUq7QiA8yjlj9au3SHhtvR2LNrA63dMWneS5SaIv3wIeckN4xvCV8KNqKswDClMfuA5cMVOtcgtYb3lH2RF9tPBIy6a0SdVAlGBF0ZYFJiu8w1d6Fnhu4oVcLZNA3V-01wH7P_1Nhs7T4mEzHqA.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/7a6b2255f44d756db2eca0a4.jpg",
           "duration_label": null,
           "aspect_ratio": 0.8
         }
@@ -425,7 +467,7 @@
           "count": "1"
         }
       ],
-      "views_label": "697",
+      "views_label": "713",
       "posted_at": "2026-05-20T09:27:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103704"
@@ -450,11 +492,11 @@
       ],
       "reactions": [
         {
-          "emoji": "❤",
-          "count": "1"
+          "emoji": "👍",
+          "count": "2"
         },
         {
-          "emoji": "👍",
+          "emoji": "❤",
           "count": "1"
         },
         {
@@ -462,7 +504,7 @@
           "count": "1"
         }
       ],
-      "views_label": "701",
+      "views_label": "714",
       "posted_at": "2026-05-20T08:41:11+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103703"
@@ -488,14 +530,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "🕊",
           "count": "2"
         }
       ],
-      "views_label": "732",
+      "views_label": "748",
       "posted_at": "2026-05-20T07:21:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103702"
@@ -3543,68 +3585,6 @@
       "posted_at": "2026-05-14T15:32:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/103574"
-    },
-    {
-      "id": "Tavaana_TavaanaTech/103573",
-      "author_name": "آموزشکده توانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/kkvz--3xZ0DMLmykdoYclAZ4Hv5Ksot2GKp4AafVaq3MkNAvgXPfE6yA6eBq-we0l-QnrLlT0VsQSYSdLGE_Jk1ABRovS7umweNk0q4YhswEdMsUvPzbfIeozSJgEBuxbi1E2XYrSv890H0KdNmdPDXhG68yruOf_vzndRRZh1_7su4NDMXFG6z1JWu2o1-u5GQJhKeDK0EAdtYaAGSKKmQ_2me2iWdSC_aJKWFNPjZziNHMgEy-zTiIgGbvnUDjJsjL4ELYd88dR96nSGiglJabwTfykHR38tgzi4ZHXsk3d5jD5CkLrvqRNZxjVePuDtGC0-ODCw5S11XFdYLzTQ.jpg",
-      "author_photo_path": "channels/tavaana_tavaanatech/media/ee46e4ed6f40c44b93eae162.jpg",
-      "body_html": "بر اساس گزارش ایران اینترنشنال، اکبر میرزایی، ۳۹ ساله و پدر یک دختر خردسال، که در جریان اعتراضات ۱۸ دی‌ماه ۱۴۰۴ در محله نارمک تهران با شلیک مستقیم نیروهای حکومتی از ناحیه سر به‌شدت مجروح شده بود، پس از ۱۲۳ روز بستری در بخش مراقبت‌های ویژه بیمارستان «امام حسین» جان باخت.<br><br>به گفته منابع مطلع، هنگام تحویل پیکر به خانواده، به آنان گفته شده عامل تیراندازی «تروریست‌ها» بوده‌اند و پیشنهاد شده پیکر او در قطعه موسوم به «شهدای» بهشت‌زهرا دفن شود؛ موضوعی که خانواده با آن مخالفت کرده‌اند.<br><br>مرگ اکبر میرزایی بار دیگر ابعاد خشونت و سرکوب اعتراضات دی‌ماه را یادآوری می‌کند؛ سرکوبی که با وجود گذشت ماه‌ها، هنوز ابعاد واقعی آن روشن نشده و بسیاری از خانواده‌ها همچنان در سکوت، تهدید و فشار امنیتی به سر می‌برند. شماری از مجروحان آن روزها هنوز با آسیب‌های شدید جسمی و روانی دست‌وپنجه نرم می‌کنند و برخی نیز، مانند اکبر میرزایی، ماه‌ها بعد جان خود را از دست می‌دهند.<br><br><a href=\"?q=%23%D8%A7%DA%A9%D8%A8%D8%B1_%D9%85%DB%8C%D8%B1%D8%B2%D8%A7%DB%8C%DB%8C\">#اکبر_میرزایی</a> <a href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%AE%D9%88%D8%A7%D9%87%DB%8C\">#دادخواهی</a><br><br><a href=\"https://t.me/Tavaana_TavaanaTech\" target=\"_blank\">@Tavaana_TavaanaTech</a>",
-      "plain_text": "بر اساس گزارش ایران اینترنشنال، اکبر میرزایی، ۳۹ ساله و پدر یک دختر خردسال، که در جریان اعتراضات ۱۸ دی‌ماه ۱۴۰۴ در محله نارمک تهران با شلیک مستقیم نیروهای حکومتی از ناحیه سر به‌شدت مجروح شده بود، پس از ۱۲۳ روز بستری در بخش مراقبت‌های ویژه بیمارستان «امام حسین» جان باخت. به گفته منابع مطلع، هنگام تحویل پیکر به خانواده، به آنان گفته شده عامل تیراندازی «تروریست‌ها» بوده‌اند و پیشنهاد شده پیکر او در قطعه موسوم به «شهدای» بهشت‌زهرا دفن شود؛ موضوعی که خانواده با آن مخالفت کرده‌اند. مرگ اکبر میرزایی بار دیگر ابعاد خشونت و سرکوب اعتراضات دی‌ماه را یادآوری می‌کند؛ سرکوبی که با وجود گذشت ماه‌ها، هنوز ابعاد واقعی آن روشن نشده و بسیاری از خانواده‌ها همچنان در سکوت، تهدید و فشار امنیتی به سر می‌برند. شماری از مجروحان آن روزها هنوز با آسیب‌های شدید جسمی و روانی دست‌وپنجه نرم می‌کنند و برخی نیز، مانند اکبر میرزایی، ماه‌ها بعد جان خود را از دست می‌دهند. #اکبر_میرزایی #دادخواهی @Tavaana_TavaanaTech",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Tavaana_TavaanaTech/103573",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Ml_1fVNiKq9WkNJQ1wUKIuIQJ3gIkoj1KFtYJBiMzPk4ykzbf5gTl--irxdu3xKOXaTgCKvX0NcpW_0HO4f-p1r1D3UjS4znDWQb0mQrD98Pix6IUjeRqKCGf4hQs-R_5I3e9sUxh7qESxR2tPcSBusYKaajA0BIiTxP1nOngGkBQu3QyLJCBl_ntr2hV0XFfM8SWNVanGqx8U3fgNokDDUjGHEAFgdQONqH0e4EI2rZbxB2Bdqg-vvQ31SN4LMn1_w9c8ehGW_OWkwO7OFRZqQhOrTHTdQSdcLlikXuc_IR3y1WU-6p-vgQVQm6y8v_IVKurvOdW1KyS53X8BY_4g.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/6b9f626314ac37ef55607e6d.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "7"
-        }
-      ],
-      "views_label": "681",
-      "posted_at": "2026-05-14T14:57:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Tavaana_TavaanaTech/103573"
-    },
-    {
-      "id": "Tavaana_TavaanaTech/103572",
-      "author_name": "آموزشکده توانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/kkvz--3xZ0DMLmykdoYclAZ4Hv5Ksot2GKp4AafVaq3MkNAvgXPfE6yA6eBq-we0l-QnrLlT0VsQSYSdLGE_Jk1ABRovS7umweNk0q4YhswEdMsUvPzbfIeozSJgEBuxbi1E2XYrSv890H0KdNmdPDXhG68yruOf_vzndRRZh1_7su4NDMXFG6z1JWu2o1-u5GQJhKeDK0EAdtYaAGSKKmQ_2me2iWdSC_aJKWFNPjZziNHMgEy-zTiIgGbvnUDjJsjL4ELYd88dR96nSGiglJabwTfykHR38tgzi4ZHXsk3d5jD5CkLrvqRNZxjVePuDtGC0-ODCw5S11XFdYLzTQ.jpg",
-      "author_photo_path": "channels/tavaana_tavaanatech/media/ee46e4ed6f40c44b93eae162.jpg",
-      "body_html": "بیش از ۱۰۰ روز در برزخ انفرادی؛ شکیلا قاسمی، شهروند بهائی و جرم نانوشته‌ «باور»<br><br>شمارش روزهای بلاتکلیفی شکیلا قاسمی، شهروند ۲۶ ساله‌ بهایی، از مرز ۱۰۰ روز گذشت. شکیلا که از ۱۳ بهمن ۱۴۰۴ در کرمان بازداشت شده، بیش از سه ماه است که میان دیوارهای بلند زندان و سلول‌های انفرادی، در وضعیتی معلق نگاه داشته شده است. <br><br>او که پیش از بازداشت در سلامت کامل جسمی و روحی بود، طبق گزارش‌های رسیده، تحت فشارهای شدید بازجویی و انزوای مطلق، چندین بار دچار شوک عصبی و لرزش‌های شدید بدنی شده و به بهداری منتقل گشته است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>آزار سیستماتیک؛ سلاحی علیه اقلیت‌ها<br>تداوم بازداشت شکیلا قاسمی بدون اعلام اتهام رسمی و محرومیت از حق دسترسی به وکیل، نمادی عریان از سرکوب آزادی باور و آزار سیستماتیک شهروندان بهایی در ایران است. جمهوری اسلامی با استفاده از برچسب‌های تکراری و اتهامات امنیتی ساختگی، تلاش می‌کند زندگی روزمره‌ی اقلیت‌های مذهبی را به میدان نبرد تبدیل کند.<br>استفاده از سلول انفرادی برای یک دختر جوان، نه یک ضرورت قانونی، بلکه ابزاری برای شکنجه‌ روانی و درهم‌شکستن اوست.<br>در این ساختار، هر شهروندی که خارج از دایره‌ خودی‌هایِ ایدئولوژیک باشد، «دیگریِ خطرناک» تلقی شده و حقوق اولیه‌ انسانی‌اش به بهانه‌ «امنیت ملی» سلب می‌شود.<br>نگرانی عمیق خانواده‌ قاسمی و وضعیت وخیم جسمانی شکیلا، فریادی است علیه این بی‌عدالتی سیستماتیک. شکیلا و تمام کسانی که تنها به جرم عقیده‌شان در حبس به‌سر می‌برند، قربانیان حکومتی هستند که بقای خود را در حذف و سرکوب تنوعِ اندیشه‌ها می‌بیند. بیش از ۱۰۰ روز بلاتکلیفی، داغی است بر پیشانی عدالتی که مدت‌هاست در این جغرافیا به مسلخ رفته است.<br><br><a href=\"?q=%23%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7_%DB%8C%DA%A9%DB%8C%D8%B3%D8%AA\">#داستان_ما_یکیست</a> <a href=\"?q=%23%D8%A8%D9%87%D8%A7%DB%8C%DB%8C%D8%A7%D9%86_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\">#بهاییان_ایران</a> <a href=\"?q=%23%D8%B4%DA%A9%DB%8C%D9%84%D8%A7_%D9%82%D8%A7%D8%B3%D9%85%DB%8C\">#شکیلا_قاسمی</a> <a href=\"?q=%23%DA%AF%D9%81%D8%AA%DA%AF%D9%88_%D8%AA%D9%88%D8%A7%D9%86%D8%A7\">#گفتگو_توانا</a><br><br><a href=\"https://t.me/Dialogue1402\" target=\"_blank\">@Dialogue1402</a>",
-      "plain_text": "بیش از ۱۰۰ روز در برزخ انفرادی؛ شکیلا قاسمی، شهروند بهائی و جرم نانوشته‌ «باور» شمارش روزهای بلاتکلیفی شکیلا قاسمی، شهروند ۲۶ ساله‌ بهایی، از مرز ۱۰۰ روز گذشت. شکیلا که از ۱۳ بهمن ۱۴۰۴ در کرمان بازداشت شده، بیش از سه ماه است که میان دیوارهای بلند زندان و سلول‌های انفرادی، در وضعیتی معلق نگاه داشته شده است. او که پیش از بازداشت در سلامت کامل جسمی و روحی بود، طبق گزارش‌های رسیده، تحت فشارهای شدید بازجویی و انزوای مطلق، چندین بار دچار شوک عصبی و لرزش‌های شدید بدنی شده و به بهداری منتقل گشته است. ▪️آزار سیستماتیک؛ سلاحی علیه اقلیت‌ها تداوم بازداشت شکیلا قاسمی بدون اعلام اتهام رسمی و محرومیت از حق دسترسی به وکیل، نمادی عریان از سرکوب آزادی باور و آزار سیستماتیک شهروندان بهایی در ایران است. جمهوری اسلامی با استفاده از برچسب‌های تکراری و اتهامات امنیتی ساختگی، تلاش می‌کند زندگی روزمره‌ی اقلیت‌های مذهبی را به میدان نبرد تبدیل کند. استفاده از سلول انفرادی برای یک دختر جوان، نه یک ضرورت قانونی، بلکه ابزاری برای شکنجه‌ روانی و درهم‌شکستن اوست. در این ساختار، هر شهروندی که خارج از دایره‌ خودی‌هایِ ایدئولوژیک باشد، «دیگریِ خطرناک» تلقی شده و حقوق اولیه‌ انسانی‌اش به بهانه‌ «امنیت ملی» سلب می‌شود. نگرانی عمیق خانواده‌ قاسمی و وضعیت وخیم جسمانی شکیلا، فریادی است علیه این بی‌عدالتی سیستماتیک. شکیلا و تمام کسانی که تنها به جرم عقیده‌شان در حبس به‌سر می‌برند، قربانیان حکومتی هستند که بقای خود را در حذف و سرکوب تنوعِ اندیشه‌ها می‌بیند. بیش از ۱۰۰ روز بلاتکلیفی، داغی است بر پیشانی عدالتی که مدت‌هاست در این جغرافیا به مسلخ رفته است. #داستان_ما_یکیست #بهاییان_ایران #شکیلا_قاسمی #گفتگو_توانا @Dialogue1402",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Tavaana_TavaanaTech/103572",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/gBL2IcBUzDXMartSW7cTNrqI1G8uBm49InxqvacP_kr7byD9WOxWDBohX5mmmU0Cuf7GIokG6Zem3IhwDtJKPo55MICDYRWLeQSAeLYioL8gN_4OasBk9g2vC3bHHngp9NZBxGmPPf2ehNJD7eent9eSsScb_uiG4voLbKDGZheqMGal7WuNmlUj2C8C4m8iRRiA3p9oQfl5geWgSg2tUMsJMckEUu451HRGXGUVgkVeJhxX4iqRa7U8fLEBYzeWFiuLw2jSwsH7wqaPcgmURMZfttdzI8y9b21Rsny1vkwuRMzEOtaHlFlx7exeNPXOpsVduObBaUwwgD93r7u7FA.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/c91407351aeedb24e44efb92.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "💔",
-          "count": "3"
-        }
-      ],
-      "views_label": "656",
-      "posted_at": "2026-05-14T14:57:28+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Tavaana_TavaanaTech/103572"
     }
   ]
 }

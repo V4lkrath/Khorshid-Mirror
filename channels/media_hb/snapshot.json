@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-24T04:36:40.597Z",
+  "fetched_at": "2026-05-24T04:40:33.890Z",
   "channel": {
     "username": "media_hb",
     "title": "اخبار جنگ | مدیا هاب",
@@ -10,6 +10,33 @@
     "subscriber_count": "103K"
   },
   "posts": [
+    {
+      "id": "Media_HB/95380",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Duf72L_Nnkh_G6UN40Da8AAHBycN4Yy2eabt8qE8b2qOLmKzfxYund3NmOTmtwJFR9H45bjVrChtPRcBzO8ym82lv34C7Euv-VfIy5BxTfGRNuNfi10mmAyaOw-zS_8oRqvZRMFJ1c_F3eIv5Vr52iC8z5mGtSSh1-YDYAI59SokEvQljyxTqqfgBRdIAbB0Dq4vgh1w3Jwek9lgxiHIpzB88gPSJBOe7cxyjejmqFkXtsrIJSYiPPgZoFA4lZn0ZdKDjDXn-48_FCUzfEeK-L_ielVWt0dUYQNL1qQB9JI7A6CnpagsGnqb9kLyv879o2xX_G2DQ5ZXm2OPqZzbpQ.jpg",
+      "author_photo_path": "channels/media_hb/media/61d0384bc33329be46d26c84.jpg",
+      "body_html": "<b><tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji></b><b>یک مقام آمریکایی درباره نگرانی نتانیاهو نسبت به مذاکرات:<br><br>بی‌بی ملاحظات داخلی خودش رو دارد، اما ترامپ باید به منافع آمریکا و اقتصاد جهانی فکر کند</b>",
+      "plain_text": "🔴یک مقام آمریکایی درباره نگرانی نتانیاهو نسبت به مذاکرات: بی‌بی ملاحظات داخلی خودش رو دارد، اما ترامپ باید به منافع آمریکا و اقتصاد جهانی فکر کند",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "4"
+        },
+        {
+          "emoji": "💔",
+          "count": "2"
+        },
+        {
+          "emoji": "😡",
+          "count": "2"
+        }
+      ],
+      "views_label": "64",
+      "posted_at": "2026-05-24T04:39:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/95380"
+    },
     {
       "id": "Media_HB/95379",
       "author_name": "اخبار جنگ | مدیا هاب",
@@ -21,14 +48,14 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "😐",
           "count": "1"
         }
       ],
-      "views_label": "341",
+      "views_label": "558",
       "posted_at": "2026-05-24T04:30:29+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95379"
@@ -51,7 +78,7 @@
           "count": "3"
         }
       ],
-      "views_label": "465",
+      "views_label": "651",
       "posted_at": "2026-05-24T04:27:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95378"
@@ -100,7 +127,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.69K",
+      "views_label": "3.75K",
       "posted_at": "2026-05-23T23:08:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95377"
@@ -486,14 +513,14 @@
         },
         {
           "emoji": "💔",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "👍",
           "count": "2"
         }
       ],
-      "views_label": "4.4K",
+      "views_label": "4.46K",
       "posted_at": "2026-05-23T22:43:25+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/95360"
@@ -520,7 +547,7 @@
           "count": "3"
         }
       ],
-      "views_label": "4.34K",
+      "views_label": "4.37K",
       "posted_at": "2026-05-23T22:41:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95359"
@@ -547,7 +574,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.9K",
+      "views_label": "4.96K",
       "posted_at": "2026-05-23T22:29:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95357"
@@ -578,7 +605,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.84K",
+      "views_label": "4.87K",
       "posted_at": "2026-05-23T22:28:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95356"
@@ -605,7 +632,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.78K",
+      "views_label": "4.84K",
       "posted_at": "2026-05-23T22:26:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95355"
@@ -650,7 +677,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.01K",
+      "views_label": "5.08K",
       "posted_at": "2026-05-23T22:23:05+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/95353"
@@ -666,7 +693,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "115"
+          "count": "116"
         },
         {
           "emoji": "👍",
@@ -677,7 +704,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.94K",
+      "views_label": "4.97K",
       "posted_at": "2026-05-23T22:19:19+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/95350"
@@ -700,7 +727,7 @@
           "count": "11"
         }
       ],
-      "views_label": "4.97K",
+      "views_label": "5K",
       "posted_at": "2026-05-23T22:16:11+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95344"
@@ -731,7 +758,7 @@
           "count": "2"
         }
       ],
-      "views_label": "5.03K",
+      "views_label": "5.06K",
       "posted_at": "2026-05-23T22:11:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95341"
@@ -762,7 +789,7 @@
           "count": "4"
         }
       ],
-      "views_label": "5.38K",
+      "views_label": "5.41K",
       "posted_at": "2026-05-23T21:59:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95340"
@@ -793,7 +820,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.43K",
+      "views_label": "5.49K",
       "posted_at": "2026-05-23T21:54:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95339"
@@ -828,7 +855,7 @@
           "count": "2"
         }
       ],
-      "views_label": "5.43K",
+      "views_label": "5.49K",
       "posted_at": "2026-05-23T21:52:20+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95338"
@@ -847,7 +874,7 @@
           "count": "40"
         }
       ],
-      "views_label": "5.3K",
+      "views_label": "5.33K",
       "posted_at": "2026-05-23T21:49:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95337"
@@ -878,7 +905,7 @@
           "count": "2"
         }
       ],
-      "views_label": "5.7K",
+      "views_label": "5.73K",
       "posted_at": "2026-05-23T21:26:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95336"
@@ -909,7 +936,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.64K",
+      "views_label": "5.67K",
       "posted_at": "2026-05-23T21:26:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95335"
@@ -940,7 +967,7 @@
           "count": "2"
         }
       ],
-      "views_label": "5.61K",
+      "views_label": "5.64K",
       "posted_at": "2026-05-23T21:23:49+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95334"
@@ -3204,37 +3231,6 @@
       "posted_at": "2026-05-23T14:49:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95254"
-    },
-    {
-      "id": "Media_HB/95253",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/GpFPKjZst7dc_KaqJTtttWgeywyw8n9DSg8RMHFskDcDx_sPcSyM0DDjMBT6nQtBUEsjkSBELUy-hkzC3tkFYBd1LVrAggTYzT3fvguMWqzPZ4N5nvkfG5gU05q4Chcait7E_tUl4AFlqDt13SsHigC-9CyhxpykNZmgpIbJiA2X2pVTUrRkE72MXozpx8zl3IV_4wEdHJYBZn8gmlfQDFDqu1GyM_BhWa47hX6eeao_V4nvpz2T0kxfUDTOrbliOw94CccdEbOUo80bW16QXcjrX10CO53XdC8BVtUpxLQnjDNfBhXXPO-X2VmMCGeiZNH7ni5tqjxYpzjyggS9KQ.jpg",
-      "author_photo_path": "channels/media_hb/media/f767f96cae006a8ee6d12eea.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5870745300313840282\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><tg-emoji emoji-id=\"5870699949754162502\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><b>ارتش پاکستان: مذاکراتی که در ۲۴ ساعت گذشته انجام شد، به پیشرفت امیدوارکننده‌ای به سوی تفاهم نهایی منجر شد</b>",
-      "plain_text": "💢💢ارتش پاکستان: مذاکراتی که در ۲۴ ساعت گذشته انجام شد، به پیشرفت امیدوارکننده‌ای به سوی تفاهم نهایی منجر شد",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "40"
-        },
-        {
-          "emoji": "🖕",
-          "count": "16"
-        },
-        {
-          "emoji": "👎",
-          "count": "2"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        }
-      ],
-      "views_label": "3.14K",
-      "posted_at": "2026-05-23T14:45:03+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/95253"
     }
   ]
 }

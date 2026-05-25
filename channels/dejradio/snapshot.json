@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-25T20:01:43.998Z",
+  "fetched_at": "2026-05-25T20:41:50.844Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,35 @@
     "subscriber_count": "14.1K"
   },
   "posts": [
+    {
+      "id": "DEJradio/4961",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/PFivd4htmKsRJEnU0-_W9mci44V8nxtFVr2guF2ZT_9hFnUTI1ArXK4WZgHeZzUhCG7rR19v3EZVh3R9KbqXnUiDuopXejjzjzt961q_59QwdD318_8h_bDeWI9QO4zZ0tOGvL245v4tzECODaQIBB_wsEj-rk14skXuU8hOfETEAqtXdqlqPdN8N1zMt4dV_sLZfJ_UfoNhHXcsJFyuf_euG1M4KeId0Ceif9p7za9PUwvP-vrgeF7JfqulroJ8ulU6_5ln-LxwcqPOS2Nj18SuMMcA-qF3dabnRXSb7aLPBur1SAfFlW_yHok70XEP_5rfq0Tr3Bwovx_GA1pGmQ.jpg",
+      "author_photo_path": "channels/dejradio/media/2b9596d80b8f8b341fdd61a3.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5213419616725903784\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji><tg-emoji emoji-id=\"5951677112829088371\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji> بنیامین نتانیاهو، نخست‌وزیر اسرائیل، شامگاه دوشنبه با انتشار ویدئویی اعلام کرد جنگ جاری اسرائیل با حزب‌الله متوقف نخواهد شد و حملات خود علیه این گروه تروریستی و نیابتی رژیم ایران در لبنان را تشدید خواهد کرد. پیش از این گفته بود که یکی از مفاد توافق احتمالی…",
+      "plain_text": "🚨⭕️ بنیامین نتانیاهو، نخست‌وزیر اسرائیل، شامگاه دوشنبه با انتشار ویدئویی اعلام کرد جنگ جاری اسرائیل با حزب‌الله متوقف نخواهد شد و حملات خود علیه این گروه تروریستی و نیابتی رژیم ایران در لبنان را تشدید خواهد کرد. پیش از این گفته بود که یکی از مفاد توافق احتمالی…",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/DEJradio/4961",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/UyraEVEIBDKHF0makfggy_upLJjshaqDL-bfr8qQIjWrhUwpekZElRLfU7akXJgNU6RqBOvvRWRW2w5ZKu25KaMqlcXZ3IEluXPj0p9LmLMNLrDqLhUQOnNqWrRtI8EASsUxvO14MOoj0losaUh3-t_T-dYU4iZqbgfR3GspsIVfVPJeKpdyWwv2RuCVbVbgm4yNEelmIlsv4ObyeiDNUaMEWMeX8svSwxCASYy9j_JE7amNOMRA3Z4Mu5tCTutJMuhBoPU_2R-QMBKhWrPVSlBADQR47fT-mPEAh9UKBFDqaK5P3dgGHqWYrHSMVz_IrDhSUE0TbJvjNA98i2Lo-A.jpg",
+          "thumbnail_path": "channels/dejradio/media/8d465d0e611fea6afee390ad.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "7"
+        }
+      ],
+      "views_label": "570",
+      "posted_at": "2026-05-25T20:12:37+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/4961"
+    },
     {
       "id": "DEJradio/4960",
       "author_name": "DEJ",
@@ -31,10 +60,14 @@
       "reactions": [
         {
           "emoji": "🤔",
-          "count": "4"
+          "count": "5"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         }
       ],
-      "views_label": "216",
+      "views_label": "706",
       "posted_at": "2026-05-25T19:49:17+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/4960"
@@ -63,7 +96,7 @@
           "count": "3"
         }
       ],
-      "views_label": "349",
+      "views_label": "728",
       "posted_at": "2026-05-25T19:42:41+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4959"
@@ -96,7 +129,7 @@
           "count": "2"
         }
       ],
-      "views_label": "371",
+      "views_label": "711",
       "posted_at": "2026-05-25T19:40:40+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4958"
@@ -122,14 +155,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "👏",
           "count": "1"
         }
       ],
-      "views_label": "359",
+      "views_label": "661",
       "posted_at": "2026-05-25T19:38:12+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4957"
@@ -153,7 +186,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "383",
+      "views_label": "647",
       "posted_at": "2026-05-25T19:34:39+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4956"
@@ -177,7 +210,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "378",
+      "views_label": "621",
       "posted_at": "2026-05-25T19:31:12+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4955"
@@ -206,7 +239,7 @@
           "count": "1"
         }
       ],
-      "views_label": "430",
+      "views_label": "692",
       "posted_at": "2026-05-25T19:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4954"
@@ -232,10 +265,10 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "466",
+      "views_label": "687",
       "posted_at": "2026-05-25T19:27:03+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4953"
@@ -268,7 +301,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.03K",
+      "views_label": "1.15K",
       "posted_at": "2026-05-25T16:53:36+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4952"
@@ -301,7 +334,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.28K",
+      "views_label": "1.35K",
       "posted_at": "2026-05-25T14:51:24+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4951"
@@ -328,7 +361,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.12K",
+      "views_label": "1.18K",
       "posted_at": "2026-05-25T14:45:08+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4950"
@@ -355,7 +388,7 @@
           "count": "1"
         }
       ],
-      "views_label": "994",
+      "views_label": "1.07K",
       "posted_at": "2026-05-25T14:44:02+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4949"
@@ -378,7 +411,7 @@
           "count": "2"
         }
       ],
-      "views_label": "794",
+      "views_label": "836",
       "posted_at": "2026-05-25T14:41:46+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4948"
@@ -405,7 +438,7 @@
           "count": "2"
         }
       ],
-      "views_label": "721",
+      "views_label": "781",
       "posted_at": "2026-05-25T14:39:59+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4947"
@@ -428,7 +461,7 @@
           "count": "3"
         }
       ],
-      "views_label": "692",
+      "views_label": "732",
       "posted_at": "2026-05-25T14:38:42+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/4946"
@@ -451,7 +484,7 @@
           "count": "3"
         }
       ],
-      "views_label": "685",
+      "views_label": "710",
       "posted_at": "2026-05-25T14:37:23+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4945"
@@ -478,7 +511,7 @@
           "count": "2"
         }
       ],
-      "views_label": "640",
+      "views_label": "705",
       "posted_at": "2026-05-25T14:32:23+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4944"
@@ -501,7 +534,7 @@
           "count": "1"
         }
       ],
-      "views_label": "654",
+      "views_label": "677",
       "posted_at": "2026-05-25T14:30:22+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4943"
@@ -520,7 +553,7 @@
           "count": "5"
         }
       ],
-      "views_label": "710",
+      "views_label": "770",
       "posted_at": "2026-05-25T14:29:28+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4942"
@@ -3046,33 +3079,6 @@
       "posted_at": "2026-05-22T17:14:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/4854"
-    },
-    {
-      "id": "DEJradio/4853",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/nGG758kw6_tWlAfzALpWAlXhWNuxXHCSkV33tnA9tWJaI8UiYpxMT_CRvbzr8t6b-oEJnHL_TJUOtCcslGS1qBwDiXi9Ub5PC_TQt168qTMW6Lp1KGB7iArCKkLvC8F6MDmKZgcoOCmzEnTpQuFXHsy4LV8j0ePoe5Inxf3lkCp9wxICRV1WSYahvcCKEzW7o-uhhmLneYbH1TR4mYvA6ZVrG4mHxLR2gjY4jLGeGG-9dqaTcXZCllY9p546HI90bWYJTkRrFHuzbnbDMz75q6I4zxCji2_hOZAp4JaltgWqCi7ld86Rg_V2KuVCY_H-r6JRZLvXOXPOHJ1rugXMYQ.jpg",
-      "author_photo_path": "channels/dejradio/media/2bb1014a7eb3e42085cf0353.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5951842387465605469\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji> موضوع ایران نمی‌گذارد ترامپ به مراسم ازدواج پسرش برود <br><br>دونالد ترامپ گفت درگیری با موضوع جمهوری اسلامی برنامه‌هایش را پیچیده کرده و نمی‌گذارد در مراسم ازدواج پسرش شرکت کند.<br>رئیس‌ جمهوری آمریکا در دفتر بیضی کاخ سفید به خبرنگاران گفت: پسرم دوست دارد من در مراسم باشم… اما الان درگیر ایران و مسائل دیگر هستم.<br>مراسم ازدواج ترامپ جونیور قرار است در پایان این هفته در باهاما برگزار شود.<br><br><a href=\"?q=%23%D8%AA%D8%B1%D8%A7%D9%85%D9%BE\">#ترامپ</a> <br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "⭕️ موضوع ایران نمی‌گذارد ترامپ به مراسم ازدواج پسرش برود دونالد ترامپ گفت درگیری با موضوع جمهوری اسلامی برنامه‌هایش را پیچیده کرده و نمی‌گذارد در مراسم ازدواج پسرش شرکت کند. رئیس‌ جمهوری آمریکا در دفتر بیضی کاخ سفید به خبرنگاران گفت: پسرم دوست دارد من در مراسم باشم… اما الان درگیر ایران و مسائل دیگر هستم. مراسم ازدواج ترامپ جونیور قرار است در پایان این هفته در باهاما برگزار شود. #ترامپ @DEJradio",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "😐",
-          "count": "4"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.37K",
-      "posted_at": "2026-05-22T17:13:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/4853"
     }
   ]
 }

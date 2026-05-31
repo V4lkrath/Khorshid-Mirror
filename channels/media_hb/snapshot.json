@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-31T18:50:46.019Z",
+  "fetched_at": "2026-05-31T19:57:21.012Z",
   "channel": {
     "username": "media_hb",
     "title": "اخبار جنگ | مدیا هاب",
@@ -10,6 +10,29 @@
     "subscriber_count": "101K"
   },
   "posts": [
+    {
+      "id": "Media_HB/95972",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vheTRTH0K2maqhT9W5zpCl4s7N4m3ilvAkXRilThY6I7O6QKOKsMadtIu0ImnqJ1Z-xwyw38HQ-NJQqXlP6rh19BDUfG7VuaOvRw5jh78tWmCMi6lpRQemrVjLc7hRO5YzBy2KDUdXihaNsPC52gwqZosHTn-KOhc_tGJMC8bGM4z6nEWoP9LbdY3cTfsxa7e72hh4lFmXCkBbb0Cx8XSXFk3XCOAaWxmlN79T2-mxCGHJzqon2mrG-rjHY0ReTwmq2-VfKpMwNPvGOCIdqItJNR1TAJ4g9ahRn0ZY7HmN8tGHaO9lg0GDLnBvLSHeyK70ilLyl4ie6MA0QM00EB_A.jpg",
+      "author_photo_path": "channels/media_hb/media/b9e56a16dd50766eea1f1053.jpg",
+      "body_html": "<b><tg-emoji emoji-id=\"5165898324741457062\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji></b><b><tg-emoji emoji-id=\"5440660757194744323\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i></tg-emoji></b><b>تسنیم به نقل از یک منبع آگاه: ایران اصلاحیه‌های جدید درباره متن تفاهم احتمالی اعمال خواهد کرد <br><br>ملاک برای ایران متنی است که خودمان قبول داشته باشیم و اعمال اصلاحیه از ناحیه ترامپ به معنای پذیرش آنها توسط ایران نیست. <br><br>ایران برای وضعیت عدم تفاهم نیز کاملاً آمادگی دارد.</b>",
+      "plain_text": "🔥‼️تسنیم به نقل از یک منبع آگاه: ایران اصلاحیه‌های جدید درباره متن تفاهم احتمالی اعمال خواهد کرد ملاک برای ایران متنی است که خودمان قبول داشته باشیم و اعمال اصلاحیه از ناحیه ترامپ به معنای پذیرش آنها توسط ایران نیست. ایران برای وضعیت عدم تفاهم نیز کاملاً آمادگی دارد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "23"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "1.57K",
+      "posted_at": "2026-05-31T19:47:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/95972"
+    },
     {
       "id": "Media_HB/95971",
       "author_name": "اخبار جنگ | مدیا هاب",
@@ -21,18 +44,22 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "25"
+          "count": "64"
         },
         {
           "emoji": "🔥",
-          "count": "1"
+          "count": "9"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
         },
         {
           "emoji": "😭",
           "count": "1"
         }
       ],
-      "views_label": "1.63K",
+      "views_label": "4.95K",
       "posted_at": "2026-05-31T18:40:59+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95971"
@@ -48,15 +75,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "147"
+          "count": "178"
         },
         {
           "emoji": "👍",
-          "count": "7"
+          "count": "9"
         },
         {
           "emoji": "❤",
-          "count": "6"
+          "count": "8"
         },
         {
           "emoji": "😁",
@@ -64,10 +91,10 @@
         },
         {
           "emoji": "👎",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "4.76K",
+      "views_label": "6.81K",
       "posted_at": "2026-05-31T17:44:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95970"
@@ -83,18 +110,18 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "60"
+          "count": "73"
         },
         {
           "emoji": "❤",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "🤣",
           "count": "4"
         }
       ],
-      "views_label": "5.44K",
+      "views_label": "7.12K",
       "posted_at": "2026-05-31T17:30:17+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/95969"
@@ -110,14 +137,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "153"
+          "count": "169"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "5.9K",
+      "views_label": "7.49K",
       "posted_at": "2026-05-31T17:27:46+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/95968"
@@ -133,7 +160,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "38"
+          "count": "41"
         },
         {
           "emoji": "👎",
@@ -144,7 +171,7 @@
           "count": "2"
         }
       ],
-      "views_label": "6.13K",
+      "views_label": "7.51K",
       "posted_at": "2026-05-31T17:17:42+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95967"
@@ -160,7 +187,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "133"
+          "count": "140"
         },
         {
           "emoji": "❤",
@@ -175,7 +202,7 @@
           "count": "4"
         }
       ],
-      "views_label": "6.95K",
+      "views_label": "8.12K",
       "posted_at": "2026-05-31T16:53:54+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95966"
@@ -216,7 +243,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.85K",
+      "views_label": "7.92K",
       "posted_at": "2026-05-31T16:51:55+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95965"
@@ -232,7 +259,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "109"
+          "count": "114"
         },
         {
           "emoji": "❤",
@@ -243,7 +270,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.35K",
+      "views_label": "7.15K",
       "posted_at": "2026-05-31T16:48:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95964"
@@ -269,11 +296,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "92"
+          "count": "95"
         },
         {
           "emoji": "❤",
-          "count": "11"
+          "count": "13"
         },
         {
           "emoji": "😐",
@@ -292,7 +319,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.13K",
+      "views_label": "7.96K",
       "posted_at": "2026-05-31T16:42:50+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/95963"
@@ -308,11 +335,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "193"
+          "count": "204"
         },
         {
           "emoji": "😐",
-          "count": "32"
+          "count": "34"
         },
         {
           "emoji": "🔥",
@@ -320,14 +347,14 @@
         },
         {
           "emoji": "💔",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "❤",
           "count": "3"
         }
       ],
-      "views_label": "8.09K",
+      "views_label": "8.97K",
       "posted_at": "2026-05-31T16:41:23+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/95962"
@@ -358,7 +385,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.79K",
+      "views_label": "7.56K",
       "posted_at": "2026-05-31T16:40:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95961"
@@ -384,7 +411,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "148"
+          "count": "156"
         },
         {
           "emoji": "❤",
@@ -395,7 +422,7 @@
           "count": "5"
         }
       ],
-      "views_label": "6.85K",
+      "views_label": "7.61K",
       "posted_at": "2026-05-31T16:35:06+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/95960"
@@ -411,7 +438,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "26"
+          "count": "27"
         },
         {
           "emoji": "🤣",
@@ -422,7 +449,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.32K",
+      "views_label": "7.02K",
       "posted_at": "2026-05-31T16:22:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95959"
@@ -438,7 +465,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "54"
+          "count": "56"
         },
         {
           "emoji": "👎",
@@ -449,7 +476,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.45K",
+      "views_label": "7.1K",
       "posted_at": "2026-05-31T16:10:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95958"
@@ -465,7 +492,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "134"
+          "count": "138"
         },
         {
           "emoji": "🥰",
@@ -492,7 +519,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.29K",
+      "views_label": "6.9K",
       "posted_at": "2026-05-31T16:06:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95957"
@@ -508,7 +535,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "102"
+          "count": "103"
         },
         {
           "emoji": "❤",
@@ -519,7 +546,7 @@
           "count": "2"
         }
       ],
-      "views_label": "6.77K",
+      "views_label": "7.23K",
       "posted_at": "2026-05-31T15:21:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95956"
@@ -545,11 +572,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "169"
+          "count": "175"
         },
         {
           "emoji": "❤",
-          "count": "25"
+          "count": "26"
         },
         {
           "emoji": "👍",
@@ -560,7 +587,7 @@
           "count": "6"
         }
       ],
-      "views_label": "6.87K",
+      "views_label": "7.33K",
       "posted_at": "2026-05-31T15:18:05+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/95955"
@@ -595,7 +622,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.11K",
+      "views_label": "6.42K",
       "posted_at": "2026-05-31T14:48:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95954"
@@ -644,14 +671,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "26"
+          "count": "27"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "6.07K",
+      "views_label": "6.38K",
       "posted_at": "2026-05-31T14:44:42+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95953"
@@ -3311,33 +3338,6 @@
       "posted_at": "2026-05-29T18:33:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/95865"
-    },
-    {
-      "id": "Media_HB/95864",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VClkg7WA86WyoCRpY9c13KYZYv5u65zAWuSau-SDzC2fFTG1E3lSzh0KIGBcIN1H3Lk08cu_IeOAaQtRs5Yd1qxZ-WXou5HzTqgnes_cEydGNM9XqWNBbn66QnWayfljcvKEkMdW8B1vE-UAytQoqyMHA5AJ5ThHwcTPhJBLYL2jWhNzSCKp-IjQP3wC_pY4chc3sektWrNTiryo_0sKG6yKX3wEjDv4NmZ7Hl2OrznGlYh5H1Retktziv1G-W3rNOq0feQcThBRmFxU_RvCqHmmumicrHnwhR5C_XFLeQbv8-3O2C3_BGL5vA2kYew_5j_O2zk0MLy-qCMPEY0EFg.jpg",
-      "author_photo_path": "channels/media_hb/media/9b61264db3afb136778d18b0.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>شبکه تلویزیونی اسرائیل به نقل از یک منبع گزارش داد: هیئت اسرائیلی در مذاکرات پنتاگون پیشنهاد لبنان برای خروج از لبنان را رد کرد.</b>",
-      "plain_text": "🔴شبکه تلویزیونی اسرائیل به نقل از یک منبع گزارش داد: هیئت اسرائیلی در مذاکرات پنتاگون پیشنهاد لبنان برای خروج از لبنان را رد کرد.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "46"
-        },
-        {
-          "emoji": "🔥",
-          "count": "7"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        }
-      ],
-      "views_label": "8.74K",
-      "posted_at": "2026-05-29T18:32:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/95864"
     }
   ]
 }

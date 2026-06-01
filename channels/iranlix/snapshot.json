@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-06-01T18:26:11.692Z",
+  "fetched_at": "2026-06-01T18:52:08.062Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,30 @@
   },
   "posts": [
     {
+      "id": "iranlix/7062",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/BjkMUiQoQ_iCFk1woOTGDYlIXBfmU0kHs3SzkirnjuPU0C3fd2yCDdAYl_TfzT2pMzqBhYif7RMydSa4RQS-ISvZL-Ds5U1nS92YVmZM1lnNsEEm73kHqu988BJ2vw431q3Bn4bGPobQvkTZpeZa93QznD-Z5hn9ACs06RUjoVFJDu6hu36aDDcaNMMzYdb0GiOH6Qvo2h3fvdqz94V9G-D2XCFMgMTDXnqJxzs5CIh5Lt1rVvNWl35FNIstNLsMP3paWRrn-2voDF4V3PCvKInXq46AGYqDqYE2_ezTYblwdZa5fSnb8ytkq3SoUT1uBf0TC_TxGVkoyHExhSjCaw.jpg",
+      "author_photo_path": "channels/iranlix/media/d5ee9180e14c4ad113fd1d18.jpg",
+      "body_html": "<b>سقط شدن دو نیروی سپاه قم  </b><br><br> دو پاسدار به نام‌های حسین رمضانیان فردویی و محمد اویسی، از نیروهای سپاه در منطقه فردو، شب گذشته بر اثر انفجار پرتابه‌های باقی‌مانده از جنگ  به هلاکت رسیدند.",
+      "plain_text": "سقط شدن دو نیروی سپاه قم دو پاسدار به نام‌های حسین رمضانیان فردویی و محمد اویسی، از نیروهای سپاه در منطقه فردو، شب گذشته بر اثر انفجار پرتابه‌های باقی‌مانده از جنگ به هلاکت رسیدند.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/7062",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/AFgHgUkxOgXZs4H86CpseJvWB0S8O3CPv5VLjxxBOlE4kUWZy1yziZ9jmwjNa6L2pduEA0itmbqLFv2oandhOgFdHg7q1hbdmFvdNwA2rx1s5sul3-ZEFhfaZNQNIdyHl_ltj0xbJW1R2uQgDZ6qcifqTCIkZWyNgkCqA1OlWIuISR11vCqACXBGUUP5Mnt4gy-7ZiCZHLFeEBT9TbLBxGuuUQNNKSLRDr2JoaNkmlNGXQnHNzTrr2NiPzQOTMGAZsEDSOAqwCPcAWr7lNgDQlFanpXIkGaqs8sXeHcfsGSdp7DW6rfcju8AcroBIqRRErjAPKJ705x6gJWN5Yk_CA.jpg",
+          "thumbnail_path": "channels/iranlix/media/c35d8da3b71f25be5918ec03.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "188",
+      "posted_at": "2026-06-01T18:44:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/7062"
+    },
+    {
       "id": "iranlix/7061",
       "author_name": "ایرانلیکس",
       "author_photo_url": "https://cdn4.telesco.pe/file/BjkMUiQoQ_iCFk1woOTGDYlIXBfmU0kHs3SzkirnjuPU0C3fd2yCDdAYl_TfzT2pMzqBhYif7RMydSa4RQS-ISvZL-Ds5U1nS92YVmZM1lnNsEEm73kHqu988BJ2vw431q3Bn4bGPobQvkTZpeZa93QznD-Z5hn9ACs06RUjoVFJDu6hu36aDDcaNMMzYdb0GiOH6Qvo2h3fvdqz94V9G-D2XCFMgMTDXnqJxzs5CIh5Lt1rVvNWl35FNIstNLsMP3paWRrn-2voDF4V3PCvKInXq46AGYqDqYE2_ezTYblwdZa5fSnb8ytkq3SoUT1uBf0TC_TxGVkoyHExhSjCaw.jpg",
@@ -19,7 +43,7 @@
       "plain_text": "#فوری با اعلام تسلیم کامل حزب الله، ترامپ آتش‌بس لبنان را رسما اعلام کرد داداشای حزب الله بطور کامل تسلیم شدند!",
       "media": [],
       "reactions": [],
-      "views_label": "555",
+      "views_label": "761",
       "posted_at": "2026-06-01T17:42:35+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/7061"
@@ -43,7 +67,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "637",
+      "views_label": "822",
       "posted_at": "2026-06-01T17:32:21+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/7060"
@@ -76,7 +100,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "611",
+      "views_label": "772",
       "posted_at": "2026-06-01T17:30:10+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/7058"
@@ -100,7 +124,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "590",
+      "views_label": "750",
       "posted_at": "2026-06-01T17:29:20+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/7057"
@@ -124,7 +148,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "920",
+      "views_label": "1K",
       "posted_at": "2026-06-01T14:50:15+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/7056"
@@ -148,7 +172,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "939",
+      "views_label": "1K",
       "posted_at": "2026-06-01T14:24:39+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/7055"
@@ -181,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1K",
+      "views_label": "1.06K",
       "posted_at": "2026-06-01T14:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/7053"
@@ -286,7 +310,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "947",
+      "views_label": "1K",
       "posted_at": "2026-06-01T14:02:31+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/7043"
@@ -2486,20 +2510,6 @@
       "posted_at": "2026-05-14T16:05:28+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/6927"
-    },
-    {
-      "id": "iranlix/6926",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/CzIRvSmeQ2MF6nRgQbsb7JLFJZsDRFYZcRiiTqIanz0kkr1oj_VFRMnN5NYOvHMBkuM-CuNrHWHZRrEbLzVz0kn_lo_yGZidMFx5g4NehwqrLeTYJsw37OUOiWpSTMiEByN9RYUIpW2YjhFbXApJNibXguPNmXuYRdTLaA9tM3fzz-Goyp1WugFFBXIc53Dj6yMfWiw8t7FiFU64JGbVd2p0Z9gqD80u9NeMv_JoNNfr66FDvQcO0K6J661ukhKZ0dhb84Yjc_kXIxL0Mh1EgVTgfV_uQDLmg3Gc8Oa8vo5a5_X2PfZmQJQKU96fGbZ7pP7DZhv1qFaOF6Vm_3rtdA.jpg",
-      "author_photo_path": "channels/iranlix/media/e1b46b3d1672b393dda2948a.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>تلاش اسرائیل برای افزایش بردِ جنگنده‌ها بدون نیاز به سوخت‌رسانی<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>وزارت دفاع اسرائیل اعلام کرد که قراردادی را با یکی از زیرمجموعه‌های شرکت دفاعی البیت برای توسعه «قابلیت بردِ افزایش‌یافته» جنگنده اف-۳۵آی امضا کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>این قرارداد شامل «توسعه و یکپارچه‌سازی مخازن سوخت خارجی» بر اساس طرحی است که شرکت سایکلون پیش‌تر برای جنگنده اف-۱۶ توسعه داده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>وزارت دفاع اسرائیل در بیانیه‌ای نوشت که این قابلیت جدید انتظار می‌رود «برد عملیاتی هواپیما را افزایش دهد، وابستگی به سوخت‌رسانی هوایی را کاهش دهد و انعطاف‌پذیری عملیاتی را در مأموریت‌های دوربرد تقویت کند.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>اسرائیل اکنون ۴۸ فروند اف‌-۳۵آی در اختیار دارد؛ در حالی که سفارش اولیه این کشور ۵۰ فروند بود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8149918.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8149918.html</a>",
-      "plain_text": "🔺تلاش اسرائیل برای افزایش بردِ جنگنده‌ها بدون نیاز به سوخت‌رسانی ▪️وزارت دفاع اسرائیل اعلام کرد که قراردادی را با یکی از زیرمجموعه‌های شرکت دفاعی البیت برای توسعه «قابلیت بردِ افزایش‌یافته» جنگنده اف-۳۵آی امضا کرده است. ▪️این قرارداد شامل «توسعه و یکپارچه‌سازی مخازن سوخت خارجی» بر اساس طرحی است که شرکت سایکلون پیش‌تر برای جنگنده اف-۱۶ توسعه داده است. ▪️وزارت دفاع اسرائیل در بیانیه‌ای نوشت که این قابلیت جدید انتظار می‌رود «برد عملیاتی هواپیما را افزایش دهد، وابستگی به سوخت‌رسانی هوایی را کاهش دهد و انعطاف‌پذیری عملیاتی را در مأموریت‌های دوربرد تقویت کند.» ▪️اسرائیل اکنون ۴۸ فروند اف‌-۳۵آی در اختیار دارد؛ در حالی که سفارش اولیه این کشور ۵۰ فروند بود. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8149918.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "1.55K",
-      "posted_at": "2026-05-14T08:58:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/6926"
     }
   ]
 }

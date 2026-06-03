@@ -1,42 +1,415 @@
 {
   "schema": 2,
-  "fetched_at": "2026-06-03T11:30:36.342Z",
+  "fetched_at": "2026-06-03T15:04:33.556Z",
   "channel": {
     "username": "media_hb",
     "title": "اخبار جنگ | مدیا هاب",
     "description_html": "برای تبلیغات و همکاری پیوی پیام بدید<br><br><a href=\"https://t.me/Behdad_sps\" target=\"_blank\">@Behdad_sps</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-    "photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+    "photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
     "subscriber_count": "100K"
   },
   "posts": [
     {
-      "id": "Media_HB/96295",
+      "id": "Media_HB/96308",
       "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>وزارت خارجه کویت: یک نفر در حمله دیشب کشته شد<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i>",
-      "plain_text": "🔴وزارت خارجه کویت: یک نفر در حمله دیشب کشته شد‼️",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
+      "body_html": "رپ فارسی:<br><br>- عکس پا خوری هیپهاپولوژیست<br><br><a href=\"?q=%23Behdad\">#Behdad</a>",
+      "plain_text": "رپ فارسی: - عکس پا خوری هیپهاپولوژیست #Behdad",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/96308",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Hy-yCssedL7N9YU9_3UchOBoqNFlSI-SAYRHPbkjJQjHC2riVFHR428Vszj9FS3BpEuzz49q4X5mkPdmLAzq8z4NdEr5KozR0Bbffyvs2nv-IE0xNuLZ3PcAZXAPouYuc7raOm_Q8CMAmLPjpvrKmwj6pMr0U4kNTo-DmISsLUlEvVAXrLXalkuyeyADM2dmDfaUdJtOAF-t5ykcW0gNKCRihla7t8qbMSO1F0T67Pwpu9FLkWRwx9OT-oqmDSLRLZGGsWqGzecflj31YDkL1Uq0y8yWHsac-IBZOm6B174Q4HcX664NwU4Dm6qp6cKBIc5VMukUyVgX14XWzTTbWw.jpg",
+          "thumbnail_path": "channels/media_hb/media/690e0e27f967b5754fb674e6.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "63"
+        },
+        {
+          "emoji": "😁",
+          "count": "2"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
+        }
+      ],
+      "views_label": "1.32K",
+      "posted_at": "2026-06-03T14:53:16+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/96308"
+    },
+    {
+      "id": "Media_HB/96306",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5938104410583342681\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C96.png')\"><b>✖️</b></i></tg-emoji> سایت بین المللی <b>bet120x</b> <tg-emoji emoji-id=\"5938104410583342681\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C96.png')\"><b>✖️</b></i></tg-emoji><br><br>&nbsp;<tg-emoji emoji-id=\"5127470543674540818\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji>دارای مجوز رسمی Gambling Judge سوئد<tg-emoji emoji-id=\"5127470543674540818\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><tg-emoji emoji-id=\"5891156273394617658\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B3.png')\"><b>💳</b></i></tg-emoji>شارژ حساب از طریق ارز و <b>یووچر</b> و پرمیوم ووچر<br><tg-emoji emoji-id=\"5890793481802091729\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B3.png')\"><b>💳</b></i></tg-emoji>تسویه حساب دلاری سریع<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928A.png')\"><b>💊</b></i>بیمه شرط میکس<br><tg-emoji emoji-id=\"5938261726645457141\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji>فروش شرط<br><tg-emoji emoji-id=\"5936293824170038169\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9494.png')\"><b>🔔</b></i></tg-emoji>ویرایش شرط&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <tg-emoji emoji-id=\"5870919353863508211\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/33E283A3.png')\"><b>3️⃣</b></i></tg-emoji><tg-emoji emoji-id=\"5868638434171557858\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/32E283A3.png')\"><b>2️⃣</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5193085063998224234\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i></tg-emoji>20%هدیه واریز از طریق ارز و ووچر<br>┅━━━━━━━━━━━<br><tg-emoji emoji-id=\"5193085063998224234\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i></tg-emoji> 10%برگشت باخت به صورت روزانه <br><tg-emoji emoji-id=\"5193085063998224234\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i></tg-emoji> 10%برگشت باخت به صورت هفتگی <br><tg-emoji emoji-id=\"5193085063998224234\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i></tg-emoji>10%برگشت باخت به صورت ماهانه<br><tg-emoji emoji-id=\"5972055534352733289\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i></tg-emoji>ادرس ورود به سایت:<br><a href=\"https://bet120x.com/fa/?btag=971470\" target=\"_blank\" rel=\"noopener\">https://bet120x.com/fa/?btag=971470</a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29E96.png')\"><b>➖</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29E96.png')\"><b>➖</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29E96.png')\"><b>➖</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29E96.png')\"><b>➖</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29E96.png')\"><b>➖</b></i><br>&nbsp;&nbsp; <tg-emoji emoji-id=\"5416113713428057601\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji> <a href=\"https://help120x.xyz/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">آموزش واریز و برداشت دلاری</a><tg-emoji emoji-id=\"5415758949129404605\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5888541136527560112\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94AA.png')\"><b>🔪</b></i></tg-emoji>کانال اطلاع رسانی:<tg-emoji emoji-id=\"5231102735817918643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji> g13<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i><br><tg-emoji emoji-id=\"5852830669599674051\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C88.png')\"><b>✈️</b></i></tg-emoji><a href=\"https://t.me/+RvVnWMHCqUc4YzFk\" target=\"_blank\" rel=\"noopener\">https://t.me/+RvVnWMHCqUc4YzFk</a>",
+      "plain_text": "✖️ سایت بین المللی bet120x ✖️ 👍دارای مجوز رسمی Gambling Judge سوئد👍 💳شارژ حساب از طریق ارز و یووچر و پرمیوم ووچر 💳تسویه حساب دلاری سریع 💊بیمه شرط میکس ⚠️فروش شرط 🔔ویرایش شرط 3️⃣2️⃣ 🎁20%هدیه واریز از طریق ارز و ووچر ┅━━━━━━━━━━━ 🎁 10%برگشت باخت به صورت روزانه 🎁 10%برگشت باخت به صورت هفتگی 🎁10%برگشت باخت به صورت ماهانه 💻ادرس ورود به سایت: https://bet120x.com/fa/?btag=971470 ➖➖➖➖➖ 👈 آموزش واریز و برداشت دلاری👉 🔪کانال اطلاع رسانی:👇 g13🅰 ✈️https://t.me/+RvVnWMHCqUc4YzFk",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/96306",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/dNB8shQp1VitO-US5BGUoYwzGmqs1Iduz5JipoWdQUEWPojuza5Lpjj3mLtXuC90ncqLcoWpbzR20P4ZUjmf40pBK5Tvv8UdLrxkgKr3FYTJXaOVENDOYeku0f24ipbSpUcWl9Oq8gmKD0Bb753kRKqRwH_pW0Mj1FZf4lmgaaGeIlIP4C1MNrQuEsWeTVRl3RqL1hmQ2u7q80ZszgMPCdGdAexSj_sPoR_gG82CSX9WZuUFIjss3B-W_UpK8LkluxUhj5lQlwtHuAKGUZ2F5CrhOm6OM_XMKuW1pHruS0BFtTrq-yY7nuPEJDJST1oG_n5TlZYmNkXR_ZI6_F2OUw.jpg",
+          "thumbnail_path": "channels/media_hb/media/4ca34650e59933ca36c39247.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.9762499999999669
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤡",
+          "count": "1"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1"
+        }
+      ],
+      "views_label": "1.32K",
+      "posted_at": "2026-06-03T14:51:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/96306"
+    },
+    {
+      "id": "Media_HB/96307",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
+      "body_html": "اگ دنبال یه سایت با هدایا خفن و کاربردی هستی اینجارو از دست نده<tg-emoji emoji-id=\"5935927965970862817\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i></tg-emoji><br><a href=\"https://t.me/+RvVnWMHCqUc4YzFk\" target=\"_blank\" rel=\"noopener\">https://t.me/+RvVnWMHCqUc4YzFk</a>",
+      "plain_text": "اگ دنبال یه سایت با هدایا خفن و کاربردی هستی اینجارو از دست نده🎁 https://t.me/+RvVnWMHCqUc4YzFk",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "40"
+          "count": "1"
+        }
+      ],
+      "views_label": "1.32K",
+      "posted_at": "2026-06-03T14:51:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/96307"
+    },
+    {
+      "id": "Media_HB/96305",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5870745300313840282\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><tg-emoji emoji-id=\"5870699949754162502\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><b>نتانیاهو:<br><br>ترامپ معتقد است که می‌تواند مشکل غنی‌سازی را با مذاکرات حل کند.<br><br>من فکر می‌کنم باید به او فرصت داد.</b>",
+      "plain_text": "💢💢نتانیاهو: ترامپ معتقد است که می‌تواند مشکل غنی‌سازی را با مذاکرات حل کند. من فکر می‌کنم باید به او فرصت داد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👎",
+          "count": "60"
+        },
+        {
+          "emoji": "🤣",
+          "count": "29"
+        },
+        {
+          "emoji": "🔥",
+          "count": "5"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "2.58K",
+      "posted_at": "2026-06-03T14:31:53+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/96305"
+    },
+    {
+      "id": "Media_HB/96304",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5870745300313840282\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><tg-emoji emoji-id=\"5870699949754162502\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><b>مجری: ترامپ شما را «دیوانه لعنتی» خطاب کرد.</b><br><br><b>نتانیاهو: گاهی اوقات، مانند بهترین خانواده‌ها، ما این اختلافات تاکتیکی را داریم. همیشه راهی برای حل آن‌ها پیدا می‌کنیم.<br>می‌توانیم صبح با هم اختلاف نظر داشته باشیم و تا بعدازظهر اقدام مشترکی انجام دهیم.</b>",
+      "plain_text": "💢💢مجری: ترامپ شما را «دیوانه لعنتی» خطاب کرد. نتانیاهو: گاهی اوقات، مانند بهترین خانواده‌ها، ما این اختلافات تاکتیکی را داریم. همیشه راهی برای حل آن‌ها پیدا می‌کنیم. می‌توانیم صبح با هم اختلاف نظر داشته باشیم و تا بعدازظهر اقدام مشترکی انجام دهیم.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/96304",
+          "asset_path": null,
+          "thumbnail_url": null,
+          "thumbnail_path": null,
+          "duration_label": "1:06",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "79"
+        },
+        {
+          "emoji": "🤣",
+          "count": "25"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "😐",
+          "count": "1"
+        }
+      ],
+      "views_label": "2.76K",
+      "posted_at": "2026-06-03T14:29:56+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/96304"
+    },
+    {
+      "id": "Media_HB/96302",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>وزارت بهداشت لبنان: 3516 شهید و 10674 مجروح در حملات اسرائیل به این کشور از دوم مارس گذشته تاکنون.</b>",
+      "plain_text": "🔴وزارت بهداشت لبنان: 3516 شهید و 10674 مجروح در حملات اسرائیل به این کشور از دوم مارس گذشته تاکنون.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "95"
         },
         {
           "emoji": "💔",
           "count": "12"
         },
         {
-          "emoji": "😐",
-          "count": "3"
+          "emoji": "🤣",
+          "count": "9"
+        },
+        {
+          "emoji": "🤡",
+          "count": "4"
+        }
+      ],
+      "views_label": "3.69K",
+      "posted_at": "2026-06-03T14:02:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/96302"
+    },
+    {
+      "id": "Media_HB/96301",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5870998780693717336\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><tg-emoji emoji-id=\"5870699949754162502\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><b>روبیو:<br><br>اجازه ورود افراد مرتبط با سپاه پاسداران رو به آمریکا نمیدیم.</b>",
+      "plain_text": "💢💢روبیو: اجازه ورود افراد مرتبط با سپاه پاسداران رو به آمریکا نمیدیم.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/96301",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/bhFqtoSIWX8M4KEfyCCrMePhuiCFNr44I1XZXz_aQmBDTN8GixKtxBswUtyrAe3xLN7GjJUsod-im_4CnSFnrWCxJKSY9igo1HCkuKX4c-ln97Zv7aL8P8QND_TevO_-UkstN5fldI5hYj5l2ZQSdZfOuCSbgNczO91MR19SZ6ZPBuoH-YGm5BhGghancM3oIy_aFUMNTMwqcqDHINI1PNe1z-mhA4ZvdVhec5kanYNrrFcJult9pi388xCfgMkhG58J5SIyC0axpGrrB_MsDBtEawnfOkK5gOyK2_vwCgut5EgEqmvv_rr-AoBlest3Dbz1ltPyfmgOqOy99ARy0Q.jpg",
+          "thumbnail_path": "channels/media_hb/media/7bdc3f229ca495f1d2dba1d8.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "191"
+        },
+        {
+          "emoji": "❤",
+          "count": "15"
+        },
+        {
+          "emoji": "🤣",
+          "count": "6"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
+        }
+      ],
+      "views_label": "4.7K",
+      "posted_at": "2026-06-03T13:33:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/96301"
+    },
+    {
+      "id": "Media_HB/96300",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>ارتش کویت: ما ۱۳ موشک بالستیک  و ۱۷ پهپاد را شناسایی کردیم  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>یک مقیم هندی جان باخت و شماری از افراد زخمی شدند، همچنین خسارات مادی سنگینی وارد شده است.",
+      "plain_text": "🔴ارتش کویت: ما ۱۳ موشک بالستیک و ۱۷ پهپاد را شناسایی کردیم 🔻یک مقیم هندی جان باخت و شماری از افراد زخمی شدند، همچنین خسارات مادی سنگینی وارد شده است.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "169"
+        },
+        {
+          "emoji": "👍",
+          "count": "9"
+        },
+        {
+          "emoji": "😁",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
+        },
+        {
+          "emoji": "🤡",
+          "count": "1"
+        }
+      ],
+      "views_label": "5.96K",
+      "posted_at": "2026-06-03T12:24:59+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/96300"
+    },
+    {
+      "id": "Media_HB/96298",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>وزارت بهداشت کویت: حداقل ۶۳ نفر در حمله ایران به این کشور زخمی شدند<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i>",
+      "plain_text": "🔻وزارت بهداشت کویت: حداقل ۶۳ نفر در حمله ایران به این کشور زخمی شدند‼️",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "82"
+        },
+        {
+          "emoji": "💔",
+          "count": "8"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
         },
         {
           "emoji": "😭",
           "count": "1"
         }
       ],
-      "views_label": "2.23K",
+      "views_label": "6.3K",
+      "posted_at": "2026-06-03T12:12:40+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/96298"
+    },
+    {
+      "id": "Media_HB/96296",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>[مسعود پیاهو]، فردی که این ویدیو معروف از نشستن یه معترض جلوی مأمورین تو اعتراضات دی‌ماه 1404 رو گرفته بود، به 10 سال زندان محکوم شد.</b></div>",
+      "plain_text": "🔴[مسعود پیاهو]، فردی که این ویدیو معروف از نشستن یه معترض جلوی مأمورین تو اعتراضات دی‌ماه 1404 رو گرفته بود، به 10 سال زندان محکوم شد.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/96297?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/dC3TPGV7Nj20SE4e1kb-Y5LPvIpNwQ1Qtn08cXVo0DGnWkAL7eRFhVS9W8VaIQKaRoYh_4DS0QKj4FR0snKAtLtSPKq0ULEg5aJ5T_1yeNsQrlGM1QJ5DL-QowFQmCaSmHtkIMLvtC9AI0gWHCLD7Mp3j7Mvn3CvjKdUrh7Z1WklPaC0G4j7w9hOrQPwGOPCILOKO9JCFHDlL8P-ZN0Ya3kIBfRDFv3m3BT_JelxvurXSKNXAw3uUIiEldK94yPmqaNVPkP3TH7IlM6WCNys6ZOSxlm_k4TMdt9H4IhCCDvo7NPYdEmjC9-CrBPMEAdbVZ4F_yorctMxJfnslswBiA.jpg",
+          "thumbnail_path": "channels/media_hb/media/3a0b342feed1ea352712815f.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.0113780025284
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/96296?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZbgWrVtQWQVeJkV_BLJzLlz8vOBQ9IxLspu1b089Uajp0-V299pRYG63t8Ge8ovKWEzkkXD218So-EzReggBodmKnVLvBK5RvR0RTLm0O481MoUZPyhOkywZy4-ipwUyEndSRvWPtT-m1k5snAAPn8nqbT2VrCw1sf-STdhO5dXtb-oJ9hW3cACFZYX6TtWlbHBm5C-uCoK-2xNIy_TC0V0Ng_zLj9HECfZF1LLmQfUmHdI7YnFqlfS6mwO5CBK6sinBB89c4ENl4KpiiOFxWRmMhiHnjAJpWQc7_PpvJPp3bQU8v5EC4MpyVJmYQ3DhIuUWDWKsGgybYzqsBh2PUg",
+          "thumbnail_path": "channels/media_hb/media/abdc27e9ebbbea762d2f4f7c.jpg",
+          "duration_label": "0:39",
+          "aspect_ratio": null
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "227"
+        },
+        {
+          "emoji": "🤬",
+          "count": "12"
+        },
+        {
+          "emoji": "😭",
+          "count": "9"
+        },
+        {
+          "emoji": "🤣",
+          "count": "8"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        }
+      ],
+      "views_label": "6.86K",
+      "posted_at": "2026-06-03T11:49:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/96296"
+    },
+    {
+      "id": "Media_HB/96295",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>وزارت خارجه کویت: یک نفر در حمله دیشب کشته شد<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i>",
+      "plain_text": "🔴وزارت خارجه کویت: یک نفر در حمله دیشب کشته شد‼️",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "83"
+        },
+        {
+          "emoji": "💔",
+          "count": "25"
+        },
+        {
+          "emoji": "😐",
+          "count": "3"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        },
+        {
+          "emoji": "😭",
+          "count": "1"
+        }
+      ],
+      "views_label": "7.32K",
       "posted_at": "2026-06-03T10:58:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/96295"
@@ -44,18 +417,22 @@
     {
       "id": "Media_HB/96294",
       "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>نیویورک پست:  ترامپ تأیید کرد که در تماس تلفنی روز دوشنبه، بنیامین نتانیاهو را «دیوانهٔ لعنتی» خطاب کرده، اما تأکید کرد که آن دو «بسیار خوب با هم کار کرده‌اند».  ترامپ گفت: «از جنگیدن مداومش با لبنان کمی آزرده شدم.»   ترامپ پس از تأیید خبر خشم خود مبنی بر…",
       "plain_text": "🔴نیویورک پست: ترامپ تأیید کرد که در تماس تلفنی روز دوشنبه، بنیامین نتانیاهو را «دیوانهٔ لعنتی» خطاب کرده، اما تأکید کرد که آن دو «بسیار خوب با هم کار کرده‌اند». ترامپ گفت: «از جنگیدن مداومش با لبنان کمی آزرده شدم.» ترامپ پس از تأیید خبر خشم خود مبنی بر…",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "56"
+          "count": "102"
+        },
+        {
+          "emoji": "💔",
+          "count": "2"
         }
       ],
-      "views_label": "2.88K",
+      "views_label": "7.41K",
       "posted_at": "2026-06-03T10:51:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/96294"
@@ -63,30 +440,34 @@
     {
       "id": "Media_HB/96293",
       "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>نیویورک پست:<br><br>ترامپ تأیید کرد که در تماس تلفنی روز دوشنبه، بنیامین نتانیاهو را «دیوانهٔ لعنتی» خطاب کرده، اما تأکید کرد که آن دو «بسیار خوب با هم کار کرده‌اند».<br><br>ترامپ گفت: «از جنگیدن مداومش با لبنان کمی آزرده شدم.» <br><br>ترامپ پس از تأیید خبر خشم خود مبنی بر اینکه از نتانیاهو خواسته آتش‌بس کند، تأکید کرد: «ما خیلی خوب با هم کار کردهایم. خیلی بیبی را دوست دارم و با او خیلی خوب کار میکنم.»</b>",
       "plain_text": "🔴نیویورک پست: ترامپ تأیید کرد که در تماس تلفنی روز دوشنبه، بنیامین نتانیاهو را «دیوانهٔ لعنتی» خطاب کرده، اما تأکید کرد که آن دو «بسیار خوب با هم کار کرده‌اند». ترامپ گفت: «از جنگیدن مداومش با لبنان کمی آزرده شدم.» ترامپ پس از تأیید خبر خشم خود مبنی بر اینکه از نتانیاهو خواسته آتش‌بس کند، تأکید کرد: «ما خیلی خوب با هم کار کردهایم. خیلی بیبی را دوست دارم و با او خیلی خوب کار میکنم.»",
       "media": [],
       "reactions": [
         {
           "emoji": "🤡",
-          "count": "74"
+          "count": "109"
         },
         {
           "emoji": "👍",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "❤",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "🔥",
-          "count": "1"
+          "count": "2"
+        },
+        {
+          "emoji": "🤣",
+          "count": "2"
         }
       ],
-      "views_label": "4.17K",
+      "views_label": "7.99K",
       "posted_at": "2026-06-03T10:29:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/96293"
@@ -94,26 +475,26 @@
     {
       "id": "Media_HB/96292",
       "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>ترامپ:من این افتخار را نداشته‌ام که با آیت‌الله ملاقات کنم.<br>او حالش خوب نیست؛ بخش‌های زیادی از بدنش را کم دارد</b>.",
       "plain_text": "🔴ترامپ:من این افتخار را نداشته‌ام که با آیت‌الله ملاقات کنم. او حالش خوب نیست؛ بخش‌های زیادی از بدنش را کم دارد.",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "284"
+          "count": "407"
         },
         {
           "emoji": "😐",
-          "count": "9"
+          "count": "14"
         },
         {
           "emoji": "💔",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "4.78K",
+      "views_label": "8.35K",
       "posted_at": "2026-06-03T10:25:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/96292"
@@ -121,30 +502,30 @@
     {
       "id": "Media_HB/96291",
       "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i><b>صدای انفجار های بندرعباس صدای معدوم سازی مهمات عمل نکرده اس</b>",
       "plain_text": "🔹صدای انفجار های بندرعباس صدای معدوم سازی مهمات عمل نکرده اس",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "53"
+          "count": "73"
         },
         {
           "emoji": "👍",
           "count": "3"
         },
         {
-          "emoji": "🥰",
+          "emoji": "❤",
           "count": "2"
         },
         {
-          "emoji": "❤",
-          "count": "1"
+          "emoji": "🥰",
+          "count": "2"
         }
       ],
-      "views_label": "4.66K",
+      "views_label": "7.87K",
       "posted_at": "2026-06-03T10:21:15+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/96291"
@@ -152,27 +533,27 @@
     {
       "id": "Media_HB/96290",
       "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>ترامپ: رهبر ایران درگیر مذاکرات کنونی با ما است و ممکن است در مقطعی با او دیدار کنم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>ایران موافقت کرده است که سلاح هسته‌ای نداشته باشد.</b>",
       "plain_text": "🔴ترامپ: رهبر ایران درگیر مذاکرات کنونی با ما است و ممکن است در مقطعی با او دیدار کنم 🔻ایران موافقت کرده است که سلاح هسته‌ای نداشته باشد.",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "143"
+          "count": "172"
         },
         {
           "emoji": "🤡",
-          "count": "8"
+          "count": "11"
         },
         {
           "emoji": "😐",
-          "count": "4"
+          "count": "6"
         },
         {
           "emoji": "❤",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "👍",
@@ -183,7 +564,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.12K",
+      "views_label": "8.24K",
       "posted_at": "2026-06-03T10:14:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/96290"
@@ -191,19 +572,19 @@
     {
       "id": "Media_HB/96289",
       "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><b>اینو خطاب به اونایی که به مجری محبوب مردم جناب شهبازی تجاوز کردن میگم البته اگه خبرش کصشعر نباشه </b><br><blockquote><tg-spoiler><b>فیلمشو پخش کنین جیگرمون حال بیاد با سپاس</b></tg-spoiler></blockquote>",
       "plain_text": "‼️اینو خطاب به اونایی که به مجری محبوب مردم جناب شهبازی تجاوز کردن میگم البته اگه خبرش کصشعر نباشه فیلمشو پخش کنین جیگرمون حال بیاد با سپاس",
       "media": [],
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "269"
+          "count": "336"
         },
         {
           "emoji": "👍",
-          "count": "34"
+          "count": "38"
         },
         {
           "emoji": "🔥",
@@ -211,14 +592,14 @@
         },
         {
           "emoji": "❤",
-          "count": "6"
+          "count": "8"
         },
         {
           "emoji": "👎",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "6.01K",
+      "views_label": "8.72K",
       "posted_at": "2026-06-03T09:54:39+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/96289"
@@ -226,15 +607,15 @@
     {
       "id": "Media_HB/96288",
       "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>وزارت خارجه کویت: یک نفر در حمله دیشب کشته شد<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i></b>",
       "plain_text": "🔴وزارت خارجه کویت: یک نفر در حمله دیشب کشته شد‼️",
       "media": [],
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "108"
+          "count": "121"
         },
         {
           "emoji": "😐",
@@ -246,18 +627,18 @@
         },
         {
           "emoji": "❤",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "🤣",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "👍",
           "count": "1"
         }
       ],
-      "views_label": "6.85K",
+      "views_label": "8.9K",
       "posted_at": "2026-06-03T08:51:20+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/96288"
@@ -265,8 +646,8 @@
     {
       "id": "Media_HB/96286",
       "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vtmvWUZHKztuVpE-L-_nPnsURiV2H2sMFOdiAeOyMYGfg0LvqXL4J7GDgaTsjSd85IE2HtzcXwjRQO1Nsb0eKLUS1mP_JeQjWmtOe54LrSlGz5lSz3V1P5t-6Tka3hrT4KgSuDITaZiCx8jbn4Uz3Bl2vD1RJgRokcSQZorJIqT_P6WJsF-Hrzfm8DleNLvtBxfwF6ZIyf9YsqmY1xuZ0CSUugafo44x4SczJJspbt1-gAxPmkWjOKvbOaythRiRXuvfgQXaOymHnTL5GDxqgofxBVYeysbKuProQbBDi8Tfa_9kV4SFcYHIDBA78K1X-CiJExRqYXBSVoI6MSPh1g.jpg",
+      "author_photo_path": "channels/media_hb/media/83fd3e48107734f2433ab481.jpg",
       "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>تصاویر منتشر شده از فرودگاه بین المللی کویت پس از اصابت پرتابه های ایران</b></div>",
       "plain_text": "🔻تصاویر منتشر شده از فرودگاه بین المللی کویت پس از اصابت پرتابه های ایران",
       "media": [
@@ -292,30 +673,30 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "88"
+          "count": "99"
         },
         {
           "emoji": "🤣",
-          "count": "30"
+          "count": "32"
         },
         {
           "emoji": "🔥",
-          "count": "16"
+          "count": "17"
         },
         {
           "emoji": "🥰",
-          "count": "9"
+          "count": "10"
+        },
+        {
+          "emoji": "💔",
+          "count": "7"
         },
         {
           "emoji": "🤬",
           "count": "6"
-        },
-        {
-          "emoji": "💔",
-          "count": "6"
         }
       ],
-      "views_label": "7.93K",
+      "views_label": "9.55K",
       "posted_at": "2026-06-03T07:43:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/96286"
@@ -2974,358 +3355,6 @@
       "posted_at": "2026-06-02T17:51:51+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/96180"
-    },
-    {
-      "id": "Media_HB/96178",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
-      "body_html": "<tg-emoji emoji-id=\"4979249740525864097\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98A4.png')\"><b>😤</b></i></tg-emoji><b>دنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!</b><tg-emoji emoji-id=\"5017122105011995219\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29B94.png')\"><b>⛔</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5127470543674540818\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji>دربی بت همون انتخاب&nbsp; 100%<br><br><tg-emoji emoji-id=\"4999002445444023072\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i></tg-emoji>ویژگی های سایت جهانی Derby Bet:<br><tg-emoji emoji-id=\"5818733886309406917\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji>امکان شارژ امن با <b>کارت بانکی</b><br><tg-emoji emoji-id=\"5818733886309406917\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji>واریز اول دوبل شارژ می شوید(بونوس۱۰۰٪)<br><tg-emoji emoji-id=\"5818733886309406917\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji>پر اپشن ترین سایت فعال در ایران<br><tg-emoji emoji-id=\"5818733886309406917\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji>تسویه حساب کمتر از 5 دقیقه<br><tg-emoji emoji-id=\"5818733886309406917\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji>برگشت بخشی از باخت به صورت هفتگی<br><tg-emoji emoji-id=\"5267500801240092311\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD90.png')\"><b>⭐</b></i></tg-emoji>دارای لایسنس و مجوز anjuan<br><br><tg-emoji emoji-id=\"5819188770590693944\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji>کد هدیه ثبت نام:<b>GG007</b><br><br><tg-emoji emoji-id=\"5447644880824181073\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji><a href=\"https://t.me/derbybetm/18554\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">برای دانلود اپلکیشن کلیک کنید</a><tg-emoji emoji-id=\"5415758949129404605\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5458603043203327669\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9494.png')\"><b>🔔</b></i></tg-emoji>کانال دربی بت :<tg-emoji emoji-id=\"5231102735817918643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji> r12<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i><br><tg-emoji emoji-id=\"5852666765057724209\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><a href=\"https://t.me/+kpFvLD9kaeJhYTI0\" target=\"_blank\" rel=\"noopener\">https://t.me/+kpFvLD9kaeJhYTI0</a>",
-      "plain_text": "😤دنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!⛔ 👍دربی بت همون انتخاب 100% 💎ویژگی های سایت جهانی Derby Bet: ⬅️امکان شارژ امن با کارت بانکی ⬅️واریز اول دوبل شارژ می شوید(بونوس۱۰۰٪) ⬅️پر اپشن ترین سایت فعال در ایران ⬅️تسویه حساب کمتر از 5 دقیقه ⬅️برگشت بخشی از باخت به صورت هفتگی ⭐دارای لایسنس و مجوز anjuan 🚨کد هدیه ثبت نام:GG007 ⚠️برای دانلود اپلکیشن کلیک کنید👉 🔔کانال دربی بت :👇 r12🅰 ✅https://t.me/+kpFvLD9kaeJhYTI0",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/96178",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ZQ7GonwZz1amePcjjgZGahHRiX8bWsstNfXOii6UC4eWVbMAC6fdSjzkl0BYLGgiy44gO7oyXcYGz_KtHS51hfNIqGoYCJqGuiRe07ZuM4rnplfprGDlqBq8tEqe4nmY6KU5Y8RMaxGYsBknbV_eFyRbf5ClsNoAFnFZzCKd3NFEb3U2PwhljHT3X-OglsoRhSPS_Cu5ySuK5lW9706GynI2axIef4C1BxYx7NgnMpNn7WOLV_xGZaBGAg7pc9mJ4UVo9VR5iS6zWE1AfBu4XPJdEHWHmgOEm3vWNdwcLA-Aa7Z4vWH_ieSASuci5cyNrqsKICVFkwFmFydJnpKYAQ.jpg",
-          "thumbnail_path": "channels/media_hb/media/7732042e650b08360b97ec7c.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "6"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "4.97K",
-      "posted_at": "2026-06-02T17:49:35+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/96178"
-    },
-    {
-      "id": "Media_HB/96179",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5818928263644322035\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <b>اپلیکیشن حرفه ای اندروید سایت بین المللی دربی بت<br></b><b><tg-emoji emoji-id=\"5852666765057724209\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji></b><b>اسپانسر لیگ انگلستان<br></b><tg-emoji emoji-id=\"5818941887280584008\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i></tg-emoji><b>اولین سایت جهانی با امکان شارژ و برداشت با کارت بانکی<br></b><tg-emoji emoji-id=\"5972265777296838427\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i></tg-emoji><b> برای ورود فیلترشکن خاموش کنید</b><b><tg-emoji emoji-id=\"4956499161319998529\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9880.png')\"><b>😀</b></i></tg-emoji></b><b>Telegram Channel</b><tg-emoji emoji-id=\"5231102735817918643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><br><a href=\"https://t.me/+kpFvLD9kaeJhYTI0\" target=\"_blank\" rel=\"noopener\">https://t.me/+kpFvLD9kaeJhYTI0</a>",
-      "plain_text": "✅ اپلیکیشن حرفه ای اندروید سایت بین المللی دربی بت ✅اسپانسر لیگ انگلستان 💰اولین سایت جهانی با امکان شارژ و برداشت با کارت بانکی 🔹 برای ورود فیلترشکن خاموش کنید😀Telegram Channel👇 https://t.me/+kpFvLD9kaeJhYTI0",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "1"
-        }
-      ],
-      "views_label": "4.8K",
-      "posted_at": "2026-06-02T17:49:35+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/96179"
-    },
-    {
-      "id": "Media_HB/96177",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
-      "body_html": "پسرا منتظر شروع جام جهانین <br><br>ولی مردا منتظر پایانش. ما مثل هم نیستیم",
-      "plain_text": "پسرا منتظر شروع جام جهانین ولی مردا منتظر پایانش. ما مثل هم نیستیم",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "176"
-        },
-        {
-          "emoji": "👍",
-          "count": "67"
-        },
-        {
-          "emoji": "😁",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "4.98K",
-      "posted_at": "2026-06-02T17:46:05+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/96177"
-    },
-    {
-      "id": "Media_HB/96175",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>کانال ۱۲ اسرائیل:   ترامپ و نتانیاهو چند روز پیش یک تماس تلفنی محرمانه داشتند که در آن توافق کردند دستور تخلیه ضاحیه صادر شود، اما حمله اجرا نشود، تا در مذاکرات بر ایران فشار وارد شود.   ترامپ نگران بود که نتانیاهو ممکن است پس از بیانیه کاتس، به توافق پشت…",
-      "plain_text": "🔴کانال ۱۲ اسرائیل: ترامپ و نتانیاهو چند روز پیش یک تماس تلفنی محرمانه داشتند که در آن توافق کردند دستور تخلیه ضاحیه صادر شود، اما حمله اجرا نشود، تا در مذاکرات بر ایران فشار وارد شود. ترامپ نگران بود که نتانیاهو ممکن است پس از بیانیه کاتس، به توافق پشت…",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤡",
-          "count": "169"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "5.6K",
-      "posted_at": "2026-06-02T17:22:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/96175"
-    },
-    {
-      "id": "Media_HB/96174",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>کانال ۱۲ اسرائیل: <br><br>ترامپ و نتانیاهو چند روز پیش یک تماس تلفنی محرمانه داشتند که در آن توافق کردند دستور تخلیه ضاحیه صادر شود، اما حمله اجرا نشود، تا در مذاکرات بر ایران فشار وارد شود.<br><br> ترامپ نگران بود که نتانیاهو ممکن است پس از بیانیه کاتس، به توافق پشت کند و واقعاً به حومه شهر حمله کند.</b>",
-      "plain_text": "🔴کانال ۱۲ اسرائیل: ترامپ و نتانیاهو چند روز پیش یک تماس تلفنی محرمانه داشتند که در آن توافق کردند دستور تخلیه ضاحیه صادر شود، اما حمله اجرا نشود، تا در مذاکرات بر ایران فشار وارد شود. ترامپ نگران بود که نتانیاهو ممکن است پس از بیانیه کاتس، به توافق پشت کند و واقعاً به حومه شهر حمله کند.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤡",
-          "count": "261"
-        },
-        {
-          "emoji": "🤣",
-          "count": "23"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "😁",
-          "count": "1"
-        }
-      ],
-      "views_label": "5.77K",
-      "posted_at": "2026-06-02T17:21:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/96174"
-    },
-    {
-      "id": "Media_HB/96173",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5870745300313840282\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><tg-emoji emoji-id=\"5870699949754162502\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji> <b>ترامپ در مورد ایران:<br><br>گزارش‌های جعلی که ادعا می‌کنند جمهوری اسلامی ایران و ایالات متحده آمریکا چند روز پیش ارتباط خود را قطع کرده‌اند، نادرست و اشتباه است.<br><br>گفت‌وگوهای ما به طور مداوم ادامه داشته است، از جمله چهار روز پیش، سه روز پیش، دو روز پیش، یک روز پیش و امروز.<br><br>نتیجه این گفتگوها هر چه باشد، هیچ‌کس نمی‌داند، اما همانطور که به ایران گفتم، «زمان آن رسیده است که به هر نحوی یک توافق انجام دهید. شما ۴۷ سال است که این کار را انجام می‌دهید و دیگر نمی‌توان اجازه داد ادامه یابد!»</b>",
-      "plain_text": "💢💢 ترامپ در مورد ایران: گزارش‌های جعلی که ادعا می‌کنند جمهوری اسلامی ایران و ایالات متحده آمریکا چند روز پیش ارتباط خود را قطع کرده‌اند، نادرست و اشتباه است. گفت‌وگوهای ما به طور مداوم ادامه داشته است، از جمله چهار روز پیش، سه روز پیش، دو روز پیش، یک روز پیش و امروز. نتیجه این گفتگوها هر چه باشد، هیچ‌کس نمی‌داند، اما همانطور که به ایران گفتم، «زمان آن رسیده است که به هر نحوی یک توافق انجام دهید. شما ۴۷ سال است که این کار را انجام می‌دهید و دیگر نمی‌توان اجازه داد ادامه یابد!»",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/96173",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/FdaDIt7BEE8NIb0icIWvaQo6T20_WZPZMTMc8DVbxlgd6A4tKw13-6y6fISRdpIdOuSsvFexHAEP8Ki4k1ELn7j2xMsbfZ4SayGKZAPsM-K_F4a0pONC1IbTzJ65DVzprnHynsCWv9cfoiGkBgpNWaFwSwb0b5os6-jb2doN8tU_2IpnTNa_0blJt08DBvkHO6XFVSdrhkZTaxR6jJnHe-BIyB3kcokY7U_WBQDg7-KQX4s6AhPBxluWc2m4O-gUpwmDZwWRT9cmAm2W7r8ifIeucgvkTPMeVqGYOFurIHtkRm4AFhLT5hH_fnV-xBOzSJrJvzLMPA34jMeKc92R_g.jpg",
-          "thumbnail_path": "channels/media_hb/media/55174576e23b7f7e0516ac77.jpg",
-          "duration_label": null,
-          "aspect_ratio": 2.5396825396825395
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "70"
-        },
-        {
-          "emoji": "🤡",
-          "count": "31"
-        },
-        {
-          "emoji": "❤",
-          "count": "8"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "6.09K",
-      "posted_at": "2026-06-02T17:07:23+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/96173"
-    },
-    {
-      "id": "Media_HB/96172",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
-      "body_html": "رویترز کی همچین خبری زده فیک نیوز؟<br><br><a href=\"?q=%23Behdad\">#Behdad</a>",
-      "plain_text": "رویترز کی همچین خبری زده فیک نیوز؟ #Behdad",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/96172",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/W5qy8wb2ypGCuJZh4IO9e1ni5LHGjpEAjJvDDnOt74Kj26K5n17P9fPpiTJEOF4mmTaeyMxjz-cbryxwip3KF_J3z01njQ0hmV2LE6r-0GeCWIcIkEvl0BeeEHew7zYDs6eKZuZTgoR847gXsHDtdKYcmBqYxxI0slHk9mD1XcckEld73zrK12po7o28X0uacFA5Ah2xwcsE-6WGFBv6Dz1W4dmW7i--iB-WYFITQadQfxJ_pL9S5Z7qD36SHjxm8D78HtYMb7d5caAMO4Kpwb06aVCKbrOrSKITZJBE43kRN4NOGj7aGMpB8wMU8GCxCzWWi4qpOhGBwdTMuhJYtQ.jpg",
-          "thumbnail_path": "channels/media_hb/media/21bb96209172aa959bad359b.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8199999999999672
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "175"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        },
-        {
-          "emoji": "🤬",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "😁",
-          "count": "1"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        }
-      ],
-      "views_label": "5.78K",
-      "posted_at": "2026-06-02T16:01:28+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/96172"
-    },
-    {
-      "id": "Media_HB/96171",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5873218969548103759\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BC.png')\"><b>🔼</b></i></tg-emoji>دوستان از الان به مدت فقط ۳ ساعت قیمت سرور های نامحدود از ۶۸۰ به ۵۶۰ میرسه.    <tg-emoji emoji-id=\"5870496295289888254\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪</b></i></tg-emoji>کد تخفیفتون هم “بی بی گل” هستش  <tg-emoji emoji-id=\"5841276284155467413\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A4.png')\"><b>🔤</b></i></tg-emoji>@Behdad_sps",
-      "plain_text": "🔼دوستان از الان به مدت فقط ۳ ساعت قیمت سرور های نامحدود از ۶۸۰ به ۵۶۰ میرسه. ▪کد تخفیفتون هم “بی بی گل” هستش 🔤@Behdad_sps",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "38"
-        },
-        {
-          "emoji": "❤",
-          "count": "6"
-        },
-        {
-          "emoji": "🥰",
-          "count": "2"
-        }
-      ],
-      "views_label": "5.92K",
-      "posted_at": "2026-06-02T15:51:13+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/96171"
-    },
-    {
-      "id": "Media_HB/96170",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5870998780693717336\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><b>بیت کوین به شدت ریخت</b>",
-      "plain_text": "💢بیت کوین به شدت ریخت",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/96170",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/OrFf6vYapzWXcB430l7CGvE-02VqkKiPdMXg5l58rf2u0H7M8R1MgSxL2aOXUM4ZiJgQ5wHEJgWxwnQ5MSEO5bckJoJKFc_FNftwOeOq9HmK5_DcvNSp6NBynn2_MjLqMljLSA3o8N6uAf8qPmI0TKtxsaQ0IQkMGdX7-aR3d0B-DYjaKChklLJFL7-rzqKU5P0riVYjfvE55RPdfAVvZra0ce8MHtPk4SV5qaVt01zt-g8RKWQKG-LOQLshtJs_EYjnQ3xKd99UHqJ8kMnk7ptt11pxmnmXu6dGN67h5b44w4UmWBOr16XZtVe1-dSyO0vP7b0TRyFEX8JQRCu-Ng.jpg",
-          "thumbnail_path": "channels/media_hb/media/3f7d7cfd1fa82da624e746d4.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.837499999999978
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "55"
-        },
-        {
-          "emoji": "🔥",
-          "count": "5"
-        },
-        {
-          "emoji": "😐",
-          "count": "5"
-        },
-        {
-          "emoji": "❤",
-          "count": "4"
-        }
-      ],
-      "views_label": "5.97K",
-      "posted_at": "2026-06-02T15:45:34+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/96170"
-    },
-    {
-      "id": "Media_HB/96169",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EWF9uhuvcwO11yHR3bjXe2cDxvQz8WJ65cas5wv9slsPVQoTV0o0nwwsNM4_sTxTmcIv2D47FuTbu0NaKWE8LDXON0f6bQJqJXNDT2aax3vQi0OSApA1gLr_1sdHJZO34qWX_6LRCD9kSYvEFJjX6sOkIUIDOYMIauTcbO4koVaSISy76BKte2fXmNf-LDcCQuBTMqcOhPHzBMxLxgnWFQvVJClCYezA7W0KHj5Dmh7nZ_9WONQigG98vcy_X5JWgoWt4vsQKVoPT9mirgausSiZOCGs0zFld8ZRINwJPPfW3P1Cr7zqifA678cgHVxPbfqtI1XhPRj2_M6xDeWY9w.jpg",
-      "author_photo_path": "channels/media_hb/media/7e4201f488931af18668fce8.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5870998780693717336\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><tg-emoji emoji-id=\"5870496295289888254\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪</b></i></tg-emoji><b>روبیو، درباره رهبری : <br><br>رهبر قبلی دیگه تو صحنه نیست و عملاً کنار رفته، و پسرش جای او رو گرفته<br></b><blockquote><b>- اما نکته اینجاست که حدود یک ماهه هیچ خبری ازش نیست</b></blockquote><b><br></b><blockquote><b>- طبق گزارش‌های منتشرشده، اون در همون حمله به‌شدت آسیب دیده</b></blockquote><b><br></b><blockquote><b>- شما خودتون مطمئنید هنوز زنده‌ست؟ چون واقعیت اینه که ما هیچ حضور علنی یا صحبت عمومی ازش ندیدیم</b></blockquote><b><br></b><blockquote><b>- بنابراین تا جایی که اطلاعات عمومی نشون میده، وضعیتش کاملاً مبهمه و عملاً خبری از حضورش نیست.</b></blockquote>",
-      "plain_text": "💢▪روبیو، درباره رهبری : رهبر قبلی دیگه تو صحنه نیست و عملاً کنار رفته، و پسرش جای او رو گرفته - اما نکته اینجاست که حدود یک ماهه هیچ خبری ازش نیست - طبق گزارش‌های منتشرشده، اون در همون حمله به‌شدت آسیب دیده - شما خودتون مطمئنید هنوز زنده‌ست؟ چون واقعیت اینه که ما هیچ حضور علنی یا صحبت عمومی ازش ندیدیم - بنابراین تا جایی که اطلاعات عمومی نشون میده، وضعیتش کاملاً مبهمه و عملاً خبری از حضورش نیست.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/96169",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/vTEQNFkcTS0wzZ18GgCLYl4QXpsK_FiUSVHdjQWvUiPq05Hn_hUrK_liWQBUNQxIdPTzrv4X6fbpyTI9Kqe4yLlh23LDzDsPfESmT1URm1pnMIkQEqI8oKCvFpCjBmILjI8fFc96MPaZRSVJR3CFesRUK6AW99tihq3ieD6dI4bdz_ilaQdEuMpafBX291yHsRkF7KUHUvpzCcMB5XHRkFlhHUJKYlYciXRSN12sileyRWbCcbr6tFrO-RjJ_IXEdnmeUfTXfWYGev7ni5DVqiL1h6W9Qxst0IPEU6nLZVp71aj40UtP4FcDglOR97gWZ82qI5Tq2BzGqvcyobebCA",
-          "thumbnail_path": "channels/media_hb/media/9a8bc6745f2c1c1371bfe7c1.jpg",
-          "duration_label": "0:26",
-          "aspect_ratio": 1.7763157894736936
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "118"
-        },
-        {
-          "emoji": "👍",
-          "count": "5"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        },
-        {
-          "emoji": "🤩",
-          "count": "1"
-        }
-      ],
-      "views_label": "6.34K",
-      "posted_at": "2026-06-02T15:08:38+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/96169"
     }
   ]
 }

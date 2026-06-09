@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-06-09T14:08:22.642Z",
+  "fetched_at": "2026-06-09T14:10:03.337Z",
   "channel": {
     "username": "media_hb",
     "title": "اخبار جنگ | مدیا هاب",
@@ -11,6 +11,20 @@
   },
   "posts": [
     {
+      "id": "Media_HB/97414",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/TekGZrFLKW3OmtqQ9OWT8RLOSOuxhD20J5UsEDI2XoxdDSWcMuVMCNdPkpSLhwMtAsUrbZGZqOTsV-A4bWaPe5VBMlMrhs296lUPXwAHMJxyOWGs2M62NUcL1c_2KnPtMt0V-ZJvpN_CZwCVL2tIawBZhNIkSz34jkcJt7MUjlzw59TlHx__qGF-NMyITM4GRDCdm26Pu0RsPzfx-Qodw4lSZE8ubk53MeIwOqamkIO5kTRFk-hQNV5wN4CG1UxMiAkzRosvIVwCrDYH1daMaaNzaO9CuZ8NatKhfM_ZRarDNQK5hKCamrbbpQGh8xOKJRxogUMT9eDCGYYx3g20Sw.jpg",
+      "author_photo_path": "channels/media_hb/media/c4410b3e7ef3745f62551cda.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>وزیر انرژی آمریکا:<br><br> تردد کشتی ها از طریق تنگه هرمز به میزان قابل توجهی در حال افزایش است</b>",
+      "plain_text": "🔴وزیر انرژی آمریکا: تردد کشتی ها از طریق تنگه هرمز به میزان قابل توجهی در حال افزایش است",
+      "media": [],
+      "reactions": [],
+      "views_label": "312",
+      "posted_at": "2026-06-09T14:08:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/97414"
+    },
+    {
       "id": "Media_HB/97413",
       "author_name": "اخبار جنگ | مدیا هاب",
       "author_photo_url": "https://cdn4.telesco.pe/file/TekGZrFLKW3OmtqQ9OWT8RLOSOuxhD20J5UsEDI2XoxdDSWcMuVMCNdPkpSLhwMtAsUrbZGZqOTsV-A4bWaPe5VBMlMrhs296lUPXwAHMJxyOWGs2M62NUcL1c_2KnPtMt0V-ZJvpN_CZwCVL2tIawBZhNIkSz34jkcJt7MUjlzw59TlHx__qGF-NMyITM4GRDCdm26Pu0RsPzfx-Qodw4lSZE8ubk53MeIwOqamkIO5kTRFk-hQNV5wN4CG1UxMiAkzRosvIVwCrDYH1daMaaNzaO9CuZ8NatKhfM_ZRarDNQK5hKCamrbbpQGh8xOKJRxogUMT9eDCGYYx3g20Sw.jpg",
@@ -18,8 +32,13 @@
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>آکسیوس به گفته مقامات آمریکایی:   در حال بررسی هستیم که آیا تیراندازی ایران باعث سقوط بالگرد آپاچی در نزدیکی تنگه هرمز در روز دوشنبه شده است یا خیر.",
       "plain_text": "🔴آکسیوس به گفته مقامات آمریکایی: در حال بررسی هستیم که آیا تیراندازی ایران باعث سقوط بالگرد آپاچی در نزدیکی تنگه هرمز در روز دوشنبه شده است یا خیر.",
       "media": [],
-      "reactions": [],
-      "views_label": "250",
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "558",
       "posted_at": "2026-06-09T14:07:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97413"
@@ -35,7 +54,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "24"
+          "count": "26"
         },
         {
           "emoji": "🤣",
@@ -46,7 +65,7 @@
           "count": "2"
         }
       ],
-      "views_label": "2.18K",
+      "views_label": "2.43K",
       "posted_at": "2026-06-09T13:45:44+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97412"
@@ -73,7 +92,7 @@
           "count": "5"
         }
       ],
-      "views_label": "7.11K",
+      "views_label": "7.17K",
       "posted_at": "2026-06-09T10:50:11+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97411"
@@ -99,7 +118,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "594"
+          "count": "595"
         },
         {
           "emoji": "😭",
@@ -126,7 +145,7 @@
           "count": "2"
         }
       ],
-      "views_label": "8.25K",
+      "views_label": "8.31K",
       "posted_at": "2026-06-09T09:55:02+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/97410"
@@ -152,11 +171,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "333"
+          "count": "334"
         },
         {
           "emoji": "💔",
-          "count": "93"
+          "count": "94"
         },
         {
           "emoji": "🔥",
@@ -175,7 +194,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.07K",
+      "views_label": "9.17K",
       "posted_at": "2026-06-09T09:08:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97405"
@@ -191,7 +210,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "145"
+          "count": "146"
         },
         {
           "emoji": "❤",
@@ -206,7 +225,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.07K",
+      "views_label": "9.1K",
       "posted_at": "2026-06-09T08:50:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97403"
@@ -222,7 +241,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "132"
+          "count": "133"
         },
         {
           "emoji": "❤",
@@ -237,7 +256,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.93K",
+      "views_label": "8.99K",
       "posted_at": "2026-06-09T08:49:29+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/97402"
@@ -268,7 +287,7 @@
           "count": "2"
         }
       ],
-      "views_label": "8.85K",
+      "views_label": "8.91K",
       "posted_at": "2026-06-09T08:44:19+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/97401"
@@ -301,7 +320,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.61K",
+      "views_label": "8.64K",
       "posted_at": "2026-06-09T08:42:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97399"
@@ -350,7 +369,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.89K",
+      "views_label": "7.92K",
       "posted_at": "2026-06-09T08:37:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97397"
@@ -366,7 +385,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "229"
+          "count": "230"
         },
         {
           "emoji": "😁",
@@ -377,7 +396,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.19K",
+      "views_label": "8.25K",
       "posted_at": "2026-06-09T08:32:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97396"
@@ -393,7 +412,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "201"
+          "count": "202"
         },
         {
           "emoji": "😐",
@@ -408,7 +427,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.88K",
+      "views_label": "8.91K",
       "posted_at": "2026-06-09T07:37:15+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97395"
@@ -424,7 +443,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "157"
+          "count": "158"
         },
         {
           "emoji": "❤",
@@ -443,7 +462,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.23K",
+      "views_label": "9.26K",
       "posted_at": "2026-06-09T07:02:44+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97394"
@@ -459,7 +478,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "363"
+          "count": "365"
         },
         {
           "emoji": "😭",
@@ -478,7 +497,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.09K",
+      "views_label": "9.12K",
       "posted_at": "2026-06-09T07:01:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97393"
@@ -724,7 +743,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.03K",
+      "views_label": "8.06K",
       "posted_at": "2026-06-09T06:07:55+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97387"
@@ -750,7 +769,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "69"
+          "count": "70"
         },
         {
           "emoji": "❤",
@@ -765,7 +784,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.16K",
+      "views_label": "8.19K",
       "posted_at": "2026-06-09T06:00:36+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/97386"
@@ -3079,33 +3098,6 @@
       "posted_at": "2026-06-08T15:26:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/97287"
-    },
-    {
-      "id": "Media_HB/97286",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dHylHut54UuiS709OVz5Wh1Rtt_cy-C0GgnIze0yG9ca6vpF3k63PBLdx6bEmCduelOjZaJbFTlmULjaB0pTWtTVo060OjRXWjbGrIYUXIQYKMFsUIiebMKNru9I1YFIFrc6Li30vfWpSjB-UZx3DdkvKT22hImN7HKKwZOp_6FcmKh7NUThLKn5_mS1TirBktyeKVUrDfmnLFCfTHywRCXovJmUx0LN2x-41ydJ3vy6EugIDz9ejeasEQ8spH7ct-kVmfn26L2Z9vb8z-IZ_buYA1rByOC6HyuW6BgsYiVVL2VGXGUoAkf4hkmYMirVDT5k1-Gz6X7heR37BgonxA.jpg",
-      "author_photo_path": "channels/media_hb/media/e21b610b22428435c2a469de.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>نتانیاهو: اگر به موقع و با قدرت اقدام نمی‌کردیم، امروز اینجا نبودیم؛ من تعهد می‌دهم و بار دیگر تعهد می‌کنم که ایران سلاح هسته‌ای نخواهد داشت.  ایران و حزب‌الله ضعیف‌تر از همیشه هستند، اما درگیری هنوز به پایان نرسیده است.  ایران نمی‌تواند معادلات را به ما…",
-      "plain_text": "🔴نتانیاهو: اگر به موقع و با قدرت اقدام نمی‌کردیم، امروز اینجا نبودیم؛ من تعهد می‌دهم و بار دیگر تعهد می‌کنم که ایران سلاح هسته‌ای نخواهد داشت. ایران و حزب‌الله ضعیف‌تر از همیشه هستند، اما درگیری هنوز به پایان نرسیده است. ایران نمی‌تواند معادلات را به ما…",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "72"
-        },
-        {
-          "emoji": "🤣",
-          "count": "14"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "8.86K",
-      "posted_at": "2026-06-08T15:24:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/97286"
     }
   ]
 }

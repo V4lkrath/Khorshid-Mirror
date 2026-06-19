@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-06-19T14:30:17.672Z",
+  "fetched_at": "2026-06-19T14:54:14.611Z",
   "channel": {
     "username": "iranianminds",
     "title": "Iranian Minds",
@@ -10,6 +10,39 @@
     "subscriber_count": "246K"
   },
   "posts": [
+    {
+      "id": "IranianMinds/22953",
+      "author_name": "Iranian Minds",
+      "author_photo_url": "https://cdn4.telesco.pe/file/pMk1iZbrOerWHb1SaAV_vqzYTkrQhsEo9qF8iufTzZQFeDYpw3NCWkJN1gsptf5IylYDZ4vQqyZv8XTcw3pFW6FRz648mpPPqH4OYhUmTDBWTzuS_oK5KVKFWDPTmza9Kl0U7JevhxY-IThUpHlOBDR3ckOiynNsZ1s5Wb6aBNG-jUNMO4YwPCUYaJCHP5H2Z_Qm5KBVKBMUU7nvwp0aeDVImHjyQH5rz9pVSQKvMKz494AC57o2puoFpYuiFmXz8iLb-m6LGDHRV9iG1Gi3fkH5HLuegjgY3XV8u-OfU5BeGH22EuVMaROU-d-qixz5U3tpAjvbnO-HMle0nlwq8Q.jpg",
+      "author_photo_path": "channels/iranianminds/media/90f4c133ce6117e5da6cbe53.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>این دیگه چیه؟ شیر هست؟ واجبی بهش زدن؟<br><br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
+      "plain_text": "🔴این دیگه چیه؟ شیر هست؟ واجبی بهش زدن؟ @IranianMinds",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranianMinds/22953",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/V3CtbeZFD9KNjcHEON-vkXLWK_PBOTe5PQ8x2a3rxEP6EOSAiB0Tdm0jBxR3k3PhxhDC2YluFH-TEFjZvQAvd1L73LgYC7fIuDZRIIjjcqfOP6AoMAznI3ZvK2r5vEBOHrZNbwlsDCP-ehDh7EryrNoJK0B2abl9F46iIP9kQbiVFcFZ8rPz75ikhpc3D13nBBJG5ieCGJTx4meYNFHkGCD3r_0P-eAWYVlFmcFyD0ep115IuUP33OujMILIbMvzxGu0jf11veppv0HzybqutKAihfkdQhh14PXwA1BzyGzO2B2ss2zOl42zonnqU8FeSjH8z8C-KdxcD_lj0OTy1A",
+          "thumbnail_path": "channels/iranianminds/media/acf3476cc97bde187a34f29f.jpg",
+          "duration_label": "0:48",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "143"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        }
+      ],
+      "views_label": "4.94K",
+      "posted_at": "2026-06-19T14:46:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranianMinds/22953"
+    },
     {
       "id": "IranianMinds/22952",
       "author_name": "Iranian Minds",
@@ -21,15 +54,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "259"
+          "count": "352"
+        },
+        {
+          "emoji": "🖕",
+          "count": "11"
         },
         {
           "emoji": "💔",
           "count": "9"
-        },
-        {
-          "emoji": "🖕",
-          "count": "7"
         },
         {
           "emoji": "❤",
@@ -37,10 +70,10 @@
         },
         {
           "emoji": "🤬",
-          "count": "5"
+          "count": "6"
         }
       ],
-      "views_label": "10.4K",
+      "views_label": "15.4K",
       "posted_at": "2026-06-19T14:00:56+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22952"
@@ -66,15 +99,15 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "310"
+          "count": "393"
         },
         {
           "emoji": "❤",
-          "count": "13"
+          "count": "14"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "👍",
@@ -86,14 +119,18 @@
         },
         {
           "emoji": "💔",
+          "count": "4"
+        },
+        {
+          "emoji": "👎",
           "count": "2"
         },
         {
           "emoji": "🖕",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "12.5K",
+      "views_label": "17.4K",
       "posted_at": "2026-06-19T13:52:12+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22951"
@@ -119,11 +156,11 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "874"
+          "count": "1.03K"
         },
         {
           "emoji": "🤣",
-          "count": "35"
+          "count": "46"
         },
         {
           "emoji": "🔥",
@@ -135,7 +172,7 @@
         },
         {
           "emoji": "👎",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "👏",
@@ -143,14 +180,14 @@
         },
         {
           "emoji": "🖕",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "💔",
           "count": "1"
         }
       ],
-      "views_label": "15.6K",
+      "views_label": "19.9K",
       "posted_at": "2026-06-19T13:41:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22950"
@@ -166,26 +203,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "667"
+          "count": "717"
         },
         {
           "emoji": "🖕",
-          "count": "12"
+          "count": "13"
         },
         {
           "emoji": "❤",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "👍",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "🤬",
           "count": "1"
         }
       ],
-      "views_label": "21.1K",
+      "views_label": "24.1K",
       "posted_at": "2026-06-19T13:13:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22949"
@@ -201,7 +238,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "679"
+          "count": "725"
         },
         {
           "emoji": "🤬",
@@ -209,22 +246,22 @@
         },
         {
           "emoji": "🖕",
-          "count": "26"
+          "count": "28"
         },
         {
           "emoji": "❤",
-          "count": "3"
+          "count": "5"
         },
         {
           "emoji": "😍",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "💔",
           "count": "3"
         }
       ],
-      "views_label": "23.5K",
+      "views_label": "26.3K",
       "posted_at": "2026-06-19T13:07:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22948"
@@ -250,11 +287,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "404"
+          "count": "436"
         },
         {
           "emoji": "🖕",
-          "count": "76"
+          "count": "82"
         },
         {
           "emoji": "❤",
@@ -265,7 +302,7 @@
           "count": "5"
         }
       ],
-      "views_label": "23.3K",
+      "views_label": "25.8K",
       "posted_at": "2026-06-19T13:06:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22947"
@@ -281,30 +318,30 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "672"
+          "count": "702"
         },
         {
           "emoji": "🖕",
-          "count": "48"
+          "count": "49"
         },
         {
           "emoji": "❤",
-          "count": "5"
+          "count": "7"
         },
         {
           "emoji": "🤬",
-          "count": "5"
+          "count": "6"
+        },
+        {
+          "emoji": "👎",
+          "count": "3"
         },
         {
           "emoji": "💔",
           "count": "3"
-        },
-        {
-          "emoji": "👎",
-          "count": "2"
         }
       ],
-      "views_label": "24.2K",
+      "views_label": "26.5K",
       "posted_at": "2026-06-19T12:56:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22946"
@@ -330,19 +367,19 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "651"
+          "count": "690"
         },
         {
           "emoji": "🖕",
-          "count": "101"
+          "count": "107"
         },
         {
           "emoji": "👍",
-          "count": "20"
+          "count": "21"
         },
         {
           "emoji": "❤",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "🤬",
@@ -361,7 +398,7 @@
           "count": "1"
         }
       ],
-      "views_label": "25K",
+      "views_label": "27.2K",
       "posted_at": "2026-06-19T12:51:32+00:00",
       "edited": true,
       "permalink": "https://t.me/IranianMinds/22945"
@@ -387,34 +424,34 @@
       "reactions": [
         {
           "emoji": "❤‍🔥",
-          "count": "541"
+          "count": "568"
         },
         {
           "emoji": "👍",
-          "count": "67"
+          "count": "70"
         },
         {
           "emoji": "❤",
-          "count": "29"
+          "count": "30"
         },
         {
           "emoji": "🖕",
-          "count": "8"
+          "count": "9"
+        },
+        {
+          "emoji": "🤬",
+          "count": "6"
         },
         {
           "emoji": "😍",
           "count": "6"
         },
         {
-          "emoji": "🤬",
-          "count": "5"
-        },
-        {
           "emoji": "🔥",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "24.8K",
+      "views_label": "26.5K",
       "posted_at": "2026-06-19T12:49:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22944"
@@ -440,11 +477,11 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "586"
+          "count": "613"
         },
         {
           "emoji": "🤣",
-          "count": "136"
+          "count": "144"
         },
         {
           "emoji": "❤‍🔥",
@@ -467,7 +504,7 @@
           "count": "2"
         }
       ],
-      "views_label": "24.4K",
+      "views_label": "26.1K",
       "posted_at": "2026-06-19T12:47:16+00:00",
       "edited": true,
       "permalink": "https://t.me/IranianMinds/22943"
@@ -483,15 +520,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "786"
+          "count": "799"
         },
         {
           "emoji": "❤",
-          "count": "12"
+          "count": "13"
         },
         {
           "emoji": "🖕",
-          "count": "8"
+          "count": "11"
         },
         {
           "emoji": "👍",
@@ -503,10 +540,10 @@
         },
         {
           "emoji": "🤬",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "27.1K",
+      "views_label": "28.7K",
       "posted_at": "2026-06-19T12:25:02+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22942"
@@ -532,19 +569,19 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "1.85K"
+          "count": "1.89K"
         },
         {
           "emoji": "❤",
-          "count": "226"
+          "count": "231"
         },
         {
           "emoji": "🤣",
-          "count": "64"
+          "count": "65"
         },
         {
           "emoji": "👍",
-          "count": "35"
+          "count": "36"
         },
         {
           "emoji": "🤬",
@@ -556,7 +593,7 @@
         },
         {
           "emoji": "❤‍🔥",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "🔥",
@@ -567,7 +604,7 @@
           "count": "2"
         }
       ],
-      "views_label": "34.5K",
+      "views_label": "35.9K",
       "posted_at": "2026-06-19T11:27:44+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22941"
@@ -593,7 +630,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "720"
+          "count": "727"
         },
         {
           "emoji": "🖕",
@@ -601,14 +638,18 @@
         },
         {
           "emoji": "❤",
-          "count": "10"
+          "count": "12"
         },
         {
           "emoji": "🤬",
           "count": "5"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
         }
       ],
-      "views_label": "33.5K",
+      "views_label": "34.8K",
       "posted_at": "2026-06-19T11:22:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22940"
@@ -634,30 +675,30 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "627"
+          "count": "632"
         },
         {
           "emoji": "❤",
-          "count": "32"
+          "count": "33"
         },
         {
           "emoji": "🖕",
-          "count": "21"
+          "count": "22"
         },
         {
           "emoji": "👎",
           "count": "2"
         },
         {
-          "emoji": "🤬",
+          "emoji": "🔥",
           "count": "2"
         },
         {
-          "emoji": "🔥",
-          "count": "1"
+          "emoji": "🤬",
+          "count": "2"
         }
       ],
-      "views_label": "36K",
+      "views_label": "36.9K",
       "posted_at": "2026-06-19T11:01:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22939"
@@ -683,15 +724,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "1.17K"
+          "count": "1.19K"
         },
         {
           "emoji": "🖕",
-          "count": "126"
+          "count": "129"
         },
         {
           "emoji": "❤",
-          "count": "17"
+          "count": "19"
         },
         {
           "emoji": "🤬",
@@ -699,11 +740,11 @@
         },
         {
           "emoji": "😍",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "👍",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "👎",
@@ -722,7 +763,7 @@
           "count": "1"
         }
       ],
-      "views_label": "41K",
+      "views_label": "41.5K",
       "posted_at": "2026-06-19T10:01:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22938"
@@ -748,15 +789,15 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "1.45K"
+          "count": "1.46K"
         },
         {
           "emoji": "🖕",
-          "count": "590"
+          "count": "593"
         },
         {
           "emoji": "🤣",
-          "count": "82"
+          "count": "83"
         },
         {
           "emoji": "🤬",
@@ -764,7 +805,7 @@
         },
         {
           "emoji": "❤",
-          "count": "13"
+          "count": "15"
         },
         {
           "emoji": "👎",
@@ -776,14 +817,14 @@
         },
         {
           "emoji": "🔥",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "👏",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "39K",
+      "views_label": "39.5K",
       "posted_at": "2026-06-19T09:26:17+00:00",
       "edited": true,
       "permalink": "https://t.me/IranianMinds/22937"
@@ -813,7 +854,7 @@
         },
         {
           "emoji": "🔥",
-          "count": "1.32K"
+          "count": "1.33K"
         },
         {
           "emoji": "❤‍🔥",
@@ -821,7 +862,7 @@
         },
         {
           "emoji": "🖕",
-          "count": "43"
+          "count": "45"
         },
         {
           "emoji": "🤣",
@@ -841,10 +882,10 @@
         },
         {
           "emoji": "🤬",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "37.9K",
+      "views_label": "38.5K",
       "posted_at": "2026-06-19T09:11:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22936"
@@ -859,11 +900,11 @@
       "media": [],
       "reactions": [
         {
-          "emoji": "❤",
-          "count": "3"
+          "emoji": "👎",
+          "count": "4"
         },
         {
-          "emoji": "👎",
+          "emoji": "❤",
           "count": "3"
         },
         {
@@ -871,7 +912,7 @@
           "count": "1"
         }
       ],
-      "views_label": "36.3K",
+      "views_label": "36.7K",
       "posted_at": "2026-06-19T09:11:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22934"
@@ -895,10 +936,10 @@
         },
         {
           "emoji": "🤬",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "36.6K",
+      "views_label": "37.1K",
       "posted_at": "2026-06-19T09:11:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22935"
@@ -4985,49 +5026,6 @@
       "posted_at": "2026-06-17T19:34:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranianMinds/22830"
-    },
-    {
-      "id": "IranianMinds/22829",
-      "author_name": "Iranian Minds",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HKON8P2V3fiktUyLJpPFB6U4mFfMomYhpCO8L6w43M-rauEG1ZVw4IuEVvI7kYqUi4rn94hbZpajvh4xHORDCEHk7DkIvzhF4dyJA0o1kMInB7zY8jd77ckSpfqv_jMkskWoAhr96wAgQePkHn2guKHNNxTfmgdJZjdVR-QT43smknIHvAZVNUduydoqivxr2Mvzr-h_MdLW_UEfiIhkVV-GbOAccvQUBnDLAEsJQiwWWL0sSMyfzGjTeEG7YZsp4dd4oYCncQcoBDeHI7NHLzbcg9TvtqFjMG-zun1Mq9Yb58cV5ZgdcWFT2A1YOGCQ6zuLF67IkJVwS3YcvmAaiQ.jpg",
-      "author_photo_path": "channels/iranianminds/media/e11be8bce9cab63328f0855b.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <b>متن کامل تفاهم‌نامه آمریکا و جمهوری اسلامی منتشر شد</b><br><br>طبق گزارش آکسیوس، متن کامل تفاهم‌نامه (Memorandum of Understanding) میان ایالات متحده آمریکا و جمهوری اسلامی ایران منتشر شده است.<br><br>این سند که توسط یک مقام ارشد دولت آمریکا به خبرنگاران خوانده شده، به عنوان چارچوبی برای پایان جنگ، بازگشایی تنگه هرمز، مذاکرات هسته‌ای ۶۰ روزه و مشوق‌های اقتصادی گسترده عمل می‌کند.<br><br>خلاصه و نکات کلیدی تفاهم‌نامه:<br><b><br>۱. پایان جنگ:</b><br>دو طرف و متحدانشان اعلام می‌کنند که عملیات نظامی در همه جبهه‌ها (از جمله لبنان) فوراً و به طور دائم متوقف می‌شود. تعهد به عدم آغاز جنگ یا عملیات نظامی علیه یکدیگر و احترام به تمامیت ارضی لبنان.<br><b><br>۲. احترام به حاکمیت:</b><br>آمریکا و ایران متعهد به احترام به حاکمیت و تمامیت ارضی یکدیگر و عدم دخالت در امور داخلی هم شدند.<br><b><br>۳. مذاکرات نهایی:</b><br>مذاکرات برای دستیابی به توافق نهایی حداکثر ظرف ۶۰ روز (قابل تمدید با توافق متقابل) انجام خواهد شد.<br><b><br>۴. برداشته شدن محاصره:</b><br>آمریکا بلافاصله محاصره دریایی را کاهش می‌دهد و ظرف ۳۰ روز به طور کامل برمی‌دارد. نیروهای آمریکایی نیز پس از توافق نهایی از نزدیکی ایران دور خواهند شد.<br><b><br>۵. تنگه هرمز:</b><br>ایران ترتیبات لازم برای عبور امن کشتی‌های تجاری از خلیج فارس به دریای عمان (و بالعکس) بدون هزینه برای ۶۰ روز فراهم می‌کند. ترافیک تجاری ظرف ۳۰ روز برقرار می‌شود. ایران با عمان و دیگر کشورهای ساحلی برای مدیریت آینده تنگه گفت‌وگو خواهد کرد.<br><b><br>۶. طرح اقتصادی:</b><br>آمریکا با شرکای منطقه‌ای، برنامه‌ای حداقل ۳۰۰ میلیارد دلاری برای بازسازی و توسعه اقتصادی ایران تدوین خواهد کرد.<br><b><br>۷. لغو تحریم‌ها:</b><br>آمریکا متعهد به لغو همه انواع تحریم‌ها (از جمله قطعنامه‌های شورای امنیت، آژانس بین‌المللی انرژی اتمی و تحریم‌های یک‌جانبه) طبق زمان‌بندی توافق نهایی است.<br><b><br>۸. برنامه هسته‌ای:</b><br>ایران مجدداً تأیید می‌کند که سلاح هسته‌ای تولید یا توسعه نخواهد داد. موضوع مواد غنی‌شده با نظارت آژانس و روش‌هایی مانند رقیق‌سازی در محل حل خواهد شد. غنی‌سازی و نیازهای هسته‌ای ایران در توافق نهایی بررسی می‌شود.<br><b><br>۹. حفظ وضعیت موجود:</b><br>تا توافق نهایی، ایران برنامه هسته‌ای فعلی را حفظ می‌کند و آمریکا تحریم جدید اعمال نمی‌کند یا نیروهای بیشتری به منطقه اعزام نمی‌نماید.<br><b><br>۱۰. معافیت فروش نفت</b>:<br>آمریکا بلافاصله معافیت‌هایی برای صادرات نفت خام، محصولات نفتی و خدمات مرتبط (بانکی، بیمه، حمل‌ونقل) صادر می‌کند.<br><b><br>۱۱. آزادسازی دارایی‌ها:</b><br>دارایی‌های مسدود یا محدود شده ایران قابل استفاده خواهد شد و آمریکا مجوزهای لازم را صادر می‌کند.<br><b><br>۱۲. مکانیسم نظارت:</b><br>مکانیسمی اجرایی برای نظارت بر اجرای تفاهم‌نامه و توافق نهایی ایجاد می‌شود.<br><b><br>۱۳. شروع مذاکرات:</b><br>پس از اجرای برخی بندها، مذاکرات بر روی سایر بخش‌ها آغاز خواهد شد.<br><br><b>۱۴. تصویب نهایی:</b><br>توافق نهایی با قطعنامه الزام‌آور شورای امنیت سازمان ملل تأیید خواهد شد.<br>&nbsp;<br><a href=\"https://t.me/IranianMinds\" target=\"_blank\">@IranianMinds</a>",
-      "plain_text": "🔴 متن کامل تفاهم‌نامه آمریکا و جمهوری اسلامی منتشر شد طبق گزارش آکسیوس، متن کامل تفاهم‌نامه (Memorandum of Understanding) میان ایالات متحده آمریکا و جمهوری اسلامی ایران منتشر شده است. این سند که توسط یک مقام ارشد دولت آمریکا به خبرنگاران خوانده شده، به عنوان چارچوبی برای پایان جنگ، بازگشایی تنگه هرمز، مذاکرات هسته‌ای ۶۰ روزه و مشوق‌های اقتصادی گسترده عمل می‌کند. خلاصه و نکات کلیدی تفاهم‌نامه: ۱. پایان جنگ: دو طرف و متحدانشان اعلام می‌کنند که عملیات نظامی در همه جبهه‌ها (از جمله لبنان) فوراً و به طور دائم متوقف می‌شود. تعهد به عدم آغاز جنگ یا عملیات نظامی علیه یکدیگر و احترام به تمامیت ارضی لبنان. ۲. احترام به حاکمیت: آمریکا و ایران متعهد به احترام به حاکمیت و تمامیت ارضی یکدیگر و عدم دخالت در امور داخلی هم شدند. ۳. مذاکرات نهایی: مذاکرات برای دستیابی به توافق نهایی حداکثر ظرف ۶۰ روز (قابل تمدید با توافق متقابل) انجام خواهد شد. ۴. برداشته شدن محاصره: آمریکا بلافاصله محاصره دریایی را کاهش می‌دهد و ظرف ۳۰ روز به طور کامل برمی‌دارد. نیروهای آمریکایی نیز پس از توافق نهایی از نزدیکی ایران دور خواهند شد. ۵. تنگه هرمز: ایران ترتیبات لازم برای عبور امن کشتی‌های تجاری از خلیج فارس به دریای عمان (و بالعکس) بدون هزینه برای ۶۰ روز فراهم می‌کند. ترافیک تجاری ظرف ۳۰ روز برقرار می‌شود. ایران با عمان و دیگر کشورهای ساحلی برای مدیریت آینده تنگه گفت‌وگو خواهد کرد. ۶. طرح اقتصادی: آمریکا با شرکای منطقه‌ای، برنامه‌ای حداقل ۳۰۰ میلیارد دلاری برای بازسازی و توسعه اقتصادی ایران تدوین خواهد کرد. ۷. لغو تحریم‌ها: آمریکا متعهد به لغو همه انواع تحریم‌ها (از جمله قطعنامه‌های شورای امنیت، آژانس بین‌المللی انرژی اتمی و تحریم‌های یک‌جانبه) طبق زمان‌بندی توافق نهایی است. ۸. برنامه هسته‌ای: ایران مجدداً تأیید می‌کند که سلاح هسته‌ای تولید یا توسعه نخواهد داد. موضوع مواد غنی‌شده با نظارت آژانس و روش‌هایی مانند رقیق‌سازی در محل حل خواهد شد. غنی‌سازی و نیازهای هسته‌ای ایران در توافق نهایی بررسی می‌شود. ۹. حفظ وضعیت موجود: تا توافق نهایی، ایران برنامه هسته‌ای فعلی را حفظ می‌کند و آمریکا تحریم جدید اعمال نمی‌کند یا نیروهای بیشتری به منطقه اعزام نمی‌نماید. ۱۰. معافیت فروش نفت: آمریکا بلافاصله معافیت‌هایی برای صادرات نفت خام، محصولات نفتی و خدمات مرتبط (بانکی، بیمه، حمل‌ونقل) صادر می‌کند. ۱۱. آزادسازی دارایی‌ها: دارایی‌های مسدود یا محدود شده ایران قابل استفاده خواهد شد و آمریکا مجوزهای لازم را صادر می‌کند. ۱۲. مکانیسم نظارت: مکانیسمی اجرایی برای نظارت بر اجرای تفاهم‌نامه و توافق نهایی ایجاد می‌شود. ۱۳. شروع مذاکرات: پس از اجرای برخی بندها، مذاکرات بر روی سایر بخش‌ها آغاز خواهد شد. ۱۴. تصویب نهایی: توافق نهایی با قطعنامه الزام‌آور شورای امنیت سازمان ملل تأیید خواهد شد. @IranianMinds",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "1.1K"
-        },
-        {
-          "emoji": "❤",
-          "count": "215"
-        },
-        {
-          "emoji": "🤣",
-          "count": "42"
-        },
-        {
-          "emoji": "👍",
-          "count": "25"
-        },
-        {
-          "emoji": "💔",
-          "count": "10"
-        },
-        {
-          "emoji": "🤬",
-          "count": "3"
-        },
-        {
-          "emoji": "😍",
-          "count": "1"
-        }
-      ],
-      "views_label": "48.3K",
-      "posted_at": "2026-06-17T19:32:18+00:00",
-      "edited": true,
-      "permalink": "https://t.me/IranianMinds/22829"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-06-21T19:21:26.379Z",
+  "fetched_at": "2026-06-21T19:57:38.366Z",
   "channel": {
     "username": "alonews",
     "title": "اخبار جنگ الونیوز AloNews",
@@ -10,6 +10,485 @@
     "subscriber_count": "954K"
   },
   "posts": [
+    {
+      "id": "alonews/129632",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
+      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji><b>اولین تصاویر از دوحه</b><br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
+      "plain_text": "👈اولین تصاویر از دوحه ✅ @AloNews خبر جنگ",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/129632",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Zcu4ayVQ9OGqAfZ13LncrMibHbhoVjSeHSHHCGk93y86uFlyqe59E00Puhk9SkJZwAjYA288HbZ98rcfO3P7y5sm-4ulJ1QYWRhDsBEcRITf-oqJyledXtBBUf9-aJAXMJsIQ0VldtCnpBfEIDIFKu1px8aorKrYs5h3GmHxOYBUR-XgTfG2KhUpOEi8BFCL3ycXqUlxCOtdiQZuQzhni1cH1psTzYe_v7G1wTDpMECa0BcKjukxsEZzjexusg6SyFOgRYXsg74o3lcFgpO3LtDO4Ts4ezcno3WTstzJKQJe-q_Ag2SU-1eKgxGxJuIPAx6-mW-p_DzCk--9lIFgZQ.jpg",
+          "thumbnail_path": "channels/alonews/media/776bde4d8204912d6153c442.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.3675213675213675
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "14"
+        },
+        {
+          "emoji": "🤣",
+          "count": "14"
+        },
+        {
+          "emoji": "❤",
+          "count": "5"
+        },
+        {
+          "emoji": "😎",
+          "count": "1"
+        }
+      ],
+      "views_label": "3",
+      "posted_at": "2026-06-21T19:56:59+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/129632"
+    },
+    {
+      "id": "alonews/129631",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
+      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>رویترز از شنیده شدن صدای انفجار شدید در دوحه قطر خبر داد  <tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> @AloNews خبر جنگ",
+      "plain_text": "👈رویترز از شنیده شدن صدای انفجار شدید در دوحه قطر خبر داد ✅ @AloNews خبر جنگ",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "80"
+        },
+        {
+          "emoji": "🔥",
+          "count": "20"
+        },
+        {
+          "emoji": "😐",
+          "count": "18"
+        },
+        {
+          "emoji": "😎",
+          "count": "9"
+        }
+      ],
+      "views_label": "9.23K",
+      "posted_at": "2026-06-21T19:54:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/129631"
+    },
+    {
+      "id": "alonews/129630",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
+      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>رویترز از شنیده شدن صدای انفجار شدید در دوحه قطر خبر داد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
+      "plain_text": "👈رویترز از شنیده شدن صدای انفجار شدید در دوحه قطر خبر داد ✅ @AloNews خبر جنگ",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "64"
+        },
+        {
+          "emoji": "🔥",
+          "count": "23"
+        },
+        {
+          "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "🖕",
+          "count": "5"
+        },
+        {
+          "emoji": "😎",
+          "count": "5"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        }
+      ],
+      "views_label": "10.3K",
+      "posted_at": "2026-06-21T19:53:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/129630"
+    },
+    {
+      "id": "alonews/129629",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
+      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>واکنش پزشکیان به علی الاصول گفتن‌های بی پشتوانه و بیجا<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
+      "plain_text": "👈واکنش پزشکیان به علی الاصول گفتن‌های بی پشتوانه و بیجا ✅ @AloNews خبر جنگ",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/alonews/129629",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jWwM0cZVi6lVqZFtzcSl0i0GDMJjSbmQscLwErs9iyLweR0coZjDYdX9fZz83HgwxYi0DJhmX6BsAJuKf_DAq3Z_8gNOHuuogVv82sBkq5xyin31x8AGTb4lWwCM6eBKlUNbGm4i_dUhu8KOXa2gHedLEojatHXxNOLAgUImVG_M5lUAbqBkBuRjJpXH0LPql7fENTw_AVaQK01KA4eYZYgTXa3eD7JGoDJ2K5lI6fyDjEq8e08Axf7rFpoJJ5HZewjeijeLLF60WSav_VFS7qewZvd-eM6LV6uz1kxBYvQbM53xD8KPk5rFr3h-WJX33zeZ82YlhFrgCIt2aH0jDg",
+          "thumbnail_path": "channels/alonews/media/997114fba91638e7eec5255e.jpg",
+          "duration_label": "1:22",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "328"
+        },
+        {
+          "emoji": "🤣",
+          "count": "59"
+        },
+        {
+          "emoji": "🖕",
+          "count": "23"
+        },
+        {
+          "emoji": "👍",
+          "count": "20"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
+        }
+      ],
+      "views_label": "18.5K",
+      "posted_at": "2026-06-21T19:41:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/129629"
+    },
+    {
+      "id": "alonews/129628",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
+      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji><b>رسایی : اینترنت رو قطع کنید<br></b><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
+      "plain_text": "👈رسایی : اینترنت رو قطع کنید ✅ @AloNews خبر جنگ",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/alonews/129628",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/PJ-SuEy-lSg2n4bcaqMXj_spJoe9VHVPG8HuU8S3VlFpxqRALnE_LW3t5gtqvY8kHYqupikY29-C0cMjmOGsz2pj41sFJ9fDDmd8iTuUeEHxtwmR0kXDTWZ3llTjYNgr2rH3T3l_563EnaWrO-r8zR4KsWGjAN77lqot0kYxVZlXsi6XHWj_PGU1qOUHJqZOZ82yeaHX234ennh0n7u_P6pUkf9OUJjFlGdQs01KnrfVZz7xLKRnIwwpYPM8VeMgYL6Ep-eFJNEt1_mX3xQ212RDeIqLCKlwJ5GZ0W4wAqTpcFZsBY8PMgfubtBDE2-sNEAQyVY9lbG4zt_LFM-7FA.jpg",
+          "thumbnail_path": "channels/alonews/media/5d7fe9e142b7455f1716515c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "398"
+        },
+        {
+          "emoji": "🖕",
+          "count": "129"
+        },
+        {
+          "emoji": "👍",
+          "count": "5"
+        },
+        {
+          "emoji": "👎",
+          "count": "4"
+        },
+        {
+          "emoji": "🤬",
+          "count": "3"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "🍌",
+          "count": "2"
+        },
+        {
+          "emoji": "🗿",
+          "count": "1"
+        }
+      ],
+      "views_label": "17.5K",
+      "posted_at": "2026-06-21T19:40:40+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/129628"
+    },
+    {
+      "id": "alonews/129627",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
+      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>صدا و سیما حلال خور، حق پخش رو دزدیده و پولی نداده و خودش کلی تبلیغ چپونده تو زمین و دور زمین<br><br><a href=\"?q=%23%D8%AF%D8%B2%D8%AF\">#دزد</a><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
+      "plain_text": "👈صدا و سیما حلال خور، حق پخش رو دزدیده و پولی نداده و خودش کلی تبلیغ چپونده تو زمین و دور زمین #دزد ✅ @AloNews خبر جنگ",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "342"
+        },
+        {
+          "emoji": "👍",
+          "count": "30"
+        },
+        {
+          "emoji": "🖕",
+          "count": "26"
+        },
+        {
+          "emoji": "👎",
+          "count": "15"
+        },
+        {
+          "emoji": "❤",
+          "count": "10"
+        }
+      ],
+      "views_label": "21.5K",
+      "posted_at": "2026-06-21T19:36:48+00:00",
+      "edited": true,
+      "permalink": "https://t.me/alonews/129627"
+    },
+    {
+      "id": "alonews/129626",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
+      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>مجری صدا و سیما:  گل‌های ایران افسایدشم قبوله  <tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> @AloNews خبر جنگ",
+      "plain_text": "👈مجری صدا و سیما: گل‌های ایران افسایدشم قبوله ✅ @AloNews خبر جنگ",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "235"
+        },
+        {
+          "emoji": "🖕",
+          "count": "32"
+        },
+        {
+          "emoji": "❤",
+          "count": "8"
+        },
+        {
+          "emoji": "🤬",
+          "count": "6"
+        },
+        {
+          "emoji": "👎",
+          "count": "2"
+        }
+      ],
+      "views_label": "21.5K",
+      "posted_at": "2026-06-21T19:35:33+00:00",
+      "edited": true,
+      "permalink": "https://t.me/alonews/129626"
+    },
+    {
+      "id": "alonews/129625",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
+      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>مجری صدا و سیما: <br>گل‌های ایران افسایدشم قبوله<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
+      "plain_text": "👈مجری صدا و سیما: گل‌های ایران افسایدشم قبوله ✅ @AloNews خبر جنگ",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "763"
+        },
+        {
+          "emoji": "🖕",
+          "count": "67"
+        },
+        {
+          "emoji": "❤",
+          "count": "30"
+        },
+        {
+          "emoji": "🍌",
+          "count": "21"
+        },
+        {
+          "emoji": "👍",
+          "count": "12"
+        },
+        {
+          "emoji": "🤬",
+          "count": "6"
+        },
+        {
+          "emoji": "😐",
+          "count": "6"
+        },
+        {
+          "emoji": "🤯",
+          "count": "1"
+        }
+      ],
+      "views_label": "23.6K",
+      "posted_at": "2026-06-21T19:32:42+00:00",
+      "edited": true,
+      "permalink": "https://t.me/alonews/129625"
+    },
+    {
+      "id": "alonews/129624",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
+      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji> زلنسکی: دیروز ما با حمله به پالایشگاه نفت آن‌ها در منطقه تیومن پاسخ دادیم. اگر بخواهیم دقیق صحبت کنیم، فاصله حدود ۲۰۷۰ کیلومتر بود.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>پهپادهای جدید ما با موفقیت به هدف اصابت کردند. مسیر واقعی پرواز آن‌ها حدود ۲۵۰۰ کیلومتر بود.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>آن‌ها قادر خواهند بود ۳۰۰۰ کیلومتر و حتی بیشتر پرواز کنند. این‌ها پهپادهای جدید هستند—پهپادهای خوب.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>آن‌ها به فاصله‌های بیش از ۳۰۰۰ کیلومتر خواهند رسید، چون ما می‌دانیم تمام کارخانه‌های نظامی آن‌ها کجا قرار دارند، تأسیسات نفتی‌شان کجاست، مخازن گازشان کجاست و غیره.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>ما به ابزارهایی نیاز داریم که بتوانند مسافت‌های دورتر را پوشش دهند. و ما در حال ساخت آن‌ها هستیم.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
+      "plain_text": "👈 زلنسکی: دیروز ما با حمله به پالایشگاه نفت آن‌ها در منطقه تیومن پاسخ دادیم. اگر بخواهیم دقیق صحبت کنیم، فاصله حدود ۲۰۷۰ کیلومتر بود. 🔴پهپادهای جدید ما با موفقیت به هدف اصابت کردند. مسیر واقعی پرواز آن‌ها حدود ۲۵۰۰ کیلومتر بود. 🔴آن‌ها قادر خواهند بود ۳۰۰۰ کیلومتر و حتی بیشتر پرواز کنند. این‌ها پهپادهای جدید هستند—پهپادهای خوب. 🔴آن‌ها به فاصله‌های بیش از ۳۰۰۰ کیلومتر خواهند رسید، چون ما می‌دانیم تمام کارخانه‌های نظامی آن‌ها کجا قرار دارند، تأسیسات نفتی‌شان کجاست، مخازن گازشان کجاست و غیره. 🔴ما به ابزارهایی نیاز داریم که بتوانند مسافت‌های دورتر را پوشش دهند. و ما در حال ساخت آن‌ها هستیم. ✅ @AloNews خبر جنگ",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "266"
+        },
+        {
+          "emoji": "❤",
+          "count": "35"
+        },
+        {
+          "emoji": "🔥",
+          "count": "15"
+        },
+        {
+          "emoji": "🖕",
+          "count": "11"
+        },
+        {
+          "emoji": "👎",
+          "count": "3"
+        },
+        {
+          "emoji": "🤬",
+          "count": "2"
+        },
+        {
+          "emoji": "🤣",
+          "count": "2"
+        },
+        {
+          "emoji": "😎",
+          "count": "1"
+        }
+      ],
+      "views_label": "25.6K",
+      "posted_at": "2026-06-21T19:28:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/129624"
+    },
+    {
+      "id": "alonews/129623",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
+      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>ایران گل زد که آفساید شد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
+      "plain_text": "👈ایران گل زد که آفساید شد ✅ @AloNews خبر جنگ",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "344"
+        },
+        {
+          "emoji": "💔",
+          "count": "189"
+        },
+        {
+          "emoji": "❤",
+          "count": "19"
+        },
+        {
+          "emoji": "🖕",
+          "count": "13"
+        },
+        {
+          "emoji": "👍",
+          "count": "8"
+        },
+        {
+          "emoji": "🔥",
+          "count": "5"
+        },
+        {
+          "emoji": "🤬",
+          "count": "4"
+        },
+        {
+          "emoji": "😐",
+          "count": "3"
+        },
+        {
+          "emoji": "🙏",
+          "count": "1"
+        }
+      ],
+      "views_label": "25.6K",
+      "posted_at": "2026-06-21T19:27:11+00:00",
+      "edited": true,
+      "permalink": "https://t.me/alonews/129623"
+    },
+    {
+      "id": "alonews/129622",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
+      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>نتانیاهو: ما در برابر یهودستیزی مبارزه خواهیم کرد.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>ما در برابر بی‌اعتبارسازی خود مبارزه خواهیم کرد.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
+      "plain_text": "👈نتانیاهو: ما در برابر یهودستیزی مبارزه خواهیم کرد. 🔴ما در برابر بی‌اعتبارسازی خود مبارزه خواهیم کرد. ✅ @AloNews خبر جنگ",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "1"
+        },
+        {
+          "emoji": "👍",
+          "count": "180"
+        },
+        {
+          "emoji": "🖕",
+          "count": "136"
+        },
+        {
+          "emoji": "❤",
+          "count": "34"
+        },
+        {
+          "emoji": "🤣",
+          "count": "8"
+        },
+        {
+          "emoji": "👎",
+          "count": "4"
+        },
+        {
+          "emoji": "🤬",
+          "count": "2"
+        }
+      ],
+      "views_label": "25.6K",
+      "posted_at": "2026-06-21T19:22:16+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/129622"
+    },
     {
       "id": "alonews/129621",
       "author_name": "اخبار جنگ الونیوز AloNews",
@@ -21,26 +500,30 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "77"
+          "count": "175"
         },
         {
           "emoji": "❤",
-          "count": "22"
+          "count": "45"
         },
         {
           "emoji": "🖕",
-          "count": "14"
+          "count": "22"
         },
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "👎",
+          "count": "3"
+        },
+        {
+          "emoji": "🤬",
           "count": "1"
         }
       ],
-      "views_label": "6.21K",
+      "views_label": "29.7K",
       "posted_at": "2026-06-21T19:10:23+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/129621"
@@ -56,26 +539,34 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "245"
+          "count": "448"
         },
         {
           "emoji": "🖕",
-          "count": "102"
+          "count": "208"
         },
         {
           "emoji": "🤣",
-          "count": "43"
+          "count": "60"
         },
         {
           "emoji": "👍",
-          "count": "15"
+          "count": "22"
         },
         {
           "emoji": "🔥",
-          "count": "4"
+          "count": "7"
+        },
+        {
+          "emoji": "🤬",
+          "count": "1"
+        },
+        {
+          "emoji": "🙏",
+          "count": "1"
         }
       ],
-      "views_label": "10.3K",
+      "views_label": "30.8K",
       "posted_at": "2026-06-21T19:02:48+00:00",
       "edited": true,
       "permalink": "https://t.me/alonews/129620"
@@ -91,26 +582,30 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "126"
+          "count": "183"
         },
         {
           "emoji": "🖕",
-          "count": "68"
+          "count": "101"
         },
         {
           "emoji": "👍",
-          "count": "10"
+          "count": "15"
+        },
+        {
+          "emoji": "🤣",
+          "count": "6"
         },
         {
           "emoji": "👎",
           "count": "2"
         },
         {
-          "emoji": "🤣",
+          "emoji": "🤬",
           "count": "2"
         }
       ],
-      "views_label": "14.4K",
+      "views_label": "30.8K",
       "posted_at": "2026-06-21T18:55:11+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/129619"
@@ -126,15 +621,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "143"
+          "count": "159"
         },
         {
           "emoji": "❤",
-          "count": "21"
+          "count": "25"
         },
         {
           "emoji": "🖕",
-          "count": "10"
+          "count": "15"
         },
         {
           "emoji": "👍",
@@ -142,14 +637,14 @@
         },
         {
           "emoji": "🤯",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "🍌",
           "count": "2"
         }
       ],
-      "views_label": "24.7K",
+      "views_label": "37K",
       "posted_at": "2026-06-21T18:42:24+00:00",
       "edited": true,
       "permalink": "https://t.me/alonews/129618"
@@ -165,27 +660,27 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "182"
+          "count": "212"
         },
         {
           "emoji": "👎",
-          "count": "70"
+          "count": "78"
         },
         {
           "emoji": "❤",
           "count": "31"
         },
         {
+          "emoji": "👍",
+          "count": "18"
+        },
+        {
           "emoji": "💔",
           "count": "17"
         },
         {
-          "emoji": "👍",
-          "count": "15"
-        },
-        {
           "emoji": "🖕",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "😐",
@@ -194,9 +689,13 @@
         {
           "emoji": "🍾",
           "count": "2"
+        },
+        {
+          "emoji": "🤯",
+          "count": "1"
         }
       ],
-      "views_label": "28.8K",
+      "views_label": "40K",
       "posted_at": "2026-06-21T18:35:52+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/129617"
@@ -222,19 +721,19 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "404"
+          "count": "459"
         },
         {
           "emoji": "🖕",
-          "count": "233"
+          "count": "277"
         },
         {
           "emoji": "🤣",
-          "count": "39"
+          "count": "42"
         },
         {
           "emoji": "👍",
-          "count": "28"
+          "count": "33"
         },
         {
           "emoji": "🗿",
@@ -243,9 +742,13 @@
         {
           "emoji": "🤬",
           "count": "1"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
         }
       ],
-      "views_label": "31.8K",
+      "views_label": "42K",
       "posted_at": "2026-06-21T18:30:02+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/129616"
@@ -261,15 +764,15 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "286"
+          "count": "311"
         },
         {
           "emoji": "🤣",
-          "count": "105"
+          "count": "115"
         },
         {
           "emoji": "❤",
-          "count": "24"
+          "count": "26"
         },
         {
           "emoji": "👍",
@@ -282,9 +785,13 @@
         {
           "emoji": "🍌",
           "count": "7"
+        },
+        {
+          "emoji": "🤯",
+          "count": "1"
         }
       ],
-      "views_label": "35.9K",
+      "views_label": "44.1K",
       "posted_at": "2026-06-21T18:19:51+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/129615"
@@ -299,20 +806,20 @@
       "media": [],
       "reactions": [
         {
-          "emoji": "👎",
-          "count": "280"
+          "emoji": "🤣",
+          "count": "291"
         },
         {
-          "emoji": "🤣",
-          "count": "265"
+          "emoji": "👎",
+          "count": "290"
         },
         {
           "emoji": "🖕",
-          "count": "89"
+          "count": "98"
         },
         {
           "emoji": "❤",
-          "count": "45"
+          "count": "54"
         },
         {
           "emoji": "👍",
@@ -320,7 +827,7 @@
         },
         {
           "emoji": "🗿",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "🍌",
@@ -328,10 +835,14 @@
         },
         {
           "emoji": "🤬",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "💔",
+          "count": "3"
+        },
+        {
+          "emoji": "🤷‍♂",
           "count": "2"
         },
         {
@@ -339,7 +850,7 @@
           "count": "1"
         }
       ],
-      "views_label": "39.6K",
+      "views_label": "45.7K",
       "posted_at": "2026-06-21T18:13:50+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/129614"
@@ -355,19 +866,19 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "1.1K"
+          "count": "1.18K"
         },
         {
           "emoji": "🖕",
-          "count": "194"
+          "count": "210"
         },
         {
           "emoji": "❤",
-          "count": "70"
+          "count": "75"
         },
         {
           "emoji": "👍",
-          "count": "12"
+          "count": "14"
         },
         {
           "emoji": "🍌",
@@ -382,7 +893,7 @@
           "count": "4"
         }
       ],
-      "views_label": "40K",
+      "views_label": "46.2K",
       "posted_at": "2026-06-21T18:11:46+00:00",
       "edited": true,
       "permalink": "https://t.me/alonews/129613"
@@ -3912,535 +4423,6 @@
       "posted_at": "2026-06-21T10:47:01+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/129526"
-    },
-    {
-      "id": "alonews/129525",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
-      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji><b>پیام ایگنازیو کاسیس وزیر امور خارجه سوئیس پس از دیدار با عراقچی </b><br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>جناب عراقچی به سوئیس خوش آمدید.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>در نشست دریاچه لوسرن، ما چارچوبی برای گفت‌وگو و تبادل نظر فراهم می‌کنیم.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>در شرایطی دشوار و پیچیده، رابطه مبتنی بر اعتماد میان سوئیس و ایران، که در مأموریت ما به عنوان حافظ منافع نیز بازتاب یافته است، همچنان در خدمت دیپلماسی و در راستای صلح و امنیت در خاورمیانه قرار دارد.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
-      "plain_text": "👈پیام ایگنازیو کاسیس وزیر امور خارجه سوئیس پس از دیدار با عراقچی 🔴جناب عراقچی به سوئیس خوش آمدید. 🔴در نشست دریاچه لوسرن، ما چارچوبی برای گفت‌وگو و تبادل نظر فراهم می‌کنیم. 🔴در شرایطی دشوار و پیچیده، رابطه مبتنی بر اعتماد میان سوئیس و ایران، که در مأموریت ما به عنوان حافظ منافع نیز بازتاب یافته است، همچنان در خدمت دیپلماسی و در راستای صلح و امنیت در خاورمیانه قرار دارد. ✅ @AloNews خبر جنگ",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/129525",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/TjrjnvKteWIN3RYTWBwInNWKjzUfK9mEJ2zRfH4F4J0ETIDMliGDXgCpACDx_mrl1403DY7ffKtmMJKkRCOG8XyrVx_-GwslkIeVwnehRoYmHoZv2FJUTy6oHbLNzjd2w4us7wiPOumD3Q6g793VBK6H6E99nII32L3RBRB1ux6fPReI3VgrPKOTtoAgHqZWOomgxgd61M2xge0O_-sTXpv89tgNWTYFXtPZsOaPHCdaNs8TTpbP0FgjiRmz9QfVbVXmFcprmx_7QsIGT0WBsEGwj53pSDnLx37YiiRr_V8kxyKraRhqFwh3OwJ5ieKU652S4oc3Yxt0BETSvKq-Gg.jpg",
-          "thumbnail_path": "channels/alonews/media/4c515561fdc11e32c946f639.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "139"
-        },
-        {
-          "emoji": "🤣",
-          "count": "50"
-        },
-        {
-          "emoji": "🖕",
-          "count": "40"
-        },
-        {
-          "emoji": "🤬",
-          "count": "4"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        }
-      ],
-      "views_label": "40K",
-      "posted_at": "2026-06-21T10:40:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/129525"
-    },
-    {
-      "id": "alonews/129524",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
-      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>پزشکیان: در شورای‌عالی امنیت ملی تقریباً همه اعضا متفق بودند که این اتفاق باید رخ دهد و تنها یک نفر نظر متفاوت داشت که وجود یک نظر مخالف در یک مجموعه نیز ایرادی ندارد<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>مقام معظم رهبری به دولت اختیار داده‌اند تا این مسیر را دنبال کند<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
-      "plain_text": "👈پزشکیان: در شورای‌عالی امنیت ملی تقریباً همه اعضا متفق بودند که این اتفاق باید رخ دهد و تنها یک نفر نظر متفاوت داشت که وجود یک نظر مخالف در یک مجموعه نیز ایرادی ندارد 🔴مقام معظم رهبری به دولت اختیار داده‌اند تا این مسیر را دنبال کند ✅ @AloNews خبر جنگ",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "289"
-        },
-        {
-          "emoji": "👍",
-          "count": "149"
-        },
-        {
-          "emoji": "🖕",
-          "count": "38"
-        },
-        {
-          "emoji": "❤",
-          "count": "21"
-        },
-        {
-          "emoji": "🤬",
-          "count": "5"
-        },
-        {
-          "emoji": "🤯",
-          "count": "1"
-        }
-      ],
-      "views_label": "39K",
-      "posted_at": "2026-06-21T10:34:23+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/129524"
-    },
-    {
-      "id": "alonews/129523",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
-      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji><b>دیدار تیم مذاکره کننده آمریکا با شهباز شریف</b><br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>تیم مذاکره کننده آمریکایی به ریاست ونس امروز در جریان مذاکرات چهارجانبه ایران و آمریکا با مشارکت کشورهای میانجی، با شهباز شریف، نخست وزیر پاکستان دیدار کرد.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
-      "plain_text": "👈دیدار تیم مذاکره کننده آمریکا با شهباز شریف 🔴تیم مذاکره کننده آمریکایی به ریاست ونس امروز در جریان مذاکرات چهارجانبه ایران و آمریکا با مشارکت کشورهای میانجی، با شهباز شریف، نخست وزیر پاکستان دیدار کرد. ✅ @AloNews خبر جنگ",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/alonews/129523",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Gh9SUuVWFbqbnPEz8M_E--CqP5ku-HGlVgxl8fj_M-yGCsXa-87ng5nYNz4edWc6DO292alqmJQZM3MhVbj1UakO0OFbfOB_qRh7Mz4nGjB3urpPq1Ke1Yd6UD4RI3pjCDiIq8F4zI3QJiGIUsVEiSiSu7vlOhogLMaEuUTITOOL9QCXlQ4NnA1C0zv9RFS1pJiqp9M6U76zM3GnLFhQrUF45KXz7pCnRkCBGwA0qjpnvXYtq90CKS1q4ovjXpeEOWqLJnR44Q0MyyyImNKRM7SlZZ00BI9wpw2d443GjGIOrGiJY2KhQDzEu_SpJHwyPzAWNV610jL2Q_Nx9qTq4g",
-          "thumbnail_path": "channels/alonews/media/75514e30da136791d4884461.jpg",
-          "duration_label": "0:45",
-          "aspect_ratio": 1.7733990147783216
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "168"
-        },
-        {
-          "emoji": "❤",
-          "count": "65"
-        },
-        {
-          "emoji": "🤣",
-          "count": "13"
-        },
-        {
-          "emoji": "🍌",
-          "count": "5"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "1"
-        }
-      ],
-      "views_label": "42K",
-      "posted_at": "2026-06-21T10:21:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/129523"
-    },
-    {
-      "id": "alonews/129522",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
-      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>مدیر کل آژانس بین‌المللی انرژی اتمی گروسی گفت که با وزیر امور خارجه سوئیس کاسیس در بویگن‌اشتوک دیدار کرد.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>«در این لحظه حساس، مهم است که به دیپلماسی هر فرصتی برای موفقیت داده شود.»<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>گروسی همچنین از حمایت طولانی‌مدت سوئیس از آژانس بین‌المللی انرژی اتمی و تعهد آن به دیپلماسی تشکر کرد.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
-      "plain_text": "👈مدیر کل آژانس بین‌المللی انرژی اتمی گروسی گفت که با وزیر امور خارجه سوئیس کاسیس در بویگن‌اشتوک دیدار کرد. 🔴«در این لحظه حساس، مهم است که به دیپلماسی هر فرصتی برای موفقیت داده شود.» 🔴گروسی همچنین از حمایت طولانی‌مدت سوئیس از آژانس بین‌المللی انرژی اتمی و تعهد آن به دیپلماسی تشکر کرد. ✅ @AloNews خبر جنگ",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/129522",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/o590J0qTLJfN9oJDk5POoL-YW9dJXTtgQJ5NvQO3Z8xfCMETU98NcrhTaBvMh76Wxs7nd2lYKqH0skt01KFwmv67kO7xVNYpcIG7a2UzJf56FOL2DTAkBMKpo_p1LE-I3QFgFgUjvlYeyuREKX-djaoTzUYWetkB2sEwB-AekUqOGXnKkD1FQpTZvVY_pmtTW4rrlRlHXEROs1BJ6vDPw34jHMz_eOxGdtr8O0guwu77kZwgXRRgOiODyNBGN6iWjaH4ZHe9sr4yTrAsdI934sRggredMEQnb8R3h6eW8NfCGSwCzodKS9aFzzV0b8_p9AmtNXV7srsCZTVY61aFqw.jpg",
-          "thumbnail_path": "channels/alonews/media/b75d6f8dfcd28550f2682ded.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.444043321299639
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "131"
-        },
-        {
-          "emoji": "❤",
-          "count": "33"
-        },
-        {
-          "emoji": "🤣",
-          "count": "11"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "1"
-        },
-        {
-          "emoji": "🤬",
-          "count": "1"
-        }
-      ],
-      "views_label": "36.9K",
-      "posted_at": "2026-06-21T10:14:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/129522"
-    },
-    {
-      "id": "alonews/129521",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
-      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>پزشکیان: دوران محاصره دریایی یک بشکه نفت هم صادر نکردیم البته طی دو روز گذشته ۱۶ میلیون بشکه نفت صادر کرده ایم<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
-      "plain_text": "👈پزشکیان: دوران محاصره دریایی یک بشکه نفت هم صادر نکردیم البته طی دو روز گذشته ۱۶ میلیون بشکه نفت صادر کرده ایم ✅ @AloNews خبر جنگ",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "383"
-        },
-        {
-          "emoji": "🤣",
-          "count": "186"
-        },
-        {
-          "emoji": "🖕",
-          "count": "70"
-        },
-        {
-          "emoji": "🔥",
-          "count": "22"
-        },
-        {
-          "emoji": "❤",
-          "count": "12"
-        },
-        {
-          "emoji": "🤬",
-          "count": "9"
-        },
-        {
-          "emoji": "👎",
-          "count": "3"
-        }
-      ],
-      "views_label": "39K",
-      "posted_at": "2026-06-21T10:01:38+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/129521"
-    },
-    {
-      "id": "alonews/129520",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
-      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>شهباز شریف نخست وزیر پاکستان با ونس معاون رییس جمهور امریکا، در حضور کوشنر، ویتکوف و فرمانده ارتش پاکستان دیدار کرد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
-      "plain_text": "👈شهباز شریف نخست وزیر پاکستان با ونس معاون رییس جمهور امریکا، در حضور کوشنر، ویتکوف و فرمانده ارتش پاکستان دیدار کرد ✅ @AloNews خبر جنگ",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🖕",
-          "count": "150"
-        },
-        {
-          "emoji": "❤",
-          "count": "33"
-        },
-        {
-          "emoji": "🤣",
-          "count": "10"
-        },
-        {
-          "emoji": "👍",
-          "count": "9"
-        },
-        {
-          "emoji": "🍌",
-          "count": "2"
-        }
-      ],
-      "views_label": "42K",
-      "posted_at": "2026-06-21T09:45:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/129520"
-    },
-    {
-      "id": "alonews/129519",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
-      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>عارف، معاون پزشکیان : دنبال جنگ نیستیم<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>ولی اگه کسی بخواد شاخ بشه و جنگ رو تحمیل کنه، جوابش رو جوری می‌دیم که یادش نره<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
-      "plain_text": "👈عارف، معاون پزشکیان : دنبال جنگ نیستیم 🔴ولی اگه کسی بخواد شاخ بشه و جنگ رو تحمیل کنه، جوابش رو جوری می‌دیم که یادش نره ✅ @AloNews خبر جنگ",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/alonews/129519",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/AiFgJZ19NaNS2RPCS-7CCgJTX6te1Hx4D3Ltm7KFyub3w49G4XfzwgOVokSrDiPkwyNNNSLUa8yaO-s6TMqz37bHZ_Erwh1VWfugdsUXCBuIxUIKHqhCjnGbuI4nZRarfNRZqiH4k62ne0U0iLcMjObhbLheiTaNsbcXKXWOnIeen1pE5M7y0OxuQGGUAfa0PH0MaY-kBFarzC0VkPDD61ZOPHB2CxCNz6m5M9qxfIitBH_brtZMlmiqV1XQd96eabRBoxfwcwbm9-IJ0t1zsYxVdhgIcmnCMbKH3UI5jyh_mZN0Nsa_BziIdrL3JgGCdYJVgU07AQkNXaVQ7mSvVA",
-          "thumbnail_path": "channels/alonews/media/b37082deabd4e51b3cf1e522.jpg",
-          "duration_label": "2:47",
-          "aspect_ratio": 1.7733990147783216
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "435"
-        },
-        {
-          "emoji": "❤",
-          "count": "155"
-        },
-        {
-          "emoji": "🖕",
-          "count": "78"
-        },
-        {
-          "emoji": "🍌",
-          "count": "33"
-        },
-        {
-          "emoji": "👍",
-          "count": "18"
-        },
-        {
-          "emoji": "🤯",
-          "count": "4"
-        },
-        {
-          "emoji": "😎",
-          "count": "2"
-        }
-      ],
-      "views_label": "44.1K",
-      "posted_at": "2026-06-21T09:39:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/129519"
-    },
-    {
-      "id": "alonews/129518",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
-      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji><b>با وجود اعلام توقف گران‌فروشی اپراتورها در طرح اینترنت پرو، ایرانسل همچنان هر گیگ اینترنت پرو را با قیمت ۴۰ هزار تومان عرضه می‌کند</b><br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
-      "plain_text": "👈با وجود اعلام توقف گران‌فروشی اپراتورها در طرح اینترنت پرو، ایرانسل همچنان هر گیگ اینترنت پرو را با قیمت ۴۰ هزار تومان عرضه می‌کند ✅ @AloNews خبر جنگ",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/129518",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ZZe-4TiOQ2e-TxMsUWMiIGqD6EVfabbBmLti_IDgJGsojgG_hjqMq5g8f6_zQN_ANCwC7eTuupoiWQ4NeWxgFikQ9j-uO-HLLRapFxVo5LC-jjK9noXsSiseUqY4M6conSTg3YDtPExXl7xKSMeDC-qXynovMPUVQP6NlGLzkkgOJsfDzf4Rj6ZTWwtXnQ2QObyxc1M-bpSmOyXmpiI7cWXEPmJHUHzfM5zvTfzftJ--qwOqGVL90cIB_43Oj9xTSjStNHbGYQgM1T8ZMRYcldcCUbFX6u2W360ubvYGLuwT3jpqLTpGjhNBE7lwMU4yxCpU8syV-T25Ui9QrnYPxQ.jpg",
-          "thumbnail_path": "channels/alonews/media/d85d25be06999d7c66a7262f.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.9262500000000097
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "304"
-        },
-        {
-          "emoji": "🤬",
-          "count": "260"
-        },
-        {
-          "emoji": "🤣",
-          "count": "74"
-        },
-        {
-          "emoji": "🖕",
-          "count": "49"
-        },
-        {
-          "emoji": "❤",
-          "count": "17"
-        },
-        {
-          "emoji": "👍",
-          "count": "5"
-        },
-        {
-          "emoji": "🤯",
-          "count": "1"
-        }
-      ],
-      "views_label": "47.1K",
-      "posted_at": "2026-06-21T09:15:08+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/129518"
-    },
-    {
-      "id": "alonews/129517",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
-      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>آمار رسمی اعلام شده از وضعیت پتروشیمی‌های کشور که پس از حمله اسرائیل شاهد حدودا ۸۷ درصد کاهش تولید نسبت به سال گذشته بوده.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
-      "plain_text": "👈آمار رسمی اعلام شده از وضعیت پتروشیمی‌های کشور که پس از حمله اسرائیل شاهد حدودا ۸۷ درصد کاهش تولید نسبت به سال گذشته بوده. ✅ @AloNews خبر جنگ",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/129517",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Kiq3d45H-g9kBbEGOf8SgDmqMgIYX0Mte5kZdA6XdmU5XJTIwsntf9c68v4GUE13VF_9WyRRVcqkouQEPJORptCP2XpBYH51p4xao0Ar1zSVDQppMnwjBCqljJ4vAuqYp_zzIg92-AjEBFJawINyLo7KugnVsi4vki398DPU43fA4SZrgHKP1417uA-A2amv07IeYm1ZflR9vTXEhe4PEkkcTuQyGReyapc3bJOcSa29obRZImIjbdYcSJCcPksXmaecfaQIVJrF4llgJee6fnUitHJeKSuNKhNY7nmUZHERuGyZzVxgJkKh2Z8NuZJnLmSYTt6XKV8CdlUcbG_h_w.jpg",
-          "thumbnail_path": "channels/alonews/media/5dd11ca7584201de9311e8aa.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "455"
-        },
-        {
-          "emoji": "🤣",
-          "count": "125"
-        },
-        {
-          "emoji": "❤",
-          "count": "18"
-        },
-        {
-          "emoji": "🔥",
-          "count": "7"
-        },
-        {
-          "emoji": "🖕",
-          "count": "7"
-        },
-        {
-          "emoji": "🤯",
-          "count": "5"
-        },
-        {
-          "emoji": "👎",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "😘",
-          "count": "1"
-        }
-      ],
-      "views_label": "49.3K",
-      "posted_at": "2026-06-21T09:04:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/129517"
-    },
-    {
-      "id": "alonews/129516",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
-      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>پزشکیان : قراره ۶ میلیارد دلار از پول‌های بلوکه‌ شده ایران برگرده<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
-      "plain_text": "👈پزشکیان : قراره ۶ میلیارد دلار از پول‌های بلوکه‌ شده ایران برگرده ✅ @AloNews خبر جنگ",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/129516",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/cSn88XApNGJ4uxiocdBok4w8-Hx_T--EnBa5OXE1QRQaZt54aqQxt95a8NVYpuJDtUYnfEgQiHBDki1Z71a434_Iyauu9AMiIJkW6Tpx9MIdD6WpnqNFbcWQBwET-NoYBRzSovJ8OflbgTRerx2bXpn5rOdD-44UhXnfJT-NVM8JD0DjuijToiRMQCdz1E4VfYsJoMITRYIzZRHNYlPW968BQgdrodAzQ78NBoyI0AKx1nStZI1wMRGhJmS3jAwFLeXf6BF55ymRboPNInjJ0DABA4NQYqN2R1lmfkMR2TrCU1syj--PnZEW91MVIrwVUwzPfJeCsLHe6P4qKgWC8w.jpg",
-          "thumbnail_path": "channels/alonews/media/62a1e0fd5fcc54fdfd7921c8.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.8058690744920993
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "544"
-        },
-        {
-          "emoji": "🤣",
-          "count": "396"
-        },
-        {
-          "emoji": "🖕",
-          "count": "135"
-        },
-        {
-          "emoji": "🍌",
-          "count": "12"
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "6"
-        },
-        {
-          "emoji": "🤯",
-          "count": "4"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        }
-      ],
-      "views_label": "48.4K",
-      "posted_at": "2026-06-21T08:54:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/129516"
-    },
-    {
-      "id": "alonews/129515",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Mqp4b6MVJutlKUoaHv3Sd5VFu9uSE30R2iJsqVub6gWTOZ42nClqmjnCKG-ohFdRxFLL75yY2PEIhHyVtGAugG9fBrP3id2j-i2libHd3TWahGb5uJKacBODhbAgcl0NM0PyT8_UEgmR_jva7nw8_-4HxcaO1R9U2mlJaFEDdXeeZ8H2Fc0BKE3pNEuPhZD7LlcFvtDz9_qDJX2T0_-8JYfHY6dBcrR9oGW-ia9t4oL1hzOfsTiLlZBF4__POWilEeGmvxXhCGIFMLgFM4JutPqX5NW5WwVRtiRX2z_PM49yxhY5ucBD0O8MGPPAnaU5GhoEU5RN1dQHySaR8FyHzA.jpg",
-      "author_photo_path": "channels/alonews/media/39547336a9260b8895bd3957.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji><b>هیات جمهوری اسلامی عازم ساختمان محل مذاکرات شد</b><br><br><b><br></b><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a> خبر جنگ",
-      "plain_text": "👈هیات جمهوری اسلامی عازم ساختمان محل مذاکرات شد ✅ @AloNews خبر جنگ",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/alonews/129515",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Dq0RupvkqIsMS34l1KJMMwT9I1Cz4fPFZsIFVrvOhBS1xOH_z0pTNRRWptrIj9i5hWwqIabiD8y8gRY47LC6YvaOWprthfm2gOZTSTLYRNEHtXaIqeSfRO0et8REzxPdJJ9yPi23g8D1HsTIxSSiGG9NlRkHMp8fMAGCkatHSBgAqY1qT8oW4pyewn0RJVetpcQXJR-UZjXsb6rT7tTs3OQD85LezthDHzagDvt2omBgnDTqsdYenE42EXUtaalKYfX3zJHzOQyd5sKldKD9ro0bGJ-ujcjZnEvM1XJ4khcBuCaAfE43LzT0BUT1OYqcyKBFgVC48hC5tnGUV1_1Hw",
-          "thumbnail_path": "channels/alonews/media/9a3e3bf97c2a9900201d809e.jpg",
-          "duration_label": "0:19",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "368"
-        },
-        {
-          "emoji": "🖕",
-          "count": "351"
-        },
-        {
-          "emoji": "🤣",
-          "count": "50"
-        },
-        {
-          "emoji": "👍",
-          "count": "7"
-        },
-        {
-          "emoji": "🍌",
-          "count": "5"
-        },
-        {
-          "emoji": "🤷‍♂",
-          "count": "3"
-        }
-      ],
-      "views_label": "50.5K",
-      "posted_at": "2026-06-21T08:40:35+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/129515"
     }
   ]
 }

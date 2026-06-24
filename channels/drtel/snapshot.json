@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-06-24T17:20:37.644Z",
+  "fetched_at": "2026-06-24T17:49:08.644Z",
   "channel": {
     "username": "drtel",
     "title": "𝐃𝐫 𝐓𝐞𝐥",
@@ -10,6 +10,75 @@
     "subscriber_count": "696K"
   },
   "posts": [
+    {
+      "id": "drtel/61180",
+      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "author_photo_url": "https://cdn4.telesco.pe/file/XN-ipQRQPZ_A8rKyYvksKiaAn9Nip846ifUCht1ZGl9nLjz5Ly0YbshlUcWGzmIYK6s1ym9SJ9ECPgESLLkDHj6auMBrRJrKu9gwcAH3wunNggeCVvzSbFzj3ldfAUtzUhkCichQf5sLM9x3fFitDixKXB67b9jHgHqlGHlIA4EMfHWd-fjI_GQWpwgky76Ij71_-sVn1fEzGhpVaEWM0bdtgBcaQ2YlSUjl88V8wlH1On8boE8PrnhZF-L7HHZyR7HST0Jsz-53sUT2TwD-12jRE_Wkd6ALJtboFP62R6-fpR6WBDgO69c1fhM17KvJGeKST69HxnNs6qCF33J00Q.jpg",
+      "author_photo_path": "channels/drtel/media/e9ddc6488ac63d4b8742616d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>وضعيت عجیب این شب‌های محرم تو تهران :  - سلسبیلِ نواب  @DrTeL",
+      "plain_text": "🔴وضعيت عجیب این شب‌های محرم تو تهران : - سلسبیلِ نواب @DrTeL",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/drtel/61180",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/gNoGBjqU0WTJ3VGviBwik8GDWYEe1S8ffK6H6yQd-FLcmwjODnVgk5FzTd3UZT9iY2bS-d15IvwWI27HrNQ5gT3mcjHsybnnOql9IG4iE5gBTKkqHvyvjb6HNIdfMq2Z4W2Az25YhWLyhJnoW0PSTm8PjoItrdJbvXmc4oThKixPm9TmXYGOgrWOUdA9QtWgIGUMOB1_IQgsg_444fEzFTgvuau-amO7ehUxTQ4G2miNhW1F9z3yepmjUJXU5wTMpWYG1LN6Ozz8SIMv-GjGLUlPzWB-sI_2l3_4s-9Oo72dOrsBzxGCW6xRgnpqGRvgvutKxuGxrt0PxzRPfhSPpw",
+          "thumbnail_path": "channels/drtel/media/d59cc4cd06228df6a0997612.jpg",
+          "duration_label": "0:47",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "1.89K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "690"
+        },
+        {
+          "emoji": "🍌",
+          "count": "98"
+        },
+        {
+          "emoji": "😐",
+          "count": "65"
+        },
+        {
+          "emoji": "❤",
+          "count": "23"
+        },
+        {
+          "emoji": "👍",
+          "count": "5"
+        },
+        {
+          "emoji": "😁",
+          "count": "5"
+        },
+        {
+          "emoji": "🤯",
+          "count": "5"
+        },
+        {
+          "emoji": "👎",
+          "count": "2"
+        },
+        {
+          "emoji": "👾",
+          "count": "2"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        }
+      ],
+      "views_label": "24.5K",
+      "posted_at": "2026-06-24T17:36:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/drtel/61180"
+    },
     {
       "id": "drtel/61179",
       "author_name": "𝐃𝐫 𝐓𝐞𝐥",
@@ -30,43 +99,47 @@
       ],
       "reactions": [
         {
-          "emoji": "🤣",
-          "count": "696"
-        },
-        {
-          "emoji": "🔥",
-          "count": "75"
-        },
-        {
           "emoji": "👍",
-          "count": "40"
-        },
-        {
-          "emoji": "❤",
-          "count": "29"
-        },
-        {
-          "emoji": "🤯",
-          "count": "7"
+          "count": "1.77K"
         },
         {
           "emoji": "🖕",
-          "count": "7"
+          "count": "1.5K"
+        },
+        {
+          "emoji": "❤",
+          "count": "1.48K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1.2K"
+        },
+        {
+          "emoji": "🔥",
+          "count": "114"
+        },
+        {
+          "emoji": "🤯",
+          "count": "14"
         },
         {
           "emoji": "👎",
-          "count": "2"
+          "count": "4"
         },
         {
           "emoji": "👏",
-          "count": "1"
+          "count": "2"
         },
         {
           "emoji": "😁",
+          "count": "2"
+        },
+        {
+          "emoji": "🐳",
           "count": "1"
         }
       ],
-      "views_label": "20.4K",
+      "views_label": "47K",
       "posted_at": "2026-06-24T17:10:18+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/61179"
@@ -96,50 +169,50 @@
         },
         {
           "emoji": "💔",
-          "count": "7.59K"
-        },
-        {
-          "emoji": "🤣",
-          "count": "171"
+          "count": "10.4K"
         },
         {
           "emoji": "❤",
-          "count": "132"
-        },
-        {
-          "emoji": "😭",
-          "count": "83"
+          "count": "1.56K"
         },
         {
           "emoji": "🖕",
-          "count": "52"
-        },
-        {
-          "emoji": "🕊",
-          "count": "37"
-        },
-        {
-          "emoji": "😢",
-          "count": "31"
-        },
-        {
-          "emoji": "🤷‍♀",
-          "count": "17"
-        },
-        {
-          "emoji": "😐",
-          "count": "15"
+          "count": "1.48K"
         },
         {
           "emoji": "👍",
-          "count": "7"
+          "count": "1.41K"
+        },
+        {
+          "emoji": "🤣",
+          "count": "216"
+        },
+        {
+          "emoji": "😭",
+          "count": "101"
+        },
+        {
+          "emoji": "🕊",
+          "count": "44"
+        },
+        {
+          "emoji": "😢",
+          "count": "34"
+        },
+        {
+          "emoji": "🤷‍♀",
+          "count": "18"
+        },
+        {
+          "emoji": "😐",
+          "count": "17"
         },
         {
           "emoji": "🦄",
-          "count": "5"
+          "count": "7"
         }
       ],
-      "views_label": "42.9K",
+      "views_label": "63.3K",
       "posted_at": "2026-06-24T16:50:33+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/61178"
@@ -165,11 +238,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "4.02K"
+          "count": "4.62K"
         },
         {
           "emoji": "👍",
-          "count": "1.41K"
+          "count": "1.43K"
         },
         {
           "emoji": "❤",
@@ -181,11 +254,11 @@
         },
         {
           "emoji": "😐",
-          "count": "17"
+          "count": "21"
         },
         {
           "emoji": "😁",
-          "count": "15"
+          "count": "19"
         },
         {
           "emoji": "🔥",
@@ -201,14 +274,14 @@
         },
         {
           "emoji": "🗿",
-          "count": "3"
+          "count": "5"
         },
         {
           "emoji": "🍌",
           "count": "2"
         }
       ],
-      "views_label": "69.4K",
+      "views_label": "83.7K",
       "posted_at": "2026-06-24T16:12:05+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/61177"
@@ -234,27 +307,27 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "7.61K"
+          "count": "8.04K"
         },
         {
           "emoji": "🖕",
-          "count": "2.56K"
+          "count": "2.71K"
         },
         {
           "emoji": "👍",
-          "count": "1.63K"
+          "count": "1.65K"
         },
         {
           "emoji": "🔥",
-          "count": "218"
+          "count": "225"
         },
         {
           "emoji": "🤣",
-          "count": "156"
+          "count": "170"
         },
         {
           "emoji": "👏",
-          "count": "14"
+          "count": "17"
         },
         {
           "emoji": "😍",
@@ -262,7 +335,7 @@
         },
         {
           "emoji": "🤬",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "👎",
@@ -277,7 +350,7 @@
           "count": "2"
         }
       ],
-      "views_label": "76.4K",
+      "views_label": "87.6K",
       "posted_at": "2026-06-24T16:03:33+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/61176"
@@ -334,23 +407,23 @@
         },
         {
           "emoji": "❤",
-          "count": "5.58K"
+          "count": "5.64K"
         },
         {
           "emoji": "👍",
-          "count": "5.4K"
+          "count": "5.41K"
         },
         {
           "emoji": "🤣",
-          "count": "2.45K"
+          "count": "2.56K"
         },
         {
           "emoji": "😐",
-          "count": "255"
+          "count": "270"
         },
         {
           "emoji": "🍌",
-          "count": "43"
+          "count": "45"
         },
         {
           "emoji": "🔥",
@@ -362,11 +435,11 @@
         },
         {
           "emoji": "🗿",
-          "count": "14"
+          "count": "16"
         },
         {
           "emoji": "🦄",
-          "count": "8"
+          "count": "7"
         },
         {
           "emoji": "😱",
@@ -374,10 +447,10 @@
         },
         {
           "emoji": "😈",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "87.8K",
+      "views_label": "96.9K",
       "posted_at": "2026-06-24T15:27:35+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/61172"
@@ -402,11 +475,11 @@
       ],
       "reactions": [
         {
-          "emoji": "❤",
+          "emoji": "🖕",
           "count": "1.52K"
         },
         {
-          "emoji": "🖕",
+          "emoji": "❤",
           "count": "1.52K"
         },
         {
@@ -418,7 +491,7 @@
           "count": "3"
         }
       ],
-      "views_label": "82.6K",
+      "views_label": "90.8K",
       "posted_at": "2026-06-24T15:27:33+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/61171"
@@ -466,11 +539,11 @@
         },
         {
           "emoji": "🤣",
-          "count": "10.6K"
+          "count": "11K"
         },
         {
           "emoji": "❤",
-          "count": "5.93K"
+          "count": "6K"
         },
         {
           "emoji": "🖕",
@@ -482,19 +555,19 @@
         },
         {
           "emoji": "💔",
-          "count": "263"
+          "count": "270"
         },
         {
           "emoji": "😁",
           "count": "25"
         },
         {
-          "emoji": "🔥",
+          "emoji": "☃",
           "count": "16"
         },
         {
-          "emoji": "☃",
-          "count": "13"
+          "emoji": "🔥",
+          "count": "16"
         },
         {
           "emoji": "🤬",
@@ -509,7 +582,7 @@
           "count": "2"
         }
       ],
-      "views_label": "109K",
+      "views_label": "115K",
       "posted_at": "2026-06-24T13:45:43+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/61168"
@@ -535,7 +608,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "8.45K"
+          "count": "8.65K"
         },
         {
           "emoji": "❤",
@@ -551,7 +624,7 @@
         },
         {
           "emoji": "😐",
-          "count": "30"
+          "count": "31"
         },
         {
           "emoji": "😁",
@@ -578,7 +651,7 @@
           "count": "1"
         }
       ],
-      "views_label": "92.9K",
+      "views_label": "96K",
       "posted_at": "2026-06-24T13:10:09+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/61167"
@@ -608,11 +681,11 @@
         },
         {
           "emoji": "🤣",
-          "count": "4.19K"
+          "count": "4.33K"
         },
         {
           "emoji": "❤",
-          "count": "2.19K"
+          "count": "2.21K"
         },
         {
           "emoji": "🖕",
@@ -624,7 +697,7 @@
         },
         {
           "emoji": "😐",
-          "count": "1.01K"
+          "count": "1.03K"
         },
         {
           "emoji": "💔",
@@ -632,11 +705,11 @@
         },
         {
           "emoji": "🌚",
-          "count": "33"
+          "count": "35"
         },
         {
           "emoji": "🗿",
-          "count": "26"
+          "count": "27"
         },
         {
           "emoji": "🤔",
@@ -651,7 +724,7 @@
           "count": "5"
         }
       ],
-      "views_label": "119K",
+      "views_label": "123K",
       "posted_at": "2026-06-24T12:47:39+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/61166"
@@ -749,7 +822,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "15.4K"
+          "count": "15.5K"
         },
         {
           "emoji": "❤",
@@ -761,11 +834,11 @@
         },
         {
           "emoji": "🤣",
-          "count": "2.92K"
+          "count": "2.93K"
         },
         {
           "emoji": "😐",
-          "count": "1.86K"
+          "count": "1.88K"
         },
         {
           "emoji": "🗿",
@@ -773,7 +846,7 @@
         },
         {
           "emoji": "💔",
-          "count": "80"
+          "count": "81"
         },
         {
           "emoji": "👎",
@@ -792,7 +865,7 @@
           "count": "1"
         }
       ],
-      "views_label": "126K",
+      "views_label": "130K",
       "posted_at": "2026-06-24T12:29:32+00:00",
       "edited": false,
       "permalink": "https://t.me/drtel/61156"
@@ -7060,93 +7133,6 @@
       "posted_at": "2026-06-22T09:12:58+00:00",
       "edited": true,
       "permalink": "https://t.me/drtel/61017"
-    },
-    {
-      "id": "drtel/61014",
-      "author_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "author_photo_url": "https://cdn4.telesco.pe/file/tp1C7iYvJWOf4GgwN4QhLMQTZFfRDTTX23O-4Kt_aZGBiR3IU8G1T-_8Ei05jPQ5gRxjreW263lSiEdjorXwH_4UEEPwL7IlAQBRpsZfVmML5_vG3ss8CAAFRIeCZLYbphOnKcAZgyUP1wtjHv3dpBYp7_X5v6bR2HaxCMQfyIFZBZrDwqidCdE7ss4VPy0n8CVttV3IC4hnCHFDgxvSg-j7_g2g2gFF7KciKbUwMMlJHa9knnVQQTdejiwaZ32aKp8ysb-yaHQvGTkeyPxBDFIXLU6DxJYj8fZs9IAD1WAC8s9XG53hh4OLYEzdF1ywefWtS2v8kyAXAk0CVGf3VA.jpg",
-      "author_photo_path": "channels/drtel/media/30531cf39b67172e686df8a8.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>خسروپناه، دبیر شورای عالی انقلاب فرهنگی تو شبکه خبر رسما اعلام کرد که؛  تاثیر معدل یازدهم تو کنکور قطعی می‌مونه و قرار نیست مثبت بشه...  @DrTeL",
-      "plain_text": "🔴خسروپناه، دبیر شورای عالی انقلاب فرهنگی تو شبکه خبر رسما اعلام کرد که؛ تاثیر معدل یازدهم تو کنکور قطعی می‌مونه و قرار نیست مثبت بشه... @DrTeL",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/drtel/61015?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Go-xehdrVpfNa0P6cGcEBAAQNtq7rkLG-czkDB58O-XCdmIEnaC0zsk4zQdDtf8c2fOSJOndIVXJ2nrgauIN-nkW9IKHuksf1FZpqdIJP49WxEbLU1-R-tLaoeMT1dZKaiQCoNGrR7g2H0pkBwyKkm7amZARUT5ANewaD2EdN6Y6dpt45sZ-dH_1KMD97msjWGutwrv6yUz33-HxjNjLhisaASoF12GFUx1b2gfUC_wWTa5AZBmJLe0CzCOiYWAOAde4jwLj1WSW5bMyHeVjaLraOWZpqEzs7KppGIXI392qi5KS39ZjXh53-H9GwQpwet117rd0K69Fk77i3e2nyQ.jpg",
-          "thumbnail_path": "channels/drtel/media/2f689fbac3ae72bc786337a9.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.4953271028037
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/drtel/61014?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ildRIOkOn2JFb-A6Ch5CP6SM7oiUqBLJmO8tcbFSahwkDoliwhQhDb6D4ZW4QmoQ0RPCLaMbit04UhxvJh2InR7sCXC5WIAQMGg6S2Ouk5lII8o2MRU04ymLjBznpXa4OcvsDAyOKx0mbmieQENzupHGWKUruQQozofD7QbF6jbwtw23CNWVhCGKtfmWUiL_o5_0uRkVnFCydHhHIHX3cN-a6rgqsxeTMxognl-TsD_fqsaZQJWeYKQ5u5SKgGNxfr47pr4hDh77kPtIilDPL2MzFEfiqfXL2anG4rlQxZVFvAarXlvsxk0UyhMqcXGD6fSC8jNcZn-BTBtuqW8fgQ",
-          "thumbnail_path": "channels/drtel/media/fd4e6817a91ab0e25860f270.jpg",
-          "duration_label": "0:07",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/drtel/61016?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/N2ZG7a6MWweQ67sWojGMaqqro-HEuWsEYPJVP6kYAuKksnSN5gwG3KXGuz-MGDB_ryWWATlxkvI6KJhuDRG5XmhOqoaJKMYyH1dbupK8ToQDmCpNTmgnHJ8H6zf8DCdAh67WC4TPfAbKZt01PLEm9QyMaB9Eh4uAC4ImbyJdgYXVIxCV-uGpT4bsFBIE40j-t9kDeO_MKy2-qtU_79JoTvKCVndMYKwYdejOTZcY1JWyd0Ijh8cAguYzcmQOyj7yaSPFpcRwLLI6NKkGMqDzSyodidnIr7g4gTdWInf9V3iSeJDs3-MhWNI3efy9iJsen_WvxpYvwiYEqc7XU4YWDg",
-          "thumbnail_path": "channels/drtel/media/ce57120a9db89c6619be43e3.jpg",
-          "duration_label": "0:05",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "6.39K"
-        },
-        {
-          "emoji": "🖕",
-          "count": "4.79K"
-        },
-        {
-          "emoji": "👍",
-          "count": "3.81K"
-        },
-        {
-          "emoji": "🤣",
-          "count": "2.5K"
-        },
-        {
-          "emoji": "🔥",
-          "count": "65"
-        },
-        {
-          "emoji": "😈",
-          "count": "18"
-        },
-        {
-          "emoji": "👏",
-          "count": "10"
-        },
-        {
-          "emoji": "😁",
-          "count": "8"
-        },
-        {
-          "emoji": "🫡",
-          "count": "6"
-        },
-        {
-          "emoji": "😍",
-          "count": "3"
-        },
-        {
-          "emoji": "👎",
-          "count": "2"
-        }
-      ],
-      "views_label": "127K",
-      "posted_at": "2026-06-22T09:05:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/drtel/61014"
     }
   ]
 }

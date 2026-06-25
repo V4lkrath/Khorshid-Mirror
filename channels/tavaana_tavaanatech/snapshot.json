@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-06-25T13:30:42.872Z",
+  "fetched_at": "2026-06-25T15:15:23.710Z",
   "channel": {
     "username": "tavaana_tavaanatech",
     "title": "آموزشکده توانا",
@@ -10,6 +10,109 @@
     "subscriber_count": "49.3K"
   },
   "posts": [
+    {
+      "id": "Tavaana_TavaanaTech/104495",
+      "author_name": "آموزشکده توانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/P6-g-nMC2B3OvR8QJqu09Of9FsBem5Kz72eOaEpSwTRt-2BzmfXGmPRcat2TkIMnvlRYMhtrrfyzdl1AkVFQce2MVmIBOSFIPenOWKGX5ZL-mw-bagrI9BL_Uk5pHmnVnKin0OYPHk13utdoXM6o9JjiWAKlWKYYmFadMOF7j_BpJrVxLfqhtetjwf2zEahTELpqNkFmuZfZ30AIbi0C6VJFpuCT2iz3Kmun2raYraVMTIeYJGqrQmhiw4UV3ybQ7hdbuBgLIs0Fzy9-54Jw6e4QdTALT03VMKkxwnwEJ1j2kYTgQuF9ZAJ1plQziTdviL9GIzM5x305YbwUWv5CGA.jpg",
+      "author_photo_path": "channels/tavaana_tavaanatech/media/105ef5eb06bfca01c14625f5.jpg",
+      "body_html": "<b><tg-emoji emoji-id=\"5420323339723881652\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji></b><b> هشدار امنیتی؛ کانفیگ‌های ناشناس VPN می‌توانند مستقیما شما را به نهادهای امنیتی وصل کنند<br></b><br>در شرایطی که برخی از کاربران ایرانی برای دسترسی به اینترنت آزاد به انواع VPN، پراکسی و کانفیگ‌های آماده متوسل شده‌اند، استفاده از کانفیگ‌های ناشناس و غیرقابل‌اعتماد می‌تواند به‌طور مستقیم امنیت فردی کاربران را به خطر بیندازد. <br><br>واقعیت این است که بسیاری از کانفیگ‌های V2Ray، Shadowsocks، Trojan و نمونه‌های مشابه که در شبکه‌های اجتماعی و کانال‌های تلگرامی دست‌به‌دست می‌شوند، نه‌تنها امن نیستند، بلکه می‌توانند به نقطه نفوذ و شناسایی کاربران تبدیل شوند.<br><br><tg-emoji emoji-id=\"5361815298057978337\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B3.png')\"><b>🔳</b></i></tg-emoji>کانفیگی که شما را به سرور ناشناس، اشتراکی یا غیرقابل‌اعتماد وصل می‌کند، در عمل مسیری است که تمام ترافیک اینترنتی شما از آن عبور می‌کند. اگر کنترل این مسیر در اختیار فرد یا گروهی ناشناس باشد، امکان لاگ‌گیری، تحلیل رفتار، ثبت آی‌پی واقعی، زمان اتصال و حتی تحویل داده‌ها به نهادهای امنیتی وجود دارد؛ حتی اگر ادعا شود «بدون لاگ» است. کاربران در این وضعیت، بدون اطلاع، اطلاعات شخصی و دیجیتال خود را در اختیار دیگران قرار می‌دهند.<br><br>برای روشن تر شدن موضوع، این توضیح لازم است که؛ مسئله تنها کانفیگ نیست؛ مسئله این است که پشت آن کانفیگ، چه کسی سرور را کنترل می‌کند.<br><br>امنیت کاربران نه در فایل کانفیگ، بلکه در مالکیت و اعتمادپذیری سرور تعیین می‌شود.<br><br><tg-emoji emoji-id=\"5361815298057978337\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B3.png')\"><b>🔳</b></i></tg-emoji>استفاده از این ابزارها برای ورود به ایمیل شخصی، حساب‌های شبکه‌های اجتماعی، پیام‌رسان‌ها یا هر فعالیت حساس دیگر، می‌تواند پیامدهای جدی امنیتی داشته باشد. تجربه سال‌های گذشته نشان داده است که بی‌احتیاطی دیجیتال، در فضای سرکوب، هزینه‌ای بسیار  زیادی داشته باشد.<br><br>حتی زمانی که از VPN یا هر ابزار دورزدن فیلترینگ استفاده می‌کنید، همه‌چیز پنهان نمی‌شود. درست است که در اغلب موارد محتوای ارتباط شما رمزگذاری می‌شود، اما این به‌معنای نامرئی‌شدن کامل فعالیت اینترنتی نیست. شبکه‌ای که VPN روی آن فعال است، همچنان می‌تواند الگوهای اتصال را ببیند: این‌که به چه دامنه‌هایی متصل شده‌اید، چه زمانی، با چه حجمی از ترافیک و با چه رفتاری. این اطلاعات برای تحلیل، شناسایی و حتی تطبیق هویتی کافی است، به‌خصوص در شبکه‌هایی که نظارت و DPI فعال دارند.<br><br><tg-emoji emoji-id=\"5361815298057978337\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B3.png')\"><b>🔳</b></i></tg-emoji>مسئله زمانی خطرناک‌تر می‌شود که کاربر، کلاینت یا فایل نصبی VPN را به‌صورت فایل APK از منابع نامعلوم مثل کانال‌های تلگرامی دانلود و نصب می‌کند.<br><br><a href=\"https://tech.tavaana.org/digital-security/anonymous-vpn-config/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i>ادامه مطلب در وب‌سایت تواناتک</b></a><br><br><tg-emoji emoji-id=\"5931752965701374756\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')\"><b>💸</b></i></tg-emoji> <a href=\"https://t.me/tavaanatech\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">tavaanatech</a>",
+      "plain_text": "⚠️ هشدار امنیتی؛ کانفیگ‌های ناشناس VPN می‌توانند مستقیما شما را به نهادهای امنیتی وصل کنند در شرایطی که برخی از کاربران ایرانی برای دسترسی به اینترنت آزاد به انواع VPN، پراکسی و کانفیگ‌های آماده متوسل شده‌اند، استفاده از کانفیگ‌های ناشناس و غیرقابل‌اعتماد می‌تواند به‌طور مستقیم امنیت فردی کاربران را به خطر بیندازد. واقعیت این است که بسیاری از کانفیگ‌های V2Ray، Shadowsocks، Trojan و نمونه‌های مشابه که در شبکه‌های اجتماعی و کانال‌های تلگرامی دست‌به‌دست می‌شوند، نه‌تنها امن نیستند، بلکه می‌توانند به نقطه نفوذ و شناسایی کاربران تبدیل شوند. 🔳کانفیگی که شما را به سرور ناشناس، اشتراکی یا غیرقابل‌اعتماد وصل می‌کند، در عمل مسیری است که تمام ترافیک اینترنتی شما از آن عبور می‌کند. اگر کنترل این مسیر در اختیار فرد یا گروهی ناشناس باشد، امکان لاگ‌گیری، تحلیل رفتار، ثبت آی‌پی واقعی، زمان اتصال و حتی تحویل داده‌ها به نهادهای امنیتی وجود دارد؛ حتی اگر ادعا شود «بدون لاگ» است. کاربران در این وضعیت، بدون اطلاع، اطلاعات شخصی و دیجیتال خود را در اختیار دیگران قرار می‌دهند. برای روشن تر شدن موضوع، این توضیح لازم است که؛ مسئله تنها کانفیگ نیست؛ مسئله این است که پشت آن کانفیگ، چه کسی سرور را کنترل می‌کند. امنیت کاربران نه در فایل کانفیگ، بلکه در مالکیت و اعتمادپذیری سرور تعیین می‌شود. 🔳استفاده از این ابزارها برای ورود به ایمیل شخصی، حساب‌های شبکه‌های اجتماعی، پیام‌رسان‌ها یا هر فعالیت حساس دیگر، می‌تواند پیامدهای جدی امنیتی داشته باشد. تجربه سال‌های گذشته نشان داده است که بی‌احتیاطی دیجیتال، در فضای سرکوب، هزینه‌ای بسیار زیادی داشته باشد. حتی زمانی که از VPN یا هر ابزار دورزدن فیلترینگ استفاده می‌کنید، همه‌چیز پنهان نمی‌شود. درست است که در اغلب موارد محتوای ارتباط شما رمزگذاری می‌شود، اما این به‌معنای نامرئی‌شدن کامل فعالیت اینترنتی نیست. شبکه‌ای که VPN روی آن فعال است، همچنان می‌تواند الگوهای اتصال را ببیند: این‌که به چه دامنه‌هایی متصل شده‌اید، چه زمانی، با چه حجمی از ترافیک و با چه رفتاری. این اطلاعات برای تحلیل، شناسایی و حتی تطبیق هویتی کافی است، به‌خصوص در شبکه‌هایی که نظارت و DPI فعال دارند. 🔳مسئله زمانی خطرناک‌تر می‌شود که کاربر، کلاینت یا فایل نصبی VPN را به‌صورت فایل APK از منابع نامعلوم مثل کانال‌های تلگرامی دانلود و نصب می‌کند. 🔗ادامه مطلب در وب‌سایت تواناتک 💸 tavaanatech",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Tavaana_TavaanaTech/104495",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/noaphIvF502qWDAmD7iAE36PIegU5J5P5hPZGIr5W2Kz6aPbRoNWkZB_jPQIwDT7mKvmWJzDVZpBsaE5CvhWsBDSt_iwfPkXieEi5b7D2XSmZXuAI_5l7L5sCNcd-voMGc5kgNWXzstFPthFDJ756AlL8YRWJUV-c2UKBiE9ydgpkImM_UzEW1pta1XGYeOfynvFPF676ae1nzwhy_jv9SeL-Evrf1pguWf6amMy1gP5oL-VPxHSuTqI2E6G8L52-QKKyybIZFeUoE6HpiN0L_iFy-onvFIfTtTUrpbQh4txvYuCSqZ84KP3wG0DtvYgqBREnv3IEARx5HkSCFuLsQ.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/71e02603e40fd2218ef28b3e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "4"
+        }
+      ],
+      "views_label": "385",
+      "posted_at": "2026-06-25T14:12:12+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Tavaana_TavaanaTech/104495"
+    },
+    {
+      "id": "Tavaana_TavaanaTech/104494",
+      "author_name": "آموزشکده توانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/P6-g-nMC2B3OvR8QJqu09Of9FsBem5Kz72eOaEpSwTRt-2BzmfXGmPRcat2TkIMnvlRYMhtrrfyzdl1AkVFQce2MVmIBOSFIPenOWKGX5ZL-mw-bagrI9BL_Uk5pHmnVnKin0OYPHk13utdoXM6o9JjiWAKlWKYYmFadMOF7j_BpJrVxLfqhtetjwf2zEahTELpqNkFmuZfZ30AIbi0C6VJFpuCT2iz3Kmun2raYraVMTIeYJGqrQmhiw4UV3ybQ7hdbuBgLIs0Fzy9-54Jw6e4QdTALT03VMKkxwnwEJ1j2kYTgQuF9ZAJ1plQziTdviL9GIzM5x305YbwUWv5CGA.jpg",
+      "author_photo_path": "channels/tavaana_tavaanatech/media/105ef5eb06bfca01c14625f5.jpg",
+      "body_html": "هشتمین روز اعتصاب غذا و داروی فاطمه سپهری؛ خانواده نسبت به وضعیت جسمانی او ابراز نگرانی کردند<br><br>فاطمه سپهری، زندانی سیاسی محبوس در زندان وکیل‌آباد مشهد، در هشتمین روز اعتصاب غذا و داروی خود به سر می‌برد. این اعتصاب از روز چهارشنبه ۲۷ خردادماه در اعتراض به  «توهین، آزار و اذیت از سوی مدیر داخلی بند زنان زندان وکیل‌آباد»، آغاز شده است.<br><br>بر اساس گزارش‌های دریافتی، خانواده فاطمه سپهری پس از ملاقات با وی در روز جاری، نسبت به وضعیت جسمانی این زندانی سیاسی ابراز نگرانی کرده‌اند.<br><br>علی سپهری، برادر فاطمه سپهری، با اعلام این خبر گفت که در طول مدت اعتصاب، تنها اقدام مسئولان زندان انتقال روزانه او به بهداری و تزریق سرم قندی بوده است. به گفته وی، با وجود پیگیری‌های مکرر خانواده برای توقف اجرای حکم یا اعطای مرخصی درمانی، تاکنون هیچ‌یک از مسئولان به این درخواست‌ها پاسخ نداده‌اند.<br><br>فاطمه سپهری در اسفندماه ۱۴۰۳ در پرونده‌ای مشترک با برادرش، محمدحسین سپهری، توسط شعبه پنجم دادگاه انقلاب مشهد هر کدام به سه سال و ۹ ماه حبس محکوم شدند. این پرونده به نامه‌ای مربوط می‌شود که آن‌ها در تاریخ ۶ دی‌ماه ۱۴۰۳ از زندان وکیل‌آباد مشهد منتشر کرده بودند.<br><br>پیش از آن نیز، در خردادماه ۱۴۰۳، فاطمه سپهری در پرونده‌ای مشترک با برادرانش، محمدحسین و حسین سپهری، به ۱۸ سال و شش ماه حبس محکوم شده بود.<br><br>همچنین وی در بهمن‌ماه ۱۴۰۱ از سوی دادگاه کیفری مشهد به اتهام نشر اکاذیب و تشویش اذهان عمومی به یک سال حبس تعزیری و پرداخت ۲۰ میلیون تومان جزای نقدی محکوم شد.<br><br>در پرونده‌ای دیگر نیز فاطمه سپهری به اتهام همکاری با دول متخاصم به ۱۰ سال حبس، بابت اجتماع و تبانی به پنج سال زندان، به اتهام توهین به رهبری به دو سال حبس و به اتهام تبلیغ علیه نظام به یک سال حبس محکوم شده است. این احکام در مرحله تجدیدنظر نیز تأیید شده و بر اساس ماده ۱۳۴ قانون مجازات اسلامی، ۱۰ سال از مجموع این محکومیت‌ها قابل اجرا است.<br><br><a href=\"?q=%23%D9%81%D8%A7%D8%B7%D9%85%D9%87_%D8%B3%D9%BE%D9%87%D8%B1%DB%8C\">#فاطمه_سپهری</a> <br><br><a href=\"https://t.me/Tavaana_TavaanaTech\" target=\"_blank\">@Tavaana_TavaanaTech</a>",
+      "plain_text": "هشتمین روز اعتصاب غذا و داروی فاطمه سپهری؛ خانواده نسبت به وضعیت جسمانی او ابراز نگرانی کردند فاطمه سپهری، زندانی سیاسی محبوس در زندان وکیل‌آباد مشهد، در هشتمین روز اعتصاب غذا و داروی خود به سر می‌برد. این اعتصاب از روز چهارشنبه ۲۷ خردادماه در اعتراض به «توهین، آزار و اذیت از سوی مدیر داخلی بند زنان زندان وکیل‌آباد»، آغاز شده است. بر اساس گزارش‌های دریافتی، خانواده فاطمه سپهری پس از ملاقات با وی در روز جاری، نسبت به وضعیت جسمانی این زندانی سیاسی ابراز نگرانی کرده‌اند. علی سپهری، برادر فاطمه سپهری، با اعلام این خبر گفت که در طول مدت اعتصاب، تنها اقدام مسئولان زندان انتقال روزانه او به بهداری و تزریق سرم قندی بوده است. به گفته وی، با وجود پیگیری‌های مکرر خانواده برای توقف اجرای حکم یا اعطای مرخصی درمانی، تاکنون هیچ‌یک از مسئولان به این درخواست‌ها پاسخ نداده‌اند. فاطمه سپهری در اسفندماه ۱۴۰۳ در پرونده‌ای مشترک با برادرش، محمدحسین سپهری، توسط شعبه پنجم دادگاه انقلاب مشهد هر کدام به سه سال و ۹ ماه حبس محکوم شدند. این پرونده به نامه‌ای مربوط می‌شود که آن‌ها در تاریخ ۶ دی‌ماه ۱۴۰۳ از زندان وکیل‌آباد مشهد منتشر کرده بودند. پیش از آن نیز، در خردادماه ۱۴۰۳، فاطمه سپهری در پرونده‌ای مشترک با برادرانش، محمدحسین و حسین سپهری، به ۱۸ سال و شش ماه حبس محکوم شده بود. همچنین وی در بهمن‌ماه ۱۴۰۱ از سوی دادگاه کیفری مشهد به اتهام نشر اکاذیب و تشویش اذهان عمومی به یک سال حبس تعزیری و پرداخت ۲۰ میلیون تومان جزای نقدی محکوم شد. در پرونده‌ای دیگر نیز فاطمه سپهری به اتهام همکاری با دول متخاصم به ۱۰ سال حبس، بابت اجتماع و تبانی به پنج سال زندان، به اتهام توهین به رهبری به دو سال حبس و به اتهام تبلیغ علیه نظام به یک سال حبس محکوم شده است. این احکام در مرحله تجدیدنظر نیز تأیید شده و بر اساس ماده ۱۳۴ قانون مجازات اسلامی، ۱۰ سال از مجموع این محکومیت‌ها قابل اجرا است. #فاطمه_سپهری @Tavaana_TavaanaTech",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Tavaana_TavaanaTech/104494",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/ladR8mL6rl40r7U6IlN4aW1DU3l2oahA3LhYnHuDcdzXyS1JILVt2M_j99QnzNEeTxHMWhN0Qk_oUbPli3FI6GUv3FicCVdu0Oxy78FpPdmtwtqlqatr-NSFivA62hGjvM-H7nz6jz0R9jDp8h3feTMjFnFUa7NdyPJq-mc4I1AVNtOj0XMOND8BzmvS_ycVL07mvCGnnLjHiXNn-GtzFJc2q5lorfdXX6QQI0Zta2mSTfwaNzJp-0Fd0elyKfBHZLUE_KLehRQ4zwelL2j5pGrHkU71gN4uuryH3buIFyEy_krOoRj8M_4gAAPBCDeHJEDcsR2nJVQ1rH3Glyn-aA.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/05830267ae6f7bbaf967c888.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "8"
+        },
+        {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "🕊",
+          "count": "1"
+        }
+      ],
+      "views_label": "372",
+      "posted_at": "2026-06-25T14:11:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Tavaana_TavaanaTech/104494"
+    },
+    {
+      "id": "Tavaana_TavaanaTech/104493",
+      "author_name": "آموزشکده توانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/P6-g-nMC2B3OvR8QJqu09Of9FsBem5Kz72eOaEpSwTRt-2BzmfXGmPRcat2TkIMnvlRYMhtrrfyzdl1AkVFQce2MVmIBOSFIPenOWKGX5ZL-mw-bagrI9BL_Uk5pHmnVnKin0OYPHk13utdoXM6o9JjiWAKlWKYYmFadMOF7j_BpJrVxLfqhtetjwf2zEahTELpqNkFmuZfZ30AIbi0C6VJFpuCT2iz3Kmun2raYraVMTIeYJGqrQmhiw4UV3ybQ7hdbuBgLIs0Fzy9-54Jw6e4QdTALT03VMKkxwnwEJ1j2kYTgQuF9ZAJ1plQziTdviL9GIzM5x305YbwUWv5CGA.jpg",
+      "author_photo_path": "channels/tavaana_tavaanatech/media/105ef5eb06bfca01c14625f5.jpg",
+      "body_html": "مخالفت با مرخصی طاهر حاجی‌قربانی؛ درخواست آزادی مشروط و رأی باز نیز منتفی شد<br><br>بر اساس گزارش‌ دریافتی، با وجود گذشت حدود سه ماه از ثبت درخواست مرخصی طاهر حاجی‌قربانی، قرارگاه ثارالله سپاه (ضابط پرونده) با اعطای مرخصی وی مخالفت کرده است. در پی این تصمیم، درخواست‌های دیگر او از جمله رأی باز و آزادی مشروط نیز عملاً منتفی شده‌اند.<br><br>این در حالی است که به گفته منابع آگاه، در هفته‌ها و ماه‌های اخیر با درخواست مرخصی برخی دیگر از زندانیان سیاسی موافقت شده، اما درخواست مرخصی طاهر حاجی‌قربانی رد شده است.<br><br>همچنین بر اساس این گزارش، آخرین حضور نمایندگان سازمان اطلاعات سپاه در زندان اوین برای گفت‌وگو با زندانیان به چند ماه پیش بازمی‌گردد و ضابطان این نهاد در ماه‌های اخیر به‌ندرت در زندان حضور یافته‌اند. در مقابل، وزارت اطلاعات همچنان حضور مستمرتری در زندان دارد و از طریق ضابطان خود با زندانیان تحت پرونده این نهاد در ارتباط است.<br><br>منابع مطلع می‌گویند مسئولان امنیتی در سال‌های گذشته بارها مدعی شده‌اند که اعطای مرخصی «از باب ارفاق» صورت می‌گیرد و حقی قانونی برای زندانی محسوب نمی‌شود؛ به همین دلیل، اعطای آن را امتیازی می‌دانند که بنا به تشخیص خود به برخی زندانیان داده می‌شود و از برخی دیگر دریغ می‌گردد.<br><br>این گزارش همچنین حاکی است که ماموران امنیتی ظاهراً پرونده آقای حاجی قربانی را در دسته پادشاهی‌خواهی  قرار داده‌اند، این در حالی است که نزدیکان طاهر حاجی‌قربانی تأکید می‌کنند که او فعالیت‌های خود را فراتر از گرایش‌های سیاسی و جناحی تعریف کرده و بارها اعلام کرده است که نه پادشاهی‌خواه بوده و نه وابسته به جریان خاصی. به گفته وی، تعیین نظام سیاسی آینده ایران باید از طریق رأی اکثریت مردم و برگزاری یک همه‌پرسی آزاد صورت گیرد. همچنین فعالیت‌های او در حمایت از زندانیان سیاسی، فارغ از وابستگی‌های سیاسی و حزبی آنان، انجام شده و محدود به یک جریان خاص نبوده است.<br><br>گفته می‌شود در سازمان اطلاع سپاه، در سال‌های اخیر دایره‌ای ویژه با محوریت فردی به نام اسماعیل شفیعی برای رسیدگی به پرونده‌های مرتبط با افراد مناسب به جریان پادشاهی‌خواه تشکیل شده است و این سازمان نسبت به این گروه از زندانیان رویه سخت‌گیرانه‌ای دارد.<br><br>- این گزارش بر اساس اطلاعات دریافتی از دوستان آقای حاجی قربانی تنظیم شده است.<br><br><a href=\"?q=%23%D8%B7%D8%A7%D9%87%D8%B1_%D8%AD%D8%A7%D8%AC%DB%8C_%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C\">#طاهر_حاجی_قربانی</a> <br><br><a href=\"https://t.me/Tavaana_TavaanaTech\" target=\"_blank\">@Tavaana_TavaanaTech</a>",
+      "plain_text": "مخالفت با مرخصی طاهر حاجی‌قربانی؛ درخواست آزادی مشروط و رأی باز نیز منتفی شد بر اساس گزارش‌ دریافتی، با وجود گذشت حدود سه ماه از ثبت درخواست مرخصی طاهر حاجی‌قربانی، قرارگاه ثارالله سپاه (ضابط پرونده) با اعطای مرخصی وی مخالفت کرده است. در پی این تصمیم، درخواست‌های دیگر او از جمله رأی باز و آزادی مشروط نیز عملاً منتفی شده‌اند. این در حالی است که به گفته منابع آگاه، در هفته‌ها و ماه‌های اخیر با درخواست مرخصی برخی دیگر از زندانیان سیاسی موافقت شده، اما درخواست مرخصی طاهر حاجی‌قربانی رد شده است. همچنین بر اساس این گزارش، آخرین حضور نمایندگان سازمان اطلاعات سپاه در زندان اوین برای گفت‌وگو با زندانیان به چند ماه پیش بازمی‌گردد و ضابطان این نهاد در ماه‌های اخیر به‌ندرت در زندان حضور یافته‌اند. در مقابل، وزارت اطلاعات همچنان حضور مستمرتری در زندان دارد و از طریق ضابطان خود با زندانیان تحت پرونده این نهاد در ارتباط است. منابع مطلع می‌گویند مسئولان امنیتی در سال‌های گذشته بارها مدعی شده‌اند که اعطای مرخصی «از باب ارفاق» صورت می‌گیرد و حقی قانونی برای زندانی محسوب نمی‌شود؛ به همین دلیل، اعطای آن را امتیازی می‌دانند که بنا به تشخیص خود به برخی زندانیان داده می‌شود و از برخی دیگر دریغ می‌گردد. این گزارش همچنین حاکی است که ماموران امنیتی ظاهراً پرونده آقای حاجی قربانی را در دسته پادشاهی‌خواهی قرار داده‌اند، این در حالی است که نزدیکان طاهر حاجی‌قربانی تأکید می‌کنند که او فعالیت‌های خود را فراتر از گرایش‌های سیاسی و جناحی تعریف کرده و بارها اعلام کرده است که نه پادشاهی‌خواه بوده و نه وابسته به جریان خاصی. به گفته وی، تعیین نظام سیاسی آینده ایران باید از طریق رأی اکثریت مردم و برگزاری یک همه‌پرسی آزاد صورت گیرد. همچنین فعالیت‌های او در حمایت از زندانیان سیاسی، فارغ از وابستگی‌های سیاسی و حزبی آنان، انجام شده و محدود به یک جریان خاص نبوده است. گفته می‌شود در سازمان اطلاع سپاه، در سال‌های اخیر دایره‌ای ویژه با محوریت فردی به نام اسماعیل شفیعی برای رسیدگی به پرونده‌های مرتبط با افراد مناسب به جریان پادشاهی‌خواه تشکیل شده است و این سازمان نسبت به این گروه از زندانیان رویه سخت‌گیرانه‌ای دارد. - این گزارش بر اساس اطلاعات دریافتی از دوستان آقای حاجی قربانی تنظیم شده است. #طاهر_حاجی_قربانی @Tavaana_TavaanaTech",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Tavaana_TavaanaTech/104493",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/VL2s9ktvZFF_WR8XS7Xu4NRYl2e_g7BebhVe1RR9-wzrSET-deigpxtDjx3OVJIZjnZQSdgOC9u23TUfj6vuDJljStPxOteirSNur__sGBnQRgpSQ2mud5tx_Vu1mGj0ubni9y_y1Ex6Uj7wNEy0OeKo75gSu_PhHsmqdDWsdBR00RSJX2gl-t7cU8nMZJKlUXaKRF9u3Q4gsCmWfndz7WiGvUKkjb6-PjxI02sC2obcSW6Edn8Fi3AdMSX6H9XkhNAENRjZucKMnAwAOyLAcD6X9Xi72DUM0xyRBUz9HT-36Z-9xMo8cDhuqapcpo_zNHg_eY_qc-HuJA8nc4q2mA.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/52d0c5570fa35226ba7c148b.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "🕊",
+          "count": "3"
+        },
+        {
+          "emoji": "💔",
+          "count": "3"
+        }
+      ],
+      "views_label": "420",
+      "posted_at": "2026-06-25T13:52:24+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Tavaana_TavaanaTech/104493"
+    },
     {
       "id": "Tavaana_TavaanaTech/104492",
       "author_name": "آموزشکده توانا",
@@ -31,10 +134,14 @@
       "reactions": [
         {
           "emoji": "🕊",
-          "count": "6"
+          "count": "9"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
         }
       ],
-      "views_label": "364",
+      "views_label": "703",
       "posted_at": "2026-06-25T12:27:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104492"
@@ -60,14 +167,18 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "4"
+          "count": "6"
         },
         {
           "emoji": "👌",
           "count": "2"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
         }
       ],
-      "views_label": "567",
+      "views_label": "821",
       "posted_at": "2026-06-25T11:47:42+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104491"
@@ -93,18 +204,18 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "7"
+          "count": "10"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
         },
         {
           "emoji": "🕊",
           "count": "4"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
         }
       ],
-      "views_label": "741",
+      "views_label": "911",
       "posted_at": "2026-06-25T10:34:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104490"
@@ -130,14 +241,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "4"
+          "count": "7"
         },
         {
           "emoji": "👌",
           "count": "3"
         }
       ],
-      "views_label": "773",
+      "views_label": "955",
       "posted_at": "2026-06-25T10:30:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104489"
@@ -163,7 +274,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "👍",
@@ -174,7 +285,7 @@
           "count": "1"
         }
       ],
-      "views_label": "714",
+      "views_label": "821",
       "posted_at": "2026-06-25T10:11:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104488"
@@ -200,11 +311,11 @@
       "reactions": [
         {
           "emoji": "🕊",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "❤",
-          "count": "2"
+          "count": "4"
         },
         {
           "emoji": "👌",
@@ -215,7 +326,7 @@
           "count": "2"
         }
       ],
-      "views_label": "918",
+      "views_label": "1.02K",
       "posted_at": "2026-06-25T09:06:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104487"
@@ -241,7 +352,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "15"
+          "count": "18"
         },
         {
           "emoji": "🕊",
@@ -252,7 +363,7 @@
           "count": "1"
         }
       ],
-      "views_label": "922",
+      "views_label": "1.02K",
       "posted_at": "2026-06-25T08:39:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104486"
@@ -278,7 +389,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "16"
+          "count": "19"
         },
         {
           "emoji": "💔",
@@ -289,7 +400,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.14K",
+      "views_label": "1.28K",
       "posted_at": "2026-06-25T08:13:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104485"
@@ -315,7 +426,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "38"
+          "count": "40"
         },
         {
           "emoji": "👍",
@@ -326,7 +437,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.69K",
+      "views_label": "1.8K",
       "posted_at": "2026-06-25T05:11:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104484"
@@ -363,7 +474,7 @@
           "count": "5"
         }
       ],
-      "views_label": "2.69K",
+      "views_label": "2.75K",
       "posted_at": "2026-06-24T20:18:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104483"
@@ -396,7 +507,7 @@
           "count": "10"
         }
       ],
-      "views_label": "1.93K",
+      "views_label": "1.96K",
       "posted_at": "2026-06-24T19:46:55+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104482"
@@ -451,7 +562,7 @@
           "count": "4"
         }
       ],
-      "views_label": "1.74K",
+      "views_label": "1.79K",
       "posted_at": "2026-06-24T19:38:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104479"
@@ -480,7 +591,7 @@
           "count": "40"
         }
       ],
-      "views_label": "1.44K",
+      "views_label": "1.47K",
       "posted_at": "2026-06-24T18:52:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104478"
@@ -513,7 +624,7 @@
           "count": "5"
         }
       ],
-      "views_label": "1.21K",
+      "views_label": "1.23K",
       "posted_at": "2026-06-24T18:04:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104477"
@@ -550,7 +661,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.03K",
+      "views_label": "1.05K",
       "posted_at": "2026-06-24T18:03:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104476"
@@ -3659,117 +3770,6 @@
       "posted_at": "2026-06-18T16:03:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/104374"
-    },
-    {
-      "id": "Tavaana_TavaanaTech/104373",
-      "author_name": "آموزشکده توانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/nshELCsuEedM8w2NTJJFqenbIxOTZK_n_xP-n_fGPN-htyhLhzzoIIxPEb3EG4xgsPN9ozXss2N9l_zEWxNh2LZflH4-3Bf_5BkynVDDHwcUv_6tgE2H4nKagz8gcn3QAY9YMBniKnMaVEPlu9pp7NbpVTrPfAVPjB-Zsd4IuiqPHJ2ho6eLpCVLJD5c4CJIp0Mdw3B4OxUO5QApNInaUBcRs_-_XN3jBC2xFx0IRzslCyPnPhzCn1CxHB9dwUCiHZ7T59TrhBnQAoF4hyZRMj8pjJxzf_dB9YWQMP-PHz6UoLmajDv6C_NNYXMDb6mqVpOmLWfhtpp1xv27oCr5cw.jpg",
-      "author_photo_path": "channels/tavaana_tavaanatech/media/e418d837c3fc2bc64fb80775.jpg",
-      "body_html": "بازداشت حمیدرضا رجب‌پور در یاسوج؛ بی‌خبری از محل نگهداری و نهاد بازداشت‌کننده<br><br>حمیدرضا رجب‌پور، شهروند ۳۰ ساله ساکن یاسوج، عصر روز سه‌شنبه در محل کار خود توسط مأموران امنیتی بازداشت و به مکان نامعلومی منتقل شد.<br>بر اساس اطلاعات دریافتی، آقای رجب‌پور حدود ساعت ۸ شب در کافه هوما، واقع در نبش بلوار باهنر ۲ یاسوج، توسط مأموران امنیتی بازداشت شده است.<br>تا لحظه تنظیم این خبر، هیچ‌گونه اطلاعی از نهاد بازداشت‌کننده، محل نگهداری و وضعیت وی در دسترس نیست.<br><br><a href=\"?q=%23%D8%AD%D9%85%DB%8C%D8%AF%D8%B1%D8%B6%D8%A7_%D8%B1%D8%AC%D8%A8_%D9%BE%D9%88%D8%B1\">#حمیدرضا_رجب_پور</a> <a href=\"?q=%23%DB%8C%D8%A7%D8%B3%D9%88%D8%AC\">#یاسوج</a> <a href=\"?q=%23%D8%A7%D8%B2_%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C%D9%87%D8%A7_%D8%A8%DA%AF%D9%88\">#از_بازداشتیها_بگو</a><br><br><a href=\"https://t.me/Tavaana_TavaanaTech\" target=\"_blank\">@Tavaana_TavaanaTech</a>",
-      "plain_text": "بازداشت حمیدرضا رجب‌پور در یاسوج؛ بی‌خبری از محل نگهداری و نهاد بازداشت‌کننده حمیدرضا رجب‌پور، شهروند ۳۰ ساله ساکن یاسوج، عصر روز سه‌شنبه در محل کار خود توسط مأموران امنیتی بازداشت و به مکان نامعلومی منتقل شد. بر اساس اطلاعات دریافتی، آقای رجب‌پور حدود ساعت ۸ شب در کافه هوما، واقع در نبش بلوار باهنر ۲ یاسوج، توسط مأموران امنیتی بازداشت شده است. تا لحظه تنظیم این خبر، هیچ‌گونه اطلاعی از نهاد بازداشت‌کننده، محل نگهداری و وضعیت وی در دسترس نیست. #حمیدرضا_رجب_پور #یاسوج #از_بازداشتیها_بگو @Tavaana_TavaanaTech",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Tavaana_TavaanaTech/104373",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/A5rN2oFIi-_dyWrbwTvqwdrJEKXC_HRFFV2t1SuvM0CDafYaAv0UlMXeBF0MMbBvMQoeH-Jcd_83NU-jjxsFQRK89TfhkyLKJx3AtT8_R9yZ7ahdOmCy_ykNT6WdQV2e2B3LsbLOskUaEReHhjsXbAqJskmajs-vy0n25Pwp627EabBqyCMR601iNbcpfqF_TdTYQuh1BkA2oP-uxNUXXhR-7xX_7oA90FofRLSj4Laq72rf2SG766X4td66ncuhYQLo9EXmilChqFVaePNPfuTnfe0geq8OSM8fceiVhV20QkTFEqvSjCj0PQum33iy9N-5si5MlNlj04i_QXcxbA.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/8b6ae510b8c5f957c93daed8.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "10"
-        },
-        {
-          "emoji": "🕊",
-          "count": "6"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.35K",
-      "posted_at": "2026-06-18T14:46:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Tavaana_TavaanaTech/104373"
-    },
-    {
-      "id": "Tavaana_TavaanaTech/104372",
-      "author_name": "آموزشکده توانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/nshELCsuEedM8w2NTJJFqenbIxOTZK_n_xP-n_fGPN-htyhLhzzoIIxPEb3EG4xgsPN9ozXss2N9l_zEWxNh2LZflH4-3Bf_5BkynVDDHwcUv_6tgE2H4nKagz8gcn3QAY9YMBniKnMaVEPlu9pp7NbpVTrPfAVPjB-Zsd4IuiqPHJ2ho6eLpCVLJD5c4CJIp0Mdw3B4OxUO5QApNInaUBcRs_-_XN3jBC2xFx0IRzslCyPnPhzCn1CxHB9dwUCiHZ7T59TrhBnQAoF4hyZRMj8pjJxzf_dB9YWQMP-PHz6UoLmajDv6C_NNYXMDb6mqVpOmLWfhtpp1xv27oCr5cw.jpg",
-      "author_photo_path": "channels/tavaana_tavaanatech/media/e418d837c3fc2bc64fb80775.jpg",
-      "body_html": "۲۸ خرداد<br>بازخوانی تراژدی قتل حکومتی ده زن بهایی در میدان چوگان شیراز<br><br><br>آیا باور به دینی متفاوت از مذهب رسمی، مستوجب مجازات است؟ <br>آیا می‌توان جان انسان را تنها به دلیل ایستادگی بر سر آیین خویش ستاند؟ <br>پاسخ به این پرسش‌ها در تاریخ ایران، با خون ده زن نوشته شده است؛ زنانی که در ۲۸ خرداد ۱۳۶۲ در میدان چوگان شیراز، در پی امتناع از انکار اعتقادات خود، به دار آویخته شدند.<br><br>جوان‌ترین آن‌ها مونا محمودنژاد بود؛ دختر ۱۷ ساله‌ای که جرمش تدریس به کودکان بهایی بود. مونا، با چشمانی که هنوز نور نوجوانی در آن می‌درخشد، در کنار نه زن دیگر ایستاده بود که هر کدام نمادی از اصالت و پایداری بودند، از نصرت غفرانی ۵۶ ساله تا رویا اشراقی ۲۳ ساله.<br><br>در آن شب شوم، شیراز غرق در سکوت بود، اما نام‌های این ده زن در تاریخ حک شد: مونا محمودنژاد، رویا اشراقی، سیمین صابری، اختر ثابت، شیرین دالوند، مهشید نیرومند، زرین مقیمی‌ابیانه، نصرت غفرانی، طاهره ارجمند و عزت اشراقی.<br><br>روایت‌ها می‌گویند آن‌ها را یک‌به‌یک برای تماشای اعدام دیگران می‌بردند تا شاید لرزه بر تنشان بیفتد و از باور خود دست بشویند؛ اما آنان، از نوجوان تا میان‌سال، دست‌های یکدیگر را در آخرین لحظات فشردند و با صلابتی که حتی دژخیمان را به حیرت وا داشت، به سوی مرگ قدم برداشتند. <br><br>آن‌ها نه به خاطر جرم‌های سیاسی، بلکه تنها به جرم «بهایی بودن» به قربانگاه رفتند.<br>آن شب، میدان چوگان شیراز نه تنها شاهد اعدام ده زن، بلکه شاهد دفن انسانیت و عدالت در سایه‌ تعصب بود. مونا و همراهانش به خاک سپرده شدند، اما صدای پایداری آن‌ها در تاریخ حقوق بشر ایران به یادگار ماند.<br><br>امروز که از آن واقعه ۴۳ سال می‌گذرد، یادآوری این جنایت، پرسشی بنیادین را پیش روی هر وجدان بیداری می‌گذارد: چگونه نظامی می‌تواند خود را پاسدار عدل بداند در حالی که تفاوت در عقیده را با طناب دار پاسخ می‌دهد؟ <br><br>نام این ده زن، امروز یادآور زخمی عمیق بر پیکره‌ جامعه‌ای است که هنوز درگیر نبرد میان «تکثر و تساهل» با «استبداد عقیدتی» است.<br><br><a href=\"?q=%23%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D9%85%D8%A7_%DB%8C%DA%A9%DB%8C%D8%B3%D8%AA\">#داستان_ما_یکیست</a> <a href=\"?q=%23%D8%A8%D9%87%D8%A7%DB%8C%DB%8C%D8%A7%D9%86_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\">#بهاییان_ایران</a> <a href=\"?q=%23%DA%AF%D9%81%D8%AA%DA%AF%D9%88_%D8%AA%D9%88%D8%A7%D9%86%D8%A7\">#گفتگو_توانا</a><br><br><a href=\"https://t.me/Dialogue1402\" target=\"_blank\">@Dialogue1402</a>",
-      "plain_text": "۲۸ خرداد بازخوانی تراژدی قتل حکومتی ده زن بهایی در میدان چوگان شیراز آیا باور به دینی متفاوت از مذهب رسمی، مستوجب مجازات است؟ آیا می‌توان جان انسان را تنها به دلیل ایستادگی بر سر آیین خویش ستاند؟ پاسخ به این پرسش‌ها در تاریخ ایران، با خون ده زن نوشته شده است؛ زنانی که در ۲۸ خرداد ۱۳۶۲ در میدان چوگان شیراز، در پی امتناع از انکار اعتقادات خود، به دار آویخته شدند. جوان‌ترین آن‌ها مونا محمودنژاد بود؛ دختر ۱۷ ساله‌ای که جرمش تدریس به کودکان بهایی بود. مونا، با چشمانی که هنوز نور نوجوانی در آن می‌درخشد، در کنار نه زن دیگر ایستاده بود که هر کدام نمادی از اصالت و پایداری بودند، از نصرت غفرانی ۵۶ ساله تا رویا اشراقی ۲۳ ساله. در آن شب شوم، شیراز غرق در سکوت بود، اما نام‌های این ده زن در تاریخ حک شد: مونا محمودنژاد، رویا اشراقی، سیمین صابری، اختر ثابت، شیرین دالوند، مهشید نیرومند، زرین مقیمی‌ابیانه، نصرت غفرانی، طاهره ارجمند و عزت اشراقی. روایت‌ها می‌گویند آن‌ها را یک‌به‌یک برای تماشای اعدام دیگران می‌بردند تا شاید لرزه بر تنشان بیفتد و از باور خود دست بشویند؛ اما آنان، از نوجوان تا میان‌سال، دست‌های یکدیگر را در آخرین لحظات فشردند و با صلابتی که حتی دژخیمان را به حیرت وا داشت، به سوی مرگ قدم برداشتند. آن‌ها نه به خاطر جرم‌های سیاسی، بلکه تنها به جرم «بهایی بودن» به قربانگاه رفتند. آن شب، میدان چوگان شیراز نه تنها شاهد اعدام ده زن، بلکه شاهد دفن انسانیت و عدالت در سایه‌ تعصب بود. مونا و همراهانش به خاک سپرده شدند، اما صدای پایداری آن‌ها در تاریخ حقوق بشر ایران به یادگار ماند. امروز که از آن واقعه ۴۳ سال می‌گذرد، یادآوری این جنایت، پرسشی بنیادین را پیش روی هر وجدان بیداری می‌گذارد: چگونه نظامی می‌تواند خود را پاسدار عدل بداند در حالی که تفاوت در عقیده را با طناب دار پاسخ می‌دهد؟ نام این ده زن، امروز یادآور زخمی عمیق بر پیکره‌ جامعه‌ای است که هنوز درگیر نبرد میان «تکثر و تساهل» با «استبداد عقیدتی» است. #داستان_ما_یکیست #بهاییان_ایران #گفتگو_توانا @Dialogue1402",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Tavaana_TavaanaTech/104372",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/mTbPd4QNeMlY339tN1xkB-2PMNSwUCTaWgpL_PtNy0US2HKXbz74MCiaybjvEzggmIL9t2j94_yzPNWKEVViQz_IdCMdu0Xb5D0uVmStiEIoKelNO-XGnuFARaPJSoAphQFdw7-0VNE6Y58knfTP6Y1vDsHX04eZiKRa2EbufqHk-mUyAyW7vsuvA9yMc41fct94FxZ7lOTaejgV0fXdlt4V3Do_MrLH4r0npC0W54yd-QUbHNq6L-qIre3_SVwImQICgA-JMt4w8uIZ4fiNPyGC18kNDXsGVptIUagbbwKMYKLTc_KxikGHReIBn1q0aubchU21OS04g5XAUo5CIA.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/1a3f7e4995f70558dfb73d3a.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8062499999999869
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "15"
-        },
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "🕊",
-          "count": "3"
-        }
-      ],
-      "views_label": "1.43K",
-      "posted_at": "2026-06-18T13:37:26+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Tavaana_TavaanaTech/104372"
-    },
-    {
-      "id": "Tavaana_TavaanaTech/104371",
-      "author_name": "آموزشکده توانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/G9UTS8RRdWkeLVtLErTQUdE2Xv4VcUktegA84WyyXy3Aen-u-Q9dgqumrP2P9QK5FCNgBQFnOlFMeG9XYl9kJ2ZjmQ3FOt3OjpjXRCbCfF4lKCUs-bTZPEbdli9R1hO05FjtvxqkBK20ugO8bqbIzt93NvemlxdYYD7D155AwfqWLelJOm1gsKWBCcbamiHZO9bXZWuO-TlzQy66Fuoefhd7nOv01yy5PHGarNv5Rzebtv-oBEJH_EFejl9AgzrHrG6j0Uv8lJtpds-Dd_6erX94Ycb1yOzymXWklQc_NFy9FbEZ8LbXso89_4rGgG21ocxyak1XiVrhxqBHi7dUYg.jpg",
-      "author_photo_path": "channels/tavaana_tavaanatech/media/ec5229e71582250cb5c566af.jpg",
-      "body_html": "امروز سالگرد اعدام محمد ثلاث، درویش گنابادی است؛ مردی ۵۰ ساله و پدر دو فرزند که پس از حوادث گلستان هفتم و در میان انتقادهای گسترده حقوق بشری، در ۲۸ خرداد ۱۳۹۷ اعدام شد.<br><br>در شامگاه ۳۰ بهمن ۱۳۹۶، هم‌زمان با تجمع درویشان گنابادی در خیابان پاسداران تهران در اعتراض به بازداشت و فشار بر هم‌کیشان خود، نیروهای امنیتی و انتظامی با معترضان درگیر شدند. در جریان این حوادث، اتوبوسی با چند مأمور برخورد کرد و سه نفر جان باختند.<br><br>پس از این رویداد، محمد ثلاث بازداشت و به قتل این سه مأمور متهم شد. او در حالی محاکمه شد که وکلا، خانواده و نهادهای حقوق بشری بارها نسبت به روند رسیدگی به پرونده اعتراض کردند. محمد ثلاث ابتدا اتهام را پذیرفت، اما بعدتر اعلام کرد اعترافاتش تحت فشار و شکنجه اخذ شده است. <br>سنجیدم و دیدم که نشانی ز تکامل/ احکام نرون دارد و احکام شما نه <br>طرح از رضا عقیلی<br><a href=\"?q=%23%D9%85%D8%AD%D9%85%D8%AF_%D8%AB%D9%84%D8%A7%D8%AB\">#محمد_ثلاث</a><br><br><a href=\"https://t.me/Tavaana_TavaanaTech\" target=\"_blank\">@Tavaana_TavaanaTech</a>",
-      "plain_text": "امروز سالگرد اعدام محمد ثلاث، درویش گنابادی است؛ مردی ۵۰ ساله و پدر دو فرزند که پس از حوادث گلستان هفتم و در میان انتقادهای گسترده حقوق بشری، در ۲۸ خرداد ۱۳۹۷ اعدام شد. در شامگاه ۳۰ بهمن ۱۳۹۶، هم‌زمان با تجمع درویشان گنابادی در خیابان پاسداران تهران در اعتراض به بازداشت و فشار بر هم‌کیشان خود، نیروهای امنیتی و انتظامی با معترضان درگیر شدند. در جریان این حوادث، اتوبوسی با چند مأمور برخورد کرد و سه نفر جان باختند. پس از این رویداد، محمد ثلاث بازداشت و به قتل این سه مأمور متهم شد. او در حالی محاکمه شد که وکلا، خانواده و نهادهای حقوق بشری بارها نسبت به روند رسیدگی به پرونده اعتراض کردند. محمد ثلاث ابتدا اتهام را پذیرفت، اما بعدتر اعلام کرد اعترافاتش تحت فشار و شکنجه اخذ شده است. سنجیدم و دیدم که نشانی ز تکامل/ احکام نرون دارد و احکام شما نه طرح از رضا عقیلی #محمد_ثلاث @Tavaana_TavaanaTech",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Tavaana_TavaanaTech/104371",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/I_sBuYv6nTPFgh9bOxHe2pvOnLtp97xl6TYscGTb0vYtvek9Nmf0BybbA67CwBYuudbmPuhJP9WLQt5eyAHk5pN2S6-jpN87ll_4ApxpiyHHzHPiRX5HJXAZth16MhQuupqmU1A4wRjDoXoxmz4wNcJXdqCQNW9U6NSVUmb2iIs_Krx09XcpLzzV7cuTGKYHZ9iDqNyerK51-j-5aA_TLt50iK3BHhvkgVzhJVfEkI_G0erMMkvAWmzoqRn95YHqjOSEOeKPGXVxBsQ_QkTigHk-YAe6HgAzfwICY5Pqh1dt0eHDNmo2XxYRJUdocGddXxaDbZ7TPTHz32yZNEUEyw.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/eab1e3a38dcd33abd285aba5.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "29"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "🕊",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.71K",
-      "posted_at": "2026-06-18T11:37:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Tavaana_TavaanaTech/104371"
     }
   ]
 }

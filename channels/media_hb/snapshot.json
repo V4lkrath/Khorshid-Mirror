@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-06-25T01:52:59.225Z",
+  "fetched_at": "2026-06-25T05:48:05.716Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | Media Hub",
@@ -10,6 +10,35 @@
     "subscriber_count": "115K"
   },
   "posts": [
+    {
+      "id": "Media_HB/99936",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HLk3aWV9ddptPmbiXK4tbJp-gcjmTtkQcxPFjFxPpRAFG_u72_fGDhUz1I8eS80v6A-Kdo3vn8wMM8SJeGY1VN1GETvdwP4X5BiLIPKdB1qBDTEuTP_mQ_cOjnFZgf266IhFxd7v2CndddCPs6gPv0BmcG_pMMwDzx1bLBkqpfC4oZRW-06_-EkEtUWxl_beW9w-OH3nX4pISIw7SISmLWwvSM0vqLSNurwCAYFAU3uTRuPLbr9vbSE4_Zr5VxVGtTPsb2-EMDla1VVYXaAodlzpJX1p1mrBWVzYi12dmsH2nMczOnibraTHeD_Qg2Yq9_CKTcchldn3bSMOyf9boA.jpg",
+      "author_photo_path": "channels/media_hb/media/2ea69872692037ee7c333dbc.jpg",
+      "body_html": "<b>دنیا یه روزی کارمای ایرانو پس میده. تگزاس آمریکا رو شاهدید:</b>",
+      "plain_text": "دنیا یه روزی کارمای ایرانو پس میده. تگزاس آمریکا رو شاهدید:",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/99936",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DKuE_z6whpzk7T-RUkxj0PBGn1zMDVrx1qOwJYxh9l74DsR8GwM7i0UoNF_Z3DNfi293uZZZCIf2V1hvE4-ZWQZrXmG82rWGRGuJAzNmYHv_WJWP9LjQlb18mV-qtQQMeqxUKipVoXY4oARog2V5a3mUn-LEIiYtElwFiYCNIHJ0FjnSXwXODhp9zk91XnS57RlUKJeVYmTuC8svzSdu2PYXesazRVAyMZwNT1dqQdd-X5BB-w6y2veNwSuPskFCYyxAZA2NpUBEsFLV7iEhR_5rp10xxT8vbUpPc3L5eipCxuDbrBTbZrIZzR736o81z7LMv7KxqH5Yc2yNqB9cbA",
+          "thumbnail_path": "channels/media_hb/media/d270c086b225f8ef7e66c92a.jpg",
+          "duration_label": "0:37",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "9"
+        }
+      ],
+      "views_label": "222",
+      "posted_at": "2026-06-25T05:44:02+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/99936"
+    },
     {
       "id": "Media_HB/99935",
       "author_name": "مدیا هاب | Media Hub",
@@ -21,7 +50,11 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "179"
+          "count": "320"
+        },
+        {
+          "emoji": "🤣",
+          "count": "9"
         },
         {
           "emoji": "👍",
@@ -29,18 +62,18 @@
         },
         {
           "emoji": "❤",
-          "count": "4"
-        },
-        {
-          "emoji": "🤣",
-          "count": "3"
+          "count": "5"
         },
         {
           "emoji": "😭",
           "count": "3"
+        },
+        {
+          "emoji": "🤡",
+          "count": "1"
         }
       ],
-      "views_label": "1.42K",
+      "views_label": "3.39K",
       "posted_at": "2026-06-25T00:49:12+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99935"
@@ -56,14 +89,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "85"
+          "count": "134"
         },
         {
           "emoji": "🤡",
-          "count": "2"
+          "count": "4"
         }
       ],
-      "views_label": "2.07K",
+      "views_label": "3.95K",
       "posted_at": "2026-06-25T00:29:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99933"
@@ -89,18 +122,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "56"
+          "count": "68"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "16"
+          "count": "19"
         },
         {
           "emoji": "💔",
           "count": "1"
         }
       ],
-      "views_label": "2.62K",
+      "views_label": "4.42K",
       "posted_at": "2026-06-25T00:13:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99932"
@@ -126,10 +159,10 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "19"
+          "count": "22"
         }
       ],
-      "views_label": "2.64K",
+      "views_label": "4.37K",
       "posted_at": "2026-06-25T00:11:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99931"
@@ -145,14 +178,14 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "50"
+          "count": "62"
         },
         {
           "emoji": "👎",
           "count": "1"
         }
       ],
-      "views_label": "2.61K",
+      "views_label": "4.33K",
       "posted_at": "2026-06-25T00:10:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99930"
@@ -168,11 +201,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "66"
+          "count": "75"
         },
         {
           "emoji": "😁",
-          "count": "12"
+          "count": "13"
         },
         {
           "emoji": "❤‍🔥",
@@ -183,7 +216,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.91K",
+      "views_label": "4.58K",
       "posted_at": "2026-06-25T00:03:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99929"
@@ -199,10 +232,10 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "16"
+          "count": "21"
         }
       ],
-      "views_label": "2.94K",
+      "views_label": "4.58K",
       "posted_at": "2026-06-25T00:02:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99928"
@@ -218,22 +251,22 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "156"
+          "count": "187"
         },
         {
           "emoji": "👍",
-          "count": "16"
+          "count": "18"
         },
         {
           "emoji": "👎",
-          "count": "4"
+          "count": "6"
         },
         {
           "emoji": "🤡",
           "count": "3"
         }
       ],
-      "views_label": "3.05K",
+      "views_label": "4.64K",
       "posted_at": "2026-06-24T23:58:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99927"
@@ -330,14 +363,18 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "95"
+          "count": "109"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         },
         {
           "emoji": "😐",
           "count": "1"
         }
       ],
-      "views_label": "4.08K",
+      "views_label": "5.56K",
       "posted_at": "2026-06-24T23:27:29+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99917"
@@ -395,14 +432,14 @@
       "reactions": [
         {
           "emoji": "😭",
-          "count": "43"
+          "count": "48"
         },
         {
           "emoji": "❤",
           "count": "3"
         }
       ],
-      "views_label": "4.2K",
+      "views_label": "5.55K",
       "posted_at": "2026-06-24T23:18:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99914"
@@ -466,14 +503,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "132"
+          "count": "146"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "5.42K",
+      "views_label": "6.67K",
       "posted_at": "2026-06-24T22:41:02+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/99907"
@@ -489,14 +526,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "98"
+          "count": "112"
         },
         {
           "emoji": "❤",
           "count": "4"
         }
       ],
-      "views_label": "5.5K",
+      "views_label": "6.68K",
       "posted_at": "2026-06-24T22:30:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99903"
@@ -603,7 +640,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "145"
+          "count": "163"
         },
         {
           "emoji": "❤",
@@ -614,7 +651,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.38K",
+      "views_label": "7.47K",
       "posted_at": "2026-06-24T22:05:54+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99899"
@@ -630,14 +667,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "25"
+          "count": "26"
         },
         {
           "emoji": "🔥",
           "count": "2"
         }
       ],
-      "views_label": "6.16K",
+      "views_label": "7.19K",
       "posted_at": "2026-06-24T22:00:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99898"
@@ -653,14 +690,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "128"
+          "count": "136"
         },
         {
           "emoji": "😁",
           "count": "3"
         }
       ],
-      "views_label": "6.58K",
+      "views_label": "7.55K",
       "posted_at": "2026-06-24T21:50:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99897"
@@ -676,7 +713,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "69"
+          "count": "71"
         },
         {
           "emoji": "😁",
@@ -687,7 +724,7 @@
           "count": "2"
         }
       ],
-      "views_label": "6.53K",
+      "views_label": "7.49K",
       "posted_at": "2026-06-24T21:49:48+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/99896"
@@ -703,11 +740,11 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "65"
+          "count": "70"
         },
         {
           "emoji": "🤣",
-          "count": "26"
+          "count": "27"
         },
         {
           "emoji": "😐",
@@ -718,7 +755,7 @@
           "count": "2"
         }
       ],
-      "views_label": "7.34K",
+      "views_label": "8.14K",
       "posted_at": "2026-06-24T21:23:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99895"
@@ -734,11 +771,11 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "56"
+          "count": "62"
         },
         {
           "emoji": "🤣",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "❤‍🔥",
@@ -749,7 +786,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.38K",
+      "views_label": "8.2K",
       "posted_at": "2026-06-24T21:21:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99893"
@@ -775,7 +812,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "198"
+          "count": "216"
         },
         {
           "emoji": "💔",
@@ -790,7 +827,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.27K",
+      "views_label": "9.18K",
       "posted_at": "2026-06-24T21:18:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99889"
@@ -2995,55 +3032,6 @@
       "posted_at": "2026-06-23T19:59:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/99790"
-    },
-    {
-      "id": "Media_HB/99786",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/S_Urm-NxdMFbstvDrRMXPOYLDsDfNDVX3Ez8l5brmay7aLZ-fgD9v2PI-UsaibYU2zGVa1o2U28vjI5r3AY2vf6eg21pamWDgH1YCBi4H0YNRlTFDPZ0qIcuf9PDJz1GdiDts25H9heHE3JtRRZEN-RcxZ4W6gv0dfza8trnD43XM7nr6nG1PhU3FA1lDU8U0RqSrhUaeHZD1Gc5bVs5t7xWzGN6OkIa0FcW-w9KceMDGE7rEj1aNKBlbs4zvrZhJ3NwjKNkJWUCDD8Xby8QewtzEmGeqzk40ID2aYdR-OkmnbdvC-vOM9qRbUz3Zdvu5CStH2DNC0hbyop1HLuaZA.jpg",
-      "author_photo_path": "channels/media_hb/media/46f22d7df9ca5b416abfbb11.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5870991840026566363\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗</b></i></tg-emoji><b>خبرنگار از رونالدو راجب درخشش مسی خواست سوال بپرسه که رونالدو نذاشت سوال بپرسه و‌ گفت صیکتیر نفر بعدی<br><br></b><a href=\"?q=%23Behdad\"><b>#Behdad</b></a>",
-      "plain_text": "❗خبرنگار از رونالدو راجب درخشش مسی خواست سوال بپرسه که رونالدو نذاشت سوال بپرسه و‌ گفت صیکتیر نفر بعدی #Behdad",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/99786",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Td8doAfzvdndUXFii1Ll6oX2_rYWKAWEoDBA62P7lKWA_QgVNfdMT6XYjOIsN7gBOltM4LLsbw8UpN-ZYMjtCdnY7ZDTC57wIH2xTQSxl0foWCuyzmJ1EwQeZ7U4BKMjPjz3TU_CUSuGouFnipXM_jUQxpRfj1XwVCurN_7kQi84pE2HC3zHEeZ5iMI8_-b_1WS_t6_VeO9VA0vVE-oLRawS8vZAONMJqbgghpdS7PFVqLYfe2mb34ZArSdFakg2NbzYg_GAV18vhDBm7qxQ3WfPSgN4AwmU5DMbJs6vQuEMdHVlyerMHRMAlapJp9N_So79nL8TaUBAK5HQxOe5Hw",
-          "thumbnail_path": "channels/media_hb/media/2ef0c380debb79cf88d7979e.jpg",
-          "duration_label": "0:14",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "207"
-        },
-        {
-          "emoji": "❤",
-          "count": "36"
-        },
-        {
-          "emoji": "🤡",
-          "count": "8"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "4"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        },
-        {
-          "emoji": "💔",
-          "count": "2"
-        }
-      ],
-      "views_label": "9.46K",
-      "posted_at": "2026-06-23T19:49:11+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/99786"
     }
   ]
 }

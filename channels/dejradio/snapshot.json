@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-06-26T20:03:53.945Z",
+  "fetched_at": "2026-06-26T20:51:50.998Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,43 @@
     "subscriber_count": "13.6K"
   },
   "posts": [
+    {
+      "id": "DEJradio/5993",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/RYniqvJNRw-eopfjbAi-jfXjI80639Iu2HaqfNh2UTjUgfrrYEj81URCjvsQTYmq8GiUgpnFfquLmFQ7YLEe2WV54RrIXDd-Tpm4TCf061bx2uppEfHR2UucwRycjbOk-jbhEhMsDI0ys5BKbrP93I9eEpsTHv4M1kvSolJpglSaT0gdUq1Or6CW-mbb31Gz3rZxMfKvkFo6h4Fq4FM5SPDEXPiSHhsoQwYNScukLjrpbEDr14-Xojj1yifYDpU4jr15kVkyUujjLk6DiV9kZZHACzk4P_ooMpASiXt6LHH6m67SM9MNbDsC6IkXjdMif1AoBJRmvlVVPd9oMt8Gjw.jpg",
+      "author_photo_path": "channels/dejradio/media/f87fffc52641c957cb52c0fc.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i><tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji> برنامه دژ فوتبالی، اپیزود شانزدهم<br><br>*مهدی رستم‌پور، خبرنگار ورزشی <br><br><a href=\"?q=%23%D8%AF%DA%98%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84%DB%8C\">#دژفوتبالی</a> <a href=\"?q=%23%D8%AC%D8%A7%D9%85_%D8%AC%D9%87%D8%A7%D9%86%DB%8C\">#جام_جهانی</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "⚽️🔺 برنامه دژ فوتبالی، اپیزود شانزدهم *مهدی رستم‌پور، خبرنگار ورزشی #دژفوتبالی #جام_جهانی @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/5993",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/t0rxDBmQE_MiSbbDfNolh-7-M3MqSpBdMxEJ0kHxi3o578SQd0Y6Pr2TdtyORQ5sxjuR-yKSwWJAw6O-BgSgDyeK3_uFeFrGLA_Aamo0nVgDjr-AHBMv5LWAzYC1u_8S4FT27AcU_FDxcsbtXYnoJFKRh5F5catSCot492_oQM6PDexBBeHqlWQ6CQWKS9Vf2odlEVRHDCd78ZMcBFSCyygmUo_Gc3xIA14NU_vR6J35-Ef1AKum78GafK8mBmjr5HgGG538l-9N6EOOj77AABrvMxQsaxB7yr6zfsXazIOMgd-rZtfCvOmqq3fnXiym8ebzZFAUYqbE2a_poDIZrw",
+          "thumbnail_path": "channels/dejradio/media/4c918b36ef8ee18847c8d518.jpg",
+          "duration_label": "33:25",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "🥰",
+          "count": "1"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        }
+      ],
+      "views_label": "324",
+      "posted_at": "2026-06-26T20:27:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/5993"
+    },
     {
       "id": "DEJradio/5992",
       "author_name": "DEJ",
@@ -31,10 +68,10 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "6"
+          "count": "7"
         }
       ],
-      "views_label": "514",
+      "views_label": "782",
       "posted_at": "2026-06-26T19:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5992"
@@ -61,7 +98,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.18K",
+      "views_label": "1.34K",
       "posted_at": "2026-06-26T16:46:21+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5991"
@@ -88,7 +125,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.21K",
+      "views_label": "1.32K",
       "posted_at": "2026-06-26T16:30:51+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5990"
@@ -115,7 +152,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.14K",
+      "views_label": "1.24K",
       "posted_at": "2026-06-26T16:29:08+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5989"
@@ -142,7 +179,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.18K",
+      "views_label": "1.25K",
       "posted_at": "2026-06-26T16:16:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5988"
@@ -183,7 +220,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.24K",
+      "views_label": "1.28K",
       "posted_at": "2026-06-26T14:35:32+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5987"
@@ -218,7 +255,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.25K",
+      "views_label": "1.3K",
       "posted_at": "2026-06-26T14:24:19+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5986"
@@ -255,7 +292,7 @@
           "count": "4"
         }
       ],
-      "views_label": "1.08K",
+      "views_label": "1.11K",
       "posted_at": "2026-06-26T14:09:57+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5985"
@@ -292,7 +329,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.02K",
+      "views_label": "1.04K",
       "posted_at": "2026-06-26T14:08:07+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5984"
@@ -341,7 +378,7 @@
           "count": "1"
         }
       ],
-      "views_label": "944",
+      "views_label": "966",
       "posted_at": "2026-06-26T14:05:58+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5983"
@@ -382,7 +419,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.07K",
+      "views_label": "1.11K",
       "posted_at": "2026-06-26T14:04:34+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5982"
@@ -419,7 +456,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.13K",
+      "views_label": "1.18K",
       "posted_at": "2026-06-26T14:00:28+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5981"
@@ -456,7 +493,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.77K",
+      "views_label": "1.8K",
       "posted_at": "2026-06-26T10:00:23+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5980"
@@ -489,7 +526,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.67K",
+      "views_label": "1.7K",
       "posted_at": "2026-06-26T09:58:46+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5979"
@@ -555,7 +592,7 @@
           "count": "6"
         }
       ],
-      "views_label": "2.15K",
+      "views_label": "2.17K",
       "posted_at": "2026-06-25T22:49:00+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5977"
@@ -600,7 +637,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.16K",
+      "views_label": "2.18K",
       "posted_at": "2026-06-25T22:48:01+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5976"
@@ -617,8 +654,8 @@
           "kind": "video",
           "asset_url": "https://t.me/DEJradio/5975",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qyxD4jl-_kf6gOrLAI6g4Jwa91GgBTfuHM7ijMVHB_PCBxUli5tklmiNoIKa9psnIPF5yYItiz5DVRojfKvaG4Fl_VIL1rypSz9F2m24P-FdqlWHIHF2Y4ETxXwMT-WcRbjrtDFGPMqqeVOKRK2-3YBdE5BRhTU3IMGY1BzvyTSHN9kF2JcQnoSs7UbRAZ2LR4aXQ6JIZOqytw3R7z1pItNhlCVb_qNZ7aPGzizio521ZYyFLwwz6-h3zSVM8JLxsSxgiS4mPKNnrynsidY0FczKprCJ5Tp4_kTWfnVQn0pXMjgvzSnB25WtlRNI5sVkEzPZwbZrNWrxAehaG6nBoA",
-          "thumbnail_path": "channels/dejradio/media/b14c52502ac982f5903d3a0a.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/OICqKKIBmuj1SThmvDaswCZ1onWeiv8lUWP4UiBneQCMawv2GUXqQZcyQcxXchWW5rOAK0op0Ya4OBb7elj5r0cqo4Q3sq9qKkpRQ13j6D3XkzJ5b-PFXilWLaMsOToYBwjKJoBd2zToSjWK4kTzmEaEIoHmSGWzO-HOfyjAsqmxxmw9vfQA9TJRF8IH4cQsRiTKwx0iJMJq_hPWz39XepYiagbN3GcSdOIGVi_2lNzJp5pNDfRixBpI2R5Px33wGmqwCkISjOWuNeqRvGO2ZPZ2c5t1NFCCmOMUBb-MScueeB_XPooOTeHZd5uxVW2O489U-JDyeo9ERKgRS71L6A",
+          "thumbnail_path": "channels/dejradio/media/a3de5e24103acf7a1106aa7f.jpg",
           "duration_label": "36:06",
           "aspect_ratio": 1.7777777777777777
         }
@@ -641,7 +678,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.04K",
+      "views_label": "2.05K",
       "posted_at": "2026-06-25T20:23:13+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5975"
@@ -694,7 +731,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.26K",
+      "views_label": "2.27K",
       "posted_at": "2026-06-25T20:11:13+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5974"
@@ -735,7 +772,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.92K",
+      "views_label": "1.93K",
       "posted_at": "2026-06-25T19:36:54+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/5973"
@@ -3578,55 +3615,6 @@
       "posted_at": "2026-06-22T13:24:07+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/5888"
-    },
-    {
-      "id": "DEJradio/5887",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/INV546oZz541iKQZnwb-MDg_eINOhCCW8I0urML7Q9G62kLBLDEHG9BhZnoivgYWQ5LrP_KC00WSYg9IQzq-L1eR4n5Snjsf5QbKmGTF1htHmqTNbUhwxNzfS8FW3986Bx5jTg43AqE4DPE6b_Z9JkivrYK2CgQ-FLZDzsRSd1NtAc3gGOMn9YzsLARUZp9K8AMofOeOqd926GdelDf8RMjHZwWobd3HskJXcW9KcWwvLTzaSAznLM9sk3anMA9sgtzyYjgEtORzrSsVSVSeLrEQUbji8eSQHLfSbLwtyBh1HuUl-VEZiRsfchAnSIMmxoCqfEpvKWAOkvgKtxYArg.jpg",
-      "author_photo_path": "channels/dejradio/media/96ddcd6884233f4c321c5525.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5213419616725903784\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> جمهوری اسلامی به تنظیمات کارخانه بازگشت<br>ظهور مجدد گشت ارشاد <br><br>بر اساس ویدئوهای منتشرشده توسط شهروندان، جمهوری اسلامی که در زمان جنگ، پرستوهای خود را جاذبه‌ای برای کشاندن جوانان «شل‌تمبان» ولایی قرار داده بود، پس از توقف جنگ، گشت‌های ارشاد خود را راهی خیابان‌ها کرده تا نشان دهد «جمهوری اسلامی به تنظیمات کارخانه بازگشته است.»!<br><br><a href=\"?q=%23%D8%AC%D9%86%DA%AF\">#جنگ</a> <a href=\"?q=%23%D9%BE%D8%B1%D8%B3%D8%AA%D9%88\">#پرستو</a> <a href=\"?q=%23%DA%AF%D8%B4%D8%AA_%D8%A7%D8%B1%D8%B4%D8%A7%D8%AF\">#گشت_ارشاد</a>  <br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🚨🎥 جمهوری اسلامی به تنظیمات کارخانه بازگشت ظهور مجدد گشت ارشاد بر اساس ویدئوهای منتشرشده توسط شهروندان، جمهوری اسلامی که در زمان جنگ، پرستوهای خود را جاذبه‌ای برای کشاندن جوانان «شل‌تمبان» ولایی قرار داده بود، پس از توقف جنگ، گشت‌های ارشاد خود را راهی خیابان‌ها کرده تا نشان دهد «جمهوری اسلامی به تنظیمات کارخانه بازگشته است.»! #جنگ #پرستو #گشت_ارشاد @DEJradio",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/5887",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ZaJReUSRfMDKGq4zrcFzk7heW3HjNAwfoFjqZI5xuQ38VHOLC7_198pw-YfPtpAKVMG9ObsltuhYDmC4GSQfc2SsC_wS6NATFbUIebuFyfo_fOjX-1vMeB9m2E0_V0xTG7AzLjjVzppu8CUTq4MR0rqSbWOL4L5P8e15c_b6-kA0jZtFijSSCESKUzt7fRmET67XYPdUgs2NOO3xu1uiRLqltLeTV7bmbXBKsfMzyvHFIrX7OMonO93W4ScJC7x6HDuFGfdUBd5qqLvw4rRW5wTAn4Q5D401WsDquO475wPsORTYfybgkKADsdaoyF-3AvsI_tk-7EW3lpkpmnE1BQ",
-          "thumbnail_path": "channels/dejradio/media/a018c900a64db8057d31e9e6.jpg",
-          "duration_label": "0:29",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤬",
-          "count": "56"
-        },
-        {
-          "emoji": "🤮",
-          "count": "8"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        },
-        {
-          "emoji": "😁",
-          "count": "2"
-        },
-        {
-          "emoji": "🖕",
-          "count": "2"
-        },
-        {
-          "emoji": "👏",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.98K",
-      "posted_at": "2026-06-22T11:30:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/5887"
     }
   ]
 }

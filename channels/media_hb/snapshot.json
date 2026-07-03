@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-07-03T17:46:09.918Z",
+  "fetched_at": "2026-07-03T17:50:11.474Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | Media Hub",
@@ -10,6 +10,43 @@
     "subscriber_count": "113K"
   },
   "posts": [
+    {
+      "id": "Media_HB/101071",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/u3VRKQahm-y5w3o4nDnnZ7_YO9IYLViCKYhiiAlOZ_Pbvax4HsofYJkuXj9MIMZqBzCQlDa0QNLkkk3WZhsgx44mk4EMnDCkYGR7fpJGMZtRb1Z2BHH3fVZSp8Ud45lexOeD2GDooIVYN2Qes7_ZPuCwb-g5YQd5yAcbwsnrxoy-pwY86FjuOJmTLXJmF-OYaPKnCytxtSrBJObGg6b6BeV_hk9Bxaq1lNfpTb5tuY7qDDQJTn7M_LKzBVYDZIGzkvROzWPcDsD_Q7WV19b4J6qbalEhaUHZFJgn9TFkGXmAV1Wnj37SmlFq9CpOXan5NDEfjH9hUOsZKA6dc1TfEw.jpg",
+      "author_photo_path": "channels/media_hb/media/47b5a3badef3f723c29fdb9d.jpg",
+      "body_html": "<b>ژاپن امشب به مناسبت دویست و پنجاهمین سالگرد استقلال آمریکا یه همچین آتش بازی ای راه انداخت</b>",
+      "plain_text": "ژاپن امشب به مناسبت دویست و پنجاهمین سالگرد استقلال آمریکا یه همچین آتش بازی ای راه انداخت",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/101071",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/sfsyWNFoz__N48wPVIl0---ozHxuXXhJ129cJSePBvGLTqvLESgclJtBP10LN13p48mMFa36RYUBFVsoB8sT3bqqMwoDYDRsnjxPjWv-fYGWLgzJ-Jw2iuGN4dlTjUf52ojFGD4PmMxaZx3CWaStAjZPgwWganLUpb4h2lKSVp2ZXS76BoqxjW9ZjrO76UudTH9J39Fv5l2wHt-lRMDx_C90S5qwLMQ54vjzxC0FPqaAeQYFX0su-aWc8h7OygkQYejESMYQWv6P7328RRdiqPPydmStT4_L6GPABY8tYtrhcOqCOx9ccTWyvPvx0flK_S1cer8UAHINiye9zQ28eQ",
+          "thumbnail_path": "channels/media_hb/media/98e9ae96ffdfa5e8cc1465e6.jpg",
+          "duration_label": "0:53",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "6"
+        },
+        {
+          "emoji": "😐",
+          "count": "3"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "276",
+      "posted_at": "2026-07-03T17:49:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/101071"
+    },
     {
       "id": "Media_HB/101070",
       "author_name": "مدیا هاب | Media Hub",
@@ -21,22 +58,22 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "86"
+          "count": "94"
         },
         {
           "emoji": "❤",
-          "count": "9"
+          "count": "10"
+        },
+        {
+          "emoji": "👎",
+          "count": "2"
         },
         {
           "emoji": "👍",
           "count": "1"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
         }
       ],
-      "views_label": "1.47K",
+      "views_label": "1.74K",
       "posted_at": "2026-07-03T17:33:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101070"
@@ -52,11 +89,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "27"
+          "count": "29"
         },
         {
           "emoji": "🤡",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "👍",
@@ -67,7 +104,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.8K",
+      "views_label": "2.02K",
       "posted_at": "2026-07-03T17:30:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101069"
@@ -83,14 +120,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "162"
+          "count": "170"
         },
         {
           "emoji": "❤",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "2.87K",
+      "views_label": "3.11K",
       "posted_at": "2026-07-03T17:19:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101068"
@@ -116,10 +153,10 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "138"
+          "count": "141"
         }
       ],
-      "views_label": "4.19K",
+      "views_label": "4.38K",
       "posted_at": "2026-07-03T16:54:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101066"
@@ -135,7 +172,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "70"
+          "count": "73"
         },
         {
           "emoji": "❤",
@@ -146,7 +183,7 @@
           "count": "2"
         }
       ],
-      "views_label": "4.81K",
+      "views_label": "4.93K",
       "posted_at": "2026-07-03T16:42:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101065"
@@ -162,10 +199,10 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "318"
+          "count": "321"
         }
       ],
-      "views_label": "6.58K",
+      "views_label": "6.7K",
       "posted_at": "2026-07-03T15:47:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101064"
@@ -196,7 +233,7 @@
           "count": "4"
         }
       ],
-      "views_label": "6.8K",
+      "views_label": "6.86K",
       "posted_at": "2026-07-03T15:27:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101063"
@@ -231,7 +268,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.98K",
+      "views_label": "7.04K",
       "posted_at": "2026-07-03T15:16:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101062"
@@ -257,7 +294,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "262"
+          "count": "263"
         },
         {
           "emoji": "❤",
@@ -272,7 +309,7 @@
           "count": "2"
         }
       ],
-      "views_label": "7.99K",
+      "views_label": "8.05K",
       "posted_at": "2026-07-03T14:43:30+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/101061"
@@ -301,7 +338,7 @@
           "count": "4"
         }
       ],
-      "views_label": "7.31K",
+      "views_label": "7.34K",
       "posted_at": "2026-07-03T14:42:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101060"
@@ -336,7 +373,7 @@
           "count": "2"
         }
       ],
-      "views_label": "7.22K",
+      "views_label": "7.25K",
       "posted_at": "2026-07-03T14:08:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101058"
@@ -367,7 +404,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.93K",
+      "views_label": "7.96K",
       "posted_at": "2026-07-03T13:32:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101057"
@@ -435,7 +472,7 @@
           "count": "5"
         }
       ],
-      "views_label": "8.51K",
+      "views_label": "8.54K",
       "posted_at": "2026-07-03T12:39:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101055"
@@ -462,7 +499,7 @@
           "count": "2"
         }
       ],
-      "views_label": "8.51K",
+      "views_label": "8.54K",
       "posted_at": "2026-07-03T12:31:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101054"
@@ -501,7 +538,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.85K",
+      "views_label": "8.88K",
       "posted_at": "2026-07-03T12:15:29+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101053"
@@ -528,7 +565,7 @@
           "count": "5"
         }
       ],
-      "views_label": "8.92K",
+      "views_label": "8.93K",
       "posted_at": "2026-07-03T11:59:20+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101052"
@@ -565,7 +602,7 @@
           "count": "12"
         }
       ],
-      "views_label": "8.79K",
+      "views_label": "8.82K",
       "posted_at": "2026-07-03T11:58:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/101051"
@@ -3352,33 +3389,6 @@
       "posted_at": "2026-07-01T22:48:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/100947"
-    },
-    {
-      "id": "Media_HB/100946",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/pn0SL9IT_yISKNt_eKmcODsE0eD2bPpcWzldcVx1yLwPRitRx3kcuyZFeIC2Ovwztle83glcq8FiwxwGcZ0rtTIP2lNmm8ZIQgLu67X-tjMEaz-4UcLIJlB18mTKAbF5BdyvNJtTuea8sg1JNAZqvy6hPRQsbxfkgK-kZFH6BA5Hn_M-o8VpwNm4Zs_RUgXVmuyyBLQBHtnN0dWnExnAeF5TpSe-c3YaJ0NOP48ZNAhJ1mUQRfFVBJnk_FbvNMVOQFHWVZ_lXacAn9WurMbo0FR8vleZxM4i3itcCf8m1_GEOBZh4Hv6gL7D4ucXWRa9ggkjjEHyU6KFzWA54UWzeg.jpg",
-      "author_photo_path": "channels/media_hb/media/2d1a64e72e10c0414ec864f4.jpg",
-      "body_html": "دعا رو خوند قطعا گل نمیشه",
-      "plain_text": "دعا رو خوند قطعا گل نمیشه",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "49"
-        },
-        {
-          "emoji": "❤",
-          "count": "4"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "8.17K",
-      "posted_at": "2026-07-01T22:43:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/100946"
     }
   ]
 }

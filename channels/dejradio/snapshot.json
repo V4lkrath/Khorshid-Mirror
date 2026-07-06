@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-07-06T20:20:29.728Z",
+  "fetched_at": "2026-07-06T21:08:54.977Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,30 @@
     "subscriber_count": "13.6K"
   },
   "posts": [
+    {
+      "id": "DEJradio/6238",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/SeZfUhLtANqaEu5x4Nfblo_ZBwvH-4f5ZDTO_IkuyW6Y7VQR8bmJ8JFx0HNAaji6GG5g9lWAQUR1LJFZUnilCFg7oL-hR8GMCZR7-ZlgWu6Jec7xzkoTv4QBUQ9lbCj_91XBDDrKdxYhX5PqOx0NsiiSIp0bRt4-sTuAfMdr6PEwiIUAcGo9zyM3K1mxzE6MaJNrmqGE7Sp60AYdL_DEpuPJH0GeGl0XviqcxZOAzDezgrUQHQDgMNfAhV9atw2KhdTXXos1PW0dExW7OQqcCLP02zT3rpnDy6__8hXFRTOlcjO8zjSpMNKapccgL2ytmdybpK5Vws1FTNbtkILw_A.jpg",
+      "author_photo_path": "channels/dejradio/media/15a9b21ed29c1839ebdac452.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5949286409478082944\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9598.png')\"><b>🕘</b></i> خبر<br>دوشنبه ۱۵تیر ۱۴۰۵<br><br> <a href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\">#خبر۲۱</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "⭕️🕘 خبر دوشنبه ۱۵تیر ۱۴۰۵ #خبر۲۱ @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/6238",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/CMb1xdkJtuxnnvps5OZUKSqlhDLXBA6ZHT8dfaQLycCp8JrVZsVkRdbFHxp8in7i7UAKaaVoFduDhgQp4UYAWjJt38Tt_U7r64Gdr5vd1bSyWMMek3an4hoQku3B2-Wj7TVsDqTylGkP0-LQJlseh-1-IX5HB09youEYB7L5pHHWcH1xBglmnJn2i4T-4D8YQUzYRt1yXPRNkwscCYjHW81bEq3L0rZAnzznGXoIgykdRxlrXZwfU6_x13KGAuQFL-lD1DZO2EmwWLfM5JOQIO2PSRXBuyI0o1gU3HvghUzFvdKUmpjCW6QQ1Nl63NDyzLod6n76YLlofJHwliNZSQ",
+          "thumbnail_path": "channels/dejradio/media/d8ba065adf83708285e5fe31.jpg",
+          "duration_label": "2:16",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "74",
+      "posted_at": "2026-07-06T21:06:24+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/6238"
+    },
     {
       "id": "DEJradio/6237",
       "author_name": "DEJ",
@@ -31,14 +55,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "❤",
           "count": "3"
         }
       ],
-      "views_label": "585",
+      "views_label": "790",
       "posted_at": "2026-07-06T19:09:33+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6237"
@@ -64,14 +88,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "13"
+          "count": "15"
         },
         {
           "emoji": "👌",
           "count": "4"
         }
       ],
-      "views_label": "857",
+      "views_label": "1.01K",
       "posted_at": "2026-07-06T18:13:42+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6236"
@@ -101,14 +125,14 @@
         },
         {
           "emoji": "🫡",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "👏",
           "count": "4"
         }
       ],
-      "views_label": "995",
+      "views_label": "1.08K",
       "posted_at": "2026-07-06T17:13:06+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6235"
@@ -134,10 +158,10 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "21"
+          "count": "22"
         }
       ],
-      "views_label": "946",
+      "views_label": "1.02K",
       "posted_at": "2026-07-06T17:08:05+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6234"
@@ -163,14 +187,14 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "31"
+          "count": "33"
         },
         {
           "emoji": "😁",
           "count": "3"
         }
       ],
-      "views_label": "1.13K",
+      "views_label": "1.19K",
       "posted_at": "2026-07-06T16:04:30+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6233"
@@ -196,14 +220,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "💯",
           "count": "8"
         }
       ],
-      "views_label": "1K",
+      "views_label": "1.05K",
       "posted_at": "2026-07-06T16:01:55+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6232"
@@ -238,7 +262,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "8"
+          "count": "10"
         },
         {
           "emoji": "😡",
@@ -249,7 +273,7 @@
           "count": "2"
         }
       ],
-      "views_label": "908",
+      "views_label": "954",
       "posted_at": "2026-07-06T16:00:41+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6230"
@@ -294,7 +318,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.06K",
+      "views_label": "1.11K",
       "posted_at": "2026-07-06T15:43:34+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6229"
@@ -320,7 +344,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "35"
+          "count": "37"
         },
         {
           "emoji": "👍",
@@ -331,7 +355,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.18K",
+      "views_label": "1.21K",
       "posted_at": "2026-07-06T14:29:39+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6228"
@@ -368,7 +392,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.25K",
+      "views_label": "1.28K",
       "posted_at": "2026-07-06T14:06:58+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6227"
@@ -413,7 +437,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.22K",
+      "views_label": "1.25K",
       "posted_at": "2026-07-06T13:11:36+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6226"
@@ -468,7 +492,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.65K",
+      "views_label": "1.69K",
       "posted_at": "2026-07-06T12:29:51+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6223"
@@ -503,7 +527,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "21"
+          "count": "20"
         },
         {
           "emoji": "🤬",
@@ -514,7 +538,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.39K",
+      "views_label": "1.44K",
       "posted_at": "2026-07-06T12:27:06+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6221"
@@ -559,7 +583,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.93K",
+      "views_label": "1.94K",
       "posted_at": "2026-07-05T23:02:18+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6220"
@@ -576,8 +600,8 @@
           "kind": "video",
           "asset_url": "https://t.me/DEJradio/6219",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/V8yJiXBAtp4r0TgE5csZT-ruL_ksSZU1UZV93JTlOCoDzIofutwiomcGLpUnNMZIf2hxby-KS37G94j2qUJD7mOcWImaPeo1g7cGbY0UTm8LSk47bJDldx51YPPChl6IL6JfKf8833jfEsiMvja0lBBPYlEhxKMHL0_sQvW0FzHwnc-GA0YpED9CR_gN5rJ3cnkatKWQ8BfgWLCIrU-sAYWv1OEgD-gddxjMvb39VZ7JHSVQZBKX5_yCKfiKqErPHKQ_0CqZQBOEvFyZaQaYU0h4uwKKN76ZIKFy7kOtspeGg-NENjGkBcnsulRi4dNnJE1voeMeptVklGBzygLZEg",
-          "thumbnail_path": "channels/dejradio/media/d3a5591f46ecc15c959e85e9.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Th2tlWmKxeHFg-hEJ8Kzqn2howNNTGAOnMB_f6lKFP8PdpmuENJF12nXsLEMUMcG8zgM-DJrFvdnGoABUOOBz41vxO7FGtVPmJJQru_LlOgTSvmIp-coG2MhIdVCSLwILzMgwtDr6tmAcI2rkGKqyprnLaMGlYX6SXgYUwpF-hQlAyhAfEfegganJqO479yNsMv8k1to4UqNwKEUE-O63W3H6smFi3nM6c8wtQFV09IOdkwfZtbV-hyKYSl1xp9CzBhJJz4LXc4XXnzGYEUPQAQTJyAWoP5-eO3oCiFHnkIZcq6D6HJsRYeO4hb34osA21APTEqPRJUEG9u-PjMdVg",
+          "thumbnail_path": "channels/dejradio/media/aa04f2ec1a1a825fcc2f6ea8.jpg",
           "duration_label": "3:49",
           "aspect_ratio": 1.7824267782426628
         }
@@ -588,7 +612,7 @@
           "count": "15"
         }
       ],
-      "views_label": "1.93K",
+      "views_label": "1.94K",
       "posted_at": "2026-07-05T20:35:34+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6219"
@@ -3929,47 +3953,6 @@
       "posted_at": "2026-07-01T09:24:41+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6103"
-    },
-    {
-      "id": "DEJradio/6102",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/T-22KIak6HuJAC9VJ1fDE5iwOIjYg0O2W_RcrZL5i4sFlvy535M03zt3KoPTRRNJUffLB-R0SVu2Kn-_Ewk1rMcMQdUwWPFFLbmnfE1RtOVLBn708ZsI1C0P8_2qOqzC4Lgi_-m2QscAIqX4BOBBlg9MW1Dle8pEujcJM2STuo1oyqgm-kA3UyZxPgGIYI8A8R-MFV8xN5uClew9_yax28NykWEtdbA84OcBqT3B1swXFzMqrrGbFg4F0Cu664zLb4wMYWEd6tyaKDwLLwSNq966fmH23tLJxp9yaKaCeJTG0-4O50YF3hMP1Wt2Sg86NMTSkEf9m5m7ZqvkmalGyg.jpg",
-      "author_photo_path": "channels/dejradio/media/1638d4ee0371463e532759f1.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i> اختصاصی؛<br>هشدار سرپرست وزارت دفاع نسبت به افزایش نارضایتی در نیروهای مسلح<br><br>بر اساس اطلاعات رسیده به دژ، مجید ابن الرضا سرپرست وزارت دفاع جمهوری اسلامی در جلسه‌ با اعضای کمیسیون اقتصادی مجلس شورای اسلامی، با تأکید بر افزایش نارضایتی در بین پرسنل نیروهای مسلح و فشار از سوی خانواده آنها، نسبت به پیامدهای احتمالی بی‌توجهی به معیشت نظامی‌ها هشدار داده است. <br><br>در این جلسه که نهم تیرماه ۱۴۰۵ برگزار شد اعلام شد که کارکنان نظامی اعم از سـ.ـپاه، ارتش و انتظامی از پایین بودن حقوق شکایت دارند و عدم واریز پاداش قابل توجه بعد از جنگ ۱۲ روزه و ۴۰ روزه موجی از اعتراض را در یگان‌ها به همراه داشته است.<br><br>بعد از جنگ ۴۰ روزه بسیاری از پرسنل فقط حدود ۴ تا ۸ میلیون تومان پاداش گرفته‌اند. بعضی از آنها طی سه ماه حتی یک هفته هم نتوانسته بودند به منزل بروند.<br>تلفات سنگین نیروهای مسلح در جنگ خانواده‌های پرسنل را به شدت نگران سرنوشت خود کرده است زیرا هنوز وضعیت حقوق و پرداخت دیه بسیاری از کشته‌ها مشخص نشده است.<br><br>در این جلسه با اشاره به احتمال آغاز اعتراضات خیابانی، به طور خاص بر ضرورت حمایت از نیروهای فراجا و نیروهای میدانی سـ.ـپاه و بسیج تأکید شده است.<br>در عین حال در همین جلسه اشاره شد که حتی با وجود رفع موقت محاصره دریایی و انتقال نفت به چین و مالزی، بودجه حتی برای بازسازی پادگان‌ها و مقرهای بمباران شده نیروهای مسلح نیز کافی نیست.<br><br><a href=\"?q=%23%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C_%D9%85%D8%B3%D9%84%D8%AD\">#نیروهای_مسلح</a> <a href=\"?q=%23%D8%AC%D9%86%DA%AF%DB%B4%DB%B0%D8%B1%D9%88%D8%B2%D9%87\">#جنگ۴۰روزه</a> <a href=\"?q=%23%D8%B1%DB%8C%D8%B2%D8%B4%DB%8C\">#ریزشی</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🔺📌 اختصاصی؛ هشدار سرپرست وزارت دفاع نسبت به افزایش نارضایتی در نیروهای مسلح بر اساس اطلاعات رسیده به دژ، مجید ابن الرضا سرپرست وزارت دفاع جمهوری اسلامی در جلسه‌ با اعضای کمیسیون اقتصادی مجلس شورای اسلامی، با تأکید بر افزایش نارضایتی در بین پرسنل نیروهای مسلح و فشار از سوی خانواده آنها، نسبت به پیامدهای احتمالی بی‌توجهی به معیشت نظامی‌ها هشدار داده است. در این جلسه که نهم تیرماه ۱۴۰۵ برگزار شد اعلام شد که کارکنان نظامی اعم از سـ.ـپاه، ارتش و انتظامی از پایین بودن حقوق شکایت دارند و عدم واریز پاداش قابل توجه بعد از جنگ ۱۲ روزه و ۴۰ روزه موجی از اعتراض را در یگان‌ها به همراه داشته است. بعد از جنگ ۴۰ روزه بسیاری از پرسنل فقط حدود ۴ تا ۸ میلیون تومان پاداش گرفته‌اند. بعضی از آنها طی سه ماه حتی یک هفته هم نتوانسته بودند به منزل بروند. تلفات سنگین نیروهای مسلح در جنگ خانواده‌های پرسنل را به شدت نگران سرنوشت خود کرده است زیرا هنوز وضعیت حقوق و پرداخت دیه بسیاری از کشته‌ها مشخص نشده است. در این جلسه با اشاره به احتمال آغاز اعتراضات خیابانی، به طور خاص بر ضرورت حمایت از نیروهای فراجا و نیروهای میدانی سـ.ـپاه و بسیج تأکید شده است. در عین حال در همین جلسه اشاره شد که حتی با وجود رفع موقت محاصره دریایی و انتقال نفت به چین و مالزی، بودجه حتی برای بازسازی پادگان‌ها و مقرهای بمباران شده نیروهای مسلح نیز کافی نیست. #نیروهای_مسلح #جنگ۴۰روزه #ریزشی @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/6102",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YApvu-_ND4jPink-QDnz2vmq09rAOKVZvxDjPaiXPXw83VOEHedN6_ttXGN3WVa1BCm-UVo26HQzQ6lLBVDeFpBy_OOhv6Bl0wLb1ZcPDAlTL6jaR8XyTat9HCozJyYIcihAoOLc2dzSHW7oxniVwbH1uzcwqgkbPMVlZlEyI7KAoq5o0wS1m9HR60W4GhxejYihqgQqCCwiGgef_9F4e6OdrGNpmMY6QdldRnXLfkLWU0pYXQ-NxL5NEb45lzStk_QmiN4Ozgr-UhVNUc8LBcKWfWeOBzN_nYJrBWyN3cziKJ1IpiNli5MUz6JkTuvoWuFCIyZVWaHBO6vkYhfJlw.jpg",
-          "thumbnail_path": "channels/dejradio/media/fcfbe28d33dbb0cc5d613cb7.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "25"
-        },
-        {
-          "emoji": "🔥",
-          "count": "5"
-        },
-        {
-          "emoji": "👍",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        }
-      ],
-      "views_label": "2.04K",
-      "posted_at": "2026-07-01T08:00:15+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/6102"
     }
   ]
 }

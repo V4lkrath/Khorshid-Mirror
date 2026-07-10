@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-07-10T18:58:31.597Z",
+  "fetched_at": "2026-07-10T20:14:42.558Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,35 @@
     "subscriber_count": "13.6K"
   },
   "posts": [
+    {
+      "id": "DEJradio/6355",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/iWJufOcnFWX_Q8MQnqXaFiQez8XuwtgwJaqTk5wf_vGLrD-4XPYf5nethc72QynGCnt-qTo27e4cl2o1CHTwREctwdApNB6B_lXTLUGS3sXg_YwmkUsurn-FuOJ5MparqzxtPoSWnpcT6BsI3jYU1SYRbgxoPrKMYdipdt03IgkaIIIer0nPpJz7lO8ksEtwtqEQJ4Te-cL6Et5WFULLifQthu-ubzWS4H_k646r3YSFaVedBDZg_OhCPRfvNnOYo4G6AX4TAoq2TQccb8tJGREFwzN-DsrKY_Ykpme0AIRFE7xnAD3Mpz31PMfHzHsAdDobuWkwsTSRYl1c_49E8g.jpg",
+      "author_photo_path": "channels/dejradio/media/54a519de8f54f6afd53d8cad.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5949286409478082944\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9598.png')\"><b>🕘</b></i> خبر ۲۱<br>آدینه ۱۹ تیر ۱۴۰۵<br><br><a href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\">#خبر۲۱</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "⭕️🕘 خبر ۲۱ آدینه ۱۹ تیر ۱۴۰۵ #خبر۲۱ @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/6355",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RSUThMtbbhkIPWATrFXcI30lSPmhMkBxc-vcSrZOWf6FO6RbkpZnaxa36a0fs4-KPtBYx3xLOFp9OKjBmYdqq2aJ8KpnBWAWEsQwGwoGFvN-scCCNFgeKV1YQ8nIg3oBxR5Udwk-3_GGU5iAV-J-KEP24r0kXZvedpWH6OgcDGLEaKtyx6_BLYVNJ-WLMpp6qINhMC_KKelqwe4hnNSPEHrof9MK7XeMUIs3zKXmqwMbaPcdjZLHKEensNh1uaIhn8cx3mTFkmCKterfy9_MAOOs0tXSq4tgVdI_qoE4oZ4xcSUct7w8JBMIvXQOf3l5PKsoZ7bbQi0HbcERUWibgw",
+          "thumbnail_path": "channels/dejradio/media/785d87a431eba4f5ee671290.jpg",
+          "duration_label": "3:33",
+          "aspect_ratio": 1.7824267782426628
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "6"
+        }
+      ],
+      "views_label": "625",
+      "posted_at": "2026-07-10T19:11:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/6355"
+    },
     {
       "id": "DEJradio/6354",
       "author_name": "DEJ",
@@ -31,14 +60,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "❤",
-          "count": "3"
+          "count": "5"
         }
       ],
-      "views_label": "794",
+      "views_label": "1.15K",
       "posted_at": "2026-07-10T17:19:18+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6354"
@@ -54,7 +83,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "18"
+          "count": "20"
         },
         {
           "emoji": "❤",
@@ -65,7 +94,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.19K",
+      "views_label": "1.42K",
       "posted_at": "2026-07-10T16:08:52+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6353"
@@ -91,18 +120,18 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "17"
+          "count": "19"
         },
         {
           "emoji": "😁",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "😢",
           "count": "1"
         }
       ],
-      "views_label": "1.5K",
+      "views_label": "1.69K",
       "posted_at": "2026-07-10T15:07:06+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6352"
@@ -128,14 +157,14 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "33"
+          "count": "37"
         },
         {
           "emoji": "👍",
           "count": "3"
         }
       ],
-      "views_label": "1.44K",
+      "views_label": "1.6K",
       "posted_at": "2026-07-10T14:58:20+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6351"
@@ -161,14 +190,14 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "34"
+          "count": "36"
         },
         {
           "emoji": "😎",
           "count": "2"
         }
       ],
-      "views_label": "1.37K",
+      "views_label": "1.53K",
       "posted_at": "2026-07-10T14:52:57+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6350"
@@ -194,11 +223,11 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "64"
+          "count": "65"
         },
         {
           "emoji": "🤮",
-          "count": "14"
+          "count": "15"
         },
         {
           "emoji": "🥰",
@@ -211,9 +240,13 @@
         {
           "emoji": "🖕",
           "count": "2"
+        },
+        {
+          "emoji": "😁",
+          "count": "1"
         }
       ],
-      "views_label": "1.72K",
+      "views_label": "1.8K",
       "posted_at": "2026-07-10T12:01:39+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6349"
@@ -239,7 +272,7 @@
       "reactions": [
         {
           "emoji": "👌",
-          "count": "29"
+          "count": "31"
         },
         {
           "emoji": "👏",
@@ -258,7 +291,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.68K",
+      "views_label": "1.77K",
       "posted_at": "2026-07-10T11:56:17+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6348"
@@ -284,7 +317,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "44"
+          "count": "46"
         },
         {
           "emoji": "❤",
@@ -299,7 +332,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.93K",
+      "views_label": "2K",
       "posted_at": "2026-07-10T10:43:11+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6347"
@@ -332,7 +365,7 @@
           "count": "10"
         }
       ],
-      "views_label": "1.98K",
+      "views_label": "2.03K",
       "posted_at": "2026-07-10T09:35:07+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6346"
@@ -362,7 +395,7 @@
         },
         {
           "emoji": "🤮",
-          "count": "23"
+          "count": "24"
         },
         {
           "emoji": "🤬",
@@ -385,7 +418,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.47K",
+      "views_label": "2.52K",
       "posted_at": "2026-07-10T07:32:48+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6345"
@@ -434,7 +467,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.01K",
+      "views_label": "3.07K",
       "posted_at": "2026-07-10T06:49:47+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6344"
@@ -496,7 +529,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.45K",
+      "views_label": "3.48K",
       "posted_at": "2026-07-09T21:40:29+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6342"
@@ -545,7 +578,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.91K",
+      "views_label": "2.92K",
       "posted_at": "2026-07-09T21:39:42+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6341"
@@ -598,7 +631,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.6K",
+      "views_label": "2.61K",
       "posted_at": "2026-07-09T21:38:21+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6340"
@@ -643,7 +676,7 @@
           "count": "2"
         }
       ],
-      "views_label": "2.51K",
+      "views_label": "2.53K",
       "posted_at": "2026-07-09T21:38:02+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6339"
@@ -688,7 +721,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.71K",
+      "views_label": "2.73K",
       "posted_at": "2026-07-09T20:52:06+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6338"
@@ -729,7 +762,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.55K",
+      "views_label": "2.56K",
       "posted_at": "2026-07-09T20:36:06+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6337"
@@ -766,7 +799,7 @@
           "count": "3"
         }
       ],
-      "views_label": "2.44K",
+      "views_label": "2.45K",
       "posted_at": "2026-07-09T20:21:15+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/6336"
@@ -4029,43 +4062,6 @@
       "posted_at": "2026-07-07T07:13:33+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6240"
-    },
-    {
-      "id": "DEJradio/6239",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Z-l-R3B2zNCWeVyU68L6jhlVTq7r9YW9leK3gXS6Ve0fMGGogKrrPNank7uVrlmhbya0Xbf3kQ2vy5cbu5gqNkxlQL4opSexiYsIjJz8pRGMb21BFM2WtZWmpveZzX-66EoUiHzZgI6kQTvfnrbkiooZQLA8QG68njq5tA5YeBM3Ik4_Z0zpoyuHTy-biwLHen08aLY5wUUDv7ibxoyAhqIVCpkUaeWHUHtBjEcqcN4iBx4wmbcDjJ_BmuAdfpadjXhj7RYIgZ974bwolh0vC3-onHO4iB59RSPU5yM-00hcZh8syGSEtbeY00aT4DKCCelYxp79Ja_S0IuljB9X_Q.jpg",
-      "author_photo_path": "channels/dejradio/media/7946f88999d6ae0bf5386205.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5213419616725903784\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i> منابع آگاه به دژ خبر دادند دولت مصر با یک تصمیم سیاسی، تمام برنامه‌های سالگرد درگذشت محمدرضا شاه پهلوی شاهنشاه فقید ایران را که همه ساله در مسجد الرفاعی برگزار می‌شد لغو کرده است.<br>همچنین گزارش شد که از سوی مقام‌های مصری به وزارت خارجه این کشور ابلاغ شده اجازه ورود چهره سرشناس مخالف حکومت ایران به قاهره داده نشود.<br>یکی از همین منابع به دژ گفت: «برای السیسی ننگ است که در واپسین دوران رژیم ایران، به ملاها خوش خدمتی می‌کند.»<br><br><a href=\"?q=%23%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7%D8%B4%D8%A7%D9%87_%D9%BE%D9%87%D9%84%D9%88%DB%8C\">#محمدرضاشاه_پهلوی</a> <a href=\"?q=%23%D9%85%D8%B5%D8%B1\">#مصر</a>",
-      "plain_text": "🚨📢 منابع آگاه به دژ خبر دادند دولت مصر با یک تصمیم سیاسی، تمام برنامه‌های سالگرد درگذشت محمدرضا شاه پهلوی شاهنشاه فقید ایران را که همه ساله در مسجد الرفاعی برگزار می‌شد لغو کرده است. همچنین گزارش شد که از سوی مقام‌های مصری به وزارت خارجه این کشور ابلاغ شده اجازه ورود چهره سرشناس مخالف حکومت ایران به قاهره داده نشود. یکی از همین منابع به دژ گفت: «برای السیسی ننگ است که در واپسین دوران رژیم ایران، به ملاها خوش خدمتی می‌کند.» #محمدرضاشاه_پهلوی #مصر",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/6239",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Zc_tyUVUXpquz8qQJ2_T9jPsEWH0gJUa2-eJeiYpXp1JHMVp6dlCLuwPVd3O2ev_238wATKQeB2i2Nv0Ukyk3lIHr90h9iw9myWlLLqNkw1XCDvvf54-I9x_lFF2ANIQj3nfcV--ig6wquD6As-BAWFYmQpiTITX2bJVkoO_ezy0JtFfhmPTfrPPh7CD3msJODfoQ6WcE0mVnsNB6R-ylXxrOkJOCZncSPjrHgTcRgxK5bAyuYy3XK72Nz1YiYC6r6B4s9SSCTpg4_ynkHa0NEXB4aDhqb1VI1YYUxqRs4_e_zCMft6F2GDLOaBgbGR6Za0rhz81NmkiQQ_8Z8cMAg.jpg",
-          "thumbnail_path": "channels/dejradio/media/ddbaaac7896772573ca74c28.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤬",
-          "count": "103"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.84K",
-      "posted_at": "2026-07-07T07:10:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/6239"
     }
   ]
 }

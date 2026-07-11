@@ -1,10 +1,14 @@
 {
   "schema": 2,
-  "generated_at": "2026-07-11T22:35:13.479Z",
-  "succeeded": 34,
+  "generated_at": "2026-07-11T23:33:58.548Z",
+  "succeeded": 33,
   "failed": [
     {
-      "username": "radiofarda",
+      "username": "bbcpersian",
+      "error": "fetch failed"
+    },
+    {
+      "username": "media_hb",
       "error": "fetch failed"
     }
   ]

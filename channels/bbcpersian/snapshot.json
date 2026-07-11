@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-07-11T19:03:24.151Z",
+  "fetched_at": "2026-07-11T19:48:15.777Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -11,6 +11,30 @@
   },
   "posts": [
     {
+      "id": "bbcpersian/286346",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/RvurRTJIu4QjAIG37xmTDrIP3vpPusAo-yY63WxztGoEtS4e-r_sRO6dBBxprx2taEko37fX_xzRBopY0l-DaxW3plfqZLOjH70U3PGP5N3rLO3tR6pOMDHL32LNVVUnwOJXganGqYEccyQUHuWQYHjHfEhuNAIuvst6rb1diNJ9f6ITodYHDw5hDpW0bUcyHdTy3siw6jfPczbmpvcql_OsWnG0hLAuAM74oqeejq1vvS9lGvumWpMp5FWfkT-yivJ4ltGAtNtUVYajAMUfdHHUhVibJrHoPFxYhwj-rezDPuTujx4dQuTBvvXtbaRJPVybRBRRyTneCyMiq4NXpg.jpg",
+      "author_photo_path": "channels/bbcpersian/media/b28ceb7303c0ab3364b3dc94.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>آخرین خبرهای مهم روز شنبه ۲۰ تیر ۱۴۰۵<br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻آخرین خبرهای مهم روز شنبه ۲۰ تیر ۱۴۰۵ @BBCPersian",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/bbcpersian/286346",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RA8rU_hHMe1O3zFpUdNDFbywzhBrIYUf4mlc9LN23BH4GRXJfhC3ULHdpHRI8afFnukTozSYx8ggYNGVWaz1TcZdpK4nrHO5YJ-LSsnKzTpmqjam7Zlq4zVNraynbXWHx38WNZ-_94KmIGPugB297N_unPorN2DBrjUyCGzuLROM11HcLha1vLrjD2rhqgz-hPq7hdZfb2cj9ztQTfgeV-mxOCmlcpHBeVUJWTGE5x0MAQzVC6d3Th4LslUwzR39Nlv80mp2euzHJKMk1Et4nSewYlW6tCTpd2uwYh6jdytfyYcEmvDYftm8BFlLR5UYXwmMoGTBeTQKVANN_0_LwA",
+          "thumbnail_path": "channels/bbcpersian/media/0bdc614f3e767ade4f581975.jpg",
+          "duration_label": "0:42",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.59K",
+      "posted_at": "2026-07-11T19:43:55+00:00",
+      "edited": true,
+      "permalink": "https://t.me/bbcpersian/286346"
+    },
+    {
       "id": "bbcpersian/286342",
       "author_name": "BBCPersian",
       "author_photo_url": "https://cdn4.telesco.pe/file/RvurRTJIu4QjAIG37xmTDrIP3vpPusAo-yY63WxztGoEtS4e-r_sRO6dBBxprx2taEko37fX_xzRBopY0l-DaxW3plfqZLOjH70U3PGP5N3rLO3tR6pOMDHL32LNVVUnwOJXganGqYEccyQUHuWQYHjHfEhuNAIuvst6rb1diNJ9f6ITodYHDw5hDpW0bUcyHdTy3siw6jfPczbmpvcql_OsWnG0hLAuAM74oqeejq1vvS9lGvumWpMp5FWfkT-yivJ4ltGAtNtUVYajAMUfdHHUhVibJrHoPFxYhwj-rezDPuTujx4dQuTBvvXtbaRJPVybRBRRyTneCyMiq4NXpg.jpg",
@@ -19,7 +43,7 @@
       "plain_text": "پادکست برنامه جام جهان‌نما شنبه ۲۰ تیر ۱۴۰۵ این برنامه رادیویی را می‌توانید هر شب ساعت ۲۰ به وقت ایران، روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۹۴۶۵ کیلوهرتز بشنوید. تکرار برنامه را هم می‌توانید ساعت ۲۱:۳۰ روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۵۳۹۵ کیلوهرتز گوش کنید. @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "27.8K",
       "posted_at": "2026-07-11T17:57:37+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286342"
@@ -43,7 +67,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.2K",
+      "views_label": "44.3K",
       "posted_at": "2026-07-11T16:13:39+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/286341"
@@ -67,7 +91,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.9K",
+      "views_label": "45.3K",
       "posted_at": "2026-07-11T15:50:11+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286340"
@@ -91,7 +115,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.7K",
+      "views_label": "51.8K",
       "posted_at": "2026-07-11T15:05:09+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286339"
@@ -105,7 +129,7 @@
       "plain_text": "📻این هفته در پرگار: حمله مغول به ایران 🔻حمله‌ مغول به ایران چه بجا گذاشت؟ ویرانی و قتل‌ عامی که به چنگیزخان و نوادگانش در ایران نسبت داده می‌شود تا چه حد با مدارک تاریخی همخوانی دارد؟ میهمان‌ها: سارا میراحمدی، پژوهشگر ایران ایلخانی مایکل هوپ، استاد مطالعات ایرانی دوران مغول @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "45.7K",
+      "views_label": "49.2K",
       "posted_at": "2026-07-11T14:44:01+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286338"
@@ -129,7 +153,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.4K",
+      "views_label": "49K",
       "posted_at": "2026-07-11T14:35:06+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286337"
@@ -143,7 +167,7 @@
       "plain_text": "📻 تازه‌ترین خبرهای جهان شنبه ۲۰ تیر ۱۴۰۵ از رادیو بی‌بی‌سی در لندن @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "44.2K",
+      "views_label": "47.4K",
       "posted_at": "2026-07-11T14:19:29+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286336"
@@ -167,7 +191,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.1K",
+      "views_label": "50.6K",
       "posted_at": "2026-07-11T14:06:38+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286335"
@@ -191,7 +215,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.3K",
+      "views_label": "48.9K",
       "posted_at": "2026-07-11T13:47:53+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286334"
@@ -215,7 +239,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "58.9K",
+      "views_label": "60.8K",
       "posted_at": "2026-07-11T12:18:11+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286333"
@@ -239,7 +263,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.7K",
+      "views_label": "55.7K",
       "posted_at": "2026-07-11T12:14:51+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/286332"
@@ -263,7 +287,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "55.4K",
+      "views_label": "57.3K",
       "posted_at": "2026-07-11T11:44:43+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286331"
@@ -287,7 +311,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.4K",
+      "views_label": "56.3K",
       "posted_at": "2026-07-11T11:42:30+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286330"
@@ -311,7 +335,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.5K",
+      "views_label": "60.8K",
       "posted_at": "2026-07-11T10:03:27+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/286329"
@@ -325,7 +349,7 @@
       "plain_text": "🔻حمله موشکی روسیه به کی‌یف مقام‌های اوکراینی می‌گویند که روسیه بامداد شنبه کی‌یف، پایتخت اوکراین، را با موشک‌های بالستیک هدف قرار داده است. یک شاهد عینی به رویترز گفت که پیش از اعلام هشدار هوایی، صدای چند انفجار مهیب را در شهر شنیده است. اداره نظامی کی‌یف در تلگرام اعلام کرده که در پی این حمله، یک ساختمان غیرمسکونی در یکی از مناطق شهر آسیب دیده، از منطقه‌ای دیگر دود برخاسته و یک ساختمان اداری نیز دچار آتش‌سوزی شده است. https://bbc.in/4f7wIeq @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "58.6K",
+      "views_label": "59.9K",
       "posted_at": "2026-07-11T09:47:07+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286328"
@@ -349,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "61.2K",
+      "views_label": "62.2K",
       "posted_at": "2026-07-11T08:34:29+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/286327"
@@ -373,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "61.5K",
+      "views_label": "62.2K",
       "posted_at": "2026-07-11T07:32:04+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286326"
@@ -387,7 +411,7 @@
       "plain_text": "🔻فرماندار پاکدشت: صدای انفجارها از فعالیت‌های معمول در منطقه نظامی پارچین بود محمدمهدی قمی، فرماندار پاکدشت در استان تهران درباره شنیده شدن صداهای انفجار در برخی مناطق این شهرستان گفته است که این صداها به «فعالیت‌های معمول در منطقه نظامی پارچین مربوط می‌شود.» او گفت که هیچ حادثه‌ای رخ نداده است. پیش‌تر مردم از شنیده شدن صدای انفجار در پاکدشت و قیام دشت در شرق استان تهران خبر داده بودند. https://bbc.in/4vkJTil @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "57.8K",
+      "views_label": "58.7K",
       "posted_at": "2026-07-11T07:25:09+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286325"
@@ -483,7 +507,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "55.6K",
+      "views_label": "56.5K",
       "posted_at": "2026-07-11T07:15:04+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286316"
@@ -2604,20 +2628,6 @@
       "posted_at": "2026-07-09T17:16:26+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/286178"
-    },
-    {
-      "id": "bbcpersian/286177",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/PmKfILdag8DOyg8VHyOM2d26V0xfJ1Jb5BDOZFqN42W0N8qvoyPHleelxckzhWczpkm2z2sGVY3rUZ0TI1AD_KB-K1OYu6JN_4-p5-sZ4Qgzs80aLVo9-9XgcGVH_GM8B35sEv61V7wd9OHl07TlNPB8uHiiqx_fwa_zV0JRvgcly4pRTiFJlsjDDlUT_KW1bDa1Ogoey0_jAYBkwJT4P_Ut60hzkkQK-luVae545STkJmKXFrYsmec-ETX5X2LHhCXN-Pw09knHZUd5LbZX5-i0O1IVz9fe0-FP1MMBgt6iPjaS08kskyOaJNr2mcO93LBE414dBHbK6EN35iw1Dg.jpg",
-      "author_photo_path": "channels/bbcpersian/media/1c55fc80e4517520a2c660d3.jpg",
-      "body_html": "پادکست برنامه جام جهان‌نما پنج‌شنبه ۱۸  تیر ۱۴۰۵<br>این برنامه رادیویی را می‌توانید هرشب ساعت ۲۰ به وقت ایران، روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۹۴۶۵ کیلوهرتز بشنوید.تکرار برنامه را هم می‌توانید ساعت ۲۱:۳۰ روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۵۳۹۵ کیلوهرتز گوش کنید.<br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">@BBCPersian</a>",
-      "plain_text": "پادکست برنامه جام جهان‌نما پنج‌شنبه ۱۸ تیر ۱۴۰۵ این برنامه رادیویی را می‌توانید هرشب ساعت ۲۰ به وقت ایران، روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۹۴۶۵ کیلوهرتز بشنوید.تکرار برنامه را هم می‌توانید ساعت ۲۱:۳۰ روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۵۳۹۵ کیلوهرتز گوش کنید. @BBCPersian",
-      "media": [],
-      "reactions": [],
-      "views_label": "56K",
-      "posted_at": "2026-07-09T17:13:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/286177"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "schema": 2,
-  "generated_at": "2026-07-13T22:06:03.439Z",
+  "generated_at": "2026-07-13T22:12:34.146Z",
   "succeeded": 0,
   "failed": [
     {
-      "username": "badnews_85",
+      "username": "alonews",
       "error": "fetch failed"
     },
     {
-      "username": "alonews",
+      "username": "badnews_85",
       "error": "fetch failed"
     },
     {
@@ -16,11 +16,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "bidarzani",
+      "username": "daadbaan2021",
       "error": "fetch failed"
     },
     {
-      "username": "daadbaan2021",
+      "username": "bidarzani",
       "error": "fetch failed"
     },
     {
@@ -48,15 +48,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "hranews",
-      "error": "fetch failed"
-    },
-    {
       "username": "futballi18",
       "error": "fetch failed"
     },
     {
-      "username": "indypersian",
+      "username": "hranews",
       "error": "fetch failed"
     },
     {
@@ -64,7 +60,7 @@
       "error": "fetch failed"
     },
     {
-      "username": "iranlix",
+      "username": "indypersian",
       "error": "fetch failed"
     },
     {
@@ -72,11 +68,15 @@
       "error": "fetch failed"
     },
     {
-      "username": "kianmeli1",
+      "username": "iranlix",
       "error": "fetch failed"
     },
     {
       "username": "mamlekate",
+      "error": "fetch failed"
+    },
+    {
+      "username": "kianmeli1",
       "error": "fetch failed"
     },
     {
@@ -136,11 +136,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "vahidonline",
+      "username": "withyashar",
       "error": "fetch failed"
     },
     {
-      "username": "withyashar",
+      "username": "vahidonline",
       "error": "fetch failed"
     }
   ]

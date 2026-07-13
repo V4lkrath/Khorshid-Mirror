@@ -1,14 +1,18 @@
 {
   "schema": 2,
-  "generated_at": "2026-07-13T22:12:34.146Z",
+  "generated_at": "2026-07-13T23:11:08.229Z",
   "succeeded": 0,
   "failed": [
+    {
+      "username": "badnews_85",
+      "error": "fetch failed"
+    },
     {
       "username": "alonews",
       "error": "fetch failed"
     },
     {
-      "username": "badnews_85",
+      "username": "bidarzani",
       "error": "fetch failed"
     },
     {
@@ -17,10 +21,6 @@
     },
     {
       "username": "daadbaan2021",
-      "error": "fetch failed"
-    },
-    {
-      "username": "bidarzani",
       "error": "fetch failed"
     },
     {
@@ -36,15 +36,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "farsivoa",
-      "error": "fetch failed"
-    },
-    {
       "username": "filter_watch",
       "error": "fetch failed"
     },
     {
-      "username": "followupiran",
+      "username": "farsivoa",
       "error": "fetch failed"
     },
     {
@@ -52,11 +48,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "hranews",
+      "username": "followupiran",
       "error": "fetch failed"
     },
     {
-      "username": "iranianminds",
+      "username": "hranews",
       "error": "fetch failed"
     },
     {
@@ -68,11 +64,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "iranlix",
+      "username": "iranianminds",
       "error": "fetch failed"
     },
     {
-      "username": "mamlekate",
+      "username": "iranlix",
       "error": "fetch failed"
     },
     {
@@ -80,11 +76,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "manototv",
+      "username": "mamlekate",
       "error": "fetch failed"
     },
     {
-      "username": "media_hb",
+      "username": "manototv",
       "error": "fetch failed"
     },
     {
@@ -92,11 +88,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "mwarmonitor",
+      "username": "media_hb",
       "error": "fetch failed"
     },
     {
-      "username": "officialrezapahlavi",
+      "username": "mwarmonitor",
       "error": "fetch failed"
     },
     {
@@ -104,11 +100,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "persianvpnhub",
+      "username": "persian_trend_official",
       "error": "fetch failed"
     },
     {
-      "username": "persian_trend_official",
+      "username": "officialrezapahlavi",
       "error": "fetch failed"
     },
     {
@@ -116,7 +112,7 @@
       "error": "fetch failed"
     },
     {
-      "username": "radiofarda",
+      "username": "persianvpnhub",
       "error": "fetch failed"
     },
     {
@@ -124,7 +120,7 @@
       "error": "fetch failed"
     },
     {
-      "username": "sahamnewsorg",
+      "username": "radiofarda",
       "error": "fetch failed"
     },
     {
@@ -132,15 +128,19 @@
       "error": "fetch failed"
     },
     {
+      "username": "sahamnewsorg",
+      "error": "fetch failed"
+    },
+    {
       "username": "tavaana_tavaanatech",
       "error": "fetch failed"
     },
     {
-      "username": "withyashar",
+      "username": "vahidonline",
       "error": "fetch failed"
     },
     {
-      "username": "vahidonline",
+      "username": "withyashar",
       "error": "fetch failed"
     }
   ]

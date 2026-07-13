@@ -1,6 +1,47 @@
 {
   "schema": 2,
-  "generated_at": "2026-07-13T19:08:50.870Z",
-  "succeeded": 35,
-  "failed": []
+  "generated_at": "2026-07-13T19:54:54.219Z",
+  "succeeded": 25,
+  "failed": [
+    {
+      "username": "alonews",
+      "error": "fetch failed"
+    },
+    {
+      "username": "badnews_85",
+      "error": "fetch failed"
+    },
+    {
+      "username": "bbcpersian",
+      "error": "fetch failed"
+    },
+    {
+      "username": "daadbaan2021",
+      "error": "fetch failed"
+    },
+    {
+      "username": "bidarzani",
+      "error": "fetch failed"
+    },
+    {
+      "username": "dejradio",
+      "error": "fetch failed"
+    },
+    {
+      "username": "drtel",
+      "error": "fetch failed"
+    },
+    {
+      "username": "farsi_iranwire",
+      "error": "fetch failed"
+    },
+    {
+      "username": "filter_watch",
+      "error": "fetch failed"
+    },
+    {
+      "username": "farsivoa",
+      "error": "fetch failed"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-07-14T09:24:48.506Z",
+  "generated_at": "2026-07-14T10:19:27.248Z",
   "succeeded": 0,
   "failed": [
     {
@@ -16,15 +16,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "daadbaan2021",
-      "error": "fetch failed"
-    },
-    {
       "username": "bidarzani",
       "error": "fetch failed"
     },
     {
-      "username": "drtel",
+      "username": "daadbaan2021",
       "error": "fetch failed"
     },
     {
@@ -33,6 +29,10 @@
     },
     {
       "username": "farsi_iranwire",
+      "error": "fetch failed"
+    },
+    {
+      "username": "drtel",
       "error": "fetch failed"
     },
     {
@@ -56,11 +56,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "indypersian",
+      "username": "iranianminds",
       "error": "fetch failed"
     },
     {
-      "username": "iranianminds",
+      "username": "indypersian",
       "error": "fetch failed"
     },
     {
@@ -72,11 +72,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "kianmeli1",
+      "username": "mamlekate",
       "error": "fetch failed"
     },
     {
-      "username": "mamlekate",
+      "username": "kianmeli1",
       "error": "fetch failed"
     },
     {
@@ -96,19 +96,19 @@
       "error": "fetch failed"
     },
     {
-      "username": "netblocks",
-      "error": "fetch failed"
-    },
-    {
       "username": "officialrezapahlavi",
       "error": "fetch failed"
     },
     {
-      "username": "persian_trend_official",
+      "username": "netblocks",
       "error": "fetch failed"
     },
     {
       "username": "persianvpnhub",
+      "error": "fetch failed"
+    },
+    {
+      "username": "persian_trend_official",
       "error": "fetch failed"
     },
     {
@@ -128,19 +128,19 @@
       "error": "fetch failed"
     },
     {
-      "username": "tavaana_tavaanatech",
-      "error": "fetch failed"
-    },
-    {
       "username": "stop_qeshmm",
       "error": "fetch failed"
     },
     {
-      "username": "vahidonline",
+      "username": "tavaana_tavaanatech",
       "error": "fetch failed"
     },
     {
       "username": "withyashar",
+      "error": "fetch failed"
+    },
+    {
+      "username": "vahidonline",
       "error": "fetch failed"
     }
   ]

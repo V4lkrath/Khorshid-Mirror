@@ -1,14 +1,14 @@
 {
   "schema": 2,
-  "generated_at": "2026-07-14T11:01:34.330Z",
+  "generated_at": "2026-07-14T11:51:04.529Z",
   "succeeded": 0,
   "failed": [
     {
-      "username": "badnews_85",
+      "username": "alonews",
       "error": "fetch failed"
     },
     {
-      "username": "alonews",
+      "username": "badnews_85",
       "error": "fetch failed"
     },
     {
@@ -44,11 +44,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "futballi18",
+      "username": "followupiran",
       "error": "fetch failed"
     },
     {
-      "username": "followupiran",
+      "username": "futballi18",
       "error": "fetch failed"
     },
     {
@@ -60,11 +60,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "iranianminds",
+      "username": "iranintltv",
       "error": "fetch failed"
     },
     {
-      "username": "iranintltv",
+      "username": "iranianminds",
       "error": "fetch failed"
     },
     {
@@ -84,11 +84,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "media_hb",
+      "username": "mizangorup",
       "error": "fetch failed"
     },
     {
-      "username": "mizangorup",
+      "username": "media_hb",
       "error": "fetch failed"
     },
     {
@@ -100,11 +100,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "officialrezapahlavi",
+      "username": "persian_trend_official",
       "error": "fetch failed"
     },
     {
-      "username": "persian_trend_official",
+      "username": "officialrezapahlavi",
       "error": "fetch failed"
     },
     {
@@ -116,15 +116,11 @@
       "error": "fetch failed"
     },
     {
-      "username": "radiofarda",
-      "error": "fetch failed"
-    },
-    {
       "username": "rodast_omiddana",
       "error": "fetch failed"
     },
     {
-      "username": "stop_qeshmm",
+      "username": "radiofarda",
       "error": "fetch failed"
     },
     {
@@ -132,11 +128,15 @@
       "error": "fetch failed"
     },
     {
-      "username": "vahidonline",
+      "username": "stop_qeshmm",
       "error": "fetch failed"
     },
     {
       "username": "tavaana_tavaanatech",
+      "error": "fetch failed"
+    },
+    {
+      "username": "vahidonline",
       "error": "fetch failed"
     },
     {

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-07-17T19:25:00.414Z",
+  "fetched_at": "2026-07-17T19:47:00.747Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,39 @@
     "subscriber_count": "13.6K"
   },
   "posts": [
+    {
+      "id": "DEJradio/6564",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/sHG9b0UxX84bYxh3zo5noos-4lYKMqkLJfgJKp2GNY2S7dlUNOD12F-U7K6JGXhXLfRnOeHLz5W-550vRCe4MQ9xYqsEKKS6Ys-pxd2YskH7To-OKxOehW96B1v5m-cPUNVOk8Dgg_FZeuU5UPXflRwwSVceQ_YUMnSqx30fIfVTPkqTk6PRW_tfd-z_uV8rQ8uE0X2oy60xVxIaZUQA-LIEqiWXCzn2o3oEUzQN5vlRZaXOYLpLgmw3BvGO8TENOPsM5LQtlbc21K2UnuqOG2h8ixZX0gT9Be1Y1Br0xNSw4CAI4lSijjx3FnpcRGG3lDnm2qJHb_xoDVkpa2rzhg.jpg",
+      "author_photo_path": "channels/dejradio/media/1d167dd71b1e6a2e18e2cd27.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA4.png')\"><b>🎤</b></i> تشدید جنگ با آمریکا و همگرایی امنیتی همسایگان؛<br><br>گفت‌وگو با شایان سمیعی، کارشناس امنیت ملی<br><br><a href=\"?q=%23%D8%AA%D8%B1%D8%A7%D9%85%D9%BE\">#ترامپ</a> <a href=\"?q=%23%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\">#آمریکا</a> <a href=\"?q=%23%D8%AC%D9%86%DA%AF\">#جنگ</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺🎤 تشدید جنگ با آمریکا و همگرایی امنیتی همسایگان؛ گفت‌وگو با شایان سمیعی، کارشناس امنیت ملی #ترامپ #آمریکا #جنگ @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/6564",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/fKwr57SNuW_9TTn1T91s61qaQTidG6bieqT1kLAmi_06O6ZcejRtb1HtJc_JPadLCB6k2hiEtzSHT39BEdiTtXW-xSgwlDYmWRl_N7pNa9UVDKVhGd4Of9T4KgW363X2N4sAirXIydiXSRTJXgYS280wfN_9GK9eHRyj4YJdteHJK8dA0P4h_M7XtVApZduyRpYC2rqu-2u_1c4EOnQ9sH1xIAJqoLvb0FY6rYV1D9Y-H6ULe-4wFZ5cI4-OmPjoUL2lY5mnsHXYdkX_KwSNZAHB4oEmY5nGNYZAE--GXIE4WSGLIReIsQ7x9iAkRGYuwuCKHNQ4V1KGvV-ceZtJTw",
+          "thumbnail_path": "channels/dejradio/media/2d957bda2c37f217b5312f22.jpg",
+          "duration_label": "9:13",
+          "aspect_ratio": 1.7791666666666741
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "318",
+      "posted_at": "2026-07-17T19:36:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/6564"
+    },
     {
       "id": "DEJradio/6563",
       "author_name": "DEJ",
@@ -31,10 +64,14 @@
       "reactions": [
         {
           "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "👍",
           "count": "2"
         }
       ],
-      "views_label": "352",
+      "views_label": "660",
       "posted_at": "2026-07-17T19:06:45+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6563"
@@ -60,14 +97,14 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "👍",
-          "count": "2"
+          "count": "3"
         }
       ],
-      "views_label": "638",
+      "views_label": "881",
       "posted_at": "2026-07-17T18:51:11+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6562"
@@ -108,7 +145,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.62K",
+      "views_label": "1.75K",
       "posted_at": "2026-07-17T15:33:14+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6561"
@@ -134,18 +171,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "51"
+          "count": "52"
+        },
+        {
+          "emoji": "🫡",
+          "count": "7"
         },
         {
           "emoji": "👍",
           "count": "6"
-        },
-        {
-          "emoji": "🫡",
-          "count": "6"
         }
       ],
-      "views_label": "1.58K",
+      "views_label": "1.67K",
       "posted_at": "2026-07-17T15:22:28+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6560"
@@ -171,7 +208,7 @@
       "reactions": [
         {
           "emoji": "🤮",
-          "count": "33"
+          "count": "34"
         },
         {
           "emoji": "😁",
@@ -190,7 +227,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.67K",
+      "views_label": "1.75K",
       "posted_at": "2026-07-17T15:05:31+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6559"
@@ -216,7 +253,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "55"
+          "count": "56"
         },
         {
           "emoji": "🫡",
@@ -231,7 +268,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.59K",
+      "views_label": "1.65K",
       "posted_at": "2026-07-17T14:56:29+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/6558"
@@ -260,7 +297,7 @@
           "count": "37"
         }
       ],
-      "views_label": "1.79K",
+      "views_label": "1.83K",
       "posted_at": "2026-07-17T13:19:06+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6557"
@@ -286,7 +323,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "30"
+          "count": "31"
         },
         {
           "emoji": "❤",
@@ -301,7 +338,7 @@
           "count": "2"
         }
       ],
-      "views_label": "2.08K",
+      "views_label": "2.12K",
       "posted_at": "2026-07-17T11:58:55+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6556"
@@ -334,7 +371,7 @@
           "count": "3"
         }
       ],
-      "views_label": "2.01K",
+      "views_label": "2.03K",
       "posted_at": "2026-07-17T09:10:49+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6555"
@@ -383,7 +420,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.15K",
+      "views_label": "2.17K",
       "posted_at": "2026-07-17T07:28:45+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6554"
@@ -420,7 +457,7 @@
           "count": "2"
         }
       ],
-      "views_label": "2.03K",
+      "views_label": "2.04K",
       "posted_at": "2026-07-17T07:22:24+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6553"
@@ -461,7 +498,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.9K",
+      "views_label": "1.91K",
       "posted_at": "2026-07-17T07:10:36+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6552"
@@ -529,7 +566,7 @@
           "count": "2"
         }
       ],
-      "views_label": "2.01K",
+      "views_label": "2.04K",
       "posted_at": "2026-07-17T07:07:30+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6548"
@@ -570,7 +607,7 @@
           "count": "4"
         }
       ],
-      "views_label": "2.74K",
+      "views_label": "2.75K",
       "posted_at": "2026-07-16T21:19:00+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6547"
@@ -611,7 +648,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.56K",
+      "views_label": "2.57K",
       "posted_at": "2026-07-16T21:15:00+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6546"
@@ -656,7 +693,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.45K",
+      "views_label": "2.47K",
       "posted_at": "2026-07-16T20:58:53+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6545"
@@ -3975,55 +4012,6 @@
       "posted_at": "2026-07-13T15:27:51+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6439"
-    },
-    {
-      "id": "DEJradio/6438",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/V2ZQE1l7KsAOHhaupgZU7iWwETpJydqvZZAst9Xxu7u-Xa9Itv7W5CSfSI-T6DF6IoB7N1L1WQxl3OeeXLJldxIh-t3HNnzOGmvt_moBOrJqvNejVrA4ZiscpogdJW1ur2QTipq_wn1EmJGoLLOt1kns-oqdbp1IBtAGvAjyJJ5Q0BBQLbtSnwKK1000QhVTbh2hG5yu9decvQdJC3-efQ-PYVb2vr4xpr4Icmj14TNMlO5uIcFrpE05kjwJNT0F8VonsGbpPwBzwGwQ9Fn5uz_-IcZp3htt_0o2R2jCC8l3NhG-3Mv6pcnrT_0QokdvUukTw0H_KzgyiZQv28wNAA.jpg",
-      "author_photo_path": "channels/dejradio/media/ee0db1d4d3d9e6ceee9ddf86.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5949286409478082944\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji> <tg-emoji emoji-id=\"5784961806841680777\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i></tg-emoji><b> ترامپ تأکید کرد آمریکا کنترل تنگۀ هرمز را در دست می‌گیرد </b><br><br>دونالد ترامپ روز دوشنبه اعلام کرد ایالات متحده کنترل کامل تنگۀ هرمز را دردست می‌گیرد.<br>به گفتۀ رئیس جمهوری ایالات متحده، کشورهای ثروتمند از این پس باید هزینۀ حفاظت از این آبراه راهبردی را بپردازند.<br>ترامپ می‌گوید آمریکا در ازای خدمات، تعرفه‌ای بیست درصدی از هزینۀ حمل‌ونقل را برای تامین امنیت شناورهای عبوری از آبراه هرمز درنظر می‌گیرد.<br>رئیس‌ جمهوری آمریکا همچنین با انتقاد دوباره از مذاکره‌کنندگان جمهوری اسلامی، گفت پس از ساعت‌ها مذاکره و دستیابی به توافق، آنها دوباره خواستار تغییر مفاد توافق شده‌اند.<br>ژنرال مک‌کنزی فرماندۀ پیشین سنتکام در روزهای اخیر گمانه‌زنی کرده بود آمریکا از توان کنترل کامل تنگۀ هرمز برخوردار باشد.<br><br><a href=\"?q=%23%D8%AA%D8%B1%D8%A7%D9%85%D9%BE\">#ترامپ</a> <a href=\"?q=%23%D8%AA%D9%86%DA%AF%D9%87_%D9%87%D8%B1%D9%85%D8%B2\">#تنگه_هرمز</a> <br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "⭕️ 🇺🇸 ترامپ تأکید کرد آمریکا کنترل تنگۀ هرمز را در دست می‌گیرد دونالد ترامپ روز دوشنبه اعلام کرد ایالات متحده کنترل کامل تنگۀ هرمز را دردست می‌گیرد. به گفتۀ رئیس جمهوری ایالات متحده، کشورهای ثروتمند از این پس باید هزینۀ حفاظت از این آبراه راهبردی را بپردازند. ترامپ می‌گوید آمریکا در ازای خدمات، تعرفه‌ای بیست درصدی از هزینۀ حمل‌ونقل را برای تامین امنیت شناورهای عبوری از آبراه هرمز درنظر می‌گیرد. رئیس‌ جمهوری آمریکا همچنین با انتقاد دوباره از مذاکره‌کنندگان جمهوری اسلامی، گفت پس از ساعت‌ها مذاکره و دستیابی به توافق، آنها دوباره خواستار تغییر مفاد توافق شده‌اند. ژنرال مک‌کنزی فرماندۀ پیشین سنتکام در روزهای اخیر گمانه‌زنی کرده بود آمریکا از توان کنترل کامل تنگۀ هرمز برخوردار باشد. #ترامپ #تنگه_هرمز @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/6438",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/RxVtBh3Y1YEoaN7JehqkQCooxsSEcGKU9p-_4GxzvP_WMcdkJKatOrCsYHpOLxke1KAw_ooeMBdDj3msUWAvrLuxOhiiiWKKT1mFuBVj1qR-xf-SXbs7T8nTAZt1S9w6y7As6rreYIlTrmUkJAMbRzc3yU4zlkmVRY1PGwkxCJSTsvv3qHzQZQ4AgN5xy9GUOthyau-ggyB3nzRMqJyEF_MoSR8bkUxZeiiChu_3n6hV19Xo_Xq3HadK2OkHBjoyRlMyKw2HpMHV8bGv2ojpqfjE6O7WgO6yypEWLbGfgLnceFFBkkLAfnhnKaSNNyKYYu4cliKpzfVxaY57jyZL3w.jpg",
-          "thumbnail_path": "channels/dejradio/media/5084e96a70a3d1fc50551cdc.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "16"
-        },
-        {
-          "emoji": "👍",
-          "count": "4"
-        },
-        {
-          "emoji": "😁",
-          "count": "2"
-        },
-        {
-          "emoji": "🖕",
-          "count": "2"
-        },
-        {
-          "emoji": "👏",
-          "count": "1"
-        },
-        {
-          "emoji": "🤮",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.53K",
-      "posted_at": "2026-07-13T15:16:14+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/6438"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-07-18T10:59:19.810Z",
+  "fetched_at": "2026-07-18T11:16:44.806Z",
   "channel": {
     "username": "withyashar",
     "title": "WarRoom with YASHAR",
@@ -11,12 +11,57 @@
   },
   "posts": [
     {
+      "id": "withyashar/18731",
+      "author_name": "WarRoom with YASHAR",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l7i9ShEMNxBpgF5QfIDjY2GJ8E4-CrRHYdXhD6W7H2qcODg70tjYTb_ySlYrcSauwIQqrSxr2mgZJ2UZzT6uzGqeE9EnZfglvQenhakBlSk-s-kk9Kzo5wpIN9w00-rM2C3g3TPRxoKExwM7bCnXaC2Msu5uISbr8TxpwUKfgxlhtirqYV-203aBhEruTcDz0h68o-7T4Bf8MgZewvH5_aDu_Tunpee0sDRpAQIl9j5zghqa6OeX5No4Idq4mqOoDzutWO-TSpUt9VnVL5JqToxyZaEjK2-TBaPIV3ejCMQj4iC9gtWZP7BPnPnWUah09wLw75tgMKJhZ2ApIGirlQ.jpg",
+      "author_photo_path": "channels/withyashar/media/db874d535cb863845d80368c.jpg",
+      "body_html": "۸ موشک در آسمان اردن <br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
+      "plain_text": "۸ موشک در آسمان اردن @WarRoom",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/withyashar/18731",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RSAS92CtiF6rdD08AV7WBeuCYP_GCDSCc7s-0LoHMzEo613qfRsVziKEWyhTF09SzVHAbSYVWVpcLo7EQj4qL7kG5EDuE3-BfT4rTnZplF6eL89kFLtuwULeMerycU3wcPx-iSVEXJ41IwyYXHPxfz7g5eXoOh7rGlF8HPc9lTryqWXsQbt_cLS1Y8Kp5zvyNpvbwad9f0S1G2EH4wQYg9VylNu7nAl4owOBQxhGWKjG6nCtg75ad8kHahWuw7gJhBpXc7D8nBBhH9G4hDCJMJWR2_yQ8DSgYXyb-WNORzufvYVXhsBs4C5EUUnegNPd-zKV_PYQa_pxNORmyE0pVw",
+          "thumbnail_path": "channels/withyashar/media/5c40888451fc826b8ff2aedd.jpg",
+          "duration_label": "0:12",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "💩",
+          "count": "411"
+        },
+        {
+          "emoji": "❤",
+          "count": "61"
+        },
+        {
+          "emoji": "💎",
+          "count": "50"
+        },
+        {
+          "emoji": "😐",
+          "count": "22"
+        },
+        {
+          "emoji": "🕊",
+          "count": "17"
+        }
+      ],
+      "views_label": "23.5K",
+      "posted_at": "2026-07-18T11:05:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/withyashar/18731"
+    },
+    {
       "id": "withyashar/18730",
       "author_name": "WarRoom with YASHAR",
       "author_photo_url": "https://cdn4.telesco.pe/file/l7i9ShEMNxBpgF5QfIDjY2GJ8E4-CrRHYdXhD6W7H2qcODg70tjYTb_ySlYrcSauwIQqrSxr2mgZJ2UZzT6uzGqeE9EnZfglvQenhakBlSk-s-kk9Kzo5wpIN9w00-rM2C3g3TPRxoKExwM7bCnXaC2Msu5uISbr8TxpwUKfgxlhtirqYV-203aBhEruTcDz0h68o-7T4Bf8MgZewvH5_aDu_Tunpee0sDRpAQIl9j5zghqa6OeX5No4Idq4mqOoDzutWO-TSpUt9VnVL5JqToxyZaEjK2-TBaPIV3ejCMQj4iC9gtWZP7BPnPnWUah09wLw75tgMKJhZ2ApIGirlQ.jpg",
       "author_photo_path": "channels/withyashar/media/db874d535cb863845d80368c.jpg",
-      "body_html": "پرتاب ۳ موشکجدید از ‌امیدیه<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
-      "plain_text": "پرتاب ۳ موشکجدید از ‌امیدیه @WarRoom",
+      "body_html": "پرتاب ۳ موشک جدید از ‌امیدیه<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
+      "plain_text": "پرتاب ۳ موشک جدید از ‌امیدیه @WarRoom",
       "media": [
         {
           "kind": "photo",
@@ -31,24 +76,28 @@
       "reactions": [
         {
           "emoji": "💩",
-          "count": "9"
+          "count": "676"
         },
         {
           "emoji": "❤",
-          "count": "8"
+          "count": "86"
         },
         {
           "emoji": "💎",
-          "count": "6"
+          "count": "82"
         },
         {
           "emoji": "🤣",
-          "count": "1"
+          "count": "24"
+        },
+        {
+          "emoji": "🕊",
+          "count": "4"
         }
       ],
-      "views_label": "1.05K",
+      "views_label": "34.8K",
       "posted_at": "2026-07-18T10:59:03+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/withyashar/18730"
     },
     {
@@ -62,26 +111,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "128"
+          "count": "1.2K"
         },
         {
           "emoji": "💎",
-          "count": "100"
+          "count": "362"
         },
         {
           "emoji": "🔥",
-          "count": "21"
+          "count": "93"
         },
         {
           "emoji": "🤣",
-          "count": "14"
+          "count": "44"
         },
         {
           "emoji": "🕊",
-          "count": "7"
+          "count": "19"
         }
       ],
-      "views_label": "2.06K",
+      "views_label": "34.8K",
       "posted_at": "2026-07-18T10:58:11+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18729"
@@ -97,26 +146,26 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "502"
+          "count": "1.13K"
         },
         {
           "emoji": "❤",
-          "count": "110"
+          "count": "180"
         },
         {
           "emoji": "💎",
-          "count": "79"
+          "count": "149"
         },
         {
           "emoji": "💎",
-          "count": "25"
+          "count": "36"
         },
         {
           "emoji": "🫡",
-          "count": "19"
+          "count": "30"
         }
       ],
-      "views_label": "16.4K",
+      "views_label": "42.9K",
       "posted_at": "2026-07-18T10:52:25+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18728"
@@ -132,26 +181,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "1K"
+          "count": "1.92K"
         },
         {
           "emoji": "💩",
-          "count": "337"
+          "count": "586"
         },
         {
           "emoji": "💎",
-          "count": "82"
+          "count": "102"
         },
         {
           "emoji": "❤",
-          "count": "56"
+          "count": "77"
         },
         {
           "emoji": "😐",
-          "count": "11"
+          "count": "14"
         }
       ],
-      "views_label": "21.5K",
+      "views_label": "46K",
       "posted_at": "2026-07-18T10:50:40+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18727"
@@ -167,26 +216,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "516"
+          "count": "976"
         },
         {
           "emoji": "💎",
-          "count": "137"
+          "count": "231"
         },
         {
           "emoji": "👍",
-          "count": "39"
+          "count": "57"
         },
         {
           "emoji": "🔥",
-          "count": "27"
+          "count": "42"
         },
         {
           "emoji": "🫡",
-          "count": "13"
+          "count": "21"
         }
       ],
-      "views_label": "22.5K",
+      "views_label": "47K",
       "posted_at": "2026-07-18T10:49:59+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18726"
@@ -212,26 +261,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "1.14K"
+          "count": "1.37K"
         },
         {
           "emoji": "🤣",
-          "count": "377"
+          "count": "426"
         },
         {
           "emoji": "💎",
-          "count": "224"
+          "count": "267"
         },
         {
           "emoji": "😐",
-          "count": "61"
+          "count": "68"
         },
         {
           "emoji": "🔥",
-          "count": "19"
+          "count": "23"
         }
       ],
-      "views_label": "65.5K",
+      "views_label": "78.8K",
       "posted_at": "2026-07-18T10:12:25+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18725"
@@ -247,26 +296,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "1.68K"
+          "count": "1.88K"
         },
         {
           "emoji": "💎",
-          "count": "378"
+          "count": "423"
         },
         {
           "emoji": "👏",
-          "count": "122"
+          "count": "126"
         },
         {
           "emoji": "🔥",
-          "count": "77"
+          "count": "80"
         },
         {
           "emoji": "🫡",
-          "count": "20"
+          "count": "23"
         }
       ],
-      "views_label": "77.8K",
+      "views_label": "88K",
       "posted_at": "2026-07-18T09:56:52+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18724"
@@ -282,26 +331,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "1.55K"
+          "count": "1.74K"
         },
         {
           "emoji": "💎",
-          "count": "314"
+          "count": "359"
         },
         {
           "emoji": "🫡",
-          "count": "61"
+          "count": "68"
         },
         {
           "emoji": "💩",
-          "count": "21"
+          "count": "22"
         },
         {
           "emoji": "😐",
           "count": "14"
         }
       ],
-      "views_label": "77.8K",
+      "views_label": "88K",
       "posted_at": "2026-07-18T09:55:48+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18723"
@@ -317,26 +366,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "922"
+          "count": "1.03K"
         },
         {
           "emoji": "💎",
-          "count": "337"
+          "count": "388"
         },
         {
           "emoji": "🤬",
-          "count": "96"
+          "count": "98"
         },
         {
           "emoji": "🤣",
-          "count": "54"
+          "count": "57"
         },
         {
           "emoji": "👍",
           "count": "14"
         }
       ],
-      "views_label": "78.8K",
+      "views_label": "89K",
       "posted_at": "2026-07-18T09:53:45+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18722"
@@ -362,26 +411,26 @@
       "reactions": [
         {
           "emoji": "💩",
-          "count": "1.33K"
+          "count": "1.45K"
         },
         {
           "emoji": "💎",
-          "count": "160"
+          "count": "179"
         },
         {
           "emoji": "❤",
-          "count": "139"
+          "count": "152"
         },
         {
           "emoji": "🤣",
-          "count": "44"
+          "count": "47"
         },
         {
           "emoji": "💎",
-          "count": "35"
+          "count": "37"
         }
       ],
-      "views_label": "86K",
+      "views_label": "95.1K",
       "posted_at": "2026-07-18T09:43:37+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18721"
@@ -407,26 +456,26 @@
       "reactions": [
         {
           "emoji": "💩",
-          "count": "1.25K"
+          "count": "1.36K"
         },
         {
           "emoji": "💎",
-          "count": "193"
+          "count": "210"
         },
         {
           "emoji": "❤",
-          "count": "117"
+          "count": "126"
         },
         {
           "emoji": "🤣",
-          "count": "30"
+          "count": "34"
         },
         {
           "emoji": "💎",
-          "count": "20"
+          "count": "21"
         }
       ],
-      "views_label": "83.9K",
+      "views_label": "92.1K",
       "posted_at": "2026-07-18T09:43:28+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18720"
@@ -452,26 +501,26 @@
       "reactions": [
         {
           "emoji": "💩",
-          "count": "1.74K"
+          "count": "1.85K"
         },
         {
           "emoji": "💎",
-          "count": "241"
+          "count": "253"
         },
         {
           "emoji": "❤",
-          "count": "123"
+          "count": "134"
         },
         {
           "emoji": "🤣",
-          "count": "71"
+          "count": "72"
         },
         {
           "emoji": "😭",
           "count": "11"
         }
       ],
-      "views_label": "91.1K",
+      "views_label": "99.3K",
       "posted_at": "2026-07-18T09:31:17+00:00",
       "edited": true,
       "permalink": "https://t.me/withyashar/18719"
@@ -497,26 +546,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "1.14K"
+          "count": "1.22K"
         },
         {
           "emoji": "💎",
-          "count": "302"
+          "count": "317"
         },
         {
           "emoji": "🫡",
-          "count": "64"
+          "count": "66"
         },
         {
           "emoji": "👍",
-          "count": "32"
+          "count": "35"
         },
         {
           "emoji": "💩",
-          "count": "21"
+          "count": "22"
         }
       ],
-      "views_label": "92.1K",
+      "views_label": "99.3K",
       "posted_at": "2026-07-18T09:26:55+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18718"
@@ -542,26 +591,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "1.73K"
+          "count": "1.79K"
         },
         {
           "emoji": "💎",
-          "count": "477"
+          "count": "488"
         },
         {
           "emoji": "👍",
-          "count": "73"
+          "count": "76"
         },
         {
           "emoji": "🔥",
-          "count": "50"
+          "count": "54"
         },
         {
           "emoji": "👏",
           "count": "24"
         }
       ],
-      "views_label": "120K",
+      "views_label": "125K",
       "posted_at": "2026-07-18T08:07:40+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18717"
@@ -587,15 +636,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "2.71K"
+          "count": "2.78K"
         },
         {
           "emoji": "❤",
-          "count": "303"
+          "count": "315"
         },
         {
           "emoji": "💎",
-          "count": "160"
+          "count": "166"
         },
         {
           "emoji": "👏",
@@ -603,10 +652,10 @@
         },
         {
           "emoji": "😐",
-          "count": "26"
+          "count": "28"
         }
       ],
-      "views_label": "122K",
+      "views_label": "126K",
       "posted_at": "2026-07-18T08:00:35+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18716"
@@ -622,26 +671,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "4.34K"
+          "count": "4.43K"
         },
         {
           "emoji": "💩",
-          "count": "930"
+          "count": "957"
         },
         {
           "emoji": "💎",
-          "count": "205"
+          "count": "212"
         },
         {
           "emoji": "❤",
-          "count": "147"
+          "count": "152"
         },
         {
           "emoji": "👏",
           "count": "20"
         }
       ],
-      "views_label": "126K",
+      "views_label": "129K",
       "posted_at": "2026-07-18T07:39:08+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18715"
@@ -671,15 +720,15 @@
         },
         {
           "emoji": "💎",
-          "count": "6.11K"
+          "count": "6.24K"
         },
         {
           "emoji": "❤",
-          "count": "1.25K"
+          "count": "1.27K"
         },
         {
           "emoji": "👏",
-          "count": "269"
+          "count": "275"
         },
         {
           "emoji": "💩",
@@ -687,10 +736,10 @@
         },
         {
           "emoji": "🤣",
-          "count": "37"
+          "count": "40"
         }
       ],
-      "views_label": "129K",
+      "views_label": "133K",
       "posted_at": "2026-07-18T07:30:18+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18714"
@@ -716,26 +765,26 @@
       "reactions": [
         {
           "emoji": "💎",
-          "count": "2.3K"
+          "count": "2.34K"
         },
         {
           "emoji": "❤",
-          "count": "371"
+          "count": "383"
         },
         {
           "emoji": "😭",
-          "count": "135"
+          "count": "140"
         },
         {
           "emoji": "💋",
-          "count": "44"
+          "count": "45"
         },
         {
           "emoji": "🕊",
           "count": "33"
         }
       ],
-      "views_label": "128K",
+      "views_label": "131K",
       "posted_at": "2026-07-18T07:23:06+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18713"
@@ -761,26 +810,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "1.86K"
+          "count": "1.89K"
         },
         {
           "emoji": "💎",
-          "count": "528"
+          "count": "539"
         },
         {
           "emoji": "💎",
-          "count": "206"
+          "count": "207"
         },
         {
           "emoji": "🤬",
-          "count": "184"
+          "count": "186"
         },
         {
           "emoji": "👏",
           "count": "54"
         }
       ],
-      "views_label": "137K",
+      "views_label": "139K",
       "posted_at": "2026-07-18T06:36:45+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18712"
@@ -3797,51 +3846,6 @@
       "posted_at": "2026-07-17T21:02:40+00:00",
       "edited": false,
       "permalink": "https://t.me/withyashar/18628"
-    },
-    {
-      "id": "withyashar/18627",
-      "author_name": "WarRoom with YASHAR",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dL9sMLxqA4yDGGTsZhOrp9saIv2hCznBtK5sqbXZUHHLYRfW7Sa7-BvTY3nQz_tTNWeN52cYqShsiJjEPTlyXiDt0LLAoeItlT021Q9U5CYHb8E58HbvVcKiCD17jy-XDd0UbXrtTd8StZffNfVq2Y5rivJNvEdPPSEfNACBkhDVF10voTlYota7a-qR3UqpIzfHiTFPaXtxGP8xEckVMDXkhW5A98CqV0cj6_QRHIyovEwHA9VkTgGHjUbARCLMq1BHr4pLaHYgBPFMPP24cOeGnMAQsrOov_pbUxQOlstxQufGyoLGpKQTBxKP1Ovd9XFi3dV-FFrr_2CI0GYDAg.jpg",
-      "author_photo_path": "channels/withyashar/media/298cef8c0f653718171e8ec2.jpg",
-      "body_html": "ویدیو حمله به سایت موشکی در جاده گراش لار شرق استان فارس<br><a href=\"https://t.me/WarRoom\" target=\"_blank\">@WarRoom</a>",
-      "plain_text": "ویدیو حمله به سایت موشکی در جاده گراش لار شرق استان فارس @WarRoom",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/withyashar/18627",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/T8mVYpS7GR-kjD8a-itpIbEJ_dLLxta3KB8OOWZtfnQwAD8sFKAMtYcYPZuXE-2f53l-nHlT1N6bkLHDqv4wVr7i28UPXrfuiMtq3xtz2lzbr04ajznddE99HSmIz9Rn5ne5OqwMQLYQ87YA5n--f70FpM9Ld_2wDTppLCWLsqVnWpgjKImEJewFTujlPv3tu9jv4WxnRXbBVJyg_JDY1mQhnW8J3CauJXWr4F12RVUzt449Gdo40sHg4icC6Unep1UYIn0WiIbWnTfx1U1w7VL31b_ofaRfTC2P6TvNayrwlH5gPD_7jCdrm4waheNcleCMGQ5W7dQxANcTbrBfRA",
-          "thumbnail_path": "channels/withyashar/media/d69292db82f9cb9c1de08ba9.jpg",
-          "duration_label": "0:08",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "1.43K"
-        },
-        {
-          "emoji": "💎",
-          "count": "490"
-        },
-        {
-          "emoji": "🔥",
-          "count": "125"
-        },
-        {
-          "emoji": "🫡",
-          "count": "47"
-        },
-        {
-          "emoji": "💩",
-          "count": "12"
-        }
-      ],
-      "views_label": "83K",
-      "posted_at": "2026-07-17T20:58:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/withyashar/18627"
     }
   ]
 }

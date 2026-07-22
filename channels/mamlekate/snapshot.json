@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-07-22T22:08:23.218Z",
+  "fetched_at": "2026-07-22T23:03:10.355Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -11,15 +11,43 @@
   },
   "posts": [
     {
+      "id": "mamlekate/103976",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/cb0vj-sBwvqL91R-hk280TGhi5VZ_QJni40qsC6m1jtWLjnLdtm1NHhLkMUj4P5tlPm43SUFNhRU8e-hiuqaywma5i4KhAEpVdybbz0q1Wj6jmFCaFaGfuqV2tAPAhkaglMTTjQSYV6qTLR9X8BoR5koG30z4OwmnBYwTjz5C-6YzdLzcKlytBAwcQw6BsM5oWqDpc91ZBkAgqm0KIyGic-XeKx2siBSOr-YnIMRxiye-O5_IgUbex-2QBViyQRTj668pafuow3N0bkNI6GeH6C55uwOcThkVO1dUwtEesjOqBjSzY7tggc4yqoxRprP5FqrfrG5DgOuL2NfAgpOtQ.jpg",
+      "author_photo_path": "channels/mamlekate/media/65934cda4054a113cce8b52c.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D9%85%D8%AF%D9%84%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A7%D9%88%D9%BE%D9%86%D8%A7%DB%8C%D8%A2%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4-%D8%A7%D8%B2-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B4%D8%AF%D9%86%D8%AF-%D9%88-%D8%A8%D9%87-%DB%8C%DA%A9-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%D8%A2%D9%BE-%D8%AD%D9%85%D9%84%D9%87-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF-07-22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>مدل‌های هوش مصنوعی اوپن‌ای‌آی در آزمایش از کنترل خارج شدند و به یک استارت‌آپ حمله کردند</b></a><br><br>شرکت اوپن ای آی اعلام کرد که یک عامل خودمختار مبتنی بر مدل های پیشرفته هوش مصنوعی این شرکت، در جریان یک آزمایش امنیتی از کنترل خارج شد و با انجام یک حمله سایبری، زیرساخت های استارت آپ هوش مصنوعی هاگینگ فیس (Hugging Face) را که هفته گذشته هدف نفوذ قرار گرفته بود، به خطر انداخت.<br><br><br><tg-emoji emoji-id=\"5938143907102596894\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')\"><b>📺</b></i></tg-emoji> خلاصه اتفاقی که OpenAI توی گزارش منتشر کرده:<br><br><blockquote><br>یه تست امنیت سایبری داخلی به وسیله OpenAI برگزار میشه و برای اینکه حداکثر توانایی مدل رو بسنجه، بعضی محدودیت‌های ایمنی رو موقتاً کم میکنه.<br><br>مدل‌ها مأمور شدن چالش‌های پیشرفته ExploitGym رو حل کنن.<br><br>تست داخل یه Sandbox بدون اینترنت مستقیم اجرا می‌شد.<br><br>مدل‌ها یه آسیب‌پذیری Zero-Day توی زیرساخت Sandbox پیدا کردن.<br><br>از همون آسیب‌پذیری استفاده کردن تا از Sandbox خارج بشن و دسترسی بیشتری بگیرن.<br><br>بعد با Privilege Escalation و Lateral Movement خودشون رو به سیستمی رسوندن که اینترنت داشت.<br><br>مدل‌ها حدس زدن جواب‌های آزمون احتمالاً روی Hugging Face باشه.<br><br>بعد با سوءاستفاده از چند آسیب‌پذیری و اطلاعات ورود، وارد زیرساخت Hugging Face شدن.<br><br>آخر هم جواب‌های آزمون رو از دیتابیس برداشتن و به‌جای حل واقعی سؤال‌ها، از اون‌ها برای تقلب توی ارزیابی استفاده کردن.<br><br>من که پشمی برام نمونده! <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i></blockquote><br><br><a href=\"https://x.com/aleskxyz/status/2079893726151721134\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">aleskxyz</a><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "📝 مدل‌های هوش مصنوعی اوپن‌ای‌آی در آزمایش از کنترل خارج شدند و به یک استارت‌آپ حمله کردند شرکت اوپن ای آی اعلام کرد که یک عامل خودمختار مبتنی بر مدل های پیشرفته هوش مصنوعی این شرکت، در جریان یک آزمایش امنیتی از کنترل خارج شد و با انجام یک حمله سایبری، زیرساخت های استارت آپ هوش مصنوعی هاگینگ فیس (Hugging Face) را که هفته گذشته هدف نفوذ قرار گرفته بود، به خطر انداخت. 📺 خلاصه اتفاقی که OpenAI توی گزارش منتشر کرده: یه تست امنیت سایبری داخلی به وسیله OpenAI برگزار میشه و برای اینکه حداکثر توانایی مدل رو بسنجه، بعضی محدودیت‌های ایمنی رو موقتاً کم میکنه. مدل‌ها مأمور شدن چالش‌های پیشرفته ExploitGym رو حل کنن. تست داخل یه Sandbox بدون اینترنت مستقیم اجرا می‌شد. مدل‌ها یه آسیب‌پذیری Zero-Day توی زیرساخت Sandbox پیدا کردن. از همون آسیب‌پذیری استفاده کردن تا از Sandbox خارج بشن و دسترسی بیشتری بگیرن. بعد با Privilege Escalation و Lateral Movement خودشون رو به سیستمی رسوندن که اینترنت داشت. مدل‌ها حدس زدن جواب‌های آزمون احتمالاً روی Hugging Face باشه. بعد با سوءاستفاده از چند آسیب‌پذیری و اطلاعات ورود، وارد زیرساخت Hugging Face شدن. آخر هم جواب‌های آزمون رو از دیتابیس برداشتن و به‌جای حل واقعی سؤال‌ها، از اون‌ها برای تقلب توی ارزیابی استفاده کردن. من که پشمی برام نمونده! 😂 aleskxyz @mamlekate",
+      "media": [],
+      "reactions": [],
+      "views_label": "17.3K",
+      "posted_at": "2026-07-22T22:32:21+00:00",
+      "edited": true,
+      "permalink": "https://t.me/mamlekate/103976"
+    },
+    {
+      "id": "mamlekate/103975",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/cb0vj-sBwvqL91R-hk280TGhi5VZ_QJni40qsC6m1jtWLjnLdtm1NHhLkMUj4P5tlPm43SUFNhRU8e-hiuqaywma5i4KhAEpVdybbz0q1Wj6jmFCaFaGfuqV2tAPAhkaglMTTjQSYV6qTLR9X8BoR5koG30z4OwmnBYwTjz5C-6YzdLzcKlytBAwcQw6BsM5oWqDpc91ZBkAgqm0KIyGic-XeKx2siBSOr-YnIMRxiye-O5_IgUbex-2QBViyQRTj668pafuow3N0bkNI6GeH6C55uwOcThkVO1dUwtEesjOqBjSzY7tggc4yqoxRprP5FqrfrG5DgOuL2NfAgpOtQ.jpg",
+      "author_photo_path": "channels/mamlekate/media/65934cda4054a113cce8b52c.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%87%D8%B1-%D8%AD%D9%85%D9%84%D9%87-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%AF%D8%B1-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D9%86%D8%A7%D8%A8%D9%88%D8%AF%DB%8C-%DB%8C%DA%A9-%D9%BE%D9%84-%DB%8C%D8%A7-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%85%DB%8C%DA%AF%DB%8C%D8%B1%D8%AF-07-22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>ترامپ: هر حمله جمهوری اسلامی در هرمز با نابودی یک پل یا نیروگاه ایران پاسخ می‌گیرد</b></a><br><br>دونالد ترامپ، رییس‌جمهوری ایالات متحده، گفت این کشور در پاسخ به هر حمله جمهوری اسلامی به کشتی‌ها در تنگه هرمز، یک پل یا نیروگاه در ایران را نابود می‌کند. <br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%DB%B9%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%AD%DA%A9%D9%88%D9%85%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%AA%D8%B5%D9%88%DB%8C%D8%A8-%DA%A9%D8%B1%D8%AF-07-22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>مجلس نمایندگان آمریکا بودجه ۹۵ میلیارد دلاری جنگ با حکومت ایران را تصویب کرد</b></a><br><br>مجلس نمایندگان آمریکا با تکیه بر آرای جمهوری‌خواهان، بسته‌ای ۹۵ میلیارد دلاری را برای تامین هزینه جنگ با حکومت ایران و پیشبرد دیگر اولویت‌های دولت دونالد ترامپ تصویب کرد؛ طرحی که به نوشته آسوشیتدپرس در سنا با آینده‌ای نامعلوم روبه‌رو است.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "📝 ترامپ: هر حمله جمهوری اسلامی در هرمز با نابودی یک پل یا نیروگاه ایران پاسخ می‌گیرد دونالد ترامپ، رییس‌جمهوری ایالات متحده، گفت این کشور در پاسخ به هر حمله جمهوری اسلامی به کشتی‌ها در تنگه هرمز، یک پل یا نیروگاه در ایران را نابود می‌کند. 📝 مجلس نمایندگان آمریکا بودجه ۹۵ میلیارد دلاری جنگ با حکومت ایران را تصویب کرد مجلس نمایندگان آمریکا با تکیه بر آرای جمهوری‌خواهان، بسته‌ای ۹۵ میلیارد دلاری را برای تامین هزینه جنگ با حکومت ایران و پیشبرد دیگر اولویت‌های دولت دونالد ترامپ تصویب کرد؛ طرحی که به نوشته آسوشیتدپرس در سنا با آینده‌ای نامعلوم روبه‌رو است. @mamlekate",
+      "media": [],
+      "reactions": [],
+      "views_label": "20.3K",
+      "posted_at": "2026-07-22T22:28:28+00:00",
+      "edited": true,
+      "permalink": "https://t.me/mamlekate/103975"
+    },
+    {
       "id": "mamlekate/103974",
       "author_name": "مملکته",
       "author_photo_url": "https://cdn4.telesco.pe/file/cb0vj-sBwvqL91R-hk280TGhi5VZ_QJni40qsC6m1jtWLjnLdtm1NHhLkMUj4P5tlPm43SUFNhRU8e-hiuqaywma5i4KhAEpVdybbz0q1Wj6jmFCaFaGfuqV2tAPAhkaglMTTjQSYV6qTLR9X8BoR5koG30z4OwmnBYwTjz5C-6YzdLzcKlytBAwcQw6BsM5oWqDpc91ZBkAgqm0KIyGic-XeKx2siBSOr-YnIMRxiye-O5_IgUbex-2QBViyQRTj668pafuow3N0bkNI6GeH6C55uwOcThkVO1dUwtEesjOqBjSzY7tggc4yqoxRprP5FqrfrG5DgOuL2NfAgpOtQ.jpg",
       "author_photo_path": "channels/mamlekate/media/65934cda4054a113cce8b52c.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5922360237297245792\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> سلام اهواز ساعت ۰۰:۰۸ دقیقه زدن ولی نسبتا صداش دور بود از منطقه گلستان که من هستم<br><br><tg-emoji emoji-id=\"5922360237297245792\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> بوشهر ۳ تا سنگین زدن ۱۲:۴۹<br>از دیشب بدتر<br><br><a href=\"https://t.me/mamlekate_pm\" target=\"_blank\">@mamlekate_pm</a>",
-      "plain_text": "📝 سلام اهواز ساعت ۰۰:۰۸ دقیقه زدن ولی نسبتا صداش دور بود از منطقه گلستان که من هستم 📝 بوشهر ۳ تا سنگین زدن ۱۲:۴۹ از دیشب بدتر @mamlekate_pm",
+      "body_html": "<tg-emoji emoji-id=\"5922360237297245792\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> سلام اهواز ساعت ۰۰:۰۸ دقیقه زدن ولی نسبتا صداش دور بود از منطقه گلستان که من هستم<br><br><tg-emoji emoji-id=\"5922360237297245792\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> بوشهر ۳ تا سنگین زدن ۱۲:۴۹<br>از دیشب بدتر<br><br><tg-emoji emoji-id=\"5940303146076086045\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> چابهارو از صبح انقد زده که از بعدازظهر نتا رو قطع کردن<br><br><tg-emoji emoji-id=\"5940303146076086045\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> سلام ساعت ۰۱:۰۷ دقیقه شهریار صدای پدافند میاد<br><br><a href=\"https://t.me/mamlekate_pm\" target=\"_blank\">@mamlekate_pm</a>",
+      "plain_text": "📝 سلام اهواز ساعت ۰۰:۰۸ دقیقه زدن ولی نسبتا صداش دور بود از منطقه گلستان که من هستم 📝 بوشهر ۳ تا سنگین زدن ۱۲:۴۹ از دیشب بدتر 📝 چابهارو از صبح انقد زده که از بعدازظهر نتا رو قطع کردن 📝 سلام ساعت ۰۱:۰۷ دقیقه شهریار صدای پدافند میاد @mamlekate_pm",
       "media": [],
       "reactions": [],
-      "views_label": "27.6K",
+      "views_label": "44.4K",
       "posted_at": "2026-07-22T21:32:52+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/103974"
@@ -45,10 +73,10 @@
       "reactions": [
         {
           "emoji": "⭐",
-          "count": "21"
+          "count": "22"
         }
       ],
-      "views_label": "121K",
+      "views_label": "129K",
       "posted_at": "2026-07-22T11:45:44+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/103973"
@@ -62,7 +90,7 @@
       "plain_text": "📝 سلام صدای انفجار شدید شمال اصفهان ساعت ۱۰:۳۵ فلکه دانشگاه صنعتی ، نمی‌دونم چی بود @mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "138K",
+      "views_label": "143K",
       "posted_at": "2026-07-22T07:15:03+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/103972"
@@ -76,7 +104,7 @@
       "plain_text": "📝 ساعت ۰۲:۵۰ پدافند پارچین فعال شده و مرتب داره صدا میاد 📝 ۲:۵۰دیقه صدای دو انفجار سمت خجیر یا پارچین شنیدم من بعدش پدافند 📝 الو‌ همین الان با صدا پدافند از خواب پریدم. منطقه شهرک‌محلاتی تهران 📝 شرق تهران صدای پدافند ۲:۵۴ 📝ساعت ۳:۰۴ تبریز ۳ تا زد 📝 بازمممم داره میزنه تبریزو ۴-۵ تا زد تبریز ۳.۰۴ 📝 اینی که الان ۷ تا خورد سمت عینالی پشت عینالی بود شهرک موشکی دارن اونجا 📝 تبریز ساعت ۳ و ۵ دقیقه صدای چندتا پدافند اومد. 📝 ابهر هم ساعت ۳.۱۵ صدای ۲ تا انفجار از دور اومد 📝 تهران بازم داره صدای پدافند میاد ولی نسبت به حمله های قبلی صداش فرق کرده 📝 صدا پدافند بازم اومد همین الان شرق تهران حدود سه و بیست 📝 تهران دیباجی از ساعت سه صدای پدافند میاد 📝 ساعت ۳:۲۳ رودهن. صدای دوتا انفجار رو می‌شنویم... از سمت خجیر هست 📝 سلام. غرب تهران صدای پدافند میاد. ساعت ۳:۳۸ 📝 الو پدافند قلعه همین دو سه دقیقه پیش شدید کار میکرد 📝 احتمالا پهپاد شناسایی آمریکاست. از شرق تا غرب رو رفت، الان باز برگشت، پدافند غرب فعال شد 📝 سمت دانشگاه امام حسین همچنان پدافند فعاله ، صدای انفجار هم از سمت خجیر میاد ساعت ۳:۴۵ دقیقه 📝 تهرانپارس پدافند داره کار میکنه هم سمت پارچین هم سمت اتوبان بابایی ولی صداش خیلی بم شده قبلا صداش اینجوری نبود 📝 ساعت ۳:۵۰ یا ۴ پایگاه نوژه کبودرآهنگ صدای انفجار امد 📝 اصفهان سپاهانشهر ساعت ۴:۰۱ صبح صدای ۳ تا انفجار پشت سر هم اومد @mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "163K",
+      "views_label": "166K",
       "posted_at": "2026-07-21T23:29:44+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/103971"
@@ -95,7 +123,7 @@
           "count": "1"
         }
       ],
-      "views_label": "148K",
+      "views_label": "150K",
       "posted_at": "2026-07-21T23:16:49+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/103970"
@@ -112,8 +140,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/mamlekate/103969",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/KHuM6FV5u5l4xPFJjYOcNqs0GgISRkwKa9cO2pI3L6tsSwzUGx4H7yFeZS8-y-EoFXCmKz3tTW_GP3y8Fk4Gi5CLfDa4LxV4ZTKhynO4SYFv219VjXShCwZT6tfYXXxa6WgtcL7JXLQM2WIjlfEGNwwyGTAOe9WeboYLUdMExBUSCWWY2phd5wePBg_dZgJkrF7n1N7VmGPAZUmszfqYU_IbyqSJTkMZIL7VeyfdLBP0zKVmotWPTuMdCM9ccaFfmakSIdOQnRBAbHItvs5jMDu6XYch1AElaMwj2p-yeffUUiUuAIO3OdS-jTQme7wO_51pBnCjXJcn28rJ2kNWGw.jpg",
-          "thumbnail_path": "channels/mamlekate/media/55196190e096156b7e0381ce.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/LIV_KC1xqMMsTkbWIr0X_r3RJ8HZFCAx-eVKKB7GEO1QjxQ9yOwXV5XxV90gGNpy0ffb0PmEEqaApRhWNXvFzFZOB3bbLnOZSN8eSduvrdtVV22DVTaVccP4xSsNiQ7X8NDyvrUvvRxtTw1ESfm-HBeH39XwZUcFFFPOuTJGpCkQktD5Fn5hwL5bSx3l0gcpUyVT2mgh7tRCuG7nPiVQOYObHNXNN3bfl96ROfmiHot79mF9vBVr8uPiOiiTdsuNGNC8dO-L8xjTlVX-iGr9MJKdxn45Tx8yXi4BcA5xPdbhoR0u36Rezr-cW0HFYl6lkjo2sXG1AZGi5HWbVJ9Jzg.jpg",
+          "thumbnail_path": "channels/mamlekate/media/afa654573b8113a9569f0f64.jpg",
           "duration_label": null,
           "aspect_ratio": 1.2944983818770226
         }
@@ -124,7 +152,7 @@
           "count": "1"
         }
       ],
-      "views_label": "134K",
+      "views_label": "136K",
       "posted_at": "2026-07-21T22:37:57+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/103969"
@@ -143,7 +171,7 @@
           "count": "1"
         }
       ],
-      "views_label": "147K",
+      "views_label": "148K",
       "posted_at": "2026-07-21T19:35:01+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/103968"
@@ -176,7 +204,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "157K",
+      "views_label": "158K",
       "posted_at": "2026-07-21T13:57:48+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/103966"
@@ -247,7 +275,7 @@
           "count": "3"
         }
       ],
-      "views_label": "144K",
+      "views_label": "145K",
       "posted_at": "2026-07-21T13:22:47+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/103962"
@@ -261,7 +289,7 @@
       "plain_text": "📝 فایننشال‌تایمز: با شکست مذاکرات، گزینه «تغییر رژیم» در ایران مجدد مورد توجه آمریکا قرار گرفته است روزنامه «فایننشال‌تایمز» در گزارشی پیش‌بینی کرده است که آمریکا نتوانسته است از مسیر مذاکره به اهدافش در مورد ایران برسد و به همین دلیل گزینه «تغییر رژیم» در ایران دوباره به دستور کار کاخ سفید بازگشته است. در این گزارش تحلیلی که دوشنبه ۲۹ تیرماه منتشر شد آمده، «میراث سیاست خارجی دونالد ترامپ احتمالا با ایران تعریف خواهد شد. قعلاً اوضاع خوب نیست. جنگ مجدد آغاز شده است، اما آمریکا برنامه‌ای قابل ملاحظه‌ای برای پیروزی ندارد و ممکن است ترامپ در باتلاق ایران فرو برود.» ساختار امنیت ملی آمریکا از همین حالا در حال پایین آوردن سطح انتظارات از معنای موفقیت است. @mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "147K",
+      "views_label": "149K",
       "posted_at": "2026-07-21T09:49:20+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/103961"
@@ -304,7 +332,7 @@
           "count": "1"
         }
       ],
-      "views_label": "137K",
+      "views_label": "138K",
       "posted_at": "2026-07-21T08:04:47+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/103959"
@@ -2145,59 +2173,6 @@
       "posted_at": "2026-07-10T08:13:16+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/103858"
-    },
-    {
-      "id": "mamlekate/103856",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/iEKsNLLtIy0bP4GEug-2J_hWbFXwziq5oA7nFRs856bpkCVCZZBgK99MX7Oo8Z76vhoYY_u5INrAl9ezcpfX2npL7oL9AChvSOIgIcLuwMoljHe3TF3sjC_jP9KuyZYhfnVwodynVAtyZ5rEAaooV0E47tN6X_bAznPu1Nil13AIx0RmKfMqV9MAHlsL0dtqoK0Z-KyJzlwgWr_iVKUaoO4F7ao8k5Q6VJGq8OS8CPklyJB0-fjrGbwYQ_SgPEwofo0DhksUV3YtCqmPGj_hMqHbysN7AH992hRmo9pysbaZsuMGPo27LCL4j65FBs8sg4vMN4rn2PHjE-ki1WLT8Q.jpg",
-      "author_photo_path": "channels/mamlekate/media/866ea3bae658fbd4e6eed6bf.jpg",
-      "body_html": "بازتاب گسترده حمل دیکتاتور در کامیون حمل گوشت خوک کی‌-گروپ <a href=\"https://telegra.ph/%D9%85%D8%B7%D8%B1%D8%AD-%D8%B4%D8%AF%D9%86-%D8%BA%DB%8C%D8%B1%D9%85%D9%86%D8%AA%D8%B8%D8%B1%D9%87-%D9%86%D8%A7%D9%85-%DB%8C%DA%A9-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D8%AE%D8%A7%D9%85%D9%86%D9%87%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%B9%D8%B1%D8%A7%D9%82-07-09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">یکی از فروشگاه‌های زنجیره‌ای فنلاند</a><br><br><tg-emoji emoji-id=\"5922676651832910017\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> <a href=\"https://www.is.fi/ulkomaat/art-2000012130186.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">is.fi</a>  <br><tg-emoji emoji-id=\"5922676651832910017\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> <a href=\"https://www.hs.fi/maailma/art-2000012130290.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">hs.fi</a>  <br><tg-emoji emoji-id=\"5922676651832910017\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> <a href=\"https://www.iltalehti.fi/kotimaa/a/5fe11163-6660-4d5b-8914-97a0faddd7a4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">iltalehti.fi</a><a href=\"https://www.voice.fi/viihde/ali-khamenein-ruumista-kuljetettiin-k-kaupan-kuorma-autolla-julkkiskauppiaat-murjovat-vitsia-kauppias-hoitaa-homman\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"> </a> <br><tg-emoji emoji-id=\"5922676651832910017\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> <a href=\"https://www.voice.fi/viihde/ali-khamenein-ruumista-kuljetettiin-k-kaupan-kuorma-autolla-julkkiskauppiaat-murjovat-vitsia-kauppias-hoitaa-homman\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">voice.fi</a>  <br><tg-emoji emoji-id=\"5922676651832910017\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i></tg-emoji> <a href=\"https://www.helsinkitimes.fi/world-int/29028-k-group-branded-truck-appears-in-khamenei-funeral-procession.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">helsinkitimes.fi</a><br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "بازتاب گسترده حمل دیکتاتور در کامیون حمل گوشت خوک کی‌-گروپ یکی از فروشگاه‌های زنجیره‌ای فنلاند 📝 is.fi 📝 hs.fi 📝 iltalehti.fi 📝 voice.fi 📝 helsinkitimes.fi @mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/103856",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/eAjBGkqlnkI9C33yweCtYNIAiO0VnhUZ5BigZpSveKL0mxGAZ_0WI9oqwP6cVWVfpi14tjNl95jqfskX1YrIKor8bV_0mg7saB73X7UzhiMbqx-S8zqY95iWBd3RFYKxYJuRmyb8iADEKooOn215FkQF6DYzxqvNgHpnajT9r-6_jvRRr-Mxrygz-q4dFOa3Z7h3Gu6PR_RFQGuCW7vzD4v8TL6uGojIMjfcg7e8oorpSr6L6zn1Wv5TKOfSIOXOU6Te3wwakck65so2V5BiiTJqc3F0Yi95c9GDDeHdSTntR6HsAs0Dat-fQtmmhvbJn9vlIqY0dfBA8OJrbA2Q3A",
-          "thumbnail_path": "channels/mamlekate/media/4af028ae58b94998c6c8912a.jpg",
-          "duration_label": "0:43",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "2"
-        }
-      ],
-      "views_label": "199K",
-      "posted_at": "2026-07-10T07:12:06+00:00",
-      "edited": true,
-      "permalink": "https://t.me/mamlekate/103856"
-    },
-    {
-      "id": "mamlekate/103855",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/iEKsNLLtIy0bP4GEug-2J_hWbFXwziq5oA7nFRs856bpkCVCZZBgK99MX7Oo8Z76vhoYY_u5INrAl9ezcpfX2npL7oL9AChvSOIgIcLuwMoljHe3TF3sjC_jP9KuyZYhfnVwodynVAtyZ5rEAaooV0E47tN6X_bAznPu1Nil13AIx0RmKfMqV9MAHlsL0dtqoK0Z-KyJzlwgWr_iVKUaoO4F7ao8k5Q6VJGq8OS8CPklyJB0-fjrGbwYQ_SgPEwofo0DhksUV3YtCqmPGj_hMqHbysN7AH992hRmo9pysbaZsuMGPo27LCL4j65FBs8sg4vMN4rn2PHjE-ki1WLT8Q.jpg",
-      "author_photo_path": "channels/mamlekate/media/866ea3bae658fbd4e6eed6bf.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5247176827016847212\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939E.png')\"><b>📞</b></i></tg-emoji> بین چند صد هزار تا چند میلیون نفر در تشییع جنازه استالین شرکت کردند. جمعیتی که منجر به قفل شدن خیابان‌های مسکو شد. مساحت مسکو ۳.۵ برابر تهران است.<br><br>در این مراسم، بین صد تا چند هزار نفر فقط بعلت ازدحام جمعیت کشته شدند. کشته‌شدگان \"<s>ازدحام میلیونی</s>\" جمعیت تشییع خامنه‌ای؟ صفر.<br><br>حتی با تشییع میلیونی شوروی در نهایت فروپاشید<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "📞 بین چند صد هزار تا چند میلیون نفر در تشییع جنازه استالین شرکت کردند. جمعیتی که منجر به قفل شدن خیابان‌های مسکو شد. مساحت مسکو ۳.۵ برابر تهران است. در این مراسم، بین صد تا چند هزار نفر فقط بعلت ازدحام جمعیت کشته شدند. کشته‌شدگان \"ازدحام میلیونی\" جمعیت تشییع خامنه‌ای؟ صفر. حتی با تشییع میلیونی شوروی در نهایت فروپاشید @mamlekate",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/mamlekate/103855",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/iWIHh2vhYxY8mYLZep8zxoeY8FXrBxLF2GzRVdYzpYiFvv9M_FfkezXWaRwr6eE7SnRs7jP94TQvmg_2akbdV2HSrdVuSN6kAisRsEijchZmoVT2YS8P0Gc39vePhh3x3Uu-lpqc3adjdrpCz9aW-c3uqcjObzJZMOdpA9X79vRScHBo7Qm_8gl9G1kiKLGhbjjCsptcX_-bHfU_LQcAjUGOLVwopx6SgbHp6KjfO338wlC7HzlPq33SL3wgwlmUK_YlE-MYrqlFgpxy0PXbgtJnBXqTlBoZYuDwuSMp_yPKPLyE3g_ETo3bBWYTpKU4RBXrXuERz523kTrzNfabvg.jpg",
-          "thumbnail_path": "channels/mamlekate/media/58251262ca6788f6a2b53c8b.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.1363636363636365
-        }
-      ],
-      "reactions": [],
-      "views_label": "192K",
-      "posted_at": "2026-07-10T07:01:36+00:00",
-      "edited": true,
-      "permalink": "https://t.me/mamlekate/103855"
     }
   ]
 }

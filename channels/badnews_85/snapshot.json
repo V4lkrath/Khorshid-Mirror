@@ -1,20 +1,55 @@
 {
   "schema": 2,
-  "fetched_at": "2026-07-24T00:10:00.326Z",
+  "fetched_at": "2026-07-24T03:37:22.171Z",
   "channel": {
     "username": "badnews_85",
     "title": "BadNews85 | بدنیوز",
     "description_html": "بدنیوز رسانه مردمی بدون وابستگی به هیچ گروه یا ارگانی.",
-    "photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-    "photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+    "photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
     "subscriber_count": "226K"
   },
   "posts": [
     {
+      "id": "BadNews_85/27839",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> سنتکام: سیزدهمین شب از حملات به رژیم ایران رو شروع کردیم.  @BadNews_85",
+      "plain_text": "🔴 سنتکام: سیزدهمین شب از حملات به رژیم ایران رو شروع کردیم. @BadNews_85",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "30"
+        },
+        {
+          "emoji": "💩",
+          "count": "9"
+        },
+        {
+          "emoji": "🤬",
+          "count": "8"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
+        },
+        {
+          "emoji": "🤣",
+          "count": "2"
+        }
+      ],
+      "views_label": "3.14K",
+      "posted_at": "2026-07-24T01:40:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/27839"
+    },
+    {
       "id": "BadNews_85/27838",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b> </b>سنتکام: سیزدهمین شب از حملات به رژیم ایران رو شروع کردیم.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "🔴 سنتکام: سیزدهمین شب از حملات به رژیم ایران رو شروع کردیم. @BadNews_85",
       "media": [
@@ -31,22 +66,34 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "37"
+          "count": "66"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "15"
+          "count": "18"
         },
         {
           "emoji": "💩",
-          "count": "5"
+          "count": "12"
         },
         {
           "emoji": "💔",
-          "count": "5"
+          "count": "9"
+        },
+        {
+          "emoji": "🤣",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "🖕",
+          "count": "2"
         }
       ],
-      "views_label": "3.52K",
+      "views_label": "7.68K",
       "posted_at": "2026-07-23T23:21:34+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27838"
@@ -54,26 +101,30 @@
     {
       "id": "BadNews_85/27837",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>حملات شدید به اهواز.  @BadNews_85",
       "plain_text": "🔴حملات شدید به اهواز. @BadNews_85",
       "media": [],
       "reactions": [
         {
           "emoji": "💔",
-          "count": "133"
+          "count": "174"
         },
         {
           "emoji": "🔥",
-          "count": "18"
+          "count": "27"
         },
         {
           "emoji": "❤",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "❤‍🔥",
+          "count": "5"
+        },
+        {
+          "emoji": "🤣",
           "count": "5"
         },
         {
@@ -81,11 +132,11 @@
           "count": "4"
         },
         {
-          "emoji": "🤣",
-          "count": "4"
+          "emoji": "👍",
+          "count": "1"
         }
       ],
-      "views_label": "5.37K",
+      "views_label": "9.29K",
       "posted_at": "2026-07-23T23:07:00+00:00",
       "edited": true,
       "permalink": "https://t.me/BadNews_85/27837"
@@ -93,30 +144,34 @@
     {
       "id": "BadNews_85/27836",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>حملات شدید به اهواز</b>.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "🔴حملات شدید به اهواز. @BadNews_85",
       "media": [],
       "reactions": [
         {
           "emoji": "💔",
-          "count": "39"
+          "count": "52"
         },
         {
           "emoji": "🔥",
-          "count": "15"
+          "count": "17"
         },
         {
           "emoji": "👍",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "❤",
           "count": "2"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1"
         }
       ],
-      "views_label": "5.84K",
+      "views_label": "9.54K",
       "posted_at": "2026-07-23T22:59:03+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27836"
@@ -124,8 +179,8 @@
     {
       "id": "BadNews_85/27835",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ از این به بعد هر کشتی‌ای توی تنگه هرمز مورد هدف ایران قرار بگیره و آسیب ببینه، خسارتش رو از پول‌های بلوکه شده ایران پرداخت میکنیم.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "🔴 ترامپ از این به بعد هر کشتی‌ای توی تنگه هرمز مورد هدف ایران قرار بگیره و آسیب ببینه، خسارتش رو از پول‌های بلوکه شده ایران پرداخت میکنیم. @BadNews_85",
       "media": [
@@ -142,30 +197,30 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "142"
+          "count": "166"
         },
         {
           "emoji": "🖕",
-          "count": "54"
+          "count": "62"
         },
         {
           "emoji": "🤣",
-          "count": "34"
+          "count": "45"
+        },
+        {
+          "emoji": "❤",
+          "count": "6"
         },
         {
           "emoji": "💩",
           "count": "6"
         },
         {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
           "emoji": "💔",
-          "count": "1"
+          "count": "3"
         }
       ],
-      "views_label": "8.71K",
+      "views_label": "11.9K",
       "posted_at": "2026-07-23T22:18:35+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27835"
@@ -173,8 +228,8 @@
     {
       "id": "BadNews_85/27833",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>توی نیشابور یه دختر 20 ساله با دوست پسراش رابطه‌ی ارباب برده ای داشته و دست و پاشونو میبسته٬ کتکشون میزده و مجبورشون میکرده براش واق واق کنن تا شکنجه بشن؛ <br><blockquote>موقع رابطه هم ازشون فیلم و عکس میگرفته و توی کانال تلگرامیش منتشر میکرده که از طریق همون کانال شناسایی شده و دیروز دستگیر شده!<br></blockquote><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a></div>",
       "plain_text": "🔴توی نیشابور یه دختر 20 ساله با دوست پسراش رابطه‌ی ارباب برده ای داشته و دست و پاشونو میبسته٬ کتکشون میزده و مجبورشون میکرده براش واق واق کنن تا شکنجه بشن؛ موقع رابطه هم ازشون فیلم و عکس میگرفته و توی کانال تلگرامیش منتشر میکرده که از طریق همون کانال شناسایی شده و دیروز دستگیر شده! @BadNews_85",
       "media": [
@@ -200,23 +255,23 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "555"
-        },
-        {
-          "emoji": "🤯",
-          "count": "57"
+          "count": "613"
         },
         {
           "emoji": "😐",
-          "count": "54"
+          "count": "64"
+        },
+        {
+          "emoji": "🤯",
+          "count": "61"
         },
         {
           "emoji": "❤",
-          "count": "19"
+          "count": "22"
         },
         {
           "emoji": "💩",
-          "count": "19"
+          "count": "22"
         },
         {
           "emoji": "🔥",
@@ -243,7 +298,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.7K",
+      "views_label": "18.2K",
       "posted_at": "2026-07-23T21:00:10+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27833"
@@ -251,8 +306,8 @@
     {
       "id": "BadNews_85/27832",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "طبق تحقیقات هر گاوی برای خودش یه دوست صمیمی یا فاب داره و وقتی که با دوستش دعواش میشه یا قهر میکنه بشدت افسرده و گوشه گیر میشه.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "طبق تحقیقات هر گاوی برای خودش یه دوست صمیمی یا فاب داره و وقتی که با دوستش دعواش میشه یا قهر میکنه بشدت افسرده و گوشه گیر میشه. @BadNews_85",
       "media": [
@@ -269,11 +324,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "276"
+          "count": "287"
         },
         {
           "emoji": "🤣",
-          "count": "66"
+          "count": "74"
         },
         {
           "emoji": "💔",
@@ -296,7 +351,7 @@
           "count": "2"
         }
       ],
-      "views_label": "18.3K",
+      "views_label": "20.1K",
       "posted_at": "2026-07-23T19:44:34+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27832"
@@ -304,8 +359,8 @@
     {
       "id": "BadNews_85/27831",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "از زمان شروع جنگ خیلی از افراد بیکار شدن و هنوزم که هنوزه با گذشت ۵ ماه کار پیدا نکردن.<br><blockquote>نکته عجیب اینجاست اون حقوقایی که تو آگهی ها هم میزنن فقط برای جلب افراده و وقتی میرید اونجا خیلی کمتر پیشنهاد میدن.<br></blockquote>حقوقی که به ۲۰ میلیون تومن هم نمیرسه.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "از زمان شروع جنگ خیلی از افراد بیکار شدن و هنوزم که هنوزه با گذشت ۵ ماه کار پیدا نکردن. نکته عجیب اینجاست اون حقوقایی که تو آگهی ها هم میزنن فقط برای جلب افراده و وقتی میرید اونجا خیلی کمتر پیشنهاد میدن. حقوقی که به ۲۰ میلیون تومن هم نمیرسه. @BadNews_85",
       "media": [
@@ -322,11 +377,11 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "571"
+          "count": "609"
         },
         {
           "emoji": "👍",
-          "count": "29"
+          "count": "31"
         },
         {
           "emoji": "😭",
@@ -338,10 +393,10 @@
         },
         {
           "emoji": "🤣",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "19.1K",
+      "views_label": "20.6K",
       "posted_at": "2026-07-23T19:05:00+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27831"
@@ -349,8 +404,8 @@
     {
       "id": "BadNews_85/27830",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "سیرکه؟ صداوسیما اومده و یه بازی فکری رونمایی کرده که توش باید بری بچه‌های جزیره اپستین رو نجات بدی و ببری بیمارستان خاتم‌الانبیا: <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9890.png')\"><b>😐</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "سیرکه؟ صداوسیما اومده و یه بازی فکری رونمایی کرده که توش باید بری بچه‌های جزیره اپستین رو نجات بدی و ببری بیمارستان خاتم‌الانبیا: 😐😂 @BadNews_85",
       "media": [
@@ -367,15 +422,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "682"
+          "count": "715"
         },
         {
           "emoji": "😐",
-          "count": "112"
+          "count": "116"
         },
         {
           "emoji": "💩",
-          "count": "88"
+          "count": "89"
         },
         {
           "emoji": "❤",
@@ -383,14 +438,14 @@
         },
         {
           "emoji": "🖕",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "🤯",
           "count": "1"
         }
       ],
-      "views_label": "21K",
+      "views_label": "22.2K",
       "posted_at": "2026-07-23T18:04:55+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27830"
@@ -398,8 +453,8 @@
     {
       "id": "BadNews_85/27829",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> این ویدیو از نحوه‌ی درست خوردن انبه توسط یه عرزشی به شکلی که تحریک آمیز نباشه تو پنج ساعت 5 میلیون ویو خورده : <br><br>حاج خانوم‌کار بلده.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "🔴 این ویدیو از نحوه‌ی درست خوردن انبه توسط یه عرزشی به شکلی که تحریک آمیز نباشه تو پنج ساعت 5 میلیون ویو خورده : حاج خانوم‌کار بلده. @BadNews_85",
       "media": [
@@ -416,15 +471,15 @@
       "reactions": [
         {
           "emoji": "💩",
-          "count": "735"
+          "count": "762"
         },
         {
           "emoji": "🤣",
-          "count": "195"
+          "count": "206"
         },
         {
           "emoji": "😐",
-          "count": "29"
+          "count": "30"
         },
         {
           "emoji": "❤",
@@ -432,7 +487,7 @@
         },
         {
           "emoji": "🖕",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "🤬",
@@ -441,9 +496,13 @@
         {
           "emoji": "💔",
           "count": "3"
+        },
+        {
+          "emoji": "🤯",
+          "count": "1"
         }
       ],
-      "views_label": "21.6K",
+      "views_label": "22.6K",
       "posted_at": "2026-07-23T17:03:10+00:00",
       "edited": true,
       "permalink": "https://t.me/BadNews_85/27829"
@@ -451,8 +510,8 @@
     {
       "id": "BadNews_85/27828",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ با اسلحه آمادگی خودش برای دفاع از جنوب رو اعلام کرد.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "🔴 ترامپ با اسلحه آمادگی خودش برای دفاع از جنوب رو اعلام کرد. @BadNews_85",
       "media": [
@@ -469,7 +528,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "629"
+          "count": "651"
         },
         {
           "emoji": "❤",
@@ -477,14 +536,18 @@
         },
         {
           "emoji": "🖕",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "💩",
           "count": "4"
+        },
+        {
+          "emoji": "🥰",
+          "count": "1"
         }
       ],
-      "views_label": "20.8K",
+      "views_label": "21.7K",
       "posted_at": "2026-07-23T16:37:50+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27828"
@@ -492,8 +555,8 @@
     {
       "id": "BadNews_85/27827",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ:<br><blockquote>دارم یه حمله خیلی بزرگ رو بررسی می‌کنم؛ بزرگ‌تر از هر چی تا حالا انجام دادیم.<br></blockquote><blockquote>تقریباً به تصمیم نهایی هم رسیدم و کاملاً آماده‌ایم که اجراش کنیم.</blockquote><br><blockquote>اسرائیل هم اگه من بخوام، دو دقیقه‌ای میاد تو کار، ولی راستش ما برای شروع این عملیات اصلاً به کسی نیاز نداریم.<br></blockquote><blockquote>البته اگه اسرائیل وارد بشه، داستان یه کم پیچیده‌تر میشه و تبعات خودش رو داره.<br></blockquote><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "🔴 ترامپ: دارم یه حمله خیلی بزرگ رو بررسی می‌کنم؛ بزرگ‌تر از هر چی تا حالا انجام دادیم. تقریباً به تصمیم نهایی هم رسیدم و کاملاً آماده‌ایم که اجراش کنیم. اسرائیل هم اگه من بخوام، دو دقیقه‌ای میاد تو کار، ولی راستش ما برای شروع این عملیات اصلاً به کسی نیاز نداریم. البته اگه اسرائیل وارد بشه، داستان یه کم پیچیده‌تر میشه و تبعات خودش رو داره. @BadNews_85",
       "media": [
@@ -510,11 +573,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "276"
+          "count": "283"
         },
         {
           "emoji": "🖕",
-          "count": "53"
+          "count": "54"
         },
         {
           "emoji": "🔥",
@@ -522,7 +585,7 @@
         },
         {
           "emoji": "💔",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "😐",
@@ -535,9 +598,13 @@
         {
           "emoji": "🥰",
           "count": "2"
+        },
+        {
+          "emoji": "🤣",
+          "count": "1"
         }
       ],
-      "views_label": "21.5K",
+      "views_label": "22.3K",
       "posted_at": "2026-07-23T15:44:22+00:00",
       "edited": true,
       "permalink": "https://t.me/BadNews_85/27827"
@@ -545,8 +612,8 @@
     {
       "id": "BadNews_85/27825",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">یه چالش توسط کاربرای خارجی توییتر وایرال شده به اسم Life After Marriage (زندگی بعد ازدواج) که خیلی مورد استقبال قرار گرفته و همه دارن انجامش میدن و ویو های میلیونی میگیرن :<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a></div>",
       "plain_text": "یه چالش توسط کاربرای خارجی توییتر وایرال شده به اسم Life After Marriage (زندگی بعد ازدواج) که خیلی مورد استقبال قرار گرفته و همه دارن انجامش میدن و ویو های میلیونی میگیرن : @BadNews_85",
       "media": [
@@ -572,23 +639,23 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "415"
+          "count": "430"
         },
         {
           "emoji": "😐",
-          "count": "217"
+          "count": "221"
         },
         {
           "emoji": "💩",
-          "count": "81"
+          "count": "82"
         },
         {
           "emoji": "❤",
-          "count": "18"
+          "count": "19"
         },
         {
           "emoji": "🔥",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "👍",
@@ -607,7 +674,7 @@
           "count": "1"
         }
       ],
-      "views_label": "22.9K",
+      "views_label": "23.6K",
       "posted_at": "2026-07-23T13:17:43+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27825"
@@ -615,8 +682,8 @@
     {
       "id": "BadNews_85/27824",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>ترامپ : <b>اگه حوثی ها به کشتی های عربستانی شلیک کنن ما هم میریم بجاش ایرانو میزنیم چون حوثی ها وابسته به ایرانن هرچند خودشونم میزنیم</b>!<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "🔴ترامپ : اگه حوثی ها به کشتی های عربستانی شلیک کنن ما هم میریم بجاش ایرانو میزنیم چون حوثی ها وابسته به ایرانن هرچند خودشونم میزنیم! @BadNews_85",
       "media": [
@@ -633,7 +700,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "391"
+          "count": "399"
         },
         {
           "emoji": "👍",
@@ -641,7 +708,7 @@
         },
         {
           "emoji": "🖕",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "❤",
@@ -660,7 +727,7 @@
           "count": "2"
         }
       ],
-      "views_label": "22.5K",
+      "views_label": "23.1K",
       "posted_at": "2026-07-23T12:39:23+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27824"
@@ -668,8 +735,8 @@
     {
       "id": "BadNews_85/27823",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "این ویدیو از سوپرایز تولد همسر آقا منوچهر تو دو روز اخیر 10 میلیون ویو خورده دلیلشم هیچکس نمیدونه :<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "این ویدیو از سوپرایز تولد همسر آقا منوچهر تو دو روز اخیر 10 میلیون ویو خورده دلیلشم هیچکس نمیدونه : @BadNews_85",
       "media": [
@@ -686,19 +753,19 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "450"
+          "count": "460"
         },
         {
           "emoji": "❤",
-          "count": "134"
+          "count": "138"
         },
         {
           "emoji": "😐",
-          "count": "45"
+          "count": "46"
         },
         {
           "emoji": "💩",
-          "count": "43"
+          "count": "44"
         },
         {
           "emoji": "🖕",
@@ -721,7 +788,7 @@
           "count": "2"
         }
       ],
-      "views_label": "23.5K",
+      "views_label": "24.1K",
       "posted_at": "2026-07-23T11:06:12+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27823"
@@ -729,8 +796,8 @@
     {
       "id": "BadNews_85/27822",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "خودشون افتادن به جون هم؛ <br><br>+ امیر حسین ثابتی نماینده مجلس:<br><b>نباید تنگه رو بدیم بره؛ شما می‌گید تنگه رو باز کنیم، مفت بدیم بره</b>.<br><br>- عضو کمیسیون امنیت ملی مجلس وسط پخش زنده : <br><b>بدید برررره؟ تنگه مال ننت بوده که بدید بره؟ مال کیه؟ ارث باباته؟ </b><br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "خودشون افتادن به جون هم؛ + امیر حسین ثابتی نماینده مجلس: نباید تنگه رو بدیم بره؛ شما می‌گید تنگه رو باز کنیم، مفت بدیم بره. - عضو کمیسیون امنیت ملی مجلس وسط پخش زنده : بدید برررره؟ تنگه مال ننت بوده که بدید بره؟ مال کیه؟ ارث باباته؟ @BadNews_85",
       "media": [
@@ -747,7 +814,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "640"
+          "count": "655"
         },
         {
           "emoji": "🖕",
@@ -763,7 +830,7 @@
         },
         {
           "emoji": "❤",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "💩",
@@ -774,7 +841,7 @@
           "count": "2"
         }
       ],
-      "views_label": "23.2K",
+      "views_label": "23.7K",
       "posted_at": "2026-07-23T10:22:25+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27822"
@@ -782,8 +849,8 @@
     {
       "id": "BadNews_85/27821",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<tg-emoji emoji-id=\"5856971593598637901\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i></tg-emoji><b>اولین سایت جهانی برای کاربران ایران با واریز برداشت مستقیم</b><tg-emoji emoji-id=\"5406745015365943482\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i></tg-emoji><b><br></b><br><b><tg-emoji emoji-id=\"5857447699313335177\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FAA99.png')\"><b>🪙</b></i></tg-emoji></b><b>سایت بین المللی و معتبر لاین</b> <b>بت</b><br><br><tg-emoji emoji-id=\"4956222745814762495\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4E2808DF09F94A5.png')\"><b>❤️‍🔥</b></i></tg-emoji><b>اسپانسر لیگ&nbsp; فرانسه</b><br><tg-emoji emoji-id=\"5852440446051028724\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B3.png')\"><b>💳</b></i></tg-emoji><b> واریز و برداشت ریالی</b><br><tg-emoji emoji-id=\"5210956306952758910\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9180.png')\"><b>👀</b></i></tg-emoji><b>بازگشت باخت ب صورت هفتگی <br></b><b><tg-emoji emoji-id=\"4958686613933655185\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')\"><b>📣</b></i></tg-emoji></b><b>دارای پشتیبانی فارسی فعال<br></b><b><tg-emoji emoji-id=\"5859744248391275144\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i></tg-emoji></b><b>بونوس </b><b><tg-emoji emoji-id=\"4958734459869332468\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AF.png')\"><b>💯</b></i></tg-emoji></b><b> روز های دوشنبه</b><br><br><tg-emoji emoji-id=\"5859505538403931900\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA1.png')\"><b>🎡</b></i></tg-emoji><b>کدهدیه ثبت نام </b><b><tg-emoji emoji-id=\"5422537816271756628\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29EA1.png')\"><b>➡️</b></i></tg-emoji></b><b> L5670</b><br><br><tg-emoji emoji-id=\"5859645137725953745\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></tg-emoji><a href=\"https://linebet4434j14x03.com/fa/registration?tag=d_4695095m_22611c_site\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">《 لینک سایت برای کاربران ایرانی》</a><br><br><tg-emoji emoji-id=\"5859458560051647268\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji><a href=\"https://t.me/linebet_tel/341\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">《 دانلود اپلیکیشن اندروید》</a><br><tg-emoji emoji-id=\"5927238474036941759\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><a href=\"https://telegram.me/+dukgrB6-zGsyNGM8\" target=\"_blank\" rel=\"noopener\">https://telegram.me/+dukgrB6-zGsyNGM8</a><br><tg-emoji emoji-id=\"5911100357760522346\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i></tg-emoji><b>جهت استفاده از وبسایت از آی پی کشورهای آسیایی<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')\"><b>🇷🇺</b></i> یا کانادا</b><b><tg-emoji emoji-id=\"5875454001809462498\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A8F09F87A6.png')\"><b>🇨🇦</b></i></tg-emoji></b><b>، استفاده کنید</b><br><br><tg-emoji emoji-id=\"5776252815756235806\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C94.png')\"><b>✔️</b></i></tg-emoji> <a href=\"https://t.me/global_line10/151\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">آموزش کامل و جامع شرطبندی</a><tg-emoji emoji-id=\"5415758949129404605\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i></tg-emoji>",
       "plain_text": "⚽️اولین سایت جهانی برای کاربران ایران با واریز برداشت مستقیم⬇️ 🪙سایت بین المللی و معتبر لاین بت ❤️‍🔥اسپانسر لیگ فرانسه 💳 واریز و برداشت ریالی 👀بازگشت باخت ب صورت هفتگی 📣دارای پشتیبانی فارسی فعال 🎁بونوس 💯 روز های دوشنبه 🎡کدهدیه ثبت نام ➡️ L5670 🔗《 لینک سایت برای کاربران ایرانی》 👍《 دانلود اپلیکیشن اندروید》 ❤️https://telegram.me/+dukgrB6-zGsyNGM8 🔻جهت استفاده از وبسایت از آی پی کشورهای آسیایی🇷🇺 یا کانادا🇨🇦، استفاده کنید ✔️ آموزش کامل و جامع شرطبندی👉",
       "media": [
@@ -807,7 +874,7 @@
           "count": "1"
         }
       ],
-      "views_label": "23.6K",
+      "views_label": "24.2K",
       "posted_at": "2026-07-23T10:22:18+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27821"
@@ -815,15 +882,15 @@
     {
       "id": "BadNews_85/27820",
       "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dtHFh5rNKyuZiS3INRRB3fSjkH3dl-0EY8QnH6HU24bmmvCqvMVotHVCQIVcpBXAvfQrCZHQ-B1zF7Yq6MN_DeNLHmtCjHQvuX-WlOJmdBmRLpjrmGnJIr6L2sQZpc6j_jXTyjCkVRlidM2HiW88m8DIzWcvfbY4U1CbdikWHYwFFLo2CFB6ghQllJucMWpMxn6B_0n35I3UcIrtVd2w1xciTJPJMBMtF6zrsWP4uFGVskyKrQm5w5DFA-oBhn3lwKHADeDxBTQKP0gQp2nnEJikgXt89Uj3BuVCTB_Oo8kq1Dwy2stbj6lH73JK28DSjNlJrAIjzUi_YNCiam2wNA.jpg",
-      "author_photo_path": "channels/badnews_85/media/666be177612ff483be3a0bb6.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Zivsy3yfYR5MawPAuHzUYRe6rD5zlNjbEMY7DIZajogJ_WGA-NC9zKpswuuY7zpLCZUck3MIcNtmZfa8fwKWNX8JuOA1CgyqCrLnQ7jBfQLsRyCjWuTyl9o4faCie3-lN7cxY4CTS_N7pUXEyET3pDtj65XW7mWwXZcx1oiQTebzEIChq0ljhQlWyZwsKNFUN1OXM_Fqpdlz74JRX2lgw9OOj4SS1kfFaEaFL_IsdPzHoeVvzxBmM8H4qTwIT-BrqqvGFHe8dpXcoOKPpH2AQzmf9KJE8-rIVc3wAYpZV5qZm57FE4PtkCYdCk5TEvQIaqZve-SRn53kcNph2bPvFQ.jpg",
+      "author_photo_path": "channels/badnews_85/media/c17c6e5b39857cd7add3e1c0.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>سنتکام : دور جدید حملات، به خاک ایران رو شروع کردیم.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
       "plain_text": "🔴سنتکام : دور جدید حملات، به خاک ایران رو شروع کردیم. @BadNews_85",
       "media": [],
       "reactions": [
         {
           "emoji": "❤",
-          "count": "259"
+          "count": "260"
         },
         {
           "emoji": "🖕",
@@ -846,7 +913,7 @@
           "count": "3"
         }
       ],
-      "views_label": "26.6K",
+      "views_label": "27K",
       "posted_at": "2026-07-22T22:17:45+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27820"
@@ -5006,64 +5073,6 @@
       "posted_at": "2026-07-18T21:13:27+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/27716"
-    },
-    {
-      "id": "BadNews_85/27714",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/pJzEhjQwcQLf2EgZqYkvQ8v4A-qCYobcN6acvv3-xw-a-HtU3glIUl0JWYLMNCvRbOclLvCeE9l2bDiMQUpOp3tkDP-LlFqak0PMEneUbZm7n7PzD-i1K1UJFqpSvtlpSnzZd3lmSV7h0kbONCO_7xF8Z0B9-lHrKai6vlU72EJ8WEIIdKGRh9cY3tT15Higag_7xp4WFu0L2DgoLc1CKxwsWrM-W8Zt7rqtjDj0ORiRdUvbP7b3ikg94A9zoWwWP125Y3jt3ghVGDXx8axfBX8rqYy_Jo6eF5J8qH_elCDK58Pgrur0awIbkZlENJyOfTolsLCORplqiS_7xmt2FQ.jpg",
-      "author_photo_path": "channels/badnews_85/media/c40e2b819b9a4465d81480aa.jpg",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">جدیدا داخل توییتر یه بحثی پیش اومده که میگن هوش مصنوعی گروک خیلی بی ادب و کصکشه. ملت هم رفتن امتحانش کنن و نتیجه‌ش واقعاً ترکونده.<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a></div>",
-      "plain_text": "جدیدا داخل توییتر یه بحثی پیش اومده که میگن هوش مصنوعی گروک خیلی بی ادب و کصکشه. ملت هم رفتن امتحانش کنن و نتیجه‌ش واقعاً ترکونده. @BadNews_85",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/BadNews_85/27714?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/cQDQamUqjp0Yw-spRrZ9WsnaahKIb8hQAjUoSF3KeFAV8j2DFxf_aL4-H01CZX4QXlHIWtKzsQtu_Fm8nmXppTwiE0VlqtjnCU3nVlSi9hHZdJkFtSTpIfdoxCORh1HOxr5tQFpLNFDjgVQAngjRUG_skIn5eW0TTfqM8KDFwf4wWzW9W72QTLW3c9dCQgqOsgRISJBxU50pOwsMxkM_NQMnBCFTN_0kL0ptwspqeWEbF5iiqHZtxy2gQWkLDP_CDBZ91zzYtMYhyWXEdy_B1EattJ7W1iDvprWbavgk-GXRXQ_mYBajAYbUuR0HiyCWnpLix92brhmsBtE9elzTcA.jpg",
-          "thumbnail_path": "channels/badnews_85/media/985d96e55f6178fcdbe5ea05.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.68078668683812
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/BadNews_85/27715?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/q3YdEv3UlLMzzbL3_rI043ltXlCh61_4Tfh7VhSBNpqkqGLNEDwh40_xQM2WV2rLUaE-Z8uySFAKDmw-gx0rZV4vO-MklWvcEHs6STvT8vPC-nv1pqCIRoO9xgomV9rvKWFrN3eWCRke_BbXluo2fpdnC9B33L7HySWQYIpGsky25aQ4EZfpKyabVHU75C7523K5zIShO8QoBxbxyH3xIdfvzueVxShvoVaf90gs2Bkd1PFjyUbdfmIk9fhRP1qyUkk6HbVvNWtD7pz1_n0RkoTtxlW_Lle2_CxBKF-zow3Vo9j9JZyzS3Pemzn4zho9GgsVtdRS14h5se25dbE6iA.jpg",
-          "thumbnail_path": "channels/badnews_85/media/e3ef0f10731731973de372c6.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.67751937984496
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "836"
-        },
-        {
-          "emoji": "😐",
-          "count": "216"
-        },
-        {
-          "emoji": "❤",
-          "count": "16"
-        },
-        {
-          "emoji": "🤯",
-          "count": "11"
-        },
-        {
-          "emoji": "🔥",
-          "count": "6"
-        },
-        {
-          "emoji": "👍",
-          "count": "4"
-        }
-      ],
-      "views_label": "31.3K",
-      "posted_at": "2026-07-18T20:16:51+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/27714"
     }
   ]
 }

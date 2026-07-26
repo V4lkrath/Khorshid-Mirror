@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-07-26T18:14:25.824Z",
+  "fetched_at": "2026-07-26T18:44:22.006Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,39 @@
     "subscriber_count": "13.5K"
   },
   "posts": [
+    {
+      "id": "DEJradio/6840",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/P_8QZLtRD0IT3FjnEKUSwMQohouQpAuyABoHHUe2_2fm7NUxyGsrfj3cDTemvdWeJfc5RuHGAcVkYQfnK2F5Fn4lawzy2O_Ulma_ZE3aWAtICoNOBPFl5w0RhI7MCZHnlJNCroGfkuq2hrLf_6rgdDAt8HJMpoOzSjag0Eulgf1ufSSZCvPd4uXzJURKzi0OxBP614cyIZXfCofhyQM1bnJf5tpJpFRAY1mfPRguKkejV9PUIWHU_9GDxAUtsnMmvWhT1gRllDtnxPW1Fm5umk7I89DYTftb7eOyLJplTOUcLRi97UIkztbndJ5IvK8dgHlb1_N8oSAqYiwcasUpjg.jpg",
+      "author_photo_path": "channels/dejradio/media/f53324a75d83ce6c85be5333.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5186162212372218744\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9191.png')\"><b>👑</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> تجمع میهن‌دوستان در گرامیداشت پادشاهان فقید پهلوی،رضا شاه بزرگ و محمد رضا شاه پهلوی در شهر مالمو، سوئد<br>یکشنبه ۴ امرداد ۱۴۰۵<br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "👑🎥 تجمع میهن‌دوستان در گرامیداشت پادشاهان فقید پهلوی،رضا شاه بزرگ و محمد رضا شاه پهلوی در شهر مالمو، سوئد یکشنبه ۴ امرداد ۱۴۰۵ @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/6840",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/P0lAqV3viZ4ZEn3fBsH0NOCNzn5Roz4CvdchrhgiMtr3Ql226QmmCUhn-4T9MdbejfFrEKjCJQlq8FFFEeHVy4Sqxtz1ew2N8ibSm9hG-dNLAzVYiln_sq1p3iSUchQjcCwEJjo7AM3mfxWo2_91MXHsGFharJ8pDHxBM4sadQ4yH0xcc0Q32svxcuNLeo0LVK1RIlh5iIE5qwZgdzb_bqXQRfFHJFCFNfamN5CVXz501LEzkg2UfJROgTcLQXZh3Rh5tRS8jUqhxMIyMnEMPIIHa0_a8WXJNswLoHRlFOba6vFKATMb1LpcOp9mzhacQCi5A0tFzDG5MFtekVEaJA",
+          "thumbnail_path": "channels/dejradio/media/04facc79573a8ccce977b3d4.jpg",
+          "duration_label": "1:43",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👏",
+          "count": "5"
+        },
+        {
+          "emoji": "❤",
+          "count": "3"
+        }
+      ],
+      "views_label": "168",
+      "posted_at": "2026-07-26T18:32:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/6840"
+    },
     {
       "id": "DEJradio/6839",
       "author_name": "DEJ",
@@ -31,10 +64,10 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "2"
+          "count": "5"
         }
       ],
-      "views_label": "338",
+      "views_label": "530",
       "posted_at": "2026-07-26T17:45:08+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/6839"
@@ -60,14 +93,14 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "6"
+          "count": "8"
         },
         {
           "emoji": "❤",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "725",
+      "views_label": "855",
       "posted_at": "2026-07-26T16:31:14+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/6838"
@@ -104,7 +137,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.1K",
+      "views_label": "1.16K",
       "posted_at": "2026-07-26T13:27:32+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6837"
@@ -170,14 +203,14 @@
         },
         {
           "emoji": "🤬",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "👏",
           "count": "1"
         }
       ],
-      "views_label": "1.02K",
+      "views_label": "1.09K",
       "posted_at": "2026-07-26T13:21:31+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6832"
@@ -210,7 +243,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.03K",
+      "views_label": "1.07K",
       "posted_at": "2026-07-26T12:38:50+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6831"
@@ -236,14 +269,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "😢",
           "count": "5"
         }
       ],
-      "views_label": "939",
+      "views_label": "976",
       "posted_at": "2026-07-26T12:37:02+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6830"
@@ -269,14 +302,18 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "😁",
           "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         }
       ],
-      "views_label": "906",
+      "views_label": "938",
       "posted_at": "2026-07-26T12:31:58+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/6829"
@@ -292,7 +329,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "23"
+          "count": "24"
         },
         {
           "emoji": "🫡",
@@ -303,7 +340,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.09K",
+      "views_label": "1.13K",
       "posted_at": "2026-07-26T12:17:59+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6828"
@@ -333,14 +370,14 @@
         },
         {
           "emoji": "👍",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "❤",
           "count": "3"
         }
       ],
-      "views_label": "1.39K",
+      "views_label": "1.42K",
       "posted_at": "2026-07-26T09:34:15+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6827"
@@ -366,7 +403,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "16"
+          "count": "17"
         },
         {
           "emoji": "👏",
@@ -377,7 +414,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.63K",
+      "views_label": "1.65K",
       "posted_at": "2026-07-26T07:55:57+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6826"
@@ -403,7 +440,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "37"
+          "count": "38"
         },
         {
           "emoji": "👍",
@@ -418,7 +455,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.5K",
+      "views_label": "1.52K",
       "posted_at": "2026-07-26T07:42:46+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6825"
@@ -459,7 +496,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.37K",
+      "views_label": "1.38K",
       "posted_at": "2026-07-26T07:40:32+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6824"
@@ -503,14 +540,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "👏",
           "count": "6"
         }
       ],
-      "views_label": "1.5K",
+      "views_label": "1.52K",
       "posted_at": "2026-07-26T07:38:35+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6821"
@@ -4198,47 +4235,6 @@
       "posted_at": "2026-07-22T10:53:01+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/6723"
-    },
-    {
-      "id": "DEJradio/6722",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dqnwNX7uN6zvyc1Vkj_M4i19huTbjc3B556HEUyjt1D5ksBJvpFzt4WPNYIo2Z0zD8dUj89ubEZ9XT2uw2OMgLzBwFDAp8um9YuF4Dhry2Sqgke_3A-_fja5moINTYnO95zSfP-dTBhqMcNge_EgCy8--55Drivshj3o6Za3v1_RZUBfDSo5XeLyIGcyMjYWhptR9SYg3Xw8VEaPkge3JEHcCozB1gyIk4rNQ7vAYL9ILYFECIc_Emm3ft8E96rBJL1LBOQAC9rx_LrIxu6u2HRNHBqv56hv5zcXXRTVsYfHLXILTTXBnNq4SvDnrdHuYla9dp9JbaJ4tg3c773aug.jpg",
-      "author_photo_path": "channels/dejradio/media/4b97fed617679ae2a6d904c7.jpg",
-      "body_html": "هم‌میهنانم، ملت بزرگ و دلیر ایران،<br><br>امروز، با افزایش تنش‌ها و احتمال گسترش حملات، به‌ویژه در جنوب کشور، می‌خواهم با شما سخن بگویم؛ به‌ویژه با مردم شریف سیستان و بلوچستان، هرمزگان، بوشهر، خوزستان و همه ساکنان سواحل خلیج فارس و دریای مَکران.<br><br>جنگ و بحرانی که امروز کشور ما با آن روبه‌روست، تنها یک باعث و بانی دارد: رژیم جمهوری اسلامی.<br><br>اما جنگ اصلی، یعنی جنگ جمهوری اسلامی علیه ملت ایران، چهل‌وهفت سال پیش آغاز شد و تا امروز ادامه یافته است.<br><br>همه ملت ایران از این رژیم زخم خورده‌اند. نگذاریم بگویند که جنوب ایران تازه وارد جنگ شده است. جنوب ایران از همان روزی وارد جنگ شد که کودکان بلوچ، به دلیل نبود آب آشامیدنی و زیرساخت‌های اولیه، قربانی گاندوها شدند؛ از روزی که در سیستان و بلوچستان، سرزمین رستم و قلب اسطوره‌های ایران، جوانان برای تامین معاش ناچار به سوخت‌بری شدند؛ از روزی که استان هرمزگان و بندرعباس، بزرگ‌ترین بندر ایران، در فقر و محرومیت رها شدند؛ از روزی که بوشهر، تأمین‌کننده بخش بزرگی از گاز کشور، و خوزستان، قلب صنعت نفت ایران، خود از ثروت‌شان بی‌بهره ماندند.<br><br>اما ایران آزاد، ایرانی متفاوت خواهد بود.<br><br>با استقرار دولتی ملی، کارآمد و توسعه‌گرا، سیستان و بلوچستان می‌تواند با تکیه بر موقعیت راهبردی، نیروی انسانی جوان و دسترسی به آب‌های آزاد، به یکی از موتورهای اصلی رشد و شکوفایی کشور تبدیل شود. چابهار می‌تواند قلب تجارت ایران و دروازه اتصال اقیانوس هند، آسیای مرکزی و بازارهای جهانی باشد؛ با به‌روزرسانی همان برنامه جامعی که پیش از فاجعه ۵۷ قرار بود اجرا شود.<br><br>هرمزگان، بوشهر، خوزستان و جزایر خلیج فارس می‌توانند با توسعه تجارت، گردشگری، صنعت و جذب سرمایه‌گذاری، به ثروتمندترین و پیشرفته‌ترین مناطق ایران بدل شوند.<br><br>هم‌میهنانم،<br><br>این رژیم جنگ‌افروز نه برای مردم پناهگاهی ساخته است و نه توان دفاع از آسمان کشور را دارد. سردمداران آن در حالی که زیر زمین پنهان شده‌اند، از مدارس، بیمارستان‌ها و دیگر مراکز غیرنظامی، استفاده نظامی می‌کنند، و مردم ایران، از جمله سربازان وظیفه را در پادگان‌ها، به سپر انسانی تبدیل کرده‌اند.<br><br>در جنگی که جمهوری اسلامی بر کشور تحمیل کرده است، نخستین و مهم‌ترین وظیفه شما حفظ جان، امنیت و سلامت خود و خانواده‌های‌تان است. زیرا شما سرمایه ایران و سربازان واقعی نبرد برای بازپس‌گیری میهن هستید.<br><br>در همین ارتباط، دفتر ارتباطات و رسانه من، توصیه‌ها و راهنمایی‌های لازم را برای افزایش امنیت هم‌میهنان منتشر خواهد کرد.<br><br>مبارزه و کسب آمادگی برای پیروزی نهایی یک وظیفه همیشگی است. در نبرد نهایی، هر قدر ما توانمندتر، و جمهوری اسلامی ضعیف‌تر باشد، پیروزی سریع‌تر و کم‌هزینه‌تر به دست خواهد آمد.<br><br>پاینده ایران<br><br><a href=\"https://t.me/OfficialRezaPahlavi\" target=\"_blank\">@OfficialRezaPahlavi</a>",
-      "plain_text": "هم‌میهنانم، ملت بزرگ و دلیر ایران، امروز، با افزایش تنش‌ها و احتمال گسترش حملات، به‌ویژه در جنوب کشور، می‌خواهم با شما سخن بگویم؛ به‌ویژه با مردم شریف سیستان و بلوچستان، هرمزگان، بوشهر، خوزستان و همه ساکنان سواحل خلیج فارس و دریای مَکران. جنگ و بحرانی که امروز کشور ما با آن روبه‌روست، تنها یک باعث و بانی دارد: رژیم جمهوری اسلامی. اما جنگ اصلی، یعنی جنگ جمهوری اسلامی علیه ملت ایران، چهل‌وهفت سال پیش آغاز شد و تا امروز ادامه یافته است. همه ملت ایران از این رژیم زخم خورده‌اند. نگذاریم بگویند که جنوب ایران تازه وارد جنگ شده است. جنوب ایران از همان روزی وارد جنگ شد که کودکان بلوچ، به دلیل نبود آب آشامیدنی و زیرساخت‌های اولیه، قربانی گاندوها شدند؛ از روزی که در سیستان و بلوچستان، سرزمین رستم و قلب اسطوره‌های ایران، جوانان برای تامین معاش ناچار به سوخت‌بری شدند؛ از روزی که استان هرمزگان و بندرعباس، بزرگ‌ترین بندر ایران، در فقر و محرومیت رها شدند؛ از روزی که بوشهر، تأمین‌کننده بخش بزرگی از گاز کشور، و خوزستان، قلب صنعت نفت ایران، خود از ثروت‌شان بی‌بهره ماندند. اما ایران آزاد، ایرانی متفاوت خواهد بود. با استقرار دولتی ملی، کارآمد و توسعه‌گرا، سیستان و بلوچستان می‌تواند با تکیه بر موقعیت راهبردی، نیروی انسانی جوان و دسترسی به آب‌های آزاد، به یکی از موتورهای اصلی رشد و شکوفایی کشور تبدیل شود. چابهار می‌تواند قلب تجارت ایران و دروازه اتصال اقیانوس هند، آسیای مرکزی و بازارهای جهانی باشد؛ با به‌روزرسانی همان برنامه جامعی که پیش از فاجعه ۵۷ قرار بود اجرا شود. هرمزگان، بوشهر، خوزستان و جزایر خلیج فارس می‌توانند با توسعه تجارت، گردشگری، صنعت و جذب سرمایه‌گذاری، به ثروتمندترین و پیشرفته‌ترین مناطق ایران بدل شوند. هم‌میهنانم، این رژیم جنگ‌افروز نه برای مردم پناهگاهی ساخته است و نه توان دفاع از آسمان کشور را دارد. سردمداران آن در حالی که زیر زمین پنهان شده‌اند، از مدارس، بیمارستان‌ها و دیگر مراکز غیرنظامی، استفاده نظامی می‌کنند، و مردم ایران، از جمله سربازان وظیفه را در پادگان‌ها، به سپر انسانی تبدیل کرده‌اند. در جنگی که جمهوری اسلامی بر کشور تحمیل کرده است، نخستین و مهم‌ترین وظیفه شما حفظ جان، امنیت و سلامت خود و خانواده‌های‌تان است. زیرا شما سرمایه ایران و سربازان واقعی نبرد برای بازپس‌گیری میهن هستید. در همین ارتباط، دفتر ارتباطات و رسانه من، توصیه‌ها و راهنمایی‌های لازم را برای افزایش امنیت هم‌میهنان منتشر خواهد کرد. مبارزه و کسب آمادگی برای پیروزی نهایی یک وظیفه همیشگی است. در نبرد نهایی، هر قدر ما توانمندتر، و جمهوری اسلامی ضعیف‌تر باشد، پیروزی سریع‌تر و کم‌هزینه‌تر به دست خواهد آمد. پاینده ایران @OfficialRezaPahlavi",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/6722",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/jtSBdhgN6F2XmETJxX_gEdruVd6uF5jnw_N6Ygq9bknxikttG0BIehJBOKa_G4LouijDj4jtjyf9OivWSwZRMHIAyQ0slFGIIhMP4IT9xHVeuP0JEqr4Ytomo8GEUqT6o92whiGfbQ4CzRVhpk6FRQpPF6y3QB-UIcpvjzwu9VaNMUlRtVxrR-_rkJvNcZFwOzkNdu7yG35pEM4m9aGEBDEDgHctXrMnEf_H-XJ94H5yQrekzMbDCdZi-DIURRuXIF_HWqJJ-vNQkLnsxeDT0sQx9olBuRBCnzXLka9KxS7_YEjtUkWp4toOlV4PP0adGqWZO8aIwiI6kwXWZdV9uQ",
-          "thumbnail_path": "channels/dejradio/media/9b236987eef065ffeead9fac.jpg",
-          "duration_label": "4:54",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "103"
-        },
-        {
-          "emoji": "🫡",
-          "count": "10"
-        },
-        {
-          "emoji": "👍",
-          "count": "5"
-        },
-        {
-          "emoji": "👏",
-          "count": "5"
-        }
-      ],
-      "views_label": "1.05K",
-      "posted_at": "2026-07-22T10:07:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/6722"
     }
   ]
 }

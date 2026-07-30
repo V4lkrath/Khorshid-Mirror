@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-07-30T22:45:23.315Z",
+  "fetched_at": "2026-07-30T22:50:02.957Z",
   "channel": {
     "username": "indypersian",
     "title": "IndyPersian",
@@ -28,8 +28,17 @@
           "aspect_ratio": 0.8
         }
       ],
-      "reactions": [],
-      "views_label": "172",
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1"
+        },
+        {
+          "emoji": "🥱",
+          "count": "1"
+        }
+      ],
+      "views_label": "367",
       "posted_at": "2026-07-30T22:42:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173993"
@@ -52,8 +61,13 @@
           "aspect_ratio": 0.8
         }
       ],
-      "reactions": [],
-      "views_label": "697",
+      "reactions": [
+        {
+          "emoji": "🥴",
+          "count": "1"
+        }
+      ],
+      "views_label": "864",
       "posted_at": "2026-07-30T22:29:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173992"
@@ -90,7 +104,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.99K",
+      "views_label": "2.09K",
       "posted_at": "2026-07-30T21:50:44+00:00",
       "edited": true,
       "permalink": "https://t.me/Indypersian/173991"
@@ -116,7 +130,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "8"
+          "count": "9"
+        },
+        {
+          "emoji": "🥴",
+          "count": "1"
         },
         {
           "emoji": "🍾",
@@ -127,7 +145,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.03K",
+      "views_label": "2.09K",
       "posted_at": "2026-07-30T21:47:54+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173990"
@@ -168,7 +186,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.69K",
+      "views_label": "2.76K",
       "posted_at": "2026-07-30T21:20:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173989"
@@ -229,7 +247,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.82K",
+      "views_label": "3.85K",
       "posted_at": "2026-07-30T20:43:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173988"
@@ -263,14 +281,14 @@
         },
         {
           "emoji": "❤",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "🗿",
           "count": "1"
         }
       ],
-      "views_label": "3.79K",
+      "views_label": "3.82K",
       "posted_at": "2026-07-30T20:37:42+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173987"
@@ -323,7 +341,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.75K",
+      "views_label": "3.78K",
       "posted_at": "2026-07-30T20:24:49+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173985"
@@ -421,7 +439,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.64K",
+      "views_label": "3.67K",
       "posted_at": "2026-07-30T20:03:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173983"
@@ -450,7 +468,7 @@
           "count": "23"
         }
       ],
-      "views_label": "3.34K",
+      "views_label": "3.37K",
       "posted_at": "2026-07-30T20:03:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173982"
@@ -487,7 +505,7 @@
           "count": "2"
         }
       ],
-      "views_label": "3.66K",
+      "views_label": "3.69K",
       "posted_at": "2026-07-30T19:53:59+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173981"
@@ -528,7 +546,7 @@
           "count": "2"
         }
       ],
-      "views_label": "4.18K",
+      "views_label": "4.21K",
       "posted_at": "2026-07-30T19:18:18+00:00",
       "edited": true,
       "permalink": "https://t.me/Indypersian/173980"
@@ -610,7 +628,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.47K",
+      "views_label": "4.5K",
       "posted_at": "2026-07-30T18:50:09+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173978"
@@ -651,7 +669,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.61K",
+      "views_label": "4.64K",
       "posted_at": "2026-07-30T18:31:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Indypersian/173977"
@@ -758,16 +776,16 @@
           "count": "6"
         },
         {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
           "emoji": "🥴",
           "count": "3"
         },
         {
           "emoji": "👀",
           "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
         },
         {
           "emoji": "😡",

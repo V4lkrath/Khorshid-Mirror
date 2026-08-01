@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-01T17:27:56.697Z",
+  "fetched_at": "2026-08-01T18:11:35.874Z",
   "channel": {
     "username": "media_hb",
     "title": "اخبار جنگ | مدیا هاب",
@@ -11,21 +11,76 @@
   },
   "posts": [
     {
-      "id": "Media_HB/104534",
+      "id": "Media_HB/104540",
       "author_name": "اخبار جنگ | مدیا هاب",
       "author_photo_url": "https://cdn4.telesco.pe/file/tmFQNwqkAHkxeKa_NoCF-sbhHvy-5mrn4wgoHC2OYFii_LnOybaempIfXP3v2QuBFb9Gl22xX4UZErPNufLUWJ-9QM6IQOuW2Y1KEIa2lygOIC0CYwXK_02BkJ7FJS2SPihNbFgPftEbTRKjS_xyPY7-aF-aRefjJ-BiNep14BYGVhz5wKKsCVQSVMAfmgOSB-4lBe8FqdCbuReaU3VlM-kEegaHOWVDNwMK6u_qk-jMnVizcsNnAFd0xV6wswnusrMWgTQTkE6QEJeozAo53Fhfax2mB5e62IviGFs6vmW2xP4bAD8luM-RsNVDjQWs4gE1r6e7vzPRK5FUA0lm1g.jpg",
       "author_photo_path": "channels/media_hb/media/3082c2bc91ed4cc00bee48e4.jpg",
-      "body_html": "<b>تیک تاک، تیک تاک</b>",
-      "plain_text": "تیک تاک، تیک تاک",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>تروث های جدید ترامپ از F-22 و آدم فضایی</b></div>",
+      "plain_text": "🔴تروث های جدید ترامپ از F-22 و آدم فضایی",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/104540?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/T2q8eSe9N_f6tHtRv4fxjRBz9BH-NzeZX9nreUw3ia3o77OViTrv1uoWEV1nvsKTemsiVj7NdqAOfs1dhMV9tu0vOqQk5W9TZMVNmkOGI2D9i2dvQa-2o6zb7YKzh2QEPUCqBtieTd_kf1rlWH2ootX4NyZkf2FHmwWuOeQCwSjSajquARpNTcLY6yQMKqUkP9JEs5r4fGdKNp9ZFP_xlUhPGeP1ebR3sTTdxrjX9fKJdGP_mkgHwjv8B4DJIILjuuGAwqskhqIBGvEZEwlguw3IdPE29gQOXndK2Ev73-ued5bqkurNBOpPSD2AzzFaNLCi4N6A4vDKATfHTKXd8g.jpg",
+          "thumbnail_path": "channels/media_hb/media/b1ba2d6b65e5be33c7b3afda.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.25
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/104541?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/b_I6GvtzPEPN6yyAqOZ7SG8nFJVgAif8xKbyKz5CiAt_WdTzhERfCrzXzDCx1804lnwI8NqqJWsiog5RNDIM9a9wc0f15bc4E4aZ0Tcfx3d00XwfcPg9OQ90Od8Cdq1LKvYjAYXQdI6-OpMVNi16s8TYVYCncs6bVs1l7bG14m6BvYQIZ-tSk8KYUlgcowOptcM8SCMc8YhD3TJIuimLzUAIYXAWX4qnVz_ZGhOB8Ag27fbM3ZNwqd306RtNaQECl6-j0vIXg4DElAp7Hp9nZ1wcNwrA0s1knYA2hkbdLXLy65zIfXGFrfGFnZAiENBISb0CE1KLOYDX5AF0Kwa2Ng.jpg",
+          "thumbnail_path": "channels/media_hb/media/26c31e64056de5dd540568f5.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.2145061728395
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/104542?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/G3DY93QVl5pCG47Us9037thKPAeery4tsTmbONRGCGwsB7a7Pa0AZnIiAChElE5XeWSvR8txamRDK9FZO0DUKSVmBRirfweCJaVP-pxZTUrTuSXvuJEAq51syOxSf4mdWHWv551FDok9x3UHH4A_W89yiwLYld7Z4g9bYm9jy5glwqy2yS5EKk7l_bzc2fMCPimPPGFMHkXf4NiD02xEVyzjQYphkHHhPy8Z_Yy-7sn0KoXvgpw7vSKIMPXL8Lk4V6wzfCvJYsPD30waRDB8X9wYVlJ2DlWyRKhVYvgFrMIlUQaBaw6_m-yS0RXiOOs8vHjJmiee8LZSzu2jdI7S4g.jpg",
+          "thumbnail_path": "channels/media_hb/media/d43420c7c5dfe2aaab360517.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.58625
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "25"
+        },
+        {
+          "emoji": "😡",
+          "count": "1"
+        }
+      ],
+      "views_label": "622",
+      "posted_at": "2026-08-01T18:10:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/104540"
+    },
+    {
+      "id": "Media_HB/104539",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tmFQNwqkAHkxeKa_NoCF-sbhHvy-5mrn4wgoHC2OYFii_LnOybaempIfXP3v2QuBFb9Gl22xX4UZErPNufLUWJ-9QM6IQOuW2Y1KEIa2lygOIC0CYwXK_02BkJ7FJS2SPihNbFgPftEbTRKjS_xyPY7-aF-aRefjJ-BiNep14BYGVhz5wKKsCVQSVMAfmgOSB-4lBe8FqdCbuReaU3VlM-kEegaHOWVDNwMK6u_qk-jMnVizcsNnAFd0xV6wswnusrMWgTQTkE6QEJeozAo53Fhfax2mB5e62IviGFs6vmW2xP4bAD8luM-RsNVDjQWs4gE1r6e7vzPRK5FUA0lm1g.jpg",
+      "author_photo_path": "channels/media_hb/media/3082c2bc91ed4cc00bee48e4.jpg",
+      "body_html": "البته یه سناریو دیگه هم هست",
+      "plain_text": "البته یه سناریو دیگه هم هست",
       "media": [],
       "reactions": [
         {
-          "emoji": "🔥",
-          "count": "48"
+          "emoji": "🤣",
+          "count": "185"
+        },
+        {
+          "emoji": "👍",
+          "count": "14"
         },
         {
           "emoji": "🤡",
-          "count": "17"
+          "count": "2"
         },
         {
           "emoji": "❤",
@@ -38,13 +93,194 @@
         {
           "emoji": "💔",
           "count": "1"
+        }
+      ],
+      "views_label": "3.71K",
+      "posted_at": "2026-08-01T17:59:23+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/104539"
+    },
+    {
+      "id": "Media_HB/104538",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tmFQNwqkAHkxeKa_NoCF-sbhHvy-5mrn4wgoHC2OYFii_LnOybaempIfXP3v2QuBFb9Gl22xX4UZErPNufLUWJ-9QM6IQOuW2Y1KEIa2lygOIC0CYwXK_02BkJ7FJS2SPihNbFgPftEbTRKjS_xyPY7-aF-aRefjJ-BiNep14BYGVhz5wKKsCVQSVMAfmgOSB-4lBe8FqdCbuReaU3VlM-kEegaHOWVDNwMK6u_qk-jMnVizcsNnAFd0xV6wswnusrMWgTQTkE6QEJeozAo53Fhfax2mB5e62IviGFs6vmW2xP4bAD8luM-RsNVDjQWs4gE1r6e7vzPRK5FUA0lm1g.jpg",
+      "author_photo_path": "channels/media_hb/media/3082c2bc91ed4cc00bee48e4.jpg",
+      "body_html": "البته یه سناریو دیگه هم هست",
+      "plain_text": "البته یه سناریو دیگه هم هست",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "33"
+        }
+      ],
+      "views_label": "3.74K",
+      "posted_at": "2026-08-01T17:59:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/104538"
+    },
+    {
+      "id": "Media_HB/104537",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tmFQNwqkAHkxeKa_NoCF-sbhHvy-5mrn4wgoHC2OYFii_LnOybaempIfXP3v2QuBFb9Gl22xX4UZErPNufLUWJ-9QM6IQOuW2Y1KEIa2lygOIC0CYwXK_02BkJ7FJS2SPihNbFgPftEbTRKjS_xyPY7-aF-aRefjJ-BiNep14BYGVhz5wKKsCVQSVMAfmgOSB-4lBe8FqdCbuReaU3VlM-kEegaHOWVDNwMK6u_qk-jMnVizcsNnAFd0xV6wswnusrMWgTQTkE6QEJeozAo53Fhfax2mB5e62IviGFs6vmW2xP4bAD8luM-RsNVDjQWs4gE1r6e7vzPRK5FUA0lm1g.jpg",
+      "author_photo_path": "channels/media_hb/media/3082c2bc91ed4cc00bee48e4.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> تروث ترامپ از جنگنده f-15</b>",
+      "plain_text": "🔴 تروث ترامپ از جنگنده f-15",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/104537",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/f4ZlmI0GwwX51q2A15HRtuHXIfXLZ6klOwjFhHRIzrr4zUPUee53hrhlupkaOCC_PeO_Idgculj4O3NEKwTvBI3vritoPq_S0rY4sIiEwL8shpTlgMRIt9eNdwyiOBLU7EsUs9pfcjLRlwri0Mlbf6yQLNO_t76wd8A42iJui9Tps20MU7q_LHiEiaa_2Ivvi9LS-vQOZER9YsM8KhyRMfsi-21zEr2hUGc5GOuwO6WXxAt8s999PJNNE434K4U77_wKhUUYtih2gzxYLxmjEe1E3rQpE36bp7cSwQ0xcEQ5mrNaP318MLpZmQqpfK-fu6C8XrY6gIW655NxxcEzjA.jpg",
+          "thumbnail_path": "channels/media_hb/media/2182a6c1ef2392f33789799e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "104"
+        },
+        {
+          "emoji": "🔥",
+          "count": "12"
+        },
+        {
+          "emoji": "👎",
+          "count": "6"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.57K",
+      "posted_at": "2026-08-01T17:36:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/104537"
+    },
+    {
+      "id": "Media_HB/104536",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tmFQNwqkAHkxeKa_NoCF-sbhHvy-5mrn4wgoHC2OYFii_LnOybaempIfXP3v2QuBFb9Gl22xX4UZErPNufLUWJ-9QM6IQOuW2Y1KEIa2lygOIC0CYwXK_02BkJ7FJS2SPihNbFgPftEbTRKjS_xyPY7-aF-aRefjJ-BiNep14BYGVhz5wKKsCVQSVMAfmgOSB-4lBe8FqdCbuReaU3VlM-kEegaHOWVDNwMK6u_qk-jMnVizcsNnAFd0xV6wswnusrMWgTQTkE6QEJeozAo53Fhfax2mB5e62IviGFs6vmW2xP4bAD8luM-RsNVDjQWs4gE1r6e7vzPRK5FUA0lm1g.jpg",
+      "author_photo_path": "channels/media_hb/media/3082c2bc91ed4cc00bee48e4.jpg",
+      "body_html": "پیش بینی که من دارم:  ساعات آینده یا حداکثر تا فردا شب حملات به پتروشیمی ها و شرکت های نفت، نیروگاه های برق(محدودتر) فولاد و کوه کلنگ و تاسیسات هسته ای شروع میشه. کشور به دو بخش تبدیل میشه و یک بخش رو آمریکا و یک بخش دیگر رو اسرائیل میزنه. ترور تندرو ها توسط…",
+      "plain_text": "پیش بینی که من دارم: ساعات آینده یا حداکثر تا فردا شب حملات به پتروشیمی ها و شرکت های نفت، نیروگاه های برق(محدودتر) فولاد و کوه کلنگ و تاسیسات هسته ای شروع میشه. کشور به دو بخش تبدیل میشه و یک بخش رو آمریکا و یک بخش دیگر رو اسرائیل میزنه. ترور تندرو ها توسط…",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "330"
+        },
+        {
+          "emoji": "🤡",
+          "count": "5"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        },
+        {
+          "emoji": "😡",
+          "count": "2"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
+        },
+        {
+          "emoji": "😭",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.86K",
+      "posted_at": "2026-08-01T17:31:18+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/104536"
+    },
+    {
+      "id": "Media_HB/104535",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tmFQNwqkAHkxeKa_NoCF-sbhHvy-5mrn4wgoHC2OYFii_LnOybaempIfXP3v2QuBFb9Gl22xX4UZErPNufLUWJ-9QM6IQOuW2Y1KEIa2lygOIC0CYwXK_02BkJ7FJS2SPihNbFgPftEbTRKjS_xyPY7-aF-aRefjJ-BiNep14BYGVhz5wKKsCVQSVMAfmgOSB-4lBe8FqdCbuReaU3VlM-kEegaHOWVDNwMK6u_qk-jMnVizcsNnAFd0xV6wswnusrMWgTQTkE6QEJeozAo53Fhfax2mB5e62IviGFs6vmW2xP4bAD8luM-RsNVDjQWs4gE1r6e7vzPRK5FUA0lm1g.jpg",
+      "author_photo_path": "channels/media_hb/media/3082c2bc91ed4cc00bee48e4.jpg",
+      "body_html": "<b>پیش بینی که من دارم:<br><br>ساعات آینده یا حداکثر تا فردا شب حملات به پتروشیمی ها و شرکت های نفت، نیروگاه های برق(محدودتر) فولاد و کوه کلنگ و تاسیسات هسته ای شروع میشه. کشور به دو بخش تبدیل میشه و یک بخش رو آمریکا و یک بخش دیگر رو اسرائیل میزنه. ترور تندرو ها توسط اسرائیل صورت میگیره، ترامپ اعلام عملیات نظامی جدید علیه ایران میکنه، شدید ترین حملات رو مردم تهران و اصفهان و جنوب حس میکنن.</b>",
+      "plain_text": "پیش بینی که من دارم: ساعات آینده یا حداکثر تا فردا شب حملات به پتروشیمی ها و شرکت های نفت، نیروگاه های برق(محدودتر) فولاد و کوه کلنگ و تاسیسات هسته ای شروع میشه. کشور به دو بخش تبدیل میشه و یک بخش رو آمریکا و یک بخش دیگر رو اسرائیل میزنه. ترور تندرو ها توسط اسرائیل صورت میگیره، ترامپ اعلام عملیات نظامی جدید علیه ایران میکنه، شدید ترین حملات رو مردم تهران و اصفهان و جنوب حس میکنن.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "193"
+        },
+        {
+          "emoji": "🤣",
+          "count": "37"
+        },
+        {
+          "emoji": "💔",
+          "count": "16"
+        },
+        {
+          "emoji": "❤",
+          "count": "12"
+        },
+        {
+          "emoji": "👎",
+          "count": "8"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "7.08K",
+      "posted_at": "2026-08-01T17:30:50+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/104535"
+    },
+    {
+      "id": "Media_HB/104534",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/tmFQNwqkAHkxeKa_NoCF-sbhHvy-5mrn4wgoHC2OYFii_LnOybaempIfXP3v2QuBFb9Gl22xX4UZErPNufLUWJ-9QM6IQOuW2Y1KEIa2lygOIC0CYwXK_02BkJ7FJS2SPihNbFgPftEbTRKjS_xyPY7-aF-aRefjJ-BiNep14BYGVhz5wKKsCVQSVMAfmgOSB-4lBe8FqdCbuReaU3VlM-kEegaHOWVDNwMK6u_qk-jMnVizcsNnAFd0xV6wswnusrMWgTQTkE6QEJeozAo53Fhfax2mB5e62IviGFs6vmW2xP4bAD8luM-RsNVDjQWs4gE1r6e7vzPRK5FUA0lm1g.jpg",
+      "author_photo_path": "channels/media_hb/media/3082c2bc91ed4cc00bee48e4.jpg",
+      "body_html": "<b>تیک تاک، تیک تاک</b>",
+      "plain_text": "تیک تاک، تیک تاک",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "123"
+        },
+        {
+          "emoji": "🤡",
+          "count": "36"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "💔",
+          "count": "2"
+        },
+        {
+          "emoji": "😡",
+          "count": "2"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
         },
         {
           "emoji": "👀",
           "count": "1"
         }
       ],
-      "views_label": "1.23K",
+      "views_label": "7.17K",
       "posted_at": "2026-08-01T17:25:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104534"
@@ -70,22 +306,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "87"
+          "count": "166"
         },
         {
           "emoji": "🔥",
           "count": "9"
         },
         {
-          "emoji": "😡",
-          "count": "2"
+          "emoji": "💔",
+          "count": "3"
         },
         {
-          "emoji": "💔",
-          "count": "1"
+          "emoji": "😡",
+          "count": "3"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
         }
       ],
-      "views_label": "2.45K",
+      "views_label": "7.73K",
       "posted_at": "2026-08-01T17:19:11+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104533"
@@ -101,22 +341,22 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "58"
+          "count": "94"
         },
         {
           "emoji": "🤣",
-          "count": "5"
+          "count": "7"
         },
         {
           "emoji": "💔",
-          "count": "4"
+          "count": "6"
         },
         {
           "emoji": "❤",
           "count": "2"
         }
       ],
-      "views_label": "3.37K",
+      "views_label": "7.92K",
       "posted_at": "2026-08-01T17:16:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104532"
@@ -132,11 +372,15 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "92"
+          "count": "125"
         },
         {
           "emoji": "🤣",
-          "count": "8"
+          "count": "10"
+        },
+        {
+          "emoji": "💔",
+          "count": "4"
         },
         {
           "emoji": "❤‍🔥",
@@ -145,13 +389,9 @@
         {
           "emoji": "❤",
           "count": "2"
-        },
-        {
-          "emoji": "💔",
-          "count": "2"
         }
       ],
-      "views_label": "4.28K",
+      "views_label": "8.11K",
       "posted_at": "2026-08-01T17:10:12+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104531"
@@ -177,22 +417,22 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "91"
+          "count": "105"
         },
         {
           "emoji": "🔥",
-          "count": "9"
+          "count": "11"
         },
         {
           "emoji": "🤣",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "👍",
           "count": "3"
         }
       ],
-      "views_label": "5.82K",
+      "views_label": "8.85K",
       "posted_at": "2026-08-01T16:55:48+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/104530"
@@ -218,18 +458,18 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "122"
+          "count": "139"
         },
         {
           "emoji": "🤣",
-          "count": "16"
+          "count": "18"
         },
         {
           "emoji": "👍",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "6.25K",
+      "views_label": "8.97K",
       "posted_at": "2026-08-01T16:49:55+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104529"
@@ -255,11 +495,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "190"
+          "count": "204"
         },
         {
           "emoji": "🤣",
-          "count": "34"
+          "count": "40"
         },
         {
           "emoji": "🔥",
@@ -267,14 +507,14 @@
         },
         {
           "emoji": "👎",
-          "count": "1"
+          "count": "3"
         },
         {
           "emoji": "🤡",
           "count": "1"
         }
       ],
-      "views_label": "8.57K",
+      "views_label": "10.4K",
       "posted_at": "2026-08-01T16:16:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104528"
@@ -290,11 +530,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "198"
+          "count": "209"
         },
         {
           "emoji": "💔",
-          "count": "34"
+          "count": "35"
         },
         {
           "emoji": "😡",
@@ -309,7 +549,7 @@
           "count": "3"
         }
       ],
-      "views_label": "10.6K",
+      "views_label": "12K",
       "posted_at": "2026-08-01T15:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104526"
@@ -335,15 +575,15 @@
       "reactions": [
         {
           "emoji": "👎",
-          "count": "177"
+          "count": "195"
         },
         {
           "emoji": "❤",
-          "count": "66"
+          "count": "70"
         },
         {
           "emoji": "🤡",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "🤣",
@@ -354,7 +594,7 @@
           "count": "2"
         }
       ],
-      "views_label": "10.3K",
+      "views_label": "11.4K",
       "posted_at": "2026-08-01T15:37:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104525"
@@ -370,7 +610,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "177"
+          "count": "182"
         },
         {
           "emoji": "❤",
@@ -389,7 +629,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.6K",
+      "views_label": "11.6K",
       "posted_at": "2026-08-01T15:18:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104524"
@@ -415,14 +655,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "😡",
           "count": "1"
         }
       ],
-      "views_label": "10.5K",
+      "views_label": "11.5K",
       "posted_at": "2026-08-01T15:16:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104523"
@@ -438,7 +678,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "336"
+          "count": "345"
         },
         {
           "emoji": "🤡",
@@ -453,7 +693,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.2K",
+      "views_label": "11.2K",
       "posted_at": "2026-08-01T14:45:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104522"
@@ -3360,224 +3600,6 @@
       "posted_at": "2026-07-31T12:12:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104429"
-    },
-    {
-      "id": "Media_HB/104428",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bNFdbtlRp_A9ZWMeLuSO4mFml32Ea-LbJfHNh-YnPz6BCikgH5BDPxIFUlfx7XImgjy3dntTaM2hDIa_xmklSnLYg2rlJm1QLKVyvjn1A7-A4BB-c5TiOnUmRdM7jpxInWQr-IQRLk4D0tfku8NkWPk2VqVmuHXKab7VavfNxNmLkggdFRiGguv0W2EVQxKi2bLFziNZJF83NCBVq4C1BY6i_ghrE-xIq7S2XKqQMl3zjz2_Kk-iqhaJdpE0TejCoCsK9RXRb8-79jQMpTEjiwzpBpItKHZyj4X-ycpHm0gyRKe68q3qrhw13ac1lRhfEryakuHoOYYBm61zeudnrQ.jpg",
-      "author_photo_path": "channels/media_hb/media/cca50234d82c8fec172cbbfe.jpg",
-      "body_html": "<b>اوه اوه نخست وزیر اسپانیا، پدرو سانچز:<br>این وضعیت خیلی بده. به قوی ترین حالتی که میتونیم محکوم میکنیم‌.</b>",
-      "plain_text": "اوه اوه نخست وزیر اسپانیا، پدرو سانچز: این وضعیت خیلی بده. به قوی ترین حالتی که میتونیم محکوم میکنیم‌.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/104428",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/je5vNxV195151y-27vG3AFhSJULtA7BNkmE4rqvOWA251PQgP2kvx1vNZr1P4kT_EDGHheGEVABDS_N58qpoxqWwdf2vV-66wuhoXOAZr37RCWbHtVyhPUa1HgX728tIhWjBxaW2tZUH1kqesiE8ZURKnmQOYYIAgTSSh_c8rJODCK2h9LYjthz1NoZ7M7FJPbF_YM3339YPXJ8en4KL8kXHQM5CJzTmp-43mQ2Me3jQYEeXk2ZK7V7cbfviOyJBI4VrDlpsMxTcgZQYNdn5Ox8i_X2y-NGOZgqRjPDYPHXYW6sgQmpLx2KqSkNwr2RQ0zPj_ouCgSzVAKJq5rzyPA",
-          "thumbnail_path": "channels/media_hb/media/78639c307d96928afd3584b0.jpg",
-          "duration_label": "0:46",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "222"
-        },
-        {
-          "emoji": "😁",
-          "count": "5"
-        },
-        {
-          "emoji": "🤡",
-          "count": "3"
-        },
-        {
-          "emoji": "👀",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        }
-      ],
-      "views_label": "9.84K",
-      "posted_at": "2026-07-31T12:04:28+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/104428"
-    },
-    {
-      "id": "Media_HB/104427",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bNFdbtlRp_A9ZWMeLuSO4mFml32Ea-LbJfHNh-YnPz6BCikgH5BDPxIFUlfx7XImgjy3dntTaM2hDIa_xmklSnLYg2rlJm1QLKVyvjn1A7-A4BB-c5TiOnUmRdM7jpxInWQr-IQRLk4D0tfku8NkWPk2VqVmuHXKab7VavfNxNmLkggdFRiGguv0W2EVQxKi2bLFziNZJF83NCBVq4C1BY6i_ghrE-xIq7S2XKqQMl3zjz2_Kk-iqhaJdpE0TejCoCsK9RXRb8-79jQMpTEjiwzpBpItKHZyj4X-ycpHm0gyRKe68q3qrhw13ac1lRhfEryakuHoOYYBm61zeudnrQ.jpg",
-      "author_photo_path": "channels/media_hb/media/cca50234d82c8fec172cbbfe.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> وزارت کشور اسپانیا تخمین زده که در ۲۴ ساعت گذشته، ۴۹۰۰۰ مهاجر وارد شهر سئوتا شده‌اند.",
-      "plain_text": "🔴 وزارت کشور اسپانیا تخمین زده که در ۲۴ ساعت گذشته، ۴۹۰۰۰ مهاجر وارد شهر سئوتا شده‌اند.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "115"
-        },
-        {
-          "emoji": "😐",
-          "count": "8"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "👀",
-          "count": "2"
-        }
-      ],
-      "views_label": "9.82K",
-      "posted_at": "2026-07-31T11:53:09+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/104427"
-    },
-    {
-      "id": "Media_HB/104426",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bNFdbtlRp_A9ZWMeLuSO4mFml32Ea-LbJfHNh-YnPz6BCikgH5BDPxIFUlfx7XImgjy3dntTaM2hDIa_xmklSnLYg2rlJm1QLKVyvjn1A7-A4BB-c5TiOnUmRdM7jpxInWQr-IQRLk4D0tfku8NkWPk2VqVmuHXKab7VavfNxNmLkggdFRiGguv0W2EVQxKi2bLFziNZJF83NCBVq4C1BY6i_ghrE-xIq7S2XKqQMl3zjz2_Kk-iqhaJdpE0TejCoCsK9RXRb8-79jQMpTEjiwzpBpItKHZyj4X-ycpHm0gyRKe68q3qrhw13ac1lRhfEryakuHoOYYBm61zeudnrQ.jpg",
-      "author_photo_path": "channels/media_hb/media/cca50234d82c8fec172cbbfe.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> نخست وزیر اسپانیا، پدرو سانچز:<br>این رویداد بسیار ناپسنده، محکوم میکنیم.</b>",
-      "plain_text": "🔴 نخست وزیر اسپانیا، پدرو سانچز: این رویداد بسیار ناپسنده، محکوم میکنیم.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "180"
-        },
-        {
-          "emoji": "😁",
-          "count": "8"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.2K",
-      "posted_at": "2026-07-31T11:38:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/104426"
-    },
-    {
-      "id": "Media_HB/104425",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bNFdbtlRp_A9ZWMeLuSO4mFml32Ea-LbJfHNh-YnPz6BCikgH5BDPxIFUlfx7XImgjy3dntTaM2hDIa_xmklSnLYg2rlJm1QLKVyvjn1A7-A4BB-c5TiOnUmRdM7jpxInWQr-IQRLk4D0tfku8NkWPk2VqVmuHXKab7VavfNxNmLkggdFRiGguv0W2EVQxKi2bLFziNZJF83NCBVq4C1BY6i_ghrE-xIq7S2XKqQMl3zjz2_Kk-iqhaJdpE0TejCoCsK9RXRb8-79jQMpTEjiwzpBpItKHZyj4X-ycpHm0gyRKe68q3qrhw13ac1lRhfEryakuHoOYYBm61zeudnrQ.jpg",
-      "author_photo_path": "channels/media_hb/media/cca50234d82c8fec172cbbfe.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> سخنگوی آتش‌نشانی تهران: <br>دود مشاهده شده در آسمان شرق تهران، مربوط به حریق ضایعات و فضای سبز در محدوده جاجرود است.</b>",
-      "plain_text": "🔴 سخنگوی آتش‌نشانی تهران: دود مشاهده شده در آسمان شرق تهران، مربوط به حریق ضایعات و فضای سبز در محدوده جاجرود است.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "69"
-        },
-        {
-          "emoji": "🤣",
-          "count": "11"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        },
-        {
-          "emoji": "👀",
-          "count": "1"
-        },
-        {
-          "emoji": "😡",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.7K",
-      "posted_at": "2026-07-31T11:08:49+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/104425"
-    },
-    {
-      "id": "Media_HB/104424",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bNFdbtlRp_A9ZWMeLuSO4mFml32Ea-LbJfHNh-YnPz6BCikgH5BDPxIFUlfx7XImgjy3dntTaM2hDIa_xmklSnLYg2rlJm1QLKVyvjn1A7-A4BB-c5TiOnUmRdM7jpxInWQr-IQRLk4D0tfku8NkWPk2VqVmuHXKab7VavfNxNmLkggdFRiGguv0W2EVQxKi2bLFziNZJF83NCBVq4C1BY6i_ghrE-xIq7S2XKqQMl3zjz2_Kk-iqhaJdpE0TejCoCsK9RXRb8-79jQMpTEjiwzpBpItKHZyj4X-ycpHm0gyRKe68q3qrhw13ac1lRhfEryakuHoOYYBm61zeudnrQ.jpg",
-      "author_photo_path": "channels/media_hb/media/cca50234d82c8fec172cbbfe.jpg",
-      "body_html": "<b>اکانتای اسرائیلی ریختن از مراکشیا حمایت میکنن<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i></b>",
-      "plain_text": "اکانتای اسرائیلی ریختن از مراکشیا حمایت میکنن😂",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/104424",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WrkyAZHRLmvZIJZMDfjkdg_dsre_u246SvBGQpR8XR1WOLLy73s6mXRweGaw6L0fEyCalqMxsZHUrA6EqGPCyK_Qpwb32R7xgOnFpsOWqnYc6-e7YApin4ShyZ8X5GQb-zU3km604vCd0vRAPN5Re2NpFiwm53IBjFnzOHVsVOkZ5inQ4Mi6_cZCeF1CHEfZWS7kB0JGQ-Los9SyFkDG_Q1HirLjwFk1CpIIYs2gdRh8dLWPBTvrfnSTXEoOe9CQ0OhC6MHWyvj00xbRQt9Yek6jazVcPvm3BIQSpIKFTAFxKMh4MqKeJYVoXq2NlUSXxtqMN4j0w2Zgpoq1OIQwhg.jpg",
-          "thumbnail_path": "channels/media_hb/media/8dc72500c92e4e1908bfbe71.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7612499999999979
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "459"
-        },
-        {
-          "emoji": "❤",
-          "count": "18"
-        },
-        {
-          "emoji": "👎",
-          "count": "6"
-        },
-        {
-          "emoji": "🔥",
-          "count": "6"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        }
-      ],
-      "views_label": "10.8K",
-      "posted_at": "2026-07-31T10:28:26+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/104424"
-    },
-    {
-      "id": "Media_HB/104423",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bNFdbtlRp_A9ZWMeLuSO4mFml32Ea-LbJfHNh-YnPz6BCikgH5BDPxIFUlfx7XImgjy3dntTaM2hDIa_xmklSnLYg2rlJm1QLKVyvjn1A7-A4BB-c5TiOnUmRdM7jpxInWQr-IQRLk4D0tfku8NkWPk2VqVmuHXKab7VavfNxNmLkggdFRiGguv0W2EVQxKi2bLFziNZJF83NCBVq4C1BY6i_ghrE-xIq7S2XKqQMl3zjz2_Kk-iqhaJdpE0TejCoCsK9RXRb8-79jQMpTEjiwzpBpItKHZyj4X-ycpHm0gyRKe68q3qrhw13ac1lRhfEryakuHoOYYBm61zeudnrQ.jpg",
-      "author_photo_path": "channels/media_hb/media/cca50234d82c8fec172cbbfe.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> تلگراف:<br>آمریکا و اسرائیل در حال بررسی محاصره زمینی ایران هستند تا فشار اقتصادی را بیشتر کنند، چون حملات نظامی نتوانسته ایران را به مذاکره برگرداند. این طرح شامل محدود کردن مرزهای زمینی ایران با کمک کشورهای همسایه است، اما اجرای آن به‌دلیل مرزهای گسترده ایران بسیار دشوار ارزیابی می‌شود.</b>",
-      "plain_text": "🔴 تلگراف: آمریکا و اسرائیل در حال بررسی محاصره زمینی ایران هستند تا فشار اقتصادی را بیشتر کنند، چون حملات نظامی نتوانسته ایران را به مذاکره برگرداند. این طرح شامل محدود کردن مرزهای زمینی ایران با کمک کشورهای همسایه است، اما اجرای آن به‌دلیل مرزهای گسترده ایران بسیار دشوار ارزیابی می‌شود.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "66"
-        },
-        {
-          "emoji": "🤣",
-          "count": "10"
-        },
-        {
-          "emoji": "😡",
-          "count": "3"
-        },
-        {
-          "emoji": "😍",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.3K",
-      "posted_at": "2026-07-31T10:23:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/104423"
     }
   ]
 }

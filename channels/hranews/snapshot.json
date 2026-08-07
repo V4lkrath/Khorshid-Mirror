@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-07T15:34:17.633Z",
+  "fetched_at": "2026-08-07T16:09:41.408Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -10,6 +10,30 @@
     "subscriber_count": "31.5K"
   },
   "posts": [
+    {
+      "id": "hranews/114705",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/EL8i-_CgL2bI7LhrNS0jAoIglH_UA169kF-JWpNeDr4w4jOdukY_2YgZGkYjUsa21Gud5u13hVJxXBuk_pevtGANOCeJJIjFPhaBKHJiWgIz5vcJbql30wWCLotQzv8mzDbPdLn869C9X2LR5YeskP26-D3YmZK_olebfwCt443N-k6wUtbjpACS50b2S4YP1ZG3s3NVcOjNQPFx-JqZFxkx-oYCdhM0ZAHcJSWWmdCjwOOn_MT2ckje0CVgSQUXu1dgdgMUxaqDd-J1nwTINxwoK4MZaL5obwGfEroz9tf1KJ1MHDqQz7Wer3VRwoGb4tOW4FW97U2A8o5C8DNTHw.jpg",
+      "author_photo_path": "channels/hranews/media/d43c5032e663a1ebaf489523.jpg",
+      "body_html": "حسین مظفری، امام‌جمعه قزوین، در خطبه‌های نماز جمعه با قدردانی از قوه قضاییه به دلیل اجرای احکام <a href=\"?q=%23%D8%A7%D8%B9%D8%AF%D8%A7%D9%85\">#اعدام</a> در پرونده‌های مرتبط با درگیری نظامی اخیر و اعتراضات سراسری دی‌ماه ۱۴۰۴، از این احکام حمایت کرد. وی با توصیف «قصاص» به‌عنوان «مایه حیات بشر»، از اجرای آنچه «احکام الهی» خواند، دفاع کرد.<br><br>وی همچنین در ادامه، فعالان مخالف مجازات اعدام را با به‌کارگیری ادبیاتی تحقیرآمیز، «غرب‌زده» و «غرب‌پرست» خواند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "حسین مظفری، امام‌جمعه قزوین، در خطبه‌های نماز جمعه با قدردانی از قوه قضاییه به دلیل اجرای احکام #اعدام در پرونده‌های مرتبط با درگیری نظامی اخیر و اعتراضات سراسری دی‌ماه ۱۴۰۴، از این احکام حمایت کرد. وی با توصیف «قصاص» به‌عنوان «مایه حیات بشر»، از اجرای آنچه «احکام الهی» خواند، دفاع کرد. وی همچنین در ادامه، فعالان مخالف مجازات اعدام را با به‌کارگیری ادبیاتی تحقیرآمیز، «غرب‌زده» و «غرب‌پرست» خواند. ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/114705",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TCJd6JGay0Ygw14F77NqXpCfaI1c2AxUFo0HQB3HEqr5ekmv17PyV-wASBYLcEsKwAU8AECiHtnu5Pju0upUxgFHkx-zhhnYqnApo9vwy_HOvO2nte3FyO5d6k9rTlV22Ri44Rk9s4DQ8H-AT1onL-7ES-M7AeoXguQ6EKJgNehsi4WavJQyqOOXq37xYlMcTmIsaRHKp7gcbnJF2CXDHRLK0RgcFoM213I6SmDa37CJ_EFKWwhYSHlQ-70lI9AQ2VN7uiF0ptoaO19zO-VHkuA5RyMdPICvql8UkYQTr6-rtxJVXfhzOwUO2HG3dfmDUWRJFgyPTbEye6VbKdc9OA.jpg",
+          "thumbnail_path": "channels/hranews/media/c8fc95e08166854c2b31ff6a.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "178",
+      "posted_at": "2026-08-07T15:44:44+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/114705"
+    },
     {
       "id": "hranews/114704",
       "author_name": "خبرگزاری هرانا",
@@ -29,7 +53,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "150",
+      "views_label": "315",
       "posted_at": "2026-08-07T15:09:52+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114704"
@@ -53,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "489",
+      "views_label": "589",
       "posted_at": "2026-08-07T12:53:25+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114703"
@@ -77,7 +101,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "690",
+      "views_label": "750",
       "posted_at": "2026-08-07T11:42:03+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114702"
@@ -101,7 +125,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "757",
+      "views_label": "798",
       "posted_at": "2026-08-07T11:01:00+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114701"
@@ -125,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "751",
+      "views_label": "791",
       "posted_at": "2026-08-07T10:24:43+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114700"
@@ -139,7 +163,7 @@
       "plain_text": "مشهد؛ ۲۰ برابر شدن پلمب واحدهای صنفی نسبت به سال گذشته ❗️❗️❗️❗️❗️– مدیر بازرسی و نظارت بر اصناف مشهد اعلام کرد که #پلمب واحدهای صنفی در این شهر طی چهار ماه نخست امسال نسبت به مدت مشابه در سال گذشته با افزایش ۲۰ برابری مواجه بوده است. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "777",
+      "views_label": "804",
       "posted_at": "2026-08-07T09:49:56+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114699"
@@ -153,7 +177,7 @@
       "plain_text": "دو زندانی در زندان های اردبیل و دزفول اعدام شدند ❗️❗️❗️❗️❗️– حکم دو زندانی که پیش‌تر در پرونده های جداگانه از بابت اتهام قتل به #اعدام محکوم شده بودند، در زندان های اردبیل و دزفول به اجرا درآمد. ادامه مطلب #توحید_عبداللهی #علی_پناهی‌نژاد ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "796",
+      "views_label": "818",
       "posted_at": "2026-08-07T08:32:30+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114698"
@@ -167,7 +191,7 @@
       "plain_text": "شیرزاد پایانیانی در مهاباد بازداشت شد ❗️❗️❗️❗️❗️– شیرزاد پایانیانی، شهروند اهل مهاباد، روز دوشنبه ۱۲ مردادماه، توسط نیروهای امنیتی بازداشت و به مکان نامعلومی منتقل شده است. ادامه مطلب #شیرزاد_پایانیانی ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "780",
+      "views_label": "798",
       "posted_at": "2026-08-07T07:53:19+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114697"
@@ -181,7 +205,7 @@
       "plain_text": "کیومرث حسن‌بیگی به زندان ایلام منتقل شد ❗️❗️❗️❗️❗️– روز گذشته، کیومرث حسن‌بیگی، شهروند اهل ایلام، از بازداشتگاه‌ اطلاعات سپاه به زندان این شهرستان منتقل شد. ادامه مطلب #کیومرث_حسن‌بیگی ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "800",
+      "views_label": "819",
       "posted_at": "2026-08-07T07:16:01+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114696"
@@ -205,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "850",
+      "views_label": "866",
       "posted_at": "2026-08-07T06:47:37+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114695"
@@ -229,7 +253,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.29K",
+      "views_label": "1.3K",
       "posted_at": "2026-08-06T19:38:16+00:00",
       "edited": true,
       "permalink": "https://t.me/hranews/114694"
@@ -243,7 +267,7 @@
       "plain_text": "یک کولبر در پی تیراندازی نیروهای نظامی در بانه زخمی شد ❗️❗️❗️❗️❗️– روز چهارشنبه ۱۴ مردادماه، تیراندازی نیروهای نظامی در مناطق مرزی شهرستان بانه، به زخمی شدن یک #کولبر انجامید. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "1.13K",
+      "views_label": "1.15K",
       "posted_at": "2026-08-06T18:43:35+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114693"
@@ -267,7 +291,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.06K",
+      "views_label": "1.07K",
       "posted_at": "2026-08-06T18:16:41+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114692"
@@ -281,7 +305,7 @@
       "plain_text": "رضایت اولیای دم؛ یک زندانی در میاندوآب از اعدام رهایی یافت ❗️❗️❗️❗️❗️– یک زندانی در شهرستان میاندوآب که پیشتر از بابت اتهام قتل به #اعدام محکوم شده بود، با اعلام رضایت اولیای دم از مجازات مرگ رهایی یافت. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "959",
+      "views_label": "974",
       "posted_at": "2026-08-06T17:48:48+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114691"
@@ -305,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "873",
+      "views_label": "885",
       "posted_at": "2026-08-06T17:24:25+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114690"
@@ -329,7 +353,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "892",
+      "views_label": "898",
       "posted_at": "2026-08-06T17:09:04+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114689"
@@ -1895,20 +1919,6 @@
       "posted_at": "2026-08-02T18:19:56+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114605"
-    },
-    {
-      "id": "hranews/114604",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/oKw5LG-2ULbY3D0NetpxLOJ_mpQBt1fsp7S-SP6GTEZTDUzpNU75EOg62saY5UCU0wUYeTyJWN1uDfdjLre9oiqb1AMgxJsEZkNFQsqxPnwnw86-RwbmvPE0RTnoX3uCcStjoP_3xHkkayelWfUdA-GsU8tlOj3JowWj-WSUZGvDwmAFZ9hnWdNg-aMM33TML4jpuRobx2ZR73-mcue7CDfJuAYKyM02ps5aBKHdoTFLZdv368OVOTHFX_JB7fIaR72USsUNBO3_ghtet2IeCC1kb90dXli6ywxbOVEU7hQtqTu72fyUE1LsSt3r4SHxhnFKo0il6iFbjhUPgyFJFg.jpg",
-      "author_photo_path": "channels/hranews/media/43570dc0433597ece05fe748.jpg",
-      "body_html": "شهرستان سردشت؛ مرگ کارگری که در سایه فقدان ایمنی کار مصدوم شده بود <br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– در سایه فقدان ایمنی محیط و شرایط نامناسب کار، یک <a href=\"?q=%23%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1\">#کارگر</a> ساختمانی که پیشتر در شهرستان سردشت بر اثر سقوط از ارتفاع داربست مصدوم شده بود، روز گذشته در بیمارستان جان خود را از دست داد.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-c4a34948/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "شهرستان سردشت؛ مرگ کارگری که در سایه فقدان ایمنی کار مصدوم شده بود ❗️❗️❗️❗️❗️– در سایه فقدان ایمنی محیط و شرایط نامناسب کار، یک #کارگر ساختمانی که پیشتر در شهرستان سردشت بر اثر سقوط از ارتفاع داربست مصدوم شده بود، روز گذشته در بیمارستان جان خود را از دست داد. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [],
-      "reactions": [],
-      "views_label": "997",
-      "posted_at": "2026-08-02T17:29:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/114604"
     }
   ]
 }

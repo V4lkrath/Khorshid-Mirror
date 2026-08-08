@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-08T10:22:17.205Z",
+  "fetched_at": "2026-08-08T10:53:22.498Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -11,6 +11,30 @@
   },
   "posts": [
     {
+      "id": "hranews/114716",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OJGfWvGKdwwEHxDNHnVdRycYfmqEi89A3sA_1omI7dXIkTB5_GWVuO-nUbPQjF6a0pqaFZWGIMYvNIUljd25wuI8O_ZMpugDvgMH_GKv9Ls953Ghazej0f0MHULGLPcIwEvHHEoMheLMdI5AIZhBULUOOUtxWLjI8FNUt8a_CRU9w02NYu8jcD0-Mkf1faPbCAbXKmkcQcvgd1qPYArRf-7z-olkhJ_dix0eyetMz_QDAH5GePcC0wozq8P0uDgi36gII4gLwG9bUK78WLJHHEPiXOCZgtyb7MdNxUqKVdDNwsvuEk9h_C-J1tX-Hb5gv8bcKuOHZ41N8HFgrzocUA.jpg",
+      "author_photo_path": "channels/hranews/media/09b982f8e58ea6f390b15ee9.jpg",
+      "body_html": "امروز شنبه ۱۷ مردادماه، شماری از بازنشستگان و مستمری‌بگیران شرکت هواپیمایی هما مقابل ساختمان مرکزی این شرکت در تهران <a href=\"?q=%23%D8%AA%D8%AC%D9%85%D8%B9\">#تجمع</a> اعتراضی برگزار کردند. آنها خواستار رسیدگی به مشکلات معیشتی، رفاهی و درمانی و تعیین تکلیف وضعیت صندوق بازنشستگی هما شدند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "امروز شنبه ۱۷ مردادماه، شماری از بازنشستگان و مستمری‌بگیران شرکت هواپیمایی هما مقابل ساختمان مرکزی این شرکت در تهران #تجمع اعتراضی برگزار کردند. آنها خواستار رسیدگی به مشکلات معیشتی، رفاهی و درمانی و تعیین تکلیف وضعیت صندوق بازنشستگی هما شدند. ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/114716",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/p-YTGZC_tBDxP9lRaZf_RX41PLeYK-coyOxROS6JgDvvI8c-gZ51LHCGaWHOwaca_NOL5L3CDTW6j4QI-feBlrKBdhtOTmSFpGZIntHn-g3C98kUIBSm7lMcKV8h0ehSZ89kLmUAyKwm_PW3XG1ULzG1kSSmGdAXVf7RCVM1I6BNTY7DAGNW-XRsRdX08-QzrVLSEpwNGoRXFmeTp2Kw9NdEx9zMz2Y_L_F8_CKb2Q-bWm3IqMKDuIiEXpqip0M3n8QKeQ8Hec0gpYNPGQNFuKHywl7tL7Ifno94Aj77wh0BVylBQAPArFs5Sj5Y9FFbQ_trbU5f3FfzVU20nl7ODg.jpg",
+          "thumbnail_path": "channels/hranews/media/0e01b79b0c195b88dc876fa7.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "41",
+      "posted_at": "2026-08-08T10:50:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/114716"
+    },
+    {
       "id": "hranews/114715",
       "author_name": "خبرگزاری هرانا",
       "author_photo_url": "https://cdn1.telesco.pe/file/OJGfWvGKdwwEHxDNHnVdRycYfmqEi89A3sA_1omI7dXIkTB5_GWVuO-nUbPQjF6a0pqaFZWGIMYvNIUljd25wuI8O_ZMpugDvgMH_GKv9Ls953Ghazej0f0MHULGLPcIwEvHHEoMheLMdI5AIZhBULUOOUtxWLjI8FNUt8a_CRU9w02NYu8jcD0-Mkf1faPbCAbXKmkcQcvgd1qPYArRf-7z-olkhJ_dix0eyetMz_QDAH5GePcC0wozq8P0uDgi36gII4gLwG9bUK78WLJHHEPiXOCZgtyb7MdNxUqKVdDNwsvuEk9h_C-J1tX-Hb5gv8bcKuOHZ41N8HFgrzocUA.jpg",
@@ -19,7 +43,7 @@
       "plain_text": "رودبار جنوب؛ یک سوختبر در پی تیراندازی نیروهای نظامی کشته شد ❗️❗️❗️❗️❗️– امروز شنبه ۱۷ مردادماه، در پی تیراندازی نیروهای نظامی در شهرستان رودبار جنوب یک #سوختر جان خود را از دست داد. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "282",
+      "views_label": "362",
       "posted_at": "2026-08-08T09:24:43+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114715"
@@ -43,7 +67,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "425",
+      "views_label": "488",
       "posted_at": "2026-08-08T08:39:37+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114714"
@@ -57,7 +81,7 @@
       "plain_text": "زندان اوین؛ گزارشی از آخرین وضعیت کامران حکمتی زندانی یهودی دو تابعیتی مبتلا به سرطان ❗️❗️❗️❗️❗️– کامران حکمتی، شهروند #یهودی دوتابعیتی ایرانی-آمریکایی محبوس در زندان اوین، با وجود ابتلا به بیماری سرطان، از رسیدگی تخصصی پزشکی محروم مانده است. این زندانی که پیشتر به منظور دریافت خدمات درمانی از زندان خارج شده بود، پیش از آغاز دوره شیمی‌درمانی بار دیگر به زندان بازگردانده شده است. ادامه مطلب #کامران_حکمتی #یهودا_حکمتی ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "453",
+      "views_label": "507",
       "posted_at": "2026-08-08T08:19:46+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114713"
@@ -71,7 +95,7 @@
       "plain_text": "یک شهروند توسط نیروهای امنیتی در شهرستان زاهدان بازداشت شد ❗️❗️❗️❗️❗️– روز جاری، شاپور شه‌بخش، شهروند اهل سرجنگل واقع در شهرستان زاهدان، توسط نیروهای امنیتی در این شهر #بازداشت و به مکان نامعلومی منتقل شد. ادامه مطلب #شاپور_شه‌بخش ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "1.07K",
+      "views_label": "1.09K",
       "posted_at": "2026-08-07T19:27:22+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114712"
@@ -95,7 +119,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "991",
+      "views_label": "1.01K",
       "posted_at": "2026-08-07T19:09:24+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114711"
@@ -109,7 +133,7 @@
       "plain_text": "قتل با انگیزه ناموسی؛ یک متهم در تهران به اعدام محکوم شد ❗️❗️❗️❗️❗️– یک مرد در تهران که متهم است صاحب‌خانه خود را به قتل رسانده است، توسط شعبه ۱۰ دادگاه کیفری استان تهران به #اعدام محکوم شد. متهم انگیزه خود از این اقدام را مزاحمت مقتول برای همسرش عنوان کرده است. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "929",
+      "views_label": "940",
       "posted_at": "2026-08-07T18:35:20+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114710"
@@ -133,7 +157,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "936",
+      "views_label": "944",
       "posted_at": "2026-08-07T18:14:48+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114709"
@@ -147,7 +171,7 @@
       "plain_text": "گزارشی از معوقات مزدی کارکنان دانشگاه علوم پزشکی ایرانشهر ❗️❗️❗️❗️❗️– جمعی از کارکنان دانشگاه علوم پزشکی ایرانشهر از عدم پرداخت #معوقات_مزدی خود خبر دادند. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "941",
+      "views_label": "948",
       "posted_at": "2026-08-07T18:07:00+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114708"
@@ -185,7 +209,7 @@
       "plain_text": "شهریار محمدی بریمانلو به دو سال حبس محکوم شد ❗️❗️❗️❗️❗️– شهریار محمدی بریمانلو، شهروند ۲۰ ساله اهل بجنورد و از بازداشت شدگان اعتراضات دی‌ماه ۱۴۰۴، توسط دادگاه تجدیدنظر استان خراسان شمالی به دو سال حبس تعزیری محکوم شد. ادامه مطلب #شهریار_محمدی_بریمانلو ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "1.09K",
+      "views_label": "1.11K",
       "posted_at": "2026-08-07T16:30:13+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114706"
@@ -209,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.07K",
+      "views_label": "1.08K",
       "posted_at": "2026-08-07T15:44:44+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114705"
@@ -233,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "989",
+      "views_label": "997",
       "posted_at": "2026-08-07T15:09:52+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114704"
@@ -257,7 +281,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.05K",
+      "views_label": "1.06K",
       "posted_at": "2026-08-07T12:53:25+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114703"
@@ -281,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.18K",
+      "views_label": "1.19K",
       "posted_at": "2026-08-07T11:42:03+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114702"
@@ -298,8 +322,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/hranews/114701",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ZU4PtM6tBJoQZePhny-8hFap6Bg7Eo72RaSJrCLmh7iaV_nsYzyu2zuQfkis7q2-Zm78dAOGasEMGnVI5WpGPOHCCcDETU5XWLfmhIP_YPxKQCxCDiUVeiENFMnNprbfuv2edbcNqXmXw05Byjl_LtqeFPnMluOllgi_yUJI1EX7pLGemLVqR33RwF--PiTUtyISqc15IJRnYHx8qPFLqFn7k8tivqtaAJwzU-p0z3y566kOxIwyEkINCubtyL0FNCcrMlbVnrVuEjgLH5D4VO5-3aqUkZdP6pK-bQydtedps8rTixIakArnFzISH4RjqxMLNmOSdMeDADgqTugpTQ.jpg",
-          "thumbnail_path": "channels/hranews/media/759c567ba020d16890a46821.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qwZkEA76TK5bq1CbZGkq4jQHIgMtUxLkGt8EKKSuDuHurZZeg0_ftbz9za4gMHTzw6OV-JjgbBUKsQiYLMtK5ZS_b4kaRHQIADKx3iXaSR8Wsvok6a9i56nKJA4Fdr_BT0A-ZoRGaTamXMsTjTioJH9cJQKi76a2ta78ZGxVlut0hz0yYocPMQuWMjhxsbIQkswCwQSfu1ClUxzCJgnR0TnMItnAIyUC3WC0Fr4BQfOJ_leHLzYRJCtS-zvluSrR2WPUYVgCsASPNtdn-qAsLhFgYF4fzAwdeBf97GYcvqRKvQjVne7l97ncoxOHBFXidYYClRuM4_86IrAzjXzK_g.jpg",
+          "thumbnail_path": "channels/hranews/media/c9ffa0b92edc0cdc46d437eb.jpg",
           "duration_label": null,
           "aspect_ratio": 1.5009380863039399
         }
@@ -343,7 +367,7 @@
       "plain_text": "مشهد؛ ۲۰ برابر شدن پلمب واحدهای صنفی نسبت به سال گذشته ❗️❗️❗️❗️❗️– مدیر بازرسی و نظارت بر اصناف مشهد اعلام کرد که #پلمب واحدهای صنفی در این شهر طی چهار ماه نخست امسال نسبت به مدت مشابه در سال گذشته با افزایش ۲۰ برابری مواجه بوده است. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "1.16K",
+      "views_label": "1.17K",
       "posted_at": "2026-08-07T09:49:56+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114699"
@@ -371,7 +395,7 @@
       "plain_text": "شیرزاد پایانیانی در مهاباد بازداشت شد ❗️❗️❗️❗️❗️– شیرزاد پایانیانی، شهروند اهل مهاباد، روز دوشنبه ۱۲ مردادماه، توسط نیروهای امنیتی بازداشت و به مکان نامعلومی منتقل شده است. ادامه مطلب #شیرزاد_پایانیانی ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.02K",
       "posted_at": "2026-08-07T07:53:19+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114697"
@@ -1905,30 +1929,6 @@
       "posted_at": "2026-08-03T11:32:41+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/114616"
-    },
-    {
-      "id": "hranews/114615",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/h4YtoGQ9Vua0frFkDIpYOtc6BG8aps1NzfKg_0XwK0oAUkmsg1Iuu5oqUXRR6VJKeGTc_7zwLTZeUcP-vOWrMBVDGWb6xOM3lGnLiGkcAuIElIA_dypiosccXO9D9FQPOTueVghEVNuqfZJDkHqkjbBFLAi9BVsHHd6ydjzLUTlnBYiTFq-nwtGHwGqNy1hWQg3bbvj6roNpWK3vJwH8ChA2rmiQLizp4iuSRTJ7HCXfdv-UQ7GV_1WMgBbDAYoVoc2lsP-Y3OgTBBEpWBXqvL-vcAj-QR-MTjTF_GKawy2nY73lxzd9UwpM13EMoet6zERGLpw32nE89bqNABL1Lw.jpg",
-      "author_photo_path": "channels/hranews/media/97c48c73f268725559ba670c.jpg",
-      "body_html": "فرماندار خلخال اعلام کرد که ۳۵ روستای این شهرستان با تنش آبی مواجه‌اند و آب شرب این روستاها با استفاده از تانکرهای سیار و در صورت لزوم، با توزیع آب بسته‌بندی تأمین می‌شود. حسین وطن‌دوست، «محدودیت‌های مالی» را مهم‌ترین مانع تکمیل پروژه‌های تأمین آب در این مناطق عنوان کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "فرماندار خلخال اعلام کرد که ۳۵ روستای این شهرستان با تنش آبی مواجه‌اند و آب شرب این روستاها با استفاده از تانکرهای سیار و در صورت لزوم، با توزیع آب بسته‌بندی تأمین می‌شود. حسین وطن‌دوست، «محدودیت‌های مالی» را مهم‌ترین مانع تکمیل پروژه‌های تأمین آب در این مناطق عنوان کرد. ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/hranews/114615",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/lP9b-HTIkI54u4XMfv7qnIVxb85KjXDAGeXqXvr63ukrfQXZ5jT_WHENxq2wvGuraa55AMbwdppdr3YnSAJSnzfDTW3c9cMgNCAl4jSfblQI8xyukFMt5UaCXj0B20yWrg6jdzQ6q1T6sngUioq29MsMp0AXSbA-5IMEEZL2tnG2gSC42b2LiDvIcbbGVPEPdYYSgKEcnjU1FRp-d85yHNUnJoKYz4k96ID58MOv45Q7iFLBI5IaAOrgnXUS3Seb0GABl_QAHBy_F9xmc1S8JWJ9gcPAnL1rqGKEUCaiD4rKsjFA5gJq58hlocHGcabaCHHhugWgqCkQUoEf8rEyTQ.jpg",
-          "thumbnail_path": "channels/hranews/media/ccf2162fcdee064c36effac1.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [],
-      "views_label": "986",
-      "posted_at": "2026-08-03T11:11:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/114615"
     }
   ]
 }

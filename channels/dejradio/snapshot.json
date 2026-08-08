@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-08T15:40:25.436Z",
+  "fetched_at": "2026-08-08T15:50:57.005Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,30 @@
     "subscriber_count": "13.5K"
   },
   "posts": [
+    {
+      "id": "DEJradio/7127",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/aU8cKTAnNciX7qCa8_PZM0rEfuRczKV0kup2glq599rp7RoTopYmtuxDiuKBAIyCN1OZl4M274-KYt8IC-NMTLo2BLI0L-KD9GS6w1UK5FXDrSiChF1SVJEqbdkvNQ__bLomUpAa87lG3MKclO3DT1jRF6A9pWed7PApYL-OHkVbI8ToWqi2AiD3N_UqvMtGeEKZd3qkc3zhm6iJ-ZxwtNZ6Btb_z9C3tQ-1Tv5UhzftBCISL4qQ6rL9PnekFVoSdfPdUqk4ahE6VKcvBd0BQJmEgx4e79KhLYXubbxZ13XBuMFDQ4STx10zaNqVglETZohrrZ-4AfreUpMlZ77VXA.jpg",
+      "author_photo_path": "channels/dejradio/media/f20036d459949f1412887245.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i> اعتراض یک بازاری به وضعیت کسب و کار: «دلمون به چی خوش باشه؟ مشتری نیست، برقم نیست»!<br><br><a href=\"?q=%23%D9%82%D8%B7%D8%B9%DB%8C_%D8%A8%D8%B1%D9%82\">#قطعی_برق</a> <a href=\"?q=%23%D8%AA%D9%88%D8%B1%D9%85\">#تورم</a> <a href=\"?q=%23%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%AA%D9%87%D8%B1%D8%A7%D9%86\">#بازار_تهران</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺📢 اعتراض یک بازاری به وضعیت کسب و کار: «دلمون به چی خوش باشه؟ مشتری نیست، برقم نیست»! #قطعی_برق #تورم #بازار_تهران @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/7127",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/CX66nKHT6gTlSqdgDADJwzK-0zzRD9HRakzVRexh4IqO3ZfZwzQSp2UCyVY0YmeJr-w3D0yemJtDn7AkAP0iWlHOdpBOBhT7LrUV4J4rRLDnSgBaPs--f4r5vr3MSsMs6MenuE9KNNWHtlQoXBVfR70CCthF_xnsgk40IOftQIaBUlvZ2or32QVwALG4l7XFjrGnfMoLNNGJ1gdmlUndf2nwGlmZ0Gm_5mAv62-CnHOaQ3VH6yHgOFYaVG_fcqUXJuqxgxlZusmXs-XoD8FbKKIdyBZrYEuT3pBA8fNMhBDNngPQuzEQfS2qp4QfLb8fwJfFPU9hhvjje0nw5E-h9A",
+          "thumbnail_path": "channels/dejradio/media/5594cd64e9e4067e2333f930.jpg",
+          "duration_label": "0:15",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "65",
+      "posted_at": "2026-08-08T15:48:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/7127"
+    },
     {
       "id": "DEJradio/7126",
       "author_name": "DEJ",
@@ -34,7 +58,7 @@
           "count": "2"
         }
       ],
-      "views_label": "192",
+      "views_label": "302",
       "posted_at": "2026-08-08T15:26:01+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7126"
@@ -60,14 +84,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "11"
+          "count": "13"
         },
         {
           "emoji": "🫡",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "358",
+      "views_label": "460",
       "posted_at": "2026-08-08T15:10:13+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7125"
@@ -100,7 +124,7 @@
           "count": "2"
         }
       ],
-      "views_label": "560",
+      "views_label": "608",
       "posted_at": "2026-08-08T14:37:16+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7124"
@@ -126,11 +150,15 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "20"
+          "count": "23"
         },
         {
           "emoji": "🤮",
-          "count": "17"
+          "count": "19"
+        },
+        {
+          "emoji": "🖕",
+          "count": "3"
         },
         {
           "emoji": "❤",
@@ -139,13 +167,9 @@
         {
           "emoji": "🤬",
           "count": "1"
-        },
-        {
-          "emoji": "🖕",
-          "count": "1"
         }
       ],
-      "views_label": "798",
+      "views_label": "857",
       "posted_at": "2026-08-08T14:20:11+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7123"
@@ -171,14 +195,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "🔥",
           "count": "2"
         }
       ],
-      "views_label": "864",
+      "views_label": "910",
       "posted_at": "2026-08-08T13:38:15+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7121"
@@ -204,22 +228,22 @@
       "reactions": [
         {
           "emoji": "🤮",
-          "count": "57"
+          "count": "58"
         },
         {
           "emoji": "😁",
-          "count": "7"
+          "count": "9"
         },
         {
           "emoji": "🖕",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "🤔",
           "count": "1"
         }
       ],
-      "views_label": "1.34K",
+      "views_label": "1.36K",
       "posted_at": "2026-08-08T11:54:34+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7120"
@@ -260,7 +284,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.35K",
+      "views_label": "1.36K",
       "posted_at": "2026-08-08T11:17:03+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7119"
@@ -293,7 +317,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.41K",
+      "views_label": "1.43K",
       "posted_at": "2026-08-08T10:46:36+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7118"
@@ -338,7 +362,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.67K",
+      "views_label": "1.7K",
       "posted_at": "2026-08-08T09:25:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7117"
@@ -367,7 +391,7 @@
           "count": "17"
         }
       ],
-      "views_label": "1.71K",
+      "views_label": "1.72K",
       "posted_at": "2026-08-08T08:50:36+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/7116"
@@ -400,7 +424,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.63K",
+      "views_label": "1.64K",
       "posted_at": "2026-08-08T08:09:38+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7115"
@@ -453,7 +477,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.12K",
+      "views_label": "2.13K",
       "posted_at": "2026-08-08T07:17:25+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7113"
@@ -482,7 +506,7 @@
           "count": "23"
         }
       ],
-      "views_label": "1.78K",
+      "views_label": "1.79K",
       "posted_at": "2026-08-08T07:10:48+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7112"
@@ -635,7 +659,7 @@
           "count": "26"
         }
       ],
-      "views_label": "2.27K",
+      "views_label": "2.28K",
       "posted_at": "2026-08-07T20:03:52+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7107"
@@ -676,7 +700,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.08K",
+      "views_label": "2.09K",
       "posted_at": "2026-08-07T19:57:29+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7106"
@@ -4027,47 +4051,6 @@
       "posted_at": "2026-08-02T19:55:39+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7009"
-    },
-    {
-      "id": "DEJradio/7008",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/jf4l9stgvPCpXoICdbtdX7uk9TN7-Th-y9vVknPsuiW5V5f45HCVAdIOY1JrcKCDttJbLx7nB56sJ-EBqvQBio7NL-8QaNyd4O8gHMwveyXrr3j0D6fDCcd-mMUcn59U35E0pp39i8BuklX15A3iH_D8lOiIApwW1-CAJ3kZl-NhA74iiCZOWPX6jPwBy7VjaDCQF_HyaC_BUwuWPeLV002sDBs5p-5_ptTAxyGPUGfswGoSURyYneDzxhN00x0D3feG8LldHIqW85nXxdNI9EwzTDYN8Mmv0Abc4GvECX0j5HQALmTZE1zODvlseQ-hC05T4VxUMjRSU8E14SBxWg.jpg",
-      "author_photo_path": "channels/dejradio/media/599a49402ec19f4a10207f2d.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5951842387465605469\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji>خبرگزاری فارس نزدیک سـ.ـپاه به نقل از یک منبع مذاکره‌کننده و یک منبع نظامی یکشنبه ۱۱ مرداد ۱۴۰۵ به «توافق» جمهوری اسلامی با آمریکا بر سر بازگشایی تنگه هرمز را دروغ و بی‌اساس خواند.<br>دونالد ترامپ که تهدید کرده بود در تدارک یک حمله شدید به زیرساخت‌های نظامی و انرژی در ایران است مدعی شده بود به درخواست مقام‌های جمهوری اسلامی و برخی کشورهای منطقه حمله به ایران را مشروط بر اینکه توافق به سرعت نهایی شود، لغو کرده است. او مدعی شد «چارچوب‌های اولیه» برای یک توافق با ایران نهایی شده است.<br>پایگاه خبری آکسیوس، به نقل از دو دیپلمات آگاه گزارش داده بود عباس عراقچی با طرح قطر و آمریکا برای بازگشایی «مسیر عمانی» تنگه هرمز موافقت کرده است.<br>اما در مقابل محمود نبویان، عضو کمیسیون امنیت ملی مجلس شورای اسلامی، در «ایکس» نوشت: «پس از ضربات سنگین جبهه مقاومت، افزایش قیمت انرژی، کاهش ذخایر راهبردی و فشار سیاسی داخلی در آمریکا، عده‌ای در ایران با انگیزه‌های گوناگون از جمله نجات دشمن به فکر مذاکره افتاده‌اند.»<br>نبویان اضافه کرد: «این عده بدانند چنین مذاکراتی مورد قبول ملت ایران نخواهد بود.»<br>برای دومین بار طی یک ماه گذشته است که ترامپ تهدید به یک حمله شدید می‌کند اما دقیقه ۹۰ خودش آن را لغو می‌کند.<br><br><a href=\"?q=%23%D8%AA%D9%86%DA%AF%D9%87_%D9%87%D8%B1%D9%85%D8%B2\">#تنگه_هرمز</a> <br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "⭕️🔺خبرگزاری فارس نزدیک سـ.ـپاه به نقل از یک منبع مذاکره‌کننده و یک منبع نظامی یکشنبه ۱۱ مرداد ۱۴۰۵ به «توافق» جمهوری اسلامی با آمریکا بر سر بازگشایی تنگه هرمز را دروغ و بی‌اساس خواند. دونالد ترامپ که تهدید کرده بود در تدارک یک حمله شدید به زیرساخت‌های نظامی و انرژی در ایران است مدعی شده بود به درخواست مقام‌های جمهوری اسلامی و برخی کشورهای منطقه حمله به ایران را مشروط بر اینکه توافق به سرعت نهایی شود، لغو کرده است. او مدعی شد «چارچوب‌های اولیه» برای یک توافق با ایران نهایی شده است. پایگاه خبری آکسیوس، به نقل از دو دیپلمات آگاه گزارش داده بود عباس عراقچی با طرح قطر و آمریکا برای بازگشایی «مسیر عمانی» تنگه هرمز موافقت کرده است. اما در مقابل محمود نبویان، عضو کمیسیون امنیت ملی مجلس شورای اسلامی، در «ایکس» نوشت: «پس از ضربات سنگین جبهه مقاومت، افزایش قیمت انرژی، کاهش ذخایر راهبردی و فشار سیاسی داخلی در آمریکا، عده‌ای در ایران با انگیزه‌های گوناگون از جمله نجات دشمن به فکر مذاکره افتاده‌اند.» نبویان اضافه کرد: «این عده بدانند چنین مذاکراتی مورد قبول ملت ایران نخواهد بود.» برای دومین بار طی یک ماه گذشته است که ترامپ تهدید به یک حمله شدید می‌کند اما دقیقه ۹۰ خودش آن را لغو می‌کند. #تنگه_هرمز @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7008",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Q6xk2pgiwcOFk8rt2kymWbXXUf896DM29Rj70MpDW4VdedbfadhNKgQA31BPJ2f_8oFDP7v5cckwC2U5G2odvjkHk8PWIHPFftEJ5yOpK3maHUH-D6Cp0SeCAWWAS_XtlE7NVcbPpqAdbgUhyFSwYV6XObELSZhpXRspuHUM2xmvLIE4VA3Bm3_2n5j-OTz4YCr89-NYKOPGsZd37X3RuHDYhtVgFUhRPFAZ1CJJxg66sjpJ0-O_B8nWCHs4os6_15CBOODqFNDa4H0BA3EzNhAaWdNozXQYeVTPIS7kSrPdWWCA8oRudBjt4cM72BbKfDsL82XGFwUVdzYXvvHpvg.jpg",
-          "thumbnail_path": "channels/dejradio/media/88528850b35106843aef1bdd.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "18"
-        },
-        {
-          "emoji": "😁",
-          "count": "5"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.68K",
-      "posted_at": "2026-08-02T19:53:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/7008"
     }
   ]
 }

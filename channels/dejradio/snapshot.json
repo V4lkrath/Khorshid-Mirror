@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-08T15:07:51.173Z",
+  "fetched_at": "2026-08-08T15:14:28.838Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,35 @@
     "subscriber_count": "13.5K"
   },
   "posts": [
+    {
+      "id": "DEJradio/7125",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/aU8cKTAnNciX7qCa8_PZM0rEfuRczKV0kup2glq599rp7RoTopYmtuxDiuKBAIyCN1OZl4M274-KYt8IC-NMTLo2BLI0L-KD9GS6w1UK5FXDrSiChF1SVJEqbdkvNQ__bLomUpAa87lG3MKclO3DT1jRF6A9pWed7PApYL-OHkVbI8ToWqi2AiD3N_UqvMtGeEKZd3qkc3zhm6iJ-ZxwtNZ6Btb_z9C3tQ-1Tv5UhzftBCISL4qQ6rL9PnekFVoSdfPdUqk4ahE6VKcvBd0BQJmEgx4e79KhLYXubbxZ13XBuMFDQ4STx10zaNqVglETZohrrZ-4AfreUpMlZ77VXA.jpg",
+      "author_photo_path": "channels/dejradio/media/f20036d459949f1412887245.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5186162212372218744\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9191.png')\"><b>👑</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> مراسم یادبود هنرمند ملی‌گرا، فریدون فرخزاد در سی‌وچهارمین سالروز قتل وی توسط دستگاه امنیتی جمهوری اسلامی در شهر بن<br><br><a href=\"?q=%23%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86_%D9%81%D8%B1%D8%AE%D8%B2%D8%A7%D8%AF\">#فریدون_فرخزاد</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "👑🎥 مراسم یادبود هنرمند ملی‌گرا، فریدون فرخزاد در سی‌وچهارمین سالروز قتل وی توسط دستگاه امنیتی جمهوری اسلامی در شهر بن #فریدون_فرخزاد @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/7125",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/LcpfVYqmowN0ZYNRA2firUtoGV9slJKQsIogT19l64Hw3Kr3GobekyWlMPRqRlNAOBj13s5lYWvRdr48czyU-V52ObG_7XOOX42abW_RmAN4chdc-Ak4x5uAyY3yf1AFuJ0oFVwHO9TiZUw7L971aw22szheStseyheVOPy9XhyUKQOKxPuLNy1wwwdOX8xlJT0vmDv7HbF2IXJdcUUiONPru1Yj0LwPqMAxN-FAuP86DDpSr4Uf73bkRUxMDXI2QPV3JKye9IotEoWRb1K4a6qhUegLH7RbOwzFgosFXjuNKdTBbJQ3coL3chMoUNImZp_vMcc0nRNDGpbXSN2aCA",
+          "thumbnail_path": "channels/dejradio/media/5120ec70100d9da566505e3c.jpg",
+          "duration_label": "2:08",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "4"
+        }
+      ],
+      "views_label": "78",
+      "posted_at": "2026-08-08T15:10:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/7125"
+    },
     {
       "id": "DEJradio/7124",
       "author_name": "DEJ",
@@ -30,15 +59,15 @@
       ],
       "reactions": [
         {
-          "emoji": "👍",
-          "count": "2"
+          "emoji": "😁",
+          "count": "3"
         },
         {
-          "emoji": "😁",
+          "emoji": "👍",
           "count": "2"
         }
       ],
-      "views_label": "334",
+      "views_label": "390",
       "posted_at": "2026-08-08T14:37:16+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7124"
@@ -68,7 +97,7 @@
         },
         {
           "emoji": "🤮",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "❤",
@@ -79,7 +108,7 @@
           "count": "1"
         }
       ],
-      "views_label": "572",
+      "views_label": "632",
       "posted_at": "2026-08-08T14:20:11+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7123"
@@ -112,7 +141,7 @@
           "count": "1"
         }
       ],
-      "views_label": "708",
+      "views_label": "742",
       "posted_at": "2026-08-08T13:38:15+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7121"
@@ -142,7 +171,7 @@
         },
         {
           "emoji": "😁",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "🖕",
@@ -153,7 +182,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.22K",
+      "views_label": "1.25K",
       "posted_at": "2026-08-08T11:54:34+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7120"
@@ -194,7 +223,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.27K",
+      "views_label": "1.29K",
       "posted_at": "2026-08-08T11:17:03+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7119"
@@ -227,7 +256,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.34K",
+      "views_label": "1.35K",
       "posted_at": "2026-08-08T10:46:36+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7118"
@@ -272,7 +301,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.57K",
+      "views_label": "1.59K",
       "posted_at": "2026-08-08T09:25:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7117"
@@ -301,7 +330,7 @@
           "count": "16"
         }
       ],
-      "views_label": "1.66K",
+      "views_label": "1.67K",
       "posted_at": "2026-08-08T08:50:36+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/7116"
@@ -334,7 +363,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.58K",
+      "views_label": "1.59K",
       "posted_at": "2026-08-08T08:09:38+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7115"
@@ -387,7 +416,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.08K",
+      "views_label": "2.09K",
       "posted_at": "2026-08-08T07:17:25+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7113"
@@ -449,7 +478,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.31K",
+      "views_label": "2.32K",
       "posted_at": "2026-08-07T21:43:07+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7111"
@@ -511,7 +540,7 @@
           "count": "2"
         }
       ],
-      "views_label": "2.47K",
+      "views_label": "2.48K",
       "posted_at": "2026-08-07T20:40:29+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7109"
@@ -610,7 +639,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.07K",
+      "views_label": "2.08K",
       "posted_at": "2026-08-07T19:57:29+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7106"
@@ -4035,55 +4064,6 @@
       "posted_at": "2026-08-02T19:42:24+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7007"
-    },
-    {
-      "id": "DEJradio/7006",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/jf4l9stgvPCpXoICdbtdX7uk9TN7-Th-y9vVknPsuiW5V5f45HCVAdIOY1JrcKCDttJbLx7nB56sJ-EBqvQBio7NL-8QaNyd4O8gHMwveyXrr3j0D6fDCcd-mMUcn59U35E0pp39i8BuklX15A3iH_D8lOiIApwW1-CAJ3kZl-NhA74iiCZOWPX6jPwBy7VjaDCQF_HyaC_BUwuWPeLV002sDBs5p-5_ptTAxyGPUGfswGoSURyYneDzxhN00x0D3feG8LldHIqW85nXxdNI9EwzTDYN8Mmv0Abc4GvECX0j5HQALmTZE1zODvlseQ-hC05T4VxUMjRSU8E14SBxWg.jpg",
-      "author_photo_path": "channels/dejradio/media/599a49402ec19f4a10207f2d.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5951842387465605469\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji> <b>وال‌استریت ژورنال:سپاه در حال بررسی حملۀ پیش‌دستانه به نیروهای آمریکایی است</b><br><br>یک دیپلمات جمهوری اسلامی به روزنامۀ وال‌استریت ژورنال گفته است سپاه پاسداران در صورت شکست تلاش‌های دیپلماتیک،گزینۀ حملۀ پیش‌دستانه به نیروهای نظامی آمریکا را بررسی می‌کند.<br>به ادعای این دیپلمات،چنین حمله‌ای حتی در شرایطی که ارتش آمریکا حمله‌ای علیه جمهوری اسلامی انجام ندهد نیز در دست بررسی قرار دارد.<br><br><a href=\"?q=%23%D8%B3%D9%BE%D8%A7%D9%87_%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C_%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86\">#سپاه_تروریستی_پاسداران</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "⭕️🔺 وال‌استریت ژورنال:سپاه در حال بررسی حملۀ پیش‌دستانه به نیروهای آمریکایی است یک دیپلمات جمهوری اسلامی به روزنامۀ وال‌استریت ژورنال گفته است سپاه پاسداران در صورت شکست تلاش‌های دیپلماتیک،گزینۀ حملۀ پیش‌دستانه به نیروهای نظامی آمریکا را بررسی می‌کند. به ادعای این دیپلمات،چنین حمله‌ای حتی در شرایطی که ارتش آمریکا حمله‌ای علیه جمهوری اسلامی انجام ندهد نیز در دست بررسی قرار دارد. #سپاه_تروریستی_پاسداران @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7006",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YtZu3qIq4yQLc-XHrUnpw1OtFVODp84d8fgdtxVuLe7Mh2IBf4yYt8g-3Wua0H_NYojpyAdALl_uc96zu9KUbs-klR1uWm6V9Gtr_GAFTLHgbLzzuXnNvNBGuYgsmeLVQ2YY-iiq0EBspoG4CDtPaQYpvm-nasvUWhndryyHw-MBvYOvwq4bidw_5mfpbC4SVvyNdHahQ4JaLF9l8S15OjSmlk8yHt8Czaz2RKqwgRrgXJn4S1a4_bn9o4GEExFixCZf31ChgC6o3PVBJ5lodMCaRWcVYc55FPuaxvhYwQX-P_IKwj6Stom3dgOnh5965xFZl8ShuIsHiH8x4CbwAw.jpg",
-          "thumbnail_path": "channels/dejradio/media/c2500ecceeb684d580b4da61.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.7857142857142858
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😁",
-          "count": "36"
-        },
-        {
-          "emoji": "🔥",
-          "count": "5"
-        },
-        {
-          "emoji": "👍",
-          "count": "4"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "🤔",
-          "count": "1"
-        },
-        {
-          "emoji": "🤮",
-          "count": "1"
-        }
-      ],
-      "views_label": "2.12K",
-      "posted_at": "2026-08-02T16:09:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/7006"
     }
   ]
 }

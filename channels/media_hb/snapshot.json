@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-08T10:59:46.588Z",
+  "fetched_at": "2026-08-08T11:17:02.223Z",
   "channel": {
     "username": "media_hb",
     "title": "اخبار جنگ | مدیا هاب",
@@ -10,6 +10,107 @@
     "subscriber_count": "137K"
   },
   "posts": [
+    {
+      "id": "Media_HB/104926",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HtI3w6h7LVaV00MgMsP1qk707e8T2RVYdi9u5HpXFPg2LP04IVKt-YrpElGGkorjE8di6wwKkiM_X9AsuAQSFeKGptRSePLmBU42vlk4-VwzbkVH0v8OKJ4SGEOhhG3gUgUQT7K1ErT4oqVSVLsAV_q1i4BePRT7BnI3YcREJHCaHbEzi10hbAov8nW-UoZexzElF9YPVdzSNn-GySvwWCwDCQ1kan6SrI3ibsNvtXvQDrDYw7zwx409xE62gaANVf0Uauj2Vksiacck4_GdlgwKlN4QSz4pMQ4GyOuH-POxSe7zs1jMCSXr4qOJHcod3TfJf9LSbWytK7mQqOUhxg.jpg",
+      "author_photo_path": "channels/media_hb/media/51d665c258407e0e17c61d13.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> تسنیم هم خبر کشته شدن این بسیجیه و ارسال ویدیو کشتنش برای خانوادش رو تایید کرد‌.",
+      "plain_text": "🔴 تسنیم هم خبر کشته شدن این بسیجیه و ارسال ویدیو کشتنش برای خانوادش رو تایید کرد‌.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/104926",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TVc8r2b8b4xBEF6nzH2qXc9IrmtRcnEvE2qli-Jox6Psv7TZXeWJ6wpHRYt6x71B5DCRWG1RBgut4YlJjJrafS_KKsGiz6JWBTTClHZOM2HfIqCxeaIH6vIaNepbC7FtehsxWFvq5QsQsluqMGfPXprPVOcjc11vTC4gR5QfqRR_9yDu-mLoG9I77zRIOSyRnxmjcxnnC5k85U63xZM_TkScJHHgXlvIu6kTEcLkeGj84K9nXTcuCmKnRbFZ_TWrVb_leeFWrqTcQQfJ9i-Enif_Jno7n6hg_wZsD3Z7D6ijJKnQnw2q9lBsGr33YayeEd-aOINUmH3N-n7LsOIrkA.jpg",
+          "thumbnail_path": "channels/media_hb/media/c8039fe04b375f6870cfc135.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.9700000000000437
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "53"
+        },
+        {
+          "emoji": "🤣",
+          "count": "13"
+        },
+        {
+          "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "😍",
+          "count": "2"
+        },
+        {
+          "emoji": "😐",
+          "count": "2"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        }
+      ],
+      "views_label": "774",
+      "posted_at": "2026-08-08T11:14:25+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/104926"
+    },
+    {
+      "id": "Media_HB/104925",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HtI3w6h7LVaV00MgMsP1qk707e8T2RVYdi9u5HpXFPg2LP04IVKt-YrpElGGkorjE8di6wwKkiM_X9AsuAQSFeKGptRSePLmBU42vlk4-VwzbkVH0v8OKJ4SGEOhhG3gUgUQT7K1ErT4oqVSVLsAV_q1i4BePRT7BnI3YcREJHCaHbEzi10hbAov8nW-UoZexzElF9YPVdzSNn-GySvwWCwDCQ1kan6SrI3ibsNvtXvQDrDYw7zwx409xE62gaANVf0Uauj2Vksiacck4_GdlgwKlN4QSz4pMQ4GyOuH-POxSe7zs1jMCSXr4qOJHcod3TfJf9LSbWytK7mQqOUhxg.jpg",
+      "author_photo_path": "channels/media_hb/media/51d665c258407e0e17c61d13.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> سپاه دیشب برداشت یه کشتی زد.",
+      "plain_text": "🔴 سپاه دیشب برداشت یه کشتی زد.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "28"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "1.85K",
+      "posted_at": "2026-08-08T11:04:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/104925"
+    },
+    {
+      "id": "Media_HB/104924",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/HtI3w6h7LVaV00MgMsP1qk707e8T2RVYdi9u5HpXFPg2LP04IVKt-YrpElGGkorjE8di6wwKkiM_X9AsuAQSFeKGptRSePLmBU42vlk4-VwzbkVH0v8OKJ4SGEOhhG3gUgUQT7K1ErT4oqVSVLsAV_q1i4BePRT7BnI3YcREJHCaHbEzi10hbAov8nW-UoZexzElF9YPVdzSNn-GySvwWCwDCQ1kan6SrI3ibsNvtXvQDrDYw7zwx409xE62gaANVf0Uauj2Vksiacck4_GdlgwKlN4QSz4pMQ4GyOuH-POxSe7zs1jMCSXr4qOJHcod3TfJf9LSbWytK7mQqOUhxg.jpg",
+      "author_photo_path": "channels/media_hb/media/51d665c258407e0e17c61d13.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽</b></i> <b>پاری سن ژرمن <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87B7.png')\"><b>🇫🇷</b></i> - <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png')\"><b>🏴󠁧󠁢󠁥󠁮󠁧󠁿</b></i> منچستر یونایتد <br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')\"><b>🏆</b></i> رقابت‌های دوستانه باشگاهی‌ <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8D.png')\"><b>🌍</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9594.png')\"><b>🕔</b></i> شنبه ساعت ۱۸:۳۰<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F9F.png')\"><b>🏟</b></i> ورزشگاه گاملا اولوی، سوئد<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i> با بیش از ۲۵۰ نوع آپشن پیش‌بینی <br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9186.png')\"><b>👆</b></i> ضرایب شگفت‌انگیز<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938A.png')\"><b>📊</b></i> نگاهی به آمار دو تیم:<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> پی‌اس‌جی در ۱۰ دیدار اخیر خود، پنج برد و سه تساوی کسب کرده و در دو بازی شکست خورده است.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> منچستر یونایتد در ۱۰ دیدار اخیر خود، هفت برد و یک تساوی کسب کرده و در دو بازی شکست خورده است.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9388.png')\"><b>📈</b></i> میانگین گل در ۱۰ دیدار اخیر پی‌اس‌جی ۳.۲ گل در هر بازی بوده است.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9388.png')\"><b>📈</b></i> میانگین گل در ۱۰ دیدار اخیر منچستر یونایتد ۲.۹ گل در هر بازی بوده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA7A0.png')\"><b>🧠</b></i> بازی آگاهانه، نشانه حرفه‌ای‌بودن است.<br><br></b><a href=\"https://jd.inal.ink/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b><br></b></a><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i> ورود به سایت با فیلترشکن<br><br> کلیک کنید </b><a href=\"https://viloh.xyz/affiliates/?btag=23811_l386783\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>BetForward.com</b></a><b><br> کلیک کنید </b><a href=\"https://viloh.xyz/affiliates/?btag=23811_l386783\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>BetForward.com</b></a><b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></b><a href=\"https://t.me/betforward_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b> </b></a><a href=\"https://t.me/betforward_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>دریافت سرورفیلترشکن رایگان</b></a><b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>r17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i> </b><a href=\"https://t.me/BetForward\" target=\"_blank\"><b>@BetForward</b></a>",
+      "plain_text": "⚽ پاری سن ژرمن 🇫🇷 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 منچستر یونایتد 🏆 رقابت‌های دوستانه باشگاهی‌ 🌍 🕔 شنبه ساعت ۱۸:۳۰ 🏟 ورزشگاه گاملا اولوی، سوئد 🎲 با بیش از ۲۵۰ نوع آپشن پیش‌بینی 👆 ضرایب شگفت‌انگیز 📊 نگاهی به آمار دو تیم: ✅ پی‌اس‌جی در ۱۰ دیدار اخیر خود، پنج برد و سه تساوی کسب کرده و در دو بازی شکست خورده است. ✅ منچستر یونایتد در ۱۰ دیدار اخیر خود، هفت برد و یک تساوی کسب کرده و در دو بازی شکست خورده است. 📈 میانگین گل در ۱۰ دیدار اخیر پی‌اس‌جی ۳.۲ گل در هر بازی بوده است. 📈 میانگین گل در ۱۰ دیدار اخیر منچستر یونایتد ۲.۹ گل در هر بازی بوده است. 🧠 بازی آگاهانه، نشانه حرفه‌ای‌بودن است. ‼️ ورود به سایت با فیلترشکن کلیک کنید BetForward.com کلیک کنید BetForward.com 🟢 دریافت سرورفیلترشکن رایگان 🅰r17 💻 @BetForward",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/104924",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/WbIoyu1jqieCaDqlXT9TeXzkZBN5Mczu0jvFamSgdI715DroW1xpyVEkY5sB_9IY1d_eAPAv3EpB_7VxrFxZ3T2lk7e0yRtcAKyYDXXT5x9kbHKB_PZXRZe4oD1G-cJKZDSd0OsH1VtZSmbr1qIATc3UQ0LqXOINTw1j0oYPeOD2mOfoNG39ZvGH2QpkIBMBsTzMbj9-XKqjd5en0GHGAdrSwfugT5vqMzlb4TAYtIB0WI8E_2SxnJOVotBuVggeHZ-QCiQv2K9H2ThLJvk5CoJoVs9nwYCUWrwyZ2z79K8meztW5Pl3vlQwGf-eXVkzqIuEqkHYtOv5Nl0G8uGFRg.jpg",
+          "thumbnail_path": "channels/media_hb/media/9e64abf9e5ad6e26fd63dfb7.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "1.91K",
+      "posted_at": "2026-08-08T11:04:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/104924"
+    },
     {
       "id": "Media_HB/104923",
       "author_name": "اخبار جنگ | مدیا هاب",
@@ -31,18 +132,18 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "87"
+          "count": "149"
         },
         {
           "emoji": "❤",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "🔥",
           "count": "2"
         }
       ],
-      "views_label": "1.26K",
+      "views_label": "3.08K",
       "posted_at": "2026-08-08T10:53:08+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/104923"
@@ -58,7 +159,7 @@
       "reactions": [
         {
           "emoji": "🤡",
-          "count": "36"
+          "count": "42"
         },
         {
           "emoji": "❤",
@@ -73,7 +174,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.98K",
+      "views_label": "4.24K",
       "posted_at": "2026-08-08T10:32:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104922"
@@ -89,14 +190,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "53"
+          "count": "57"
         },
         {
           "emoji": "❤",
-          "count": "8"
+          "count": "9"
         }
       ],
-      "views_label": "5.28K",
+      "views_label": "6.17K",
       "posted_at": "2026-08-08T09:46:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104921"
@@ -122,11 +223,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "420"
+          "count": "438"
         },
         {
           "emoji": "💔",
-          "count": "41"
+          "count": "43"
         },
         {
           "emoji": "👍",
@@ -149,7 +250,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.24K",
+      "views_label": "7.92K",
       "posted_at": "2026-08-08T09:09:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104920"
@@ -175,7 +276,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "144"
+          "count": "149"
         },
         {
           "emoji": "😐",
@@ -183,7 +284,7 @@
         },
         {
           "emoji": "❤",
-          "count": "5"
+          "count": "7"
         },
         {
           "emoji": "👍",
@@ -194,7 +295,7 @@
           "count": "2"
         }
       ],
-      "views_label": "8.47K",
+      "views_label": "8.96K",
       "posted_at": "2026-08-08T08:18:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104919"
@@ -210,7 +311,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "115"
+          "count": "120"
         },
         {
           "emoji": "👍",
@@ -218,10 +319,10 @@
         },
         {
           "emoji": "❤",
-          "count": "5"
+          "count": "6"
         }
       ],
-      "views_label": "8.56K",
+      "views_label": "9.02K",
       "posted_at": "2026-08-08T08:12:54+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104918"
@@ -237,7 +338,7 @@
       "reactions": [
         {
           "emoji": "😡",
-          "count": "126"
+          "count": "130"
         },
         {
           "emoji": "❤",
@@ -245,7 +346,7 @@
         },
         {
           "emoji": "💔",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "👍",
@@ -256,7 +357,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.84K",
+      "views_label": "9.23K",
       "posted_at": "2026-08-08T07:50:09+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104917"
@@ -272,14 +373,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "191"
+          "count": "197"
         },
         {
           "emoji": "💔",
           "count": "12"
         }
       ],
-      "views_label": "8.89K",
+      "views_label": "9.26K",
       "posted_at": "2026-08-08T07:34:52+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/104916"
@@ -305,14 +406,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "136"
+          "count": "142"
         },
         {
           "emoji": "❤",
           "count": "8"
         }
       ],
-      "views_label": "8.96K",
+      "views_label": "9.35K",
       "posted_at": "2026-08-08T07:29:54+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104915"
@@ -328,14 +429,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "95"
+          "count": "98"
         },
         {
           "emoji": "❤",
           "count": "2"
         }
       ],
-      "views_label": "9.23K",
+      "views_label": "9.6K",
       "posted_at": "2026-08-08T07:18:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104914"
@@ -351,7 +452,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "111"
+          "count": "114"
         },
         {
           "emoji": "🤡",
@@ -366,7 +467,7 @@
           "count": "3"
         }
       ],
-      "views_label": "9.63K",
+      "views_label": "9.97K",
       "posted_at": "2026-08-08T06:47:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104913"
@@ -382,7 +483,7 @@
       "reactions": [
         {
           "emoji": "🤡",
-          "count": "79"
+          "count": "81"
         },
         {
           "emoji": "🤣",
@@ -397,7 +498,7 @@
           "count": "2"
         }
       ],
-      "views_label": "10.2K",
+      "views_label": "10.5K",
       "posted_at": "2026-08-08T05:45:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104912"
@@ -432,7 +533,7 @@
           "count": "1"
         }
       ],
-      "views_label": "12K",
+      "views_label": "12.2K",
       "posted_at": "2026-08-08T00:20:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104911"
@@ -458,7 +559,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "367"
+          "count": "368"
         },
         {
           "emoji": "😐",
@@ -485,7 +586,7 @@
           "count": "5"
         }
       ],
-      "views_label": "13.9K",
+      "views_label": "14K",
       "posted_at": "2026-08-07T21:31:19+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/104910"
@@ -511,7 +612,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "242"
+          "count": "243"
         },
         {
           "emoji": "🤡",
@@ -526,7 +627,7 @@
           "count": "3"
         }
       ],
-      "views_label": "14.2K",
+      "views_label": "14.3K",
       "posted_at": "2026-08-07T19:32:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104905"
@@ -557,7 +658,7 @@
           "count": "1"
         }
       ],
-      "views_label": "13.9K",
+      "views_label": "14K",
       "posted_at": "2026-08-07T19:09:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104904"
@@ -583,7 +684,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "268"
+          "count": "269"
         },
         {
           "emoji": "❤",
@@ -610,7 +711,7 @@
           "count": "1"
         }
       ],
-      "views_label": "13.8K",
+      "views_label": "13.9K",
       "posted_at": "2026-08-07T19:02:52+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/104903"
@@ -3565,105 +3666,6 @@
       "posted_at": "2026-08-05T15:57:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104811"
-    },
-    {
-      "id": "Media_HB/104810",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/PHLOi_2G5NZahyiSRgEq3wGF5nUqGnlWAH9KZ9o4_wude5zImD4VproH6UH-crymnGuxCEDfAIuyCwsds52heEOUCKzgAU5xXWqPrf4wYnzPDNrLdInf27LjSPGLry7vR0KO-FgZ_ctAsdvqdnNm3XWxR0UEKWjG6p8aIWZ9Kmr_7PozZL8NFlEpHKU7N9OX2-1rxQaTpE8wIAnoTFY0hllmtpbIUlSIroeVHHDcBi6xyJek5_zqcg2IH8i_iCLjD8WlwAMifmsJDSjJh4XmqoN7JlI6QsGnO06VCy2Qim3yDcnYTwtRQlYz9DpKDKN8xnkrh7UL5znGeU1TDIF8hw.jpg",
-      "author_photo_path": "channels/media_hb/media/59b63e92ec4591a1946d078f.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> <b>پیش‌بینی گروهی (توتو)<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i>مجموع جوایز ۸ میلیارد ریالی بت‌فوروارد در انتظار شماست! <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> با شرکت در برگه‌های پیش‌بینی گروهی یا همان توتو بت‌فوروارد، با پیش‌بینی صحیح ۱۰ مسابقه، بدون قرعه‌کشی، در جایزه ۸ میلیارد ریالی سهیم باشید! حتی با یک یا دو پیش‌بینی اشتباه، شانس شما برای دریافت جوایز دیگر همچنان پابرجاست.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')\"><b>💥</b></i> فرصتی طلایی برای تبدیل دانش ورزشی خود به بردهای بزرگ  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i><br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i>ورود به سایت با فیلترشکن<br><br> کلیک کنید </b><a href=\"https://viloh.xyz/affiliates/?btag=23811_l386783\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>BetForward.com</b></a><b><br> کلیک کنید </b><a href=\"https://viloh.xyz/affiliates/?btag=23811_l386783\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>BetForward.com</b></a><b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i></b><a href=\"https://bw.cotl.ink/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>r14</b></a><b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i> </b><a href=\"https://t.me/betforward\" target=\"_blank\"><b>@betforward</b></a>",
-      "plain_text": "✅ پیش‌بینی گروهی (توتو) 🎁مجموع جوایز ۸ میلیارد ریالی بت‌فوروارد در انتظار شماست! 💰 📝 با شرکت در برگه‌های پیش‌بینی گروهی یا همان توتو بت‌فوروارد، با پیش‌بینی صحیح ۱۰ مسابقه، بدون قرعه‌کشی، در جایزه ۸ میلیارد ریالی سهیم باشید! حتی با یک یا دو پیش‌بینی اشتباه، شانس شما برای دریافت جوایز دیگر همچنان پابرجاست. 💥 فرصتی طلایی برای تبدیل دانش ورزشی خود به بردهای بزرگ 🌟 ‼️ورود به سایت با فیلترشکن کلیک کنید BetForward.com کلیک کنید BetForward.com 🅰r14 💻 @betforward",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/104810",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LZ55n1tq7s3N8RrI23KRtY9d_LGxP_o2FDLY_ieRv246inhiAOHpIH_QvNdWvJpMYUfQVZql28NmAeAlZmXoUB7gHjmcy5sGryIUH3mmjs3UDCcm3h50INinObq6Pf6D3U0FxBTSc-u9Ja6x9_gcxfIElzFpy3I97XyDTvvjfeJtvjI1GBGRZzpMANouuso4J6zRr2SpAhujz0--NKV150fPbSEHh3TLgvl485JaTipSf84p-0YjlLjkRVjGzmrhO0y4HQ7OREUpuu1MT6Ddm7BGtZ0pubtxHAsEFpD0cgVW6IBHgHceDZSAMZPw18vz8aSzbo0jz6HbyJ4M_4gOkQ.jpg",
-          "thumbnail_path": "channels/media_hb/media/72084fe273e5deb978e4406d.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "👀",
-          "count": "2"
-        },
-        {
-          "emoji": "😡",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.9K",
-      "posted_at": "2026-08-05T15:57:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/104810"
-    },
-    {
-      "id": "Media_HB/104809",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/PHLOi_2G5NZahyiSRgEq3wGF5nUqGnlWAH9KZ9o4_wude5zImD4VproH6UH-crymnGuxCEDfAIuyCwsds52heEOUCKzgAU5xXWqPrf4wYnzPDNrLdInf27LjSPGLry7vR0KO-FgZ_ctAsdvqdnNm3XWxR0UEKWjG6p8aIWZ9Kmr_7PozZL8NFlEpHKU7N9OX2-1rxQaTpE8wIAnoTFY0hllmtpbIUlSIroeVHHDcBi6xyJek5_zqcg2IH8i_iCLjD8WlwAMifmsJDSjJh4XmqoN7JlI6QsGnO06VCy2Qim3yDcnYTwtRQlYz9DpKDKN8xnkrh7UL5znGeU1TDIF8hw.jpg",
-      "author_photo_path": "channels/media_hb/media/59b63e92ec4591a1946d078f.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> رویترز: عراقچی جمعه میره پاکستان.",
-      "plain_text": "🔴 رویترز: عراقچی جمعه میره پاکستان.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "68"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "👀",
-          "count": "2"
-        },
-        {
-          "emoji": "🤡",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.2K",
-      "posted_at": "2026-08-05T15:25:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/104809"
-    },
-    {
-      "id": "Media_HB/104808",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/PHLOi_2G5NZahyiSRgEq3wGF5nUqGnlWAH9KZ9o4_wude5zImD4VproH6UH-crymnGuxCEDfAIuyCwsds52heEOUCKzgAU5xXWqPrf4wYnzPDNrLdInf27LjSPGLry7vR0KO-FgZ_ctAsdvqdnNm3XWxR0UEKWjG6p8aIWZ9Kmr_7PozZL8NFlEpHKU7N9OX2-1rxQaTpE8wIAnoTFY0hllmtpbIUlSIroeVHHDcBi6xyJek5_zqcg2IH8i_iCLjD8WlwAMifmsJDSjJh4XmqoN7JlI6QsGnO06VCy2Qim3yDcnYTwtRQlYz9DpKDKN8xnkrh7UL5znGeU1TDIF8hw.jpg",
-      "author_photo_path": "channels/media_hb/media/59b63e92ec4591a1946d078f.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>بقایی سخنگوی وزارت خارجه ج.ا در مورد مذاکرات:<br><br>با عمان در مورد مختصات جغرافیایی مسیر کشتی‌هایی که از تنگه هرمز عبور می‌کنند، توافقی حاصل شده است.<br><br>ما جنبه‌های مختلف فنی، حقوقی، امنیتی و زیست‌محیطی مذاکرات با عمان در مورد تنگه هرمز را مورد بررسی قرار داده‌ایم.<br><br>بیانیه مشترک با عمان در مراحل نهایی بازبینی و تدوین قرار دارد، مگر اینکه توسط طرف‌های ثالث مانع ایجاد شود</b>",
-      "plain_text": "‼️🔴بقایی سخنگوی وزارت خارجه ج.ا در مورد مذاکرات: با عمان در مورد مختصات جغرافیایی مسیر کشتی‌هایی که از تنگه هرمز عبور می‌کنند، توافقی حاصل شده است. ما جنبه‌های مختلف فنی، حقوقی، امنیتی و زیست‌محیطی مذاکرات با عمان در مورد تنگه هرمز را مورد بررسی قرار داده‌ایم. بیانیه مشترک با عمان در مراحل نهایی بازبینی و تدوین قرار دارد، مگر اینکه توسط طرف‌های ثالث مانع ایجاد شود",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤡",
-          "count": "53"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "👀",
-          "count": "2"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.5K",
-      "posted_at": "2026-08-05T15:23:35+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/104808"
     }
   ]
 }

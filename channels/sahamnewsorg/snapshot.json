@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-09T14:56:08.347Z",
+  "fetched_at": "2026-08-09T14:59:04.095Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,30 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/145800",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/Zzo_83MG4DLFZmakC-w-wjAmgbXCFroEsxlQjdzJUnjDSsFfov2bl1FMF8Yi_iegKYaQjSVsH-6ZBYCbYckcElJk9AbFHyNs1oIS84cHPZcMPt_KobPhYEl63wM0g7uJF_vgn8CvnOuUDbZs9LzLyD_n7iJWAaR80mpBxWBFs8e0rAU4KCjRSOKGNFRP2eJRNwgiF73Hq6RL0_P17EnidVEZdlFnTtADDRJTBGZTLaiRRitbBJzRkkz8Oskm9g3HbzPp_8hbZmXzi5q1Lj8cwkSkH3XPmJ2M8ORP4JZppQeDMlWjx_7HCGnhLSm2Tp9icYtDnp3bz4zdaSHXcDHWAQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/2d79524ffdf4aa39b51dc657.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>بلاگر تهرانی، مداح جوان را به قرار مرگ کشاند  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>حمیدرضا رجب‌زاده، مداح جوان، پس از خروج از خانه ناپدید شد. تحقیقات پلیس نشان داد او روز حادثه برای ملاقات با یک زن بلاگر به محل قرار رفته بود. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>بر اساس اعترافات متهمان، این زن با طراحی قبلی، رجب‌زاده را به محلی…",
+      "plain_text": "✅بلاگر تهرانی، مداح جوان را به قرار مرگ کشاند 🔺حمیدرضا رجب‌زاده، مداح جوان، پس از خروج از خانه ناپدید شد. تحقیقات پلیس نشان داد او روز حادثه برای ملاقات با یک زن بلاگر به محل قرار رفته بود. 🔺بر اساس اعترافات متهمان، این زن با طراحی قبلی، رجب‌زاده را به محلی…",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/145800",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/FgGSiv2-6tvOQ_5YHzF2EFgLPlpDm5b6UM8wkMy-xhdGxDw5EDpho8pHqfWPYu6R-ejg1r8Cf9ykkEZSXyL9pubYsh51q3Lrw4PsSuWiFtNBo1wNzcZ03jst8-DMYq0caUSiWVR6_NJDZ7AR39CZVT8fgFnAt5Bo_EhPAORrsRQLHyLnSBXwHytesSjXpLi6p38hg1vjPdRL5Lx58O_zCiRStvY-3JAOQEula3t8qIPzzGpawSIkn0gdb3eT8FGU1AqtxYe9moOVpFka_3ALeSFbuL1mXGFERTjZZQ-IreqqfzmZnfsIH-MrbnKXGJzjHjsxxDIvzyusF2RspfS6xw.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/dcc7aad4302ebf015c0d638a.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7699115044247788
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.89K",
+      "posted_at": "2026-08-09T14:56:22+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/145800"
+    },
+    {
       "id": "sahamnewsorg/145799",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/Zzo_83MG4DLFZmakC-w-wjAmgbXCFroEsxlQjdzJUnjDSsFfov2bl1FMF8Yi_iegKYaQjSVsH-6ZBYCbYckcElJk9AbFHyNs1oIS84cHPZcMPt_KobPhYEl63wM0g7uJF_vgn8CvnOuUDbZs9LzLyD_n7iJWAaR80mpBxWBFs8e0rAU4KCjRSOKGNFRP2eJRNwgiF73Hq6RL0_P17EnidVEZdlFnTtADDRJTBGZTLaiRRitbBJzRkkz8Oskm9g3HbzPp_8hbZmXzi5q1Lj8cwkSkH3XPmJ2M8ORP4JZppQeDMlWjx_7HCGnhLSm2Tp9icYtDnp3bz4zdaSHXcDHWAQ.jpg",
@@ -19,7 +43,7 @@
       "plain_text": "✅هشدار فرهادی سخنگوی وزارت آموزش و پرورش درباره زنگ خطر کاهش تعداد دانش آموزان؛ در هفت سال کاهش بیش از ۳ میلیونی داشتیم @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "3.1K",
+      "views_label": "4.67K",
       "posted_at": "2026-08-09T14:49:14+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/145799"
@@ -33,7 +57,7 @@
       "plain_text": "✅وال‌استریت ژورنال گزارش داده ترامپ در صورت بازگشایی تنگه هرمز از سوی ایران، مقدمات اعلام پیروزی در جنگ را فراهم کرده است به گفته مقام‌های آمریکایی، ترامپ حتی ایده پایان‌دادن به درگیری بدون دستیابی به توافق هسته‌ای را مطرح کرده؛ یک مقام کاخ سفید نیز مدعی شده آمریکا «به تمام اهداف نظامی خود در ایران رسیده است» اگر این روایت عملی شود، بازگشایی هرمز می‌تواند برای واشنگتن به نقطه خروج از جنگ تبدیل شود؛ حتی با باقی‌ماندن پرونده هسته‌ای @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "6.83K",
+      "views_label": "7.77K",
       "posted_at": "2026-08-09T14:39:14+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/145798"
@@ -57,7 +81,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.9K",
+      "views_label": "12.1K",
       "posted_at": "2026-08-09T14:25:47+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145797"
@@ -71,7 +95,7 @@
       "plain_text": "✅ترامپ با اولین وتوی طرح خود از سوی اسرائیل روبرو است نتانیاهو نه تنها سند ۱۵ ماده‌ای در مورد غزه را رد کرد، بلکه عقب‌نشینی و روند سیاسی را نیز رد و اعلام کرد تا زمانی که او نخست‌وزیر باشد، هیچ کشور فلسطینی وجود نخواهد داشت. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "15.2K",
+      "views_label": "16.1K",
       "posted_at": "2026-08-09T14:10:30+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/145796"
@@ -95,7 +119,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.8K",
+      "views_label": "25.4K",
       "posted_at": "2026-08-09T13:23:34+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145795"
@@ -119,7 +143,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.4K",
+      "views_label": "25.7K",
       "posted_at": "2026-08-09T13:17:06+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145794"
@@ -143,7 +167,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.3K",
+      "views_label": "27K",
       "posted_at": "2026-08-09T13:11:30+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145793"
@@ -167,7 +191,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.1K",
+      "views_label": "29.4K",
       "posted_at": "2026-08-09T12:46:45+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145792"
@@ -181,7 +205,7 @@
       "plain_text": "✅روس اتم بازگرداندن متخصصان به نیروگاه هسته‌ای بوشهر را آغاز کرده است 🔹️ مدیرعامل شرکت دولتی روس اتم گفت که این شرکت بازگشت متخصصان به سایت نیروگاه هسته‌ای بوشهر در ایران را آغاز کرده است. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "28.8K",
+      "views_label": "29.1K",
       "posted_at": "2026-08-09T12:44:39+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/145791"
@@ -205,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.1K",
+      "views_label": "29.4K",
       "posted_at": "2026-08-09T12:41:11+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145790"
@@ -219,7 +243,7 @@
       "plain_text": "✅هشدار فرهادی سخنگوی وزارت آموزش و پرورش درباره زنگ خطر کاهش تعداد دانش آموزان؛ در هفت سال کاهش بیش از ۳ میلیونی داشتیم @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "30K",
+      "views_label": "30.3K",
       "posted_at": "2026-08-09T12:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/145789"
@@ -243,7 +267,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.5K",
+      "views_label": "32.8K",
       "posted_at": "2026-08-09T12:26:52+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145788"
@@ -267,7 +291,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.3K",
+      "views_label": "34.6K",
       "posted_at": "2026-08-09T11:55:52+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145787"
@@ -281,7 +305,7 @@
       "plain_text": "✅خبرگزاری تسنیم: محسن رضایی به‌عنوان نماینده مجتبی خامنه ای در شورای عالی امنیت ملی ایران منصوب شد. 🔻پ ن: باید دید رضایی جانشین سعید جلیلی شده است یا ذوالقدر دبیر شورای امنیت @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "38.1K",
+      "views_label": "38.4K",
       "posted_at": "2026-08-09T11:34:00+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145786"
@@ -305,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "43.3K",
+      "views_label": "43.6K",
       "posted_at": "2026-08-09T10:51:55+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145785"
@@ -329,7 +353,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46K",
+      "views_label": "46.4K",
       "posted_at": "2026-08-09T10:28:20+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145784"
@@ -1983,30 +2007,6 @@
       "posted_at": "2026-08-07T15:08:56+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/145699"
-    },
-    {
-      "id": "sahamnewsorg/145698",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/Z3u4qW8rFkm34s5z87hnsXaRkWvox6_-gHppTGhWEghPUhZcSXOZx3Mj_Oj6KqvQx6qidMMgxyRSKS_20NSKxJh5Ih4DjQY9GYFCG2Yd6Nzy2K7uYCkU6VjpcJ8j6OcvGkf5QkZCIrFshB2-MdmXyGdgIoV0PVlfNDKmmnLGiw6T9RQZgSzTdsXe2IytBzt3IF-PSEox8LbUflVai1VSYiNoWic6YegkGS4xw3Og-PSqBGgLp-9-6uTdaH5WZfy-DCnHt4zJpyShxuILGOkLXtUvmnpp7hdPPh8nPhM4edHNBEM71anhhf8RyBax9zImdoRGPTCMJPWQl8_zX9f4jw.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/12b4d37a43ad0f4e40de4328.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>دو منبع نزدیک به دولت پزشکیان به «ایران‌وایر» گفته‌اند که مجتبی خامنه‌ای از زمان حمله آمریکا به بیت رهبری و کشته شدن پدر و دیگر اعضای خانواده‌اش یعنی نهم اسفند ۱۴۰۴ تاکنون با هیچ‌یک از اعضای کابینه ملاقاتی نداشته است.<br><br>به گفته هر دو منبع، شایعه این که او بسیار بدحال است و هر زمان امکان فوت او وجود دارد، در سطوح بالای نظام بسیار قوی شنیده می‌شود.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅دو منبع نزدیک به دولت پزشکیان به «ایران‌وایر» گفته‌اند که مجتبی خامنه‌ای از زمان حمله آمریکا به بیت رهبری و کشته شدن پدر و دیگر اعضای خانواده‌اش یعنی نهم اسفند ۱۴۰۴ تاکنون با هیچ‌یک از اعضای کابینه ملاقاتی نداشته است. به گفته هر دو منبع، شایعه این که او بسیار بدحال است و هر زمان امکان فوت او وجود دارد، در سطوح بالای نظام بسیار قوی شنیده می‌شود. @Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/145698",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/gIBqiuXMDhQ9PXZkqLoi7bwdCCzV-WlnrwJmm0ML9xAjevOYpX4Sy0b7ojDf71uN90GovIf_jFG6hMctgNS33oMDqe_POdlS_gkugBtJ9fk8APwy8SRPrmcOj_qIYTh9GeuucOY8tvubBApZ0PE3BH3GmWGiWCUefvT7lFEhoO4kCP-VpsBZKt7WvUxQuqvMijGnTJead30Yh7eRo2LpSdJirY6fliPuErTKFpplFKUn781CcDlYye3t0uK5JDtEvjRG4eNyjUIymhEyqsMshHn7o9DOk9-xx6_-LuNr8Dnci8B0ptl0kkBwchBti61EdI56JGWpa__rCK-prjydJQ.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/5a00d0a0a29b6d7ae4d4bc09.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.0282776349614395
-        }
-      ],
-      "reactions": [],
-      "views_label": "55K",
-      "posted_at": "2026-08-07T15:04:14+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/145698"
     }
   ]
 }

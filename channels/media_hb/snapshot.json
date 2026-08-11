@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-11T07:46:29.525Z",
+  "fetched_at": "2026-08-11T08:18:59.106Z",
   "channel": {
     "username": "media_hb",
     "title": "اخبار جنگ | مدیا هاب",
@@ -10,6 +10,47 @@
     "subscriber_count": "137K"
   },
   "posts": [
+    {
+      "id": "Media_HB/105069",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/rZHO4uyAcqI6l4iueubbO4wp7newI_Dq5mScchh-yTGX_Xpo1QeunJKLGKJYqSALpNiQUiPIDL7VFM_v4oltmp9ToCn9Kl7d-Z4Mrkl5zi8K1JKQQUbSyjTSGqLNHLGTjFDWn446_8gtsw0lxq7YPnCCnPQsE3mqrBf5AccprCB79iKUborU4-GI6cOSw25dG8xgvVVppD81Z8Z-6V763ojif0pCB3VVY7z2mNfJmPoYN4odBQupeQr5rmzW-ou_D91GeLJXuzmmbCXlaEjoDB7pACwRj8P86Bq5m9BqCPD7WXmSnPI1knGT0SAbNNBOBy8HGl27cOxNaAd6c5ypoA.jpg",
+      "author_photo_path": "channels/media_hb/media/1dcae1e4e08fd43dc9f95b50.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ:<br></b><blockquote><b>ما ۳ تا راه داریم، یکی اینکه همین روند رو ادامه بدیم و ببینیم چی میشه، دوم اینکه ضربه نظامی خیلی خیلی سنگین بزنیم و سوم اینکه از نظر اقتصادی شکستشون بدیم، البته الانم داریم این کار رو میکنیم.</b></blockquote><b><br></b><blockquote><b>اونا تورمشون ۳۰۰ درصده، ارزش پولشون صفره و حقوق سربازاشون رو نمی‌دن و سربازاشون دارن ترک خدمت میکنن. پس همینو ادامه بدیم این وضعیت قابل دوام نیست.</b></blockquote><b><br></b><blockquote><b>از نظر اقتصادی، اوضاعشون خیلی خرابه. نمی‌تونن پول قرض بگیرن. ما کنترل پولی رو که داشتن در دست داریم، پول زیادی داشتن و الان کنترل کاملش با ماست. من بانکدارشونم.</b></blockquote>",
+      "plain_text": "🔴 ترامپ: ما ۳ تا راه داریم، یکی اینکه همین روند رو ادامه بدیم و ببینیم چی میشه، دوم اینکه ضربه نظامی خیلی خیلی سنگین بزنیم و سوم اینکه از نظر اقتصادی شکستشون بدیم، البته الانم داریم این کار رو میکنیم. اونا تورمشون ۳۰۰ درصده، ارزش پولشون صفره و حقوق سربازاشون رو نمی‌دن و سربازاشون دارن ترک خدمت میکنن. پس همینو ادامه بدیم این وضعیت قابل دوام نیست. از نظر اقتصادی، اوضاعشون خیلی خرابه. نمی‌تونن پول قرض بگیرن. ما کنترل پولی رو که داشتن در دست داریم، پول زیادی داشتن و الان کنترل کاملش با ماست. من بانکدارشونم.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/105069",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GNHOkULcN9xw18xBsPnbLz7iwPGPWXqmtIePsMcuGEVtl1YAz08pf_8yh8TgcW15UMfqJiWnGL55Ph3xJyF-RDuj4fB52HdWPDaTVaG32vNKJcIsSHL6bzwiB8-U_HWdPh71-GXdcptlmKEZGSjv0BD2DcNZHElwhLcdlAyp_XTN0hTOdCpWYQAuOB3HDeJQnp1CCzgY0TQ9VSt41T1oY8qsFbk1HzmzSWGkCMdma6qPqnAfT1GL38Bt1vntHwOOHz2ame5qGhOxnYlQLqZtXojOQuiwWWAywGqwNf9cJ4J1R9Ir03UV-IUtjIlxVcxhDiV4SAHN8pA5YAa27lesJA",
+          "thumbnail_path": "channels/media_hb/media/f56dd70c3a51ce8da4302bde.jpg",
+          "duration_label": "1:17",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "35"
+        },
+        {
+          "emoji": "🤡",
+          "count": "7"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        },
+        {
+          "emoji": "🤣",
+          "count": "2"
+        }
+      ],
+      "views_label": "1.81K",
+      "posted_at": "2026-08-11T08:00:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105069"
+    },
     {
       "id": "Media_HB/105067",
       "author_name": "اخبار جنگ | مدیا هاب",
@@ -40,10 +81,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "14"
+          "count": "104"
+        },
+        {
+          "emoji": "❤",
+          "count": "10"
         }
       ],
-      "views_label": "217",
+      "views_label": "2.98K",
       "posted_at": "2026-08-11T07:45:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105067"
@@ -59,10 +104,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "39"
+          "count": "71"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
         }
       ],
-      "views_label": "1.29K",
+      "views_label": "3.56K",
       "posted_at": "2026-08-11T07:34:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105066"
@@ -88,15 +137,19 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "69"
+          "count": "91"
         },
         {
           "emoji": "❤",
-          "count": "14"
+          "count": "22"
         },
         {
           "emoji": "😐",
-          "count": "8"
+          "count": "11"
+        },
+        {
+          "emoji": "💔",
+          "count": "4"
         },
         {
           "emoji": "🔥",
@@ -105,13 +158,9 @@
         {
           "emoji": "👍",
           "count": "1"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
         }
       ],
-      "views_label": "3.47K",
+      "views_label": "4.97K",
       "posted_at": "2026-08-11T06:56:29+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105065"
@@ -137,26 +186,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "197"
+          "count": "220"
         },
         {
           "emoji": "❤",
-          "count": "36"
+          "count": "42"
         },
         {
           "emoji": "😁",
           "count": "24"
         },
         {
-          "emoji": "🍓",
+          "emoji": "👍",
           "count": "2"
         },
         {
-          "emoji": "👍",
-          "count": "1"
+          "emoji": "🍓",
+          "count": "2"
         }
       ],
-      "views_label": "6.3K",
+      "views_label": "7.22K",
       "posted_at": "2026-08-11T04:42:31+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/105064"
@@ -182,7 +231,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "48"
+          "count": "55"
         },
         {
           "emoji": "👀",
@@ -190,10 +239,10 @@
         },
         {
           "emoji": "😭",
-          "count": "9"
+          "count": "12"
         }
       ],
-      "views_label": "6.21K",
+      "views_label": "7.06K",
       "posted_at": "2026-08-11T04:39:56+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/105063"
@@ -209,11 +258,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "134"
+          "count": "138"
         },
         {
           "emoji": "❤",
-          "count": "65"
+          "count": "67"
         },
         {
           "emoji": "👀",
@@ -228,7 +277,7 @@
           "count": "3"
         }
       ],
-      "views_label": "8.1K",
+      "views_label": "8.74K",
       "posted_at": "2026-08-11T01:51:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105059"
@@ -244,14 +293,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "167"
+          "count": "170"
         },
         {
           "emoji": "👍",
-          "count": "87"
+          "count": "89"
         }
       ],
-      "views_label": "9.89K",
+      "views_label": "10.4K",
       "posted_at": "2026-08-10T22:40:29+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105058"
@@ -277,7 +326,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "308"
+          "count": "314"
         },
         {
           "emoji": "🤡",
@@ -285,11 +334,11 @@
         },
         {
           "emoji": "❤",
-          "count": "66"
+          "count": "67"
         },
         {
           "emoji": "👎",
-          "count": "23"
+          "count": "24"
         },
         {
           "emoji": "😐",
@@ -304,7 +353,7 @@
           "count": "8"
         }
       ],
-      "views_label": "11.1K",
+      "views_label": "11.5K",
       "posted_at": "2026-08-10T21:55:07+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/105057"
@@ -330,22 +379,22 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "217"
+          "count": "220"
         },
         {
           "emoji": "❤",
-          "count": "92"
+          "count": "93"
         },
         {
           "emoji": "😐",
-          "count": "43"
+          "count": "44"
         },
         {
           "emoji": "👍",
           "count": "6"
         }
       ],
-      "views_label": "11.6K",
+      "views_label": "12K",
       "posted_at": "2026-08-10T21:11:54+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105056"
@@ -434,11 +483,11 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "109"
+          "count": "111"
         },
         {
           "emoji": "❤",
-          "count": "64"
+          "count": "65"
         },
         {
           "emoji": "🤣",
@@ -446,10 +495,10 @@
         },
         {
           "emoji": "😐",
-          "count": "39"
+          "count": "40"
         }
       ],
-      "views_label": "11.3K",
+      "views_label": "11.7K",
       "posted_at": "2026-08-10T20:59:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105052"
@@ -622,7 +671,7 @@
         },
         {
           "emoji": "❤",
-          "count": "91"
+          "count": "94"
         },
         {
           "emoji": "🍓",
@@ -637,15 +686,15 @@
           "count": "16"
         },
         {
-          "emoji": "👎",
-          "count": "8"
+          "emoji": "😭",
+          "count": "9"
         },
         {
-          "emoji": "😭",
+          "emoji": "👎",
           "count": "8"
         }
       ],
-      "views_label": "11.4K",
+      "views_label": "11.7K",
       "posted_at": "2026-08-10T20:38:44+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105046"
@@ -676,7 +725,7 @@
           "count": "17"
         }
       ],
-      "views_label": "11.5K",
+      "views_label": "11.7K",
       "posted_at": "2026-08-10T20:31:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105045"
@@ -965,11 +1014,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "215"
+          "count": "217"
         },
         {
           "emoji": "❤",
-          "count": "47"
+          "count": "48"
         },
         {
           "emoji": "🤡",
@@ -977,18 +1026,18 @@
         },
         {
           "emoji": "🔥",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "🦄",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "👍",
           "count": "1"
         }
       ],
-      "views_label": "11.3K",
+      "views_label": "11.5K",
       "posted_at": "2026-08-10T19:28:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105037"
@@ -1008,7 +1057,7 @@
         },
         {
           "emoji": "❤",
-          "count": "29"
+          "count": "30"
         },
         {
           "emoji": "🤡",
@@ -1031,7 +1080,7 @@
           "count": "2"
         }
       ],
-      "views_label": "11K",
+      "views_label": "11.3K",
       "posted_at": "2026-08-10T19:26:15+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/105036"
@@ -1104,14 +1153,14 @@
         },
         {
           "emoji": "🤡",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "🔥",
           "count": "5"
         }
       ],
-      "views_label": "11.3K",
+      "views_label": "11.5K",
       "posted_at": "2026-08-10T19:16:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105034"
@@ -1199,11 +1248,11 @@
         },
         {
           "emoji": "🤣",
-          "count": "43"
+          "count": "44"
         },
         {
           "emoji": "❤",
-          "count": "20"
+          "count": "21"
         },
         {
           "emoji": "👍",
@@ -1218,7 +1267,7 @@
           "count": "6"
         }
       ],
-      "views_label": "11.7K",
+      "views_label": "11.8K",
       "posted_at": "2026-08-10T18:13:13+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105030"
@@ -1234,11 +1283,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "237"
+          "count": "238"
         },
         {
           "emoji": "❤",
-          "count": "53"
+          "count": "54"
         },
         {
           "emoji": "🤡",
@@ -1257,7 +1306,7 @@
           "count": "3"
         }
       ],
-      "views_label": "11.4K",
+      "views_label": "11.5K",
       "posted_at": "2026-08-10T17:42:50+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/105029"
@@ -1273,15 +1322,15 @@
       "reactions": [
         {
           "emoji": "🤡",
-          "count": "504"
+          "count": "506"
         },
         {
           "emoji": "🤣",
-          "count": "34"
+          "count": "35"
         },
         {
           "emoji": "❤",
-          "count": "23"
+          "count": "24"
         },
         {
           "emoji": "👎",
@@ -1300,7 +1349,7 @@
           "count": "9"
         }
       ],
-      "views_label": "11.5K",
+      "views_label": "11.6K",
       "posted_at": "2026-08-10T17:32:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105028"
@@ -3822,37 +3871,6 @@
       "posted_at": "2026-08-09T07:10:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/104964"
-    },
-    {
-      "id": "Media_HB/104963",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/m4_8dSIvW8Ek21Ks1L-sdBnkkKn1zm2e_Y9D8Zk8plHYGSY-Na_2yQ5EoRXLRVbbfZmdbG0Mn_P1s_TnyxTMpZk7os34oRyP7hM5fP9CpG8BOvCq2VF5T_BSObPKJx_kI04IWh0WmSelhIWvXoeGRe0zXcG6un_3TBoUm4krm5gDtGLeTFJNy2s1QEdzX6JTkFLk7jB540wz5K3wQBmmR7kZb8ANXk_9rZZTrJao7q0c8ZZlWw6v_d3rzMfNps7lprjKnzXPjw4l68-GJ6_Rm-6s_hI3J5JHzw2tDx4e-yAcj6fNmrveSjJw8VjE34_ojEHJamN2pHWB-dFpLX1E5Q.jpg",
-      "author_photo_path": "channels/media_hb/media/5ffabd83d03bdaf4fa00f774.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> دانشجو به نقل از یک عضو کمیسیون امنیت ملی:<br></b><blockquote><b>مذاکرات ایران و عمان درباره تنگه هرمز در آستانه نهایی‌شدن است.</b></blockquote><b><br></b><blockquote><b>عمانی‌ها پذیرفته‌اند که به‌طور موقت از مسیر جنوبی استفاده نشود.</b></blockquote><b><br></b><blockquote><b>در حال حاضر دو کشور بر روی مسیر مشخصی که مورد نظر ایران نیز هست و به عنوان مسیر پیشنهادی مطرح شده، تمرکز کرده‌اند.</b></blockquote>",
-      "plain_text": "🔴 دانشجو به نقل از یک عضو کمیسیون امنیت ملی: مذاکرات ایران و عمان درباره تنگه هرمز در آستانه نهایی‌شدن است. عمانی‌ها پذیرفته‌اند که به‌طور موقت از مسیر جنوبی استفاده نشود. در حال حاضر دو کشور بر روی مسیر مشخصی که مورد نظر ایران نیز هست و به عنوان مسیر پیشنهادی مطرح شده، تمرکز کرده‌اند.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "74"
-        },
-        {
-          "emoji": "👎",
-          "count": "10"
-        },
-        {
-          "emoji": "❤",
-          "count": "6"
-        },
-        {
-          "emoji": "👍",
-          "count": "6"
-        }
-      ],
-      "views_label": "10.9K",
-      "posted_at": "2026-08-09T06:10:04+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/104963"
     }
   ]
 }

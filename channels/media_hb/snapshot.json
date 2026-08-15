@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-15T14:06:12.482Z",
+  "fetched_at": "2026-08-15T14:13:33.345Z",
   "channel": {
     "username": "media_hb",
     "title": "اخبار جنگ | مدیا هاب",
@@ -10,6 +10,25 @@
     "subscriber_count": "142K"
   },
   "posts": [
+    {
+      "id": "Media_HB/105225",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/q2KZ6efmEIW_EhtILuVpswrCv6eg6ZVByZMF_Upkh3Q9dg3ZYr-zCYwN0DiO4--wP5pH6XneNnWUNjjvivJChflGsNrOtqtAc1CZg-JYGOR697VuyTz2xDqXmmosnCR61RprdNQ-p62_IE6g7cMDX6zV8uaGrpaVjOY-qlvuKYz5OYBT_N24Wy1SBvPu1GSHHUV78Ky3K-DYKiqTqQtulOyOsQVftj222Srk1gFdI2TxQtG4yveboecOvgEO1WnHSywvFlxfKbuSnI94oIm11SHUw7qyEK33YKdADrctDLne1lkmQyUQYcRN2VjbXfKP-Las8JNHDmIa4HlbaQNCUA.jpg",
+      "author_photo_path": "channels/media_hb/media/cfb8d387bc52f29b274e1ba5.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> نیویورک تایمز:<br>با اینکه روسیه علاقه ای به توافق نشون نداده اما اروپاییا مث سگ نگرانن ترامپ با پوتین تنهایی به توافق برسه و دارن زجه میزنن توی مذاکرات باشن.</b>",
+      "plain_text": "🔴 نیویورک تایمز: با اینکه روسیه علاقه ای به توافق نشون نداده اما اروپاییا مث سگ نگرانن ترامپ با پوتین تنهایی به توافق برسه و دارن زجه میزنن توی مذاکرات باشن.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "5"
+        }
+      ],
+      "views_label": "186",
+      "posted_at": "2026-08-15T14:12:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105225"
+    },
     {
       "id": "Media_HB/105224",
       "author_name": "اخبار جنگ | مدیا هاب",
@@ -21,18 +40,18 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "19"
+          "count": "36"
         },
         {
           "emoji": "😡",
-          "count": "10"
+          "count": "12"
         },
         {
           "emoji": "👍",
           "count": "2"
         }
       ],
-      "views_label": "706",
+      "views_label": "1.45K",
       "posted_at": "2026-08-15T14:01:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105224"
@@ -58,7 +77,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "26"
+          "count": "29"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         },
         {
           "emoji": "👀",
@@ -69,7 +92,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.85K",
+      "views_label": "2.31K",
       "posted_at": "2026-08-15T13:44:54+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105223"
@@ -85,14 +108,14 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "78"
+          "count": "79"
         },
         {
           "emoji": "😁",
           "count": "1"
         }
       ],
-      "views_label": "4.2K",
+      "views_label": "4.47K",
       "posted_at": "2026-08-15T12:40:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105222"
@@ -118,7 +141,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "39"
+          "count": "40"
         },
         {
           "emoji": "🔥",
@@ -129,7 +152,7 @@
           "count": "2"
         }
       ],
-      "views_label": "4.51K",
+      "views_label": "4.78K",
       "posted_at": "2026-08-15T12:33:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105221"
@@ -155,7 +178,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "120"
+          "count": "124"
         },
         {
           "emoji": "😁",
@@ -174,7 +197,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.14K",
+      "views_label": "6.32K",
       "posted_at": "2026-08-15T11:34:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105220"
@@ -200,7 +223,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "94"
+          "count": "95"
         },
         {
           "emoji": "💔",
@@ -219,7 +242,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.2K",
+      "views_label": "6.38K",
       "posted_at": "2026-08-15T11:32:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105219"
@@ -235,7 +258,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "239"
+          "count": "242"
         },
         {
           "emoji": "🤡",
@@ -250,7 +273,7 @@
           "count": "2"
         }
       ],
-      "views_label": "6.89K",
+      "views_label": "7.04K",
       "posted_at": "2026-08-15T10:35:15+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105218"
@@ -281,7 +304,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.81K",
+      "views_label": "7.93K",
       "posted_at": "2026-08-15T09:26:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105217"
@@ -334,7 +357,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.76K",
+      "views_label": "8.85K",
       "posted_at": "2026-08-15T08:38:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105216"
@@ -371,7 +394,7 @@
           "count": "5"
         }
       ],
-      "views_label": "8.04K",
+      "views_label": "8.1K",
       "posted_at": "2026-08-15T08:35:21+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105215"
@@ -430,7 +453,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.76K",
+      "views_label": "7.85K",
       "posted_at": "2026-08-15T08:32:12+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105212"
@@ -456,7 +479,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "202"
+          "count": "204"
         },
         {
           "emoji": "❤",
@@ -475,7 +498,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.25K",
+      "views_label": "8.31K",
       "posted_at": "2026-08-15T07:56:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105211"
@@ -501,7 +524,7 @@
       "reactions": [
         {
           "emoji": "😡",
-          "count": "130"
+          "count": "132"
         },
         {
           "emoji": "🤣",
@@ -512,7 +535,7 @@
           "count": "4"
         }
       ],
-      "views_label": "7.97K",
+      "views_label": "8.03K",
       "posted_at": "2026-08-15T07:53:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105210"
@@ -543,7 +566,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.2K",
+      "views_label": "8.26K",
       "posted_at": "2026-08-15T07:29:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105209"
@@ -580,7 +603,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.6K",
+      "views_label": "8.66K",
       "posted_at": "2026-08-15T07:22:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105208"
@@ -596,7 +619,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "107"
+          "count": "108"
         },
         {
           "emoji": "🤡",
@@ -615,7 +638,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.98K",
+      "views_label": "9.04K",
       "posted_at": "2026-08-15T05:25:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105207"
@@ -652,7 +675,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.29K",
+      "views_label": "9.35K",
       "posted_at": "2026-08-15T05:24:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105206"
@@ -3870,51 +3893,6 @@
       "posted_at": "2026-08-12T13:39:11+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105116"
-    },
-    {
-      "id": "Media_HB/105115",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/RAtIP5UgemwqBoM3dvJGy8WNQXHxaALTQM6WUsMGhu2OzSbfMF0CZHlkOvsPed2Q2Xw3IBDB-LBn0u-l-9A98zbXLt82aiFpZEPqhoy4h5Nv4Y7DbFpVkh1sf_0Q1q8cphu93kWbl9eKo0NV9GRZOyZtuPGJNhBzDTCmUvDaDE8AsoCsDPfM4bYk9mjgm7iQPPqgpwMJiA6GV5hMEwCOuE9S5Id5jS_AT-LxeAzZOvsBX9DOG8b1Z76bVQ4yTlGvnwX2TPc9RW_LGnZJ5My00E5Jq6YdWnVeVbVEZWXnlHrKK6L0E7Q0MT_QQFbIRsttZ8AgatNjOtb8IbvuU9BvIw.jpg",
-      "author_photo_path": "channels/media_hb/media/f333748fc5d59e7839cb3632.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> نقدی:<br></b><blockquote><b>در کشوری به این وسعت ما میتونیم موشک هارو در هر جایی که بخوایم تولید کنیم.</b></blockquote><b><br></b><blockquote><b>مطمئن باشید اگر این جنگ سال‌ها طول بکشه، تا آخرین روز موشک‌های ایران پرتاب میشن</b></blockquote><b><br></b><blockquote><b>اگر روزی دیگه موشک برای پرتاب نداشته باشیم، اونوقت ما برای آمریکا خطرناک‌تریم، چون آمریکا هزاران منافع اقتصادی در سراسر جهان داره و همه اونارو میشه به راحتی نابود کرد.</b></blockquote>",
-      "plain_text": "🔴 نقدی: در کشوری به این وسعت ما میتونیم موشک هارو در هر جایی که بخوایم تولید کنیم. مطمئن باشید اگر این جنگ سال‌ها طول بکشه، تا آخرین روز موشک‌های ایران پرتاب میشن اگر روزی دیگه موشک برای پرتاب نداشته باشیم، اونوقت ما برای آمریکا خطرناک‌تریم، چون آمریکا هزاران منافع اقتصادی در سراسر جهان داره و همه اونارو میشه به راحتی نابود کرد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/105115",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PWjVPdJk92K_D9qN-aZm9Twg90gjGvi709QsqNjh7HG-4f9z2GA9lOWlADA8zsXILSLrsD7LPfCUSzyLnx0AVd7iCrtaMHfe-RT0QqMOxlxatj6tBNklJXHGRyZ7NzISTWfU6YSHoRceN4R3ZkO21RHU21ECBsuq3nHxmmvyoKb3Q6KDQ7rWucsz5zab3wmyw9yEd9NDQK0p76SqBSWDI8dxhkQOym8Kqv1IKSgpoB6S4TQ84_NSKtgH4dbrqKS-N5nE8ByNsKwfyvxwtSStaTHcmCKwwaZ-PxB3qwenRDKgCyVEblvYU4JJGe_3UZbIxDOnmQYP2Y0D5C84lxByKA",
-          "thumbnail_path": "channels/media_hb/media/1e53d0d426ea48536982d08b.jpg",
-          "duration_label": "0:37",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "83"
-        },
-        {
-          "emoji": "❤",
-          "count": "10"
-        },
-        {
-          "emoji": "🤡",
-          "count": "2"
-        },
-        {
-          "emoji": "😐",
-          "count": "1"
-        },
-        {
-          "emoji": "😡",
-          "count": "1"
-        }
-      ],
-      "views_label": "8.34K",
-      "posted_at": "2026-08-12T13:37:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105115"
     }
   ]
 }

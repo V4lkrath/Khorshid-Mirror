@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-15T21:41:02.071Z",
+  "fetched_at": "2026-08-15T21:55:33.552Z",
   "channel": {
     "username": "media_hb",
     "title": "اخبار جنگ | مدیا هاب",
@@ -10,6 +10,70 @@
     "subscriber_count": "142K"
   },
   "posts": [
+    {
+      "id": "Media_HB/105243",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/q2KZ6efmEIW_EhtILuVpswrCv6eg6ZVByZMF_Upkh3Q9dg3ZYr-zCYwN0DiO4--wP5pH6XneNnWUNjjvivJChflGsNrOtqtAc1CZg-JYGOR697VuyTz2xDqXmmosnCR61RprdNQ-p62_IE6g7cMDX6zV8uaGrpaVjOY-qlvuKYz5OYBT_N24Wy1SBvPu1GSHHUV78Ky3K-DYKiqTqQtulOyOsQVftj222Srk1gFdI2TxQtG4yveboecOvgEO1WnHSywvFlxfKbuSnI94oIm11SHUw7qyEK33YKdADrctDLne1lkmQyUQYcRN2VjbXfKP-Las8JNHDmIa4HlbaQNCUA.jpg",
+      "author_photo_path": "channels/media_hb/media/cfb8d387bc52f29b274e1ba5.jpg",
+      "body_html": "<b>شجاع خلیل‌زاده هزار پدر: <br><br>گلم تو جام جهانی درست بود و ترامپ با دستکاری وار اون رو مردود اعلام کرد<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i></b>",
+      "plain_text": "شجاع خلیل‌زاده هزار پدر: گلم تو جام جهانی درست بود و ترامپ با دستکاری وار اون رو مردود اعلام کرد😂",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/105243",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/m5Ko8IrlYYwkBHCk1i3tPuVqpBInOE-B6zyJt814sETU42goazHVVP0xs3g-7T6iCofzbuudSPSPINumfiT5_XiH-Eh7hm1SLZZQ3G3fvKakwIE1MYYXHDvZi4ZTfMs91nTeAbl9Mb1FF9h01VfbkQStNalKAuEj9PKCxNXB84vqDTkuiaKDWdRJDWID8_L9_V3Ub8Upgpjc-rjBDe3BgPs-ZEpgEuOR0lgMgoAQnmIEIlFq0kmFcOH-iuCq9W9xuZnJ1DLwttSHERkzKHFfln17IEde8acdogrMxBdFZYZLLGuXz08eBWCyQn52hUC3VyQCZvt6wCodIRu2SdxATA",
+          "thumbnail_path": "channels/media_hb/media/d8b4543e196186930f16a618.jpg",
+          "duration_label": "0:47",
+          "aspect_ratio": 1.6086956521739173
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "48"
+        },
+        {
+          "emoji": "🤡",
+          "count": "8"
+        },
+        {
+          "emoji": "😁",
+          "count": "1"
+        }
+      ],
+      "views_label": "927",
+      "posted_at": "2026-08-15T21:50:48+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/105243"
+    },
+    {
+      "id": "Media_HB/105242",
+      "author_name": "اخبار جنگ | مدیا هاب",
+      "author_photo_url": "https://cdn4.telesco.pe/file/q2KZ6efmEIW_EhtILuVpswrCv6eg6ZVByZMF_Upkh3Q9dg3ZYr-zCYwN0DiO4--wP5pH6XneNnWUNjjvivJChflGsNrOtqtAc1CZg-JYGOR697VuyTz2xDqXmmosnCR61RprdNQ-p62_IE6g7cMDX6zV8uaGrpaVjOY-qlvuKYz5OYBT_N24Wy1SBvPu1GSHHUV78Ky3K-DYKiqTqQtulOyOsQVftj222Srk1gFdI2TxQtG4yveboecOvgEO1WnHSywvFlxfKbuSnI94oIm11SHUw7qyEK33YKdADrctDLne1lkmQyUQYcRN2VjbXfKP-Las8JNHDmIa4HlbaQNCUA.jpg",
+      "author_photo_path": "channels/media_hb/media/cfb8d387bc52f29b274e1ba5.jpg",
+      "body_html": "خب بنظر وقت خوابه",
+      "plain_text": "خب بنظر وقت خوابه",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "28"
+        },
+        {
+          "emoji": "👎",
+          "count": "6"
+        },
+        {
+          "emoji": "🤣",
+          "count": "2"
+        }
+      ],
+      "views_label": "1.36K",
+      "posted_at": "2026-08-15T21:47:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105242"
+    },
     {
       "id": "Media_HB/105241",
       "author_name": "اخبار جنگ | مدیا هاب",
@@ -31,7 +95,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "84"
+          "count": "99"
         },
         {
           "emoji": "🤣",
@@ -39,7 +103,7 @@
         },
         {
           "emoji": "❤",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "👍",
@@ -50,7 +114,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4K",
+      "views_label": "4.95K",
       "posted_at": "2026-08-15T20:30:49+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/105241"
@@ -99,11 +163,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "277"
+          "count": "289"
         },
         {
           "emoji": "💔",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "❤",
@@ -118,7 +182,7 @@
           "count": "2"
         }
       ],
-      "views_label": "7.42K",
+      "views_label": "8K",
       "posted_at": "2026-08-15T19:33:17+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/105239"
@@ -134,7 +198,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "88"
+          "count": "90"
         },
         {
           "emoji": "🤣",
@@ -149,7 +213,7 @@
           "count": "2"
         }
       ],
-      "views_label": "8.03K",
+      "views_label": "8.52K",
       "posted_at": "2026-08-15T19:07:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105238"
@@ -165,10 +229,10 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "111"
+          "count": "113"
         }
       ],
-      "views_label": "7.91K",
+      "views_label": "8.37K",
       "posted_at": "2026-08-15T19:06:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105237"
@@ -188,7 +252,7 @@
         },
         {
           "emoji": "❤",
-          "count": "108"
+          "count": "113"
         },
         {
           "emoji": "🤣",
@@ -207,7 +271,7 @@
           "count": "4"
         }
       ],
-      "views_label": "8.06K",
+      "views_label": "8.49K",
       "posted_at": "2026-08-15T19:02:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105236"
@@ -269,9 +333,17 @@
         {
           "emoji": "🤣",
           "count": "5"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
+          "emoji": "👀",
+          "count": "1"
         }
       ],
-      "views_label": "8.69K",
+      "views_label": "9.08K",
       "posted_at": "2026-08-15T18:43:41+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/105233"
@@ -287,14 +359,14 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "37"
+          "count": "40"
         },
         {
           "emoji": "👍",
           "count": "5"
         }
       ],
-      "views_label": "8.28K",
+      "views_label": "8.56K",
       "posted_at": "2026-08-15T18:39:13+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105232"
@@ -320,11 +392,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "162"
+          "count": "169"
         },
         {
           "emoji": "🤣",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "👎",
@@ -335,15 +407,15 @@
           "count": "3"
         },
         {
-          "emoji": "💔",
+          "emoji": "👍",
           "count": "3"
         },
         {
-          "emoji": "👍",
-          "count": "2"
+          "emoji": "💔",
+          "count": "3"
         }
       ],
-      "views_label": "9.27K",
+      "views_label": "9.49K",
       "posted_at": "2026-08-15T17:29:44+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/105231"
@@ -380,7 +452,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.4K",
+      "views_label": "8.61K",
       "posted_at": "2026-08-15T17:29:28+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105230"
@@ -400,7 +472,7 @@
         },
         {
           "emoji": "❤",
-          "count": "77"
+          "count": "78"
         },
         {
           "emoji": "🤣",
@@ -415,7 +487,7 @@
           "count": "2"
         }
       ],
-      "views_label": "7.68K",
+      "views_label": "7.87K",
       "posted_at": "2026-08-15T17:27:48+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105229"
@@ -431,7 +503,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "169"
+          "count": "172"
         },
         {
           "emoji": "❤",
@@ -446,7 +518,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.15K",
+      "views_label": "8.34K",
       "posted_at": "2026-08-15T17:17:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105228"
@@ -472,7 +544,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "157"
+          "count": "160"
         },
         {
           "emoji": "🤡",
@@ -487,7 +559,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.11K",
+      "views_label": "9.32K",
       "posted_at": "2026-08-15T16:40:59+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105227"
@@ -503,7 +575,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "57"
+          "count": "59"
         },
         {
           "emoji": "💔",
@@ -526,7 +598,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.15K",
+      "views_label": "9.3K",
       "posted_at": "2026-08-15T15:40:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105226"
@@ -542,7 +614,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "61"
+          "count": "62"
         },
         {
           "emoji": "😁",
@@ -557,7 +629,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.78K",
+      "views_label": "9.9K",
       "posted_at": "2026-08-15T14:12:20+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105225"
@@ -573,7 +645,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "127"
+          "count": "129"
         },
         {
           "emoji": "😡",
@@ -600,7 +672,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10K",
+      "views_label": "10.1K",
       "posted_at": "2026-08-15T14:01:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105224"
@@ -626,7 +698,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "61"
+          "count": "62"
         },
         {
           "emoji": "❤",
@@ -641,7 +713,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.2K",
+      "views_label": "10.4K",
       "posted_at": "2026-08-15T13:44:54+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105223"
@@ -657,7 +729,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "114"
+          "count": "115"
         },
         {
           "emoji": "😁",
@@ -672,7 +744,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.81K",
+      "views_label": "9.9K",
       "posted_at": "2026-08-15T12:40:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105222"
@@ -3700,86 +3772,6 @@
       "posted_at": "2026-08-13T07:41:29+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105138"
-    },
-    {
-      "id": "Media_HB/105135",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/pkgTcpVUK3UyteahHJpM20qM-B0auoEC2zRaKOHdF34KlGvUDU4N12mHBwKim2cCMCqzcCPOZOIwjVqEWJtMFoJAnL_wLsisVYE-L5fWtQcOOJrL_x3j47ujgxS96GofPIMlEGjisyIpYAa7NCXttnSu5f8OHItLLgJz4bV7O5AImqaMtONm6deDCQ0uJfjy_b8PxFnxsYv8019LDwFsHabqWYUxTColIhZkRKRya-Jf7Bck8vwDsyR61_N2Kcjw9U0D-aJCFPwTq5cSKzQLAF7ZzQHFeIvHPI_eQjzWUnWYSKGhCUO5Ofu7Whd1cqFQXgLJodFdUUSLEVqTmJSwag.jpg",
-      "author_photo_path": "channels/media_hb/media/00381eaedd520277f30133e7.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> مدیر شرکت پخش فراورده های نفتی کرمان:<br>پیرو مذاکرات امشب استاندار کرمان با مقامات کشوری و نیاز به بررسی بیشتر طرح مدیریت مصرف سوخت و مقابله با قاچاق، عرضۀ بنزین با نرخ آزاد پالایشگاهی در استان کرمان متوقف شد.<br>تا اطلاع ثانوی، فرآیند عرضۀ بنزین در جایگاه‌های سوخت استان مطابق روال پیشین ادامه خواهد داشت.</b>",
-      "plain_text": "🔴 مدیر شرکت پخش فراورده های نفتی کرمان: پیرو مذاکرات امشب استاندار کرمان با مقامات کشوری و نیاز به بررسی بیشتر طرح مدیریت مصرف سوخت و مقابله با قاچاق، عرضۀ بنزین با نرخ آزاد پالایشگاهی در استان کرمان متوقف شد. تا اطلاع ثانوی، فرآیند عرضۀ بنزین در جایگاه‌های سوخت استان مطابق روال پیشین ادامه خواهد داشت.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "170"
-        },
-        {
-          "emoji": "🤡",
-          "count": "14"
-        },
-        {
-          "emoji": "❤",
-          "count": "7"
-        },
-        {
-          "emoji": "🦄",
-          "count": "6"
-        }
-      ],
-      "views_label": "14K",
-      "posted_at": "2026-08-12T21:24:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105135"
-    },
-    {
-      "id": "Media_HB/105134",
-      "author_name": "اخبار جنگ | مدیا هاب",
-      "author_photo_url": "https://cdn4.telesco.pe/file/pkgTcpVUK3UyteahHJpM20qM-B0auoEC2zRaKOHdF34KlGvUDU4N12mHBwKim2cCMCqzcCPOZOIwjVqEWJtMFoJAnL_wLsisVYE-L5fWtQcOOJrL_x3j47ujgxS96GofPIMlEGjisyIpYAa7NCXttnSu5f8OHItLLgJz4bV7O5AImqaMtONm6deDCQ0uJfjy_b8PxFnxsYv8019LDwFsHabqWYUxTColIhZkRKRya-Jf7Bck8vwDsyR61_N2Kcjw9U0D-aJCFPwTq5cSKzQLAF7ZzQHFeIvHPI_eQjzWUnWYSKGhCUO5Ofu7Whd1cqFQXgLJodFdUUSLEVqTmJSwag.jpg",
-      "author_photo_path": "channels/media_hb/media/00381eaedd520277f30133e7.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b> نهاد مدیریت آبراه خلیج‌فارس:<br>ادعاها و توییت‌های پیاپی مسئولان آمریکایی درباره رفع انسداد تنگه هرمز، واقعیت را تغییر نمی‌دهد؛ تنگه هرمز همچنان مسدود است و تا پذیرش شروط ایران بازگشایی نخواهد شد.</b>",
-      "plain_text": "🔴 نهاد مدیریت آبراه خلیج‌فارس: ادعاها و توییت‌های پیاپی مسئولان آمریکایی درباره رفع انسداد تنگه هرمز، واقعیت را تغییر نمی‌دهد؛ تنگه هرمز همچنان مسدود است و تا پذیرش شروط ایران بازگشایی نخواهد شد.",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/105134",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nBLIeAbPtcalboJTjmhb5alz_Nm6D8Fx15V0NO_CeSw32CzL5pGDT14ZKNxwSeSALECAlP1Q6pa2kft5qly5K8ICwkAxBKhBzsOgD07-_treZjdXg43jtHCOmICIEuOwckkblAMrMZo1Yq-wc8CLrViPy0Ts4urfNHVLLGB-ectHK4bjnTXX-JfEgjveMdKEBmNbUMgFkbCHnrSmApI4sBNVuveAF-6d1IqGgFpBUcbTeK0U1AlZloz-9dCd1RU8AjYeP2ws_Y4kYz-CrSYYo5Zr-phxjijui7AbdwgpPKGgJMcsQSg7IIw-4l5KV7AN7iR0g_9x_LSHGwCDWTzExg.jpg",
-          "thumbnail_path": "channels/media_hb/media/fe082e94a4a057de50dcddec.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.0512483574244416
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "105"
-        },
-        {
-          "emoji": "🤡",
-          "count": "5"
-        },
-        {
-          "emoji": "👍",
-          "count": "4"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        },
-        {
-          "emoji": "🦄",
-          "count": "1"
-        }
-      ],
-      "views_label": "13.9K",
-      "posted_at": "2026-08-12T21:18:54+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105134"
     }
   ]
 }

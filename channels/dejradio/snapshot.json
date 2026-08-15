@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-15T09:13:38.733Z",
+  "fetched_at": "2026-08-15T09:39:46.771Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,35 @@
     "subscriber_count": "13.5K"
   },
   "posts": [
+    {
+      "id": "DEJradio/7255",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/vrp9nPjl-XujYyo2MWpyhOcn8TkPEAwceKi7Sb9d5oV9bsbf8im681KLUpHvL5IPsDS5hbJMyI8XqD42sE6hlA7A4gFt--79hJsKIgnsfYaLGoedqSA2RwDu-SFf-H4oALvPeT8rrPqgk5b8BKqs7Fo_8A5uhrj9ycyUaQ3aFgTqbr_OLC6GmRU4pdwthsYE1ruYfHbHOLxFZURiG3aYaIi_k1t8fHp8gXTxEd1dUwS2fb0rbtFyLbKXyyVxdfqB79_kPXQzc_Om2G1C7BDpO03Ou7y5TaC6_rM2gGjQEMZIS8tIVM79vw8xO8tVQi79vAUw7If8WNFKEJ7kya94nQ.jpg",
+      "author_photo_path": "channels/dejradio/media/8b37289ef2328dc2c10ce410.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> ممنوعیت شعار «مرگ بر آمریکا» بر سر قبر خامنه‌ای!<br><br><a href=\"?q=%23%D9%85%D9%88%D8%B4%D8%B9%D9%84%DB%8C\">#موشعلی</a> <a href=\"?q=%23%D9%85%D8%B4%D9%87%D8%AF\">#مشهد</a> <a href=\"?q=%23IRGCterrorists\">#IRGCterrorists</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺🎥 ممنوعیت شعار «مرگ بر آمریکا» بر سر قبر خامنه‌ای! #موشعلی #مشهد #IRGCterrorists @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/7255",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mA4uHwb9EHolzBWiFpB6G31TGDlKq6KND4tpEydkgqgWCNihw0iLgQuVUqDZMvknl8fKrIbQixjUms0SYKYAxL__SrCj_fH0AxGgwEO3ZdahuiUuDY0ujmAFEbjWXIONPRkG7lyJBY0D05tD8Dx_WvEWPnOkxxZK7nkWj0iaWw26fsHDoY-bwZHwUyg1jxPbiEO5gdQQOTzE1DMDInXGMo9GcWDB2t6S7AgVn0DFUVVS9ydK_dONaAgeQgDQym8RkqFT6H80ptftCYY_pk-TJ0K-RqDj-nelmru9pUehdBMw2YyHI6IlAs_v3vlvBFQ86M95_hfsPVCFZLSQCU2LCQ",
+          "thumbnail_path": "channels/dejradio/media/6b41534696924022b78fa0f9.jpg",
+          "duration_label": "0:36",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "1"
+        }
+      ],
+      "views_label": "146",
+      "posted_at": "2026-08-15T09:33:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/7255"
+    },
     {
       "id": "DEJradio/7254",
       "author_name": "DEJ",
@@ -31,18 +60,22 @@
       "reactions": [
         {
           "emoji": "😡",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "👏",
           "count": "3"
         },
         {
+          "emoji": "👍",
+          "count": "2"
+        },
+        {
           "emoji": "🔥",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "476",
+      "views_label": "649",
       "posted_at": "2026-08-15T08:04:08+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7254"
@@ -86,14 +119,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "10"
+          "count": "12"
         },
         {
           "emoji": "🥰",
           "count": "1"
         }
       ],
-      "views_label": "559",
+      "views_label": "684",
       "posted_at": "2026-08-15T07:45:12+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7251"
@@ -119,18 +152,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "23"
+          "count": "24"
         },
         {
           "emoji": "👍",
+          "count": "3"
+        },
+        {
+          "emoji": "👏",
           "count": "1"
         },
         {
           "emoji": "😁",
           "count": "1"
+        },
+        {
+          "emoji": "🤔",
+          "count": "1"
         }
       ],
-      "views_label": "680",
+      "views_label": "787",
       "posted_at": "2026-08-15T07:21:16+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7250"
@@ -160,7 +201,7 @@
         },
         {
           "emoji": "👍",
-          "count": "8"
+          "count": "10"
         },
         {
           "emoji": "🔥",
@@ -171,7 +212,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.85K",
+      "views_label": "1.89K",
       "posted_at": "2026-08-14T21:10:14+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7249"
@@ -212,7 +253,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.75K",
+      "views_label": "1.77K",
       "posted_at": "2026-08-14T20:01:35+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7248"
@@ -249,7 +290,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.68K",
+      "views_label": "1.7K",
       "posted_at": "2026-08-14T19:26:44+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7247"
@@ -294,7 +335,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.99K",
+      "views_label": "2.01K",
       "posted_at": "2026-08-14T15:12:27+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7246"
@@ -327,7 +368,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.81K",
+      "views_label": "1.82K",
       "posted_at": "2026-08-14T15:09:47+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7245"
@@ -368,7 +409,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2K",
+      "views_label": "2.01K",
       "posted_at": "2026-08-14T10:35:38+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7244"
@@ -401,7 +442,7 @@
           "count": "18"
         }
       ],
-      "views_label": "2.02K",
+      "views_label": "2.04K",
       "posted_at": "2026-08-14T10:23:45+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7243"
@@ -442,7 +483,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.75K",
+      "views_label": "1.77K",
       "posted_at": "2026-08-14T10:13:25+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7242"
@@ -459,8 +500,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/DEJradio/7241",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/SEc3cj-sS1aOgDm3a-ZXPB-Cses-lA4CL5GqRjfNEpPy_Q8_8swsNtpaqWLVNo4Wy5fJKgfuySEgXtX8gs80hwm3_ceHIC5Svs5-aDJNIQJOV-42TAopRm-yHF5M_J66vtnLoQlC2wnpln_vrpmOcvrsRoa7uvRYvIKvIQ58W6NWBJLdqi0RbAUrB2L2F_T0FFAPFtz4RR3cYLZfflb9TxEulzHefGt5AWLD1EF42zbjUOHPEbulxc4B-MsHjRip17jhA6TmAX823qj0Q2_7Z1oL5ludb3AsWhV9QOAptz6FPvTyTLe9-hi4WI4gJY2s0kV2bs9WFyxSxLodFOCjzQ.jpg",
-          "thumbnail_path": "channels/dejradio/media/3d8f79d5b56750722965b163.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/FGkonZXOR3ARHuvxN_VT60pnmLuM-oVI7z6ftKew99JeZi4C4scfd677LTW05DrFxPtLOyz3c5ZqHVLAQZj_9Dp7FywzYTvZsmYjvbiTey1LzMMI7BdNfAgGOjFY-TT4bCufZDyUxZNcAAcCQfcEJoFUboJZ-kxKTJI5g4IdEpaAjnfTTT6McaOvNB3Y3JivnGK_Deq_bXYQT-LpTErQm7rlJEeJxv1YCzUrNzMe8LDh2lfWL2hr7lIA9_kvEnabUR58YO9Dy2OU771fgy0RQStl7KbiSqTDmphxK8u0GFfAJ626hD1fJHyoiN2CpRYpS9shm1Y0yrt-SA62Rp5_uw.jpg",
+          "thumbnail_path": "channels/dejradio/media/c97af02c095fb7148d9a6f53.jpg",
           "duration_label": null,
           "aspect_ratio": 0.8
         }
@@ -483,7 +524,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.06K",
+      "views_label": "2.07K",
       "posted_at": "2026-08-14T09:40:33+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7241"
@@ -516,7 +557,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.69K",
+      "views_label": "1.72K",
       "posted_at": "2026-08-14T09:00:08+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/7240"
@@ -557,7 +598,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.59K",
+      "views_label": "1.6K",
       "posted_at": "2026-08-14T08:29:09+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7239"
@@ -602,7 +643,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.73K",
+      "views_label": "1.75K",
       "posted_at": "2026-08-14T07:11:58+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7238"
@@ -643,7 +684,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.5K",
+      "views_label": "1.51K",
       "posted_at": "2026-08-14T07:08:48+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7237"
@@ -711,7 +752,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.58K",
+      "views_label": "1.59K",
       "posted_at": "2026-08-14T07:05:16+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7233"
@@ -4155,35 +4196,6 @@
       "posted_at": "2026-08-08T16:25:34+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7129"
-    },
-    {
-      "id": "DEJradio/7128",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/tBwH9KovM4i8LwKnV5E3GBgDdZK6sOsjtgJptU_4ETSzjw877H8e1Iw2wzuQ1ODsy8Ac0fFJoktQO1IhCIm7zzsefwvVTQjP0odnBVtZGKIJwmiDAcsNMaujkoKHgSX4hd2oE1kzzd7kCZhrSULNJcqlQcITHz_9rbonR1kMwLG6RMUTikeV-h_WRbmO2HwaX4XL0NVq8tfVfwrYl0tQ2aOPOQ46vRpMXW1qeQfG5STzyHQ1BG7xCUA1iawUd9yReys36QXt7KVZgCtzSBaCALKOeB5f7feVvjshsYVR5zpg6Q78sGSSR8KIosJ2okrpZntYX2VyGprB11OyIYyPNQ.jpg",
-      "author_photo_path": "channels/dejradio/media/6fc5c1a84a4a4556c3202716.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i><tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji> از تاخیر در روند مذاکرات و جنگ چه کسی سود می‌برد؟<br> تحلیلی از شایان سمیعی، کارشناس امنیت ملی و امور خاورمیانه<br><br> <a href=\"https://x.com/hashtag/%D8%AA%D9%88%D8%A7%D9%81%D9%82?src=hashtag_click\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">#توافق</a> <a href=\"https://x.com/hashtag/%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87?src=hashtag_click\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">#خاورمیانه</a> <a href=\"https://x.com/hashtag/%D8%AA%D8%AD%D9%84%DB%8C%D9%84?src=hashtag_click\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">#تحلیل</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🎥🔺 از تاخیر در روند مذاکرات و جنگ چه کسی سود می‌برد؟ تحلیلی از شایان سمیعی، کارشناس امنیت ملی و امور خاورمیانه #توافق #خاورمیانه #تحلیل @DEJradio",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/7128",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/pQkiHbeSEuUX3vHdMCJeKlYVmCs4sWYYRXvD3B_iNt3N9y8OrhuEBBdLBIUAd650-SvOsTAQhg6KLd_kQOplGkX23BnL60_87twwkaMUj88DBY9t3-9tK7ewLvcXhv2jQ1O6kYVbEqjtjhyLUnJj6nWdNYH5tNROUiTKax_4XaFyDSLkI9CcMbfknGG9TCSOwui41ygrwynnddlvDeMGdXecvpoHPQSCXMOyaGSmpg1iFhbG_mShfdPc3KgyScvczFAZa7-HtEekKZDl8EpDMO3qKAJXohvSVhs2fRb6fShbMtrbApLYEqhP3mRQzQW2C8U0ML5-l_mPvW5kcEJkRw",
-          "thumbnail_path": "channels/dejradio/media/1174ebf32c413e88801897d5.jpg",
-          "duration_label": "12:07",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "18"
-        }
-      ],
-      "views_label": "1.6K",
-      "posted_at": "2026-08-08T16:13:45+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/7128"
     }
   ]
 }

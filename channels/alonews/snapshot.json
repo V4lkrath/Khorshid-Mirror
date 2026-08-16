@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-16T08:02:40.989Z",
+  "fetched_at": "2026-08-16T08:06:08.244Z",
   "channel": {
     "username": "alonews",
     "title": "اخبار جنگ الونیوز AloNews",
@@ -11,6 +11,51 @@
   },
   "posts": [
     {
+      "id": "alonews/142005",
+      "author_name": "اخبار جنگ الونیوز AloNews",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LXXJysPkfnr6ohUwwySTf_PLF1oj5fiy1NAp47WWeQrAWGddwEtwj3eNK5YwIALbs7BoLCSmD1bJmTPfxI42DsY_satgGzeZdVmBikov0lglnS2KyWOhsNScdJhTzhROVqcjuluSloIvWe_CyNrqTsxx3GL2hbA7GC3sXTZmu19eD8pP4ii5VTyLbo2FgzAaWVSCnX03CbuO607R14eWaBVCBxNy0aFFbQJ_UC097_t7zX-5tLnm_g62CqAo_J_3JtdOeDBqyQLMMIBtk167HLBHfe3BAs2jAV8oAGNLP6tDDStik_H1RtujevZxAwFCMw0kIO0ZKgeMWaJJhHnzGA.jpg",
+      "author_photo_path": "channels/alonews/media/3517011ff17d9535aad2341b.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>آرش اعلایی، خبرنگار سابق اینترنشنال: اسرائیل به دنبال تجزیه ایران هست<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
+      "plain_text": "👈آرش اعلایی، خبرنگار سابق اینترنشنال: اسرائیل به دنبال تجزیه ایران هست ✅ @AloNews",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/alonews/142005",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vp4qsL2qZ6zfgvWLdzyCXq9teEWST74IKKaDarJu2fv4LeUV4cYXNHs3aPtMAdcAM8LLKxG2kTQU9LIA04CfMxg2HkrDP0VhAzXh8JO-bEoQcSafwEAAUYg4UKQQJzQH9C_5GhwBYucf002egcYa36ggH8lzeuXizLAATY5JJdiyJ1e1uVpFIFV1fBJHUkHKCERQ1oph_hDUUOepZ-SXoontHkx6bGY1s6zL3Txdhfv-kAGRyekMrJtNcocN6UB0XBX16YXCxPk5FcaZ2OBrkvDmHK_ratA5W-AlROw40nMyxmAUJbNnTrUce8PDbUN_Hv8ZuoBa94BApzav7gd8bg",
+          "thumbnail_path": "channels/alonews/media/88e3dd7c2a3731ed2b1eb27c.jpg",
+          "duration_label": "0:50",
+          "aspect_ratio": 2.1428571428571277
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "👎",
+          "count": "7"
+        },
+        {
+          "emoji": "👍",
+          "count": "5"
+        },
+        {
+          "emoji": "🖕",
+          "count": "3"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "12",
+      "posted_at": "2026-08-16T08:05:37+00:00",
+      "edited": false,
+      "permalink": "https://t.me/alonews/142005"
+    },
+    {
       "id": "alonews/142004",
       "author_name": "اخبار جنگ الونیوز AloNews",
       "author_photo_url": "https://cdn4.telesco.pe/file/LXXJysPkfnr6ohUwwySTf_PLF1oj5fiy1NAp47WWeQrAWGddwEtwj3eNK5YwIALbs7BoLCSmD1bJmTPfxI42DsY_satgGzeZdVmBikov0lglnS2KyWOhsNScdJhTzhROVqcjuluSloIvWe_CyNrqTsxx3GL2hbA7GC3sXTZmu19eD8pP4ii5VTyLbo2FgzAaWVSCnX03CbuO607R14eWaBVCBxNy0aFFbQJ_UC097_t7zX-5tLnm_g62CqAo_J_3JtdOeDBqyQLMMIBtk167HLBHfe3BAs2jAV8oAGNLP6tDDStik_H1RtujevZxAwFCMw0kIO0ZKgeMWaJJhHnzGA.jpg",
@@ -18,8 +63,25 @@
       "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>کارمزد ساتنا و پایا هم با دلار بالا رفت<br><blockquote expandable=\"\"><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>جدیدترین نرخ کارمزدهای بانکی نشان می‌دهد کف کارمزد پایا با رشد ۳۳ درصدی به ۴۰۰ تومان و سقف آن با رشد ۶۰ درصدی به ۱۲ هزار تومان رسیده است.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>سقف کارمزد ساتنا نیز ۵۰ هزار تومان شده و کارت‌به‌کارت تا یک میلیون تومان ۱۱۰۰ تومان و با هر میلیون اضافه، ۳۵۰ تومان بیشتر می‌شود.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>معاون فناوری اطلاعات بانک شهر می‌گوید که کارمزدهای بانکی نسبت به وضعیت قیمت دلار خیلی عقب مانده است؛ چون خرید تجهیزات دلاری است و دستمزد توسعه‌دهندگان نرم‌افزار بالاست باید متناسب با آن کارمزدها افزایش پیدا کند.<br><br><tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>پیشتر رئیس‌مجلس گفته بود که افزایش نرخ ارز نباید بر بسیاری از کالاها و خدمات اثرگذار باشد؛ چرا که اساساً ارتباطی با ارز ندارند.<br></blockquote><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
       "plain_text": "👈کارمزد ساتنا و پایا هم با دلار بالا رفت 🔴جدیدترین نرخ کارمزدهای بانکی نشان می‌دهد کف کارمزد پایا با رشد ۳۳ درصدی به ۴۰۰ تومان و سقف آن با رشد ۶۰ درصدی به ۱۲ هزار تومان رسیده است. 🔴سقف کارمزد ساتنا نیز ۵۰ هزار تومان شده و کارت‌به‌کارت تا یک میلیون تومان ۱۱۰۰ تومان و با هر میلیون اضافه، ۳۵۰ تومان بیشتر می‌شود. 🔴معاون فناوری اطلاعات بانک شهر می‌گوید که کارمزدهای بانکی نسبت به وضعیت قیمت دلار خیلی عقب مانده است؛ چون خرید تجهیزات دلاری است و دستمزد توسعه‌دهندگان نرم‌افزار بالاست باید متناسب با آن کارمزدها افزایش پیدا کند. 🔴پیشتر رئیس‌مجلس گفته بود که افزایش نرخ ارز نباید بر بسیاری از کالاها و خدمات اثرگذار باشد؛ چرا که اساساً ارتباطی با ارز ندارند. ✅ @AloNews",
       "media": [],
-      "reactions": [],
-      "views_label": "1",
+      "reactions": [
+        {
+          "emoji": "🤬",
+          "count": "43"
+        },
+        {
+          "emoji": "🖕",
+          "count": "13"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "🍾",
+          "count": "2"
+        }
+      ],
+      "views_label": "3.05K",
       "posted_at": "2026-08-16T08:02:24+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/142004"
@@ -35,19 +97,19 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "57"
+          "count": "76"
         },
         {
           "emoji": "🤣",
-          "count": "31"
+          "count": "43"
         },
         {
           "emoji": "🔥",
-          "count": "17"
+          "count": "27"
         },
         {
           "emoji": "❤",
-          "count": "14"
+          "count": "21"
         },
         {
           "emoji": "👍",
@@ -58,7 +120,7 @@
           "count": "2"
         }
       ],
-      "views_label": "3.09K",
+      "views_label": "6.13K",
       "posted_at": "2026-08-16T07:57:57+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/142003"
@@ -74,22 +136,22 @@
       "reactions": [
         {
           "emoji": "🍌",
-          "count": "32"
+          "count": "35"
+        },
+        {
+          "emoji": "🤣",
+          "count": "7"
         },
         {
           "emoji": "❤",
           "count": "6"
         },
         {
-          "emoji": "🤣",
-          "count": "5"
-        },
-        {
           "emoji": "🔥",
           "count": "1"
         }
       ],
-      "views_label": "6.15K",
+      "views_label": "8.18K",
       "posted_at": "2026-08-16T07:54:36+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/142002"
@@ -105,15 +167,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "28"
+          "count": "29"
         },
         {
           "emoji": "👍",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "❤",
-          "count": "4"
+          "count": "7"
         },
         {
           "emoji": "🖕",
@@ -124,7 +186,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.2K",
+      "views_label": "12.3K",
       "posted_at": "2026-08-16T07:45:03+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/142001"
@@ -140,11 +202,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "94"
+          "count": "99"
         },
         {
           "emoji": "❤",
-          "count": "26"
+          "count": "29"
         },
         {
           "emoji": "👍",
@@ -159,7 +221,7 @@
           "count": "4"
         }
       ],
-      "views_label": "12.3K",
+      "views_label": "13.3K",
       "posted_at": "2026-08-16T07:41:16+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/142000"
@@ -207,18 +269,18 @@
         },
         {
           "emoji": "❤",
-          "count": "27"
+          "count": "30"
         },
         {
           "emoji": "🖕",
-          "count": "12"
+          "count": "13"
         },
         {
           "emoji": "🔥",
           "count": "8"
         }
       ],
-      "views_label": "14.3K",
+      "views_label": "15.4K",
       "posted_at": "2026-08-16T07:35:04+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/141997"
@@ -234,11 +296,11 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "91"
+          "count": "93"
         },
         {
           "emoji": "❤",
-          "count": "25"
+          "count": "27"
         },
         {
           "emoji": "🤣",
@@ -253,7 +315,7 @@
           "count": "2"
         }
       ],
-      "views_label": "15.4K",
+      "views_label": "16.4K",
       "posted_at": "2026-08-16T07:29:00+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/141996"
@@ -269,11 +331,11 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "128"
+          "count": "132"
         },
         {
           "emoji": "🤣",
-          "count": "49"
+          "count": "51"
         },
         {
           "emoji": "❤",
@@ -292,7 +354,7 @@
           "count": "1"
         }
       ],
-      "views_label": "18.4K",
+      "views_label": "19.4K",
       "posted_at": "2026-08-16T07:20:49+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/141995"
@@ -308,11 +370,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "173"
+          "count": "177"
         },
         {
           "emoji": "👍",
-          "count": "61"
+          "count": "63"
         },
         {
           "emoji": "🖕",
@@ -327,7 +389,7 @@
           "count": "2"
         }
       ],
-      "views_label": "19.4K",
+      "views_label": "20.5K",
       "posted_at": "2026-08-16T07:16:19+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/141994"
@@ -353,7 +415,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "218"
+          "count": "224"
         },
         {
           "emoji": "👍",
@@ -368,7 +430,7 @@
           "count": "8"
         }
       ],
-      "views_label": "21.5K",
+      "views_label": "22.5K",
       "posted_at": "2026-08-16T07:09:12+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/141993"
@@ -384,15 +446,15 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "255"
+          "count": "256"
         },
         {
           "emoji": "❤",
-          "count": "47"
+          "count": "48"
         },
         {
           "emoji": "👍",
-          "count": "30"
+          "count": "32"
         },
         {
           "emoji": "🤬",
@@ -400,7 +462,7 @@
         },
         {
           "emoji": "💔",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "😎",
@@ -415,7 +477,7 @@
           "count": "2"
         }
       ],
-      "views_label": "23.5K",
+      "views_label": "24.6K",
       "posted_at": "2026-08-16T06:57:10+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/141992"
@@ -439,7 +501,7 @@
         },
         {
           "emoji": "❤",
-          "count": "12"
+          "count": "13"
         },
         {
           "emoji": "👍",
@@ -474,7 +536,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "126"
+          "count": "129"
         },
         {
           "emoji": "🖕",
@@ -482,7 +544,7 @@
         },
         {
           "emoji": "👍",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "🔥",
@@ -513,11 +575,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "286"
+          "count": "292"
         },
         {
           "emoji": "🖕",
-          "count": "138"
+          "count": "139"
         },
         {
           "emoji": "🤬",
@@ -536,7 +598,7 @@
           "count": "4"
         }
       ],
-      "views_label": "29.7K",
+      "views_label": "30.7K",
       "posted_at": "2026-08-16T06:26:36+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/141989"
@@ -589,7 +651,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "162"
+          "count": "163"
         },
         {
           "emoji": "❤",
@@ -620,7 +682,7 @@
           "count": "1"
         }
       ],
-      "views_label": "30.7K",
+      "views_label": "31.7K",
       "posted_at": "2026-08-16T06:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/141985"
@@ -5080,55 +5142,6 @@
       "posted_at": "2026-08-15T17:25:01+00:00",
       "edited": false,
       "permalink": "https://t.me/alonews/141884"
-    },
-    {
-      "id": "alonews/141883",
-      "author_name": "اخبار جنگ الونیوز AloNews",
-      "author_photo_url": "https://cdn4.telesco.pe/file/LXXJysPkfnr6ohUwwySTf_PLF1oj5fiy1NAp47WWeQrAWGddwEtwj3eNK5YwIALbs7BoLCSmD1bJmTPfxI42DsY_satgGzeZdVmBikov0lglnS2KyWOhsNScdJhTzhROVqcjuluSloIvWe_CyNrqTsxx3GL2hbA7GC3sXTZmu19eD8pP4ii5VTyLbo2FgzAaWVSCnX03CbuO607R14eWaBVCBxNy0aFFbQJ_UC097_t7zX-5tLnm_g62CqAo_J_3JtdOeDBqyQLMMIBtk167HLBHfe3BAs2jAV8oAGNLP6tDDStik_H1RtujevZxAwFCMw0kIO0ZKgeMWaJJhHnzGA.jpg",
-      "author_photo_path": "channels/alonews/media/3517011ff17d9535aad2341b.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5801148099766260058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i></tg-emoji>نورنیوز: ۲۶ خرداد، تفاهم تهران و واشنگتن شکل گرفت؛ ۲۷ خرداد، در منامه مقاماتی از آمریکا، اسرائیل و امارات دور یک میز نشستند<br><br>‏<tg-emoji emoji-id=\"4926956800005112527\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> موضوع فقط تنگه هرمز نبود؛ مسئله، جلوگیری از تثبیت تفاهم بود.چراغ «اتاق تخریب» درست یک روز پس از «میز تفاهم» روشن شد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/AloNews\" target=\"_blank\">@AloNews</a>",
-      "plain_text": "👈نورنیوز: ۲۶ خرداد، تفاهم تهران و واشنگتن شکل گرفت؛ ۲۷ خرداد، در منامه مقاماتی از آمریکا، اسرائیل و امارات دور یک میز نشستند ‏🔴 موضوع فقط تنگه هرمز نبود؛ مسئله، جلوگیری از تثبیت تفاهم بود.چراغ «اتاق تخریب» درست یک روز پس از «میز تفاهم» روشن شد ✅ @AloNews",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/alonews/141883",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/DS7qvOWA5y9gslBzDyf-XK7ZQy_IRBcnH6ZDHBD5GbL_bzU5Njp5Kngb0gpH3iTQXL2ul1Xpf_9U9diHBq-Ttbh2eH5WOHgAWqAaKTtvLR-7WfY3JgsBRyxxFgSyV6In7frVHpB6AHejfoFSNjcR0uIaZuJRwBTE-AzmThVBPjkkbhtAPPovPJJUGbvyCdhbjoG5zlfBBO23T5h7LWA2lAaNd-B4nU__YcQNGRSA61V1mxUxSma1j2gH5QJHBgCMFHVVTitVnIC506NYa88Ke4mOixRHN70KJNLnrrvaGXVaYL-wxsjIkeX7M3B7p-SZI3VB4oypTBu9hvQERl5zTg.jpg",
-          "thumbnail_path": "channels/alonews/media/3652fea4ae0afdf7500fc7ea.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.1019283746556474
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "85"
-        },
-        {
-          "emoji": "🖕",
-          "count": "33"
-        },
-        {
-          "emoji": "❤",
-          "count": "15"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        },
-        {
-          "emoji": "🤣",
-          "count": "2"
-        },
-        {
-          "emoji": "🤬",
-          "count": "1"
-        }
-      ],
-      "views_label": "31.7K",
-      "posted_at": "2026-08-15T17:21:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/alonews/141883"
     }
   ]
 }

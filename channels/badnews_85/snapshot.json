@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-17T09:14:03.889Z",
+  "fetched_at": "2026-08-17T09:31:43.661Z",
   "channel": {
     "username": "badnews_85",
     "title": "BadNews85 | بدنیوز",
@@ -10,6 +10,47 @@
     "subscriber_count": "235K"
   },
   "posts": [
+    {
+      "id": "BadNews_85/28412",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/L7OzGo0OTH4U4d23EZC9lYqGLTunPic53za1r1ZH_UWbZx6Vyo-8mFr0hWkSaSUCCqK66TjGAND3jDjZjhC6bHl8XNZb2DrqhroxQNx0zV3uc-IHiBto8eWUQIuhx2TflrZpuhN-AZEJCQ2_AK_80wl6VFoAXvpjCSSFRSi6ImEL1bLm8MpAxBrpNJBPHVaHm65Fc25ZQBi1iHqlgI5eEsFMm5TH25F5JWsBIqPjjTvszHPDh56OUwdQAdV_4bqbq7zHsKgaRlvW42K73zphbs67ZJv3CA0kRT1myFepMjP9leOdmnxUHm3My1b8JQgoULZvFcT5XTmqW69rQDkGFw.jpg",
+      "author_photo_path": "channels/badnews_85/media/7066408db6ab3d1958a274af.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>امروز 17 August ، روز دوست داشتن پاهاست؛<br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
+      "plain_text": "🔴امروز 17 August ، روز دوست داشتن پاهاست؛ @BadNews_85",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/BadNews_85/28412",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qziIGh8ARJvG5l5I5KuV3ZU4yiEPgk_zTq6MFGEBeIBMGHKZLh3fVJOLcYO-0xsTF0eo5CPbIxtR0ZKFn6jKZcdoRXudcXUvIEAQC5VVAeKOqFWaG4T7m2fcVKv-7pY2W9UICrnw-cxfqHKU9l6s4VOtN2cTbAhZYoRGhNkiotTOrMQwXjMDwci9MQm8NaS3YfnarWu9ACc92e50eIMeuVxnDVLHx5mMizyyMtAziTKAhDgbXD9l9kqbihMVXxFVHtR-Nit06ax_paVzWqcxeJg8hFC6dwrQBO6G57cHzg2M9A3gksszsfI38zVUmvXonHhLmosLH1LXnIZWhrpKBg",
+          "thumbnail_path": "channels/badnews_85/media/022cc452e65212de700be29d.jpg",
+          "duration_label": "0:07",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🖕",
+          "count": "54"
+        },
+        {
+          "emoji": "😐",
+          "count": "30"
+        },
+        {
+          "emoji": "🤣",
+          "count": "11"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        }
+      ],
+      "views_label": "2.06K",
+      "posted_at": "2026-08-17T09:20:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/28412"
+    },
     {
       "id": "BadNews_85/28411",
       "author_name": "BadNews85 | بدنیوز",
@@ -31,22 +72,26 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "123"
+          "count": "293"
         },
         {
           "emoji": "🖕",
-          "count": "6"
+          "count": "14"
         },
         {
           "emoji": "😐",
-          "count": "2"
+          "count": "6"
         },
         {
           "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "👍",
           "count": "1"
         }
       ],
-      "views_label": "1.28K",
+      "views_label": "3.64K",
       "posted_at": "2026-08-17T09:08:45+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28411"
@@ -70,7 +115,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.16K",
+      "views_label": "3.46K",
       "posted_at": "2026-08-17T09:08:43+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28410"
@@ -96,15 +141,15 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "244"
+          "count": "253"
         },
         {
           "emoji": "🖕",
-          "count": "105"
+          "count": "109"
         },
         {
           "emoji": "😐",
-          "count": "56"
+          "count": "59"
         },
         {
           "emoji": "🤣",
@@ -127,7 +172,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.5K",
+      "views_label": "16.4K",
       "posted_at": "2026-08-16T22:35:47+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28409"
@@ -160,7 +205,7 @@
           "count": "2"
         }
       ],
-      "views_label": "15.3K",
+      "views_label": "16.1K",
       "posted_at": "2026-08-16T22:35:38+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28408"
@@ -186,15 +231,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "573"
+          "count": "584"
         },
         {
           "emoji": "💔",
-          "count": "61"
+          "count": "62"
         },
         {
           "emoji": "😐",
-          "count": "29"
+          "count": "30"
         },
         {
           "emoji": "❤",
@@ -217,7 +262,7 @@
           "count": "2"
         }
       ],
-      "views_label": "19.6K",
+      "views_label": "20.1K",
       "posted_at": "2026-08-16T19:39:51+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28407"
@@ -243,7 +288,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "691"
+          "count": "700"
         },
         {
           "emoji": "👍",
@@ -274,7 +319,7 @@
           "count": "1"
         }
       ],
-      "views_label": "20.7K",
+      "views_label": "21.1K",
       "posted_at": "2026-08-16T18:36:50+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28406"
@@ -300,7 +345,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "2.08K"
+          "count": "2.1K"
         },
         {
           "emoji": "🤬",
@@ -331,7 +376,7 @@
           "count": "1"
         }
       ],
-      "views_label": "21.4K",
+      "views_label": "21.7K",
       "posted_at": "2026-08-16T17:44:51+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28405"
@@ -384,7 +429,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "551"
+          "count": "556"
         },
         {
           "emoji": "🤣",
@@ -403,7 +448,7 @@
           "count": "5"
         }
       ],
-      "views_label": "21.9K",
+      "views_label": "22.2K",
       "posted_at": "2026-08-16T16:22:46+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28401"
@@ -436,7 +481,7 @@
           "count": "1"
         }
       ],
-      "views_label": "21K",
+      "views_label": "21.4K",
       "posted_at": "2026-08-16T16:22:44+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28400"
@@ -485,7 +530,7 @@
           "count": "1"
         }
       ],
-      "views_label": "22.5K",
+      "views_label": "22.7K",
       "posted_at": "2026-08-16T13:15:12+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28399"
@@ -520,7 +565,7 @@
           "count": "5"
         }
       ],
-      "views_label": "23.7K",
+      "views_label": "24K",
       "posted_at": "2026-08-16T09:54:45+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28398"
@@ -546,7 +591,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "411"
+          "count": "412"
         },
         {
           "emoji": "😐",
@@ -573,7 +618,7 @@
           "count": "2"
         }
       ],
-      "views_label": "24.7K",
+      "views_label": "24.9K",
       "posted_at": "2026-08-16T08:38:20+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28397"
@@ -610,7 +655,7 @@
           "count": "1"
         }
       ],
-      "views_label": "24.1K",
+      "views_label": "24.2K",
       "posted_at": "2026-08-16T08:38:08+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28396"
@@ -645,7 +690,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "511"
+          "count": "512"
         },
         {
           "emoji": "🤣",
@@ -672,7 +717,7 @@
           "count": "1"
         }
       ],
-      "views_label": "27.3K",
+      "views_label": "27.5K",
       "posted_at": "2026-08-15T21:30:14+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28394"
@@ -727,7 +772,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "746"
+          "count": "747"
         },
         {
           "emoji": "💔",
@@ -754,7 +799,7 @@
           "count": "1"
         }
       ],
-      "views_label": "27.7K",
+      "views_label": "27.8K",
       "posted_at": "2026-08-15T20:07:22+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28392"
@@ -5107,59 +5152,6 @@
       "posted_at": "2026-08-10T18:38:56+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28278"
-    },
-    {
-      "id": "BadNews_85/28277",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/qJF5-LjBuK3LqFwoCw5yw35d9vB_LGRLUJxHtyd2mUOuCexU_NfpJDt5yyPeY3em0VW4GqWk7RwLybo6_Gz2TL5Tn2DmCSOrqDWzREWe_Ud5cc1uA6hu5mncu5e7qTRJ95dt2rRVgfcNNT8_HUjj38weAA6x9j3RFE6PfxdHO15OxpvgXy7kC2YsWrokAumoyNnwGVUAG7B1rti1b0xCAc_vS-kE3pBYPLwcZjR6dks4LhVCNP9hpAA82skYo4h1ac4mWABMlcK4e2vfWWGSy1d-_4oHEDphOUypudlGmU8DozgOuhJur446uwcWFOGYcUfb772iKOMXg5lOkU7EoA.jpg",
-      "author_photo_path": "channels/badnews_85/media/a8a7e79679acc11ea801d5ec.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b> ترامپ : جمهوری اسلامی باید به ما غرامت بده!</b><br><blockquote>من متوجه شدم که نماینده‌های جمهوری اسلامی درخواست غرامت برای خساراتی که در طول جنگ بهشون وارد شده رو داشتن.<br></blockquote><blockquote>عجب ایده خوبی! حالا که اینطوریه من درخواست غرامت از ایران رو دارم، برای تمام افرادی که در طول جنگ،با بمب به قتل رسوندن.<br></blockquote><blockquote>علاوه بر این باید، غرامت تمام جاویدنام‌های ایران که در 50 سال اخیر به قتل رسوندن رو بدن، از جمله 52 هزار جاویدنام دی ماه، باید جمهوری اسلامی بهشون غرامت بده<br></blockquote><blockquote>من به نماینده‌هام دستور دادم که حتما توی مذاکرات پیگیر این موضوع بشن.</blockquote><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
-      "plain_text": "🔴 ترامپ : جمهوری اسلامی باید به ما غرامت بده! من متوجه شدم که نماینده‌های جمهوری اسلامی درخواست غرامت برای خساراتی که در طول جنگ بهشون وارد شده رو داشتن. عجب ایده خوبی! حالا که اینطوریه من درخواست غرامت از ایران رو دارم، برای تمام افرادی که در طول جنگ،با بمب به قتل رسوندن. علاوه بر این باید، غرامت تمام جاویدنام‌های ایران که در 50 سال اخیر به قتل رسوندن رو بدن، از جمله 52 هزار جاویدنام دی ماه، باید جمهوری اسلامی بهشون غرامت بده من به نماینده‌هام دستور دادم که حتما توی مذاکرات پیگیر این موضوع بشن. @BadNews_85",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/BadNews_85/28277",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/I_ePAGZjq4vqmiodTpQWKzGtGe-nsWSwfNcYXKvedaLdSY4tR-EGHE0aGlUn85WhXCQMl4Kb4s1_oQhvCUgSWkmCunqdw6i9s2eyX2q1OojQaLnbS8k8-VexRsFmtw9gM7hO7arwBcv_lym8B0Yxor4dfSoLH9H5cpMzg0aqr8aaMgeZHt207bwsD_Rs-SNTycYo_G8GoZrAk2Cf5K_zpWvbmj4m3K5NCjMj5SNZy40GN5N9b_GjxXqvlPpGlD2gUgvoUwMI0udh98iXUjTZS1xwuSar0OhnAwBCbsEUCB0BK9u2dlHlTtcag1qxtQVqcXTvnUH9GbomxzS9Lrg0cA.jpg",
-          "thumbnail_path": "channels/badnews_85/media/98fc519a5cb335a7e74ed1a1.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.1560693641618498
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "337"
-        },
-        {
-          "emoji": "❤",
-          "count": "144"
-        },
-        {
-          "emoji": "🖕",
-          "count": "55"
-        },
-        {
-          "emoji": "👍",
-          "count": "29"
-        },
-        {
-          "emoji": "😐",
-          "count": "7"
-        },
-        {
-          "emoji": "🔥",
-          "count": "6"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "3"
-        }
-      ],
-      "views_label": "26.4K",
-      "posted_at": "2026-08-10T17:34:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/28277"
     }
   ]
 }

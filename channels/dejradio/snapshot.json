@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-17T08:08:09.743Z",
+  "fetched_at": "2026-08-17T08:27:33.935Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,30 @@
     "subscriber_count": "13.5K"
   },
   "posts": [
+    {
+      "id": "DEJradio/7286",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/OofrZQkqkgnGPanXjqgAaVybZCRoyfj8CaAwKXKDwmvHHjUJVVGeL--xKxO8oK0WrJM8e36KCpLxlNlonO-9rXGWvJv3l8GIgPrLBRzCxo-qihfUey78udTQuZjNiew2B5d0O2rZ-aFF7SVUFoawNFOMqC1thKdiECmN1kblN9sUd_GDwbKZMG_hSdr9LRifwxI3At5nK3e2WTBDyJ3nhCBH-AH7jTHYu-Hxh5KXwU0fNcAdVT-ztOrF3mQGuFh_b8pkKTdONdJ0TI0VJ_eIzA0wr7L_r6oXvTlPQLQTjA7LfQ3Jx-TNTqWZ-QoJiDdF4pW_KPMbLaiRlC7SdiV85Q.jpg",
+      "author_photo_path": "channels/dejradio/media/70e8c28a150ba674d064b9e5.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA4.png')\"><b>🎤</b></i> قهرمانی در تبعید؛ شکست جمهوری اسلامی در برابر زنان ایران<br><br>گفت‌وگو با بهناز آذر، قهرمان بدنسازی<br><br><a href=\"?q=%23%D8%A8%D8%AF%D9%86%D8%B3%D8%A7%D8%B2%DB%8C\">#بدنسازی</a> <a href=\"?q=%23%D8%AA%D8%A8%D8%B9%DB%8C%D8%AF\">#تبعید</a> <a href=\"?q=%23%D9%88%D8%B1%D8%B2%D8%B4_%D8%B2%D9%86%D8%A7%D9%86\">#ورزش_زنان</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺🎤 قهرمانی در تبعید؛ شکست جمهوری اسلامی در برابر زنان ایران گفت‌وگو با بهناز آذر، قهرمان بدنسازی #بدنسازی #تبعید #ورزش_زنان @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/7286",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/J2kvtf2cMvrz3OUQpEsPD-_lTJ9odMMcjf2meyKNsSMfa2IOZj2Nnf1uxsyzTccG3FexBGXOABVJlLz7vTNSx2juy5TuJCViU3CqxKRhkDEHB3Csa7qZVvKLc3iyKYX13l_HzLNTNGUymEj0PbYyEflxbl729RTZuXeOHInl4BzkS_azmI40G_TA8VbqjsH3UKoX64uwtmMtt77PQ_oW90UWXp_wQhiJV8OKTkSPETOCdba4P4RMdm8b1Lpp2ySWqKpwuRSOQOEHpB_W-D1QTc-W7xxYXwMDc5wIftIjmg24M38nyRSO-sEEmX2lTTacRDEVPxzERwkTvD-EmXJVSA",
+          "thumbnail_path": "channels/dejradio/media/33ab73ada45570fa53bbeb48.jpg",
+          "duration_label": "9:32",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "131",
+      "posted_at": "2026-08-17T08:17:55+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/7286"
+    },
     {
       "id": "DEJradio/7283",
       "author_name": "DEJ",
@@ -49,10 +73,14 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "10"
+          "count": "11"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         }
       ],
-      "views_label": "288",
+      "views_label": "424",
       "posted_at": "2026-08-17T07:35:44+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7283"
@@ -85,7 +113,7 @@
           "count": "2"
         }
       ],
-      "views_label": "401",
+      "views_label": "515",
       "posted_at": "2026-08-17T07:23:57+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7281"
@@ -114,7 +142,7 @@
           "count": "8"
         }
       ],
-      "views_label": "479",
+      "views_label": "553",
       "posted_at": "2026-08-17T07:15:52+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7279"
@@ -161,7 +189,7 @@
           "count": "8"
         }
       ],
-      "views_label": "488",
+      "views_label": "563",
       "posted_at": "2026-08-17T07:12:08+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7276"
@@ -198,7 +226,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.64K",
+      "views_label": "1.65K",
       "posted_at": "2026-08-16T17:49:40+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7275"
@@ -235,7 +263,7 @@
           "count": "6"
         }
       ],
-      "views_label": "1.98K",
+      "views_label": "1.99K",
       "posted_at": "2026-08-16T15:43:18+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/7274"
@@ -331,7 +359,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.45K",
+      "views_label": "1.46K",
       "posted_at": "2026-08-16T14:56:01+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7270"
@@ -372,7 +400,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.21K",
+      "views_label": "1.22K",
       "posted_at": "2026-08-16T14:54:02+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7269"
@@ -409,7 +437,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.42K",
+      "views_label": "1.44K",
       "posted_at": "2026-08-16T14:52:30+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7268"
@@ -450,7 +478,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.48K",
+      "views_label": "1.49K",
       "posted_at": "2026-08-16T14:48:28+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7267"
@@ -4132,55 +4160,6 @@
       "posted_at": "2026-08-10T09:32:31+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7156"
-    },
-    {
-      "id": "DEJradio/7155",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/H3zyDQvILSggqpgDqZAaTQ64-4n1S_hPIS34mjjM7sLndrHSSNLqXSDf7xE1aVqKyuAlWC2IbJaPf2v8TB4O5zRLKeFfszvS37LoZJ5AslJN---SjNYqaFl4LtIza11V8AEMp8SyAFCMN9F960bU8-sSb1tgmjPqYbAwLUK-wymdI6fMYvAb1C_CA1z_1t1-itMw81Bo187I2eV6eXMib692gmw26_a2xq6fC4IDG9YmfEIxRlgprMEEhlaMS8ES0-q_GqZG0CgOsh8z1oamPSyDJ0-1aRy--fjsNVjujrFid5Pn-1AnzMx6MbqbGpR1h6O8Ym0aDvEwhx9WwwsDsw.jpg",
-      "author_photo_path": "channels/dejradio/media/55046b0a31dcc2903ce10a92.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i> اعطای مدرک کیلویی به حافظان قرآن؛<br>دریافت لیسانس بدون دیپلم <br><br><a href=\"?q=%23%D8%AF%DB%8C%D9%BE%D9%84%D9%85\">#دیپلم</a> <a href=\"?q=%23%D9%84%DB%8C%D8%B3%D8%A7%D9%86%D8%B3\">#لیسانس</a> <a href=\"?q=%23%D8%AD%D8%A7%D9%81%D8%B8_%D9%82%D8%B1%D8%A2%D9%86\">#حافظ_قرآن</a> <a href=\"?q=%23%D9%85%D8%AF%D8%B1%DA%A9_%DA%A9%DB%8C%D9%84%D9%88%DB%8C%DB%8C\">#مدرک_کیلویی</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🔺📷 اعطای مدرک کیلویی به حافظان قرآن؛ دریافت لیسانس بدون دیپلم #دیپلم #لیسانس #حافظ_قرآن #مدرک_کیلویی @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7155",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/foEGMKw8eiRXIhthX_OJfGOFTquEvE9B3sB96LFn7DhSSn4exzk6A5mTCN0JrrtHVlqT5YiHaPb2Glej2uWFWeFrXJF6QTkyhgApqERlLhhHYBdjXoblLnWT0-wNRDiB32n5mDbXiAZTHU_KbdngYNWcunuUtJURpAfpSxtKLpXyPL7Mvtpv3CrQLZtDNWkmnzPLKxl6iAKS7TjPTWOPzT-dSJyPGpzaGveojNwg52MbGqRCii55P2VLmkg_DkrzsP-IkqAtNd0a6af6JMdUBpcK4bptbECfrj8S0ep4TOxMT4ZjInD-LDMAR3vz-hYmMennZXYq8_UkxKrXx0kJRw.jpg",
-          "thumbnail_path": "channels/dejradio/media/f05b7c5801c5c5225424c19e.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤮",
-          "count": "47"
-        },
-        {
-          "emoji": "😡",
-          "count": "11"
-        },
-        {
-          "emoji": "🤬",
-          "count": "3"
-        },
-        {
-          "emoji": "🖕",
-          "count": "3"
-        },
-        {
-          "emoji": "👎",
-          "count": "2"
-        },
-        {
-          "emoji": "👏",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.7K",
-      "posted_at": "2026-08-10T07:34:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/7155"
     }
   ]
 }

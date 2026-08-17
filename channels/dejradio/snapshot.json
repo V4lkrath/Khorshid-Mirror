@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-17T08:27:33.935Z",
+  "fetched_at": "2026-08-17T08:57:41.482Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,39 @@
     "subscriber_count": "13.5K"
   },
   "posts": [
+    {
+      "id": "DEJradio/7287",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/OofrZQkqkgnGPanXjqgAaVybZCRoyfj8CaAwKXKDwmvHHjUJVVGeL--xKxO8oK0WrJM8e36KCpLxlNlonO-9rXGWvJv3l8GIgPrLBRzCxo-qihfUey78udTQuZjNiew2B5d0O2rZ-aFF7SVUFoawNFOMqC1thKdiECmN1kblN9sUd_GDwbKZMG_hSdr9LRifwxI3At5nK3e2WTBDyJ3nhCBH-AH7jTHYu-Hxh5KXwU0fNcAdVT-ztOrF3mQGuFh_b8pkKTdONdJ0TI0VJ_eIzA0wr7L_r6oXvTlPQLQTjA7LfQ3Jx-TNTqWZ-QoJiDdF4pW_KPMbLaiRlC7SdiV85Q.jpg",
+      "author_photo_path": "channels/dejradio/media/70e8c28a150ba674d064b9e5.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i> ریال؛ کاغذ بی‌اعتبار<br><br><a href=\"?q=%23%D8%B1%DB%8C%D8%A7%D9%84\">#ریال</a> <a href=\"?q=%23%D8%AA%D9%88%D8%B1%D9%85\">#تورم</a> <a href=\"?q=%23%D8%A7%D8%B1%D8%B2%D8%B4_%D9%BE%D9%88%D9%84\">#ارزش_پول</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺📢 ریال؛ کاغذ بی‌اعتبار #ریال #تورم #ارزش_پول @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/7287",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/IPR_XL2220xcuvXKt1yEjbvRrLiINVGTP9NJogsBmeO-pZkkt6S7Qb4IlShbkgFCygsZusctSa0M4nRH7B5KYGsLBV8aaN5PTISmT3APvR8857OUL52J9zcnqB5YesDbJZsppDx_wpEKetkR5s76Xugwq_fuf0UAqh1qJuHhpzDp6T9GreLR7ewqzogXZCamVCvJyUcAAQmnbWAKy3KL7LvzvsXN1j0lIoozSaK9wF-ljvQXYVp9qNWUmwkYEznB9jKn9LvgRyV1aehgJrSL_PNoAKh4lR_H86UetuV0UpPxlTjOTFW7JvTo_hYbjFImExo-3TtuSCSw8HM3vx8roA",
+          "thumbnail_path": "channels/dejradio/media/d465c318eb796bbf3d09e74a.jpg",
+          "duration_label": "1:13",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👌",
+          "count": "3"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "220",
+      "posted_at": "2026-08-17T08:31:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/7287"
+    },
     {
       "id": "DEJradio/7286",
       "author_name": "DEJ",
@@ -28,8 +61,17 @@
           "aspect_ratio": 1.7777777777777777
         }
       ],
-      "reactions": [],
-      "views_label": "131",
+      "reactions": [
+        {
+          "emoji": "🥰",
+          "count": "3"
+        },
+        {
+          "emoji": "👏",
+          "count": "1"
+        }
+      ],
+      "views_label": "337",
       "posted_at": "2026-08-17T08:17:55+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7286"
@@ -73,14 +115,18 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "11"
+          "count": "15"
         },
         {
           "emoji": "❤",
           "count": "1"
+        },
+        {
+          "emoji": "🤮",
+          "count": "1"
         }
       ],
-      "views_label": "424",
+      "views_label": "554",
       "posted_at": "2026-08-17T07:35:44+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7283"
@@ -106,14 +152,18 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "👍",
-          "count": "2"
+          "count": "4"
+        },
+        {
+          "emoji": "🤔",
+          "count": "1"
         }
       ],
-      "views_label": "515",
+      "views_label": "608",
       "posted_at": "2026-08-17T07:23:57+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7281"
@@ -139,10 +189,10 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "8"
+          "count": "13"
         }
       ],
-      "views_label": "553",
+      "views_label": "646",
       "posted_at": "2026-08-17T07:15:52+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7279"
@@ -186,10 +236,10 @@
       "reactions": [
         {
           "emoji": "😡",
-          "count": "8"
+          "count": "12"
         }
       ],
-      "views_label": "563",
+      "views_label": "653",
       "posted_at": "2026-08-17T07:12:08+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7276"
@@ -215,7 +265,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "12"
+          "count": "13"
         },
         {
           "emoji": "❤",
@@ -226,7 +276,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.65K",
+      "views_label": "1.68K",
       "posted_at": "2026-08-16T17:49:40+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7275"
@@ -252,18 +302,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "31"
+          "count": "34"
         },
         {
           "emoji": "👍",
-          "count": "23"
+          "count": "24"
         },
         {
           "emoji": "👌",
           "count": "6"
         }
       ],
-      "views_label": "1.99K",
+      "views_label": "2.01K",
       "posted_at": "2026-08-16T15:43:18+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/7274"
@@ -307,14 +357,14 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "31"
+          "count": "32"
         },
         {
           "emoji": "👏",
           "count": "2"
         }
       ],
-      "views_label": "1.56K",
+      "views_label": "1.58K",
       "posted_at": "2026-08-16T15:31:10+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7271"
@@ -340,7 +390,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "45"
+          "count": "47"
         },
         {
           "emoji": "🫡",
@@ -359,7 +409,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.46K",
+      "views_label": "1.48K",
       "posted_at": "2026-08-16T14:56:01+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7270"
@@ -385,7 +435,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "59"
+          "count": "61"
         },
         {
           "emoji": "😁",
@@ -400,7 +450,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.22K",
+      "views_label": "1.23K",
       "posted_at": "2026-08-16T14:54:02+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7269"
@@ -426,18 +476,18 @@
       "reactions": [
         {
           "emoji": "😡",
-          "count": "31"
+          "count": "32"
         },
         {
           "emoji": "🤬",
-          "count": "14"
+          "count": "15"
         },
         {
           "emoji": "🖕",
           "count": "2"
         }
       ],
-      "views_label": "1.44K",
+      "views_label": "1.46K",
       "posted_at": "2026-08-16T14:52:30+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7268"
@@ -463,7 +513,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "14"
+          "count": "15"
         },
         {
           "emoji": "👏",
@@ -478,7 +528,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.49K",
+      "views_label": "1.5K",
       "posted_at": "2026-08-16T14:48:28+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7267"
@@ -495,8 +545,8 @@
           "kind": "video",
           "asset_url": "https://t.me/DEJradio/7266",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/FzrJEcsa9mffAXIPhNG5eXfN8BoVYpd9Fm9VhO5YgwTdZhYVyz1Xkrr8vB63cnUCgb1AWCXRdEXeQl1IZvtisDR7LzZOFkBAntCYdEHojFeriKDS8rfdcViK6LKzvloK_WMEZqVgSwvQ49oP1DQcxiy8fRG9hq7ImLhuD4jKU7ft7QzZ-yNVM0mn_IipaRVOfhDotMM1IuyxvD1guMBl9Sa-27Jmkr_41oOweXIs5EI__do0GrmRzIUlHr1wShlBTGYbKN7u_lif3P1eduy0EJhAT-SK65hKCldfrLgcKW6QGOo1e7yh8HyAiUg9KFibq20Pk2IhASmiTrogqHAxOA",
-          "thumbnail_path": "channels/dejradio/media/0684f1788125e8933c7c9e1f.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ftOM5rZ6T57p_KnM7f-UDiEeJtR1VokVzWdVuqEmGz5I8r2EmM6e-Qx0PgG4t_iQKDBmsgnYRz20yplQJyd8PHLDtl9NU58eC25Oj-GgJowy0jzX-Da1dFJ-FkyhW5jsL8YbSWOKM9hcLlO5QtaRtdP5r7td0VAJljt_KReLhpr-TsWxKO4n_LOEqRKQ1YsHwY7ViLVzByOqBNVF0wcKV_KVqrGqn834yBhpmDWTQfEx1q2a2GnBFpLj_7Esp0LTo6HAXEoeg6LYiAYG6kv31l0vGp7skzqcGeYtkHb7QHmiGo3CB-fnf7NQBuXS8hyF8n4d4m-yNXMA48bCSBwyNQ",
+          "thumbnail_path": "channels/dejradio/media/7848a68552be43f341d896ed.jpg",
           "duration_label": "0:16",
           "aspect_ratio": 0.7500000000000188
         }
@@ -504,7 +554,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "46"
+          "count": "47"
         },
         {
           "emoji": "🤮",
@@ -523,7 +573,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.87K",
+      "views_label": "1.89K",
       "posted_at": "2026-08-16T08:57:02+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7266"
@@ -4123,43 +4173,6 @@
       "posted_at": "2026-08-10T09:39:42+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7157"
-    },
-    {
-      "id": "DEJradio/7156",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/H3zyDQvILSggqpgDqZAaTQ64-4n1S_hPIS34mjjM7sLndrHSSNLqXSDf7xE1aVqKyuAlWC2IbJaPf2v8TB4O5zRLKeFfszvS37LoZJ5AslJN---SjNYqaFl4LtIza11V8AEMp8SyAFCMN9F960bU8-sSb1tgmjPqYbAwLUK-wymdI6fMYvAb1C_CA1z_1t1-itMw81Bo187I2eV6eXMib692gmw26_a2xq6fC4IDG9YmfEIxRlgprMEEhlaMS8ES0-q_GqZG0CgOsh8z1oamPSyDJ0-1aRy--fjsNVjujrFid5Pn-1AnzMx6MbqbGpR1h6O8Ym0aDvEwhx9WwwsDsw.jpg",
-      "author_photo_path": "channels/dejradio/media/55046b0a31dcc2903ce10a92.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> کمبود سوخت در بندرعباس؛ <br>صف‌های طولانی جایگاه بنزین<br><br><a href=\"?q=%23%DA%A9%D9%85%D8%A8%D9%88%D8%AF_%D8%B3%D9%88%D8%AE%D8%AA\">#کمبود_سوخت</a> <a href=\"?q=%23%D8%A8%D9%86%D8%B2%DB%8C%D9%86\">#بنزین</a> <a href=\"?q=%23%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3\">#بندرعباس</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🔺🎥 کمبود سوخت در بندرعباس؛ صف‌های طولانی جایگاه بنزین #کمبود_سوخت #بنزین #بندرعباس @DEJradio",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/7156",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EwFwvSWiasNvBx6mxV1FCnyeWIU6NFuvnOCL1wO8je4g6utrpRFfIzR_RmWXSyC5C46G7p5_lqOy-xn8ZlqWrRIPQjAro41yshitfM8YRdtNjN0iGR3x1hWoI7F5iRJGL2AQDbOMbQJWNNcXpydQnubog3DwqoyF2Cf0RG2pbVOrlddl0-vqh2AvdmB-JbY6j9npNHXYXXcnm_nmOnADl7N-2h2l7T-yK9pg9B5ZUK7I0P9I3u1tVpL2tLC-WeX6MiF5oYJqZLVJd4htBEV7ksdCWrtAYKDOyKxI5mr51qjDkg9aKT5RSekZiGkzdUyei8gtVD0ERZ-_UBO4VbNFZg",
-          "thumbnail_path": "channels/dejradio/media/10ebb30ee2915c11af4fe82a.jpg",
-          "duration_label": "2:53",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "😡",
-          "count": "28"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "👏",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.56K",
-      "posted_at": "2026-08-10T09:32:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/7156"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-17T10:08:37.273Z",
+  "fetched_at": "2026-08-17T10:42:48.372Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,30 @@
     "subscriber_count": "13.5K"
   },
   "posts": [
+    {
+      "id": "DEJradio/7289",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/OofrZQkqkgnGPanXjqgAaVybZCRoyfj8CaAwKXKDwmvHHjUJVVGeL--xKxO8oK0WrJM8e36KCpLxlNlonO-9rXGWvJv3l8GIgPrLBRzCxo-qihfUey78udTQuZjNiew2B5d0O2rZ-aFF7SVUFoawNFOMqC1thKdiECmN1kblN9sUd_GDwbKZMG_hSdr9LRifwxI3At5nK3e2WTBDyJ3nhCBH-AH7jTHYu-Hxh5KXwU0fNcAdVT-ztOrF3mQGuFh_b8pkKTdONdJ0TI0VJ_eIzA0wr7L_r6oXvTlPQLQTjA7LfQ3Jx-TNTqWZ-QoJiDdF4pW_KPMbLaiRlC7SdiV85Q.jpg",
+      "author_photo_path": "channels/dejradio/media/70e8c28a150ba674d064b9e5.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> دوشنبه ۲۶ امرداد ۱۴۰۵<br> میدان خبری نیست، یک نفر هم نیست! وضعیت کاسبی واقعا خراب شده.<br><br><a href=\"?q=%23%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D8%A8%D8%A7%D8%B1\">#میدان_بار</a> <a href=\"?q=%23%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D8%AA%D9%87%D8%B1%D8%A7%D9%86\">#بازار_تهران</a> <a href=\"?q=%23%D8%AA%D9%88%D8%B1%D9%85\">#تورم</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺🎥 دوشنبه ۲۶ امرداد ۱۴۰۵ میدان خبری نیست، یک نفر هم نیست! وضعیت کاسبی واقعا خراب شده. #میدان_بار #بازار_تهران #تورم @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/7289",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/avxhh3GElWXed4sJIv-m3KmfmQTUStGFAKrhiT8KqX0ofTed7-HzJJ4R51_bVGDbBphrSig2SfNzvcCcZA-7XP16UD7rdfyNUM4yPP2_-Yn-9F595go6gU-iZl7l05IT7-jgEJxxz_itIZ7USU5eW0lI0tCkD6Miy8sVqORQvoh34gG3C4WAF2QhJQxwhQZ9vTy-ndvQsnvprVgXk8gbcQPk3406VT4Nq4Y4nnWLmYuiYqop9-6UZajg3-bXpGmzaZxeC51wbnxMfssd5hlZ_FWY3n4QuRFmpbSOAUG-G3Ej6aMhffw_WPMYviEkGOC90YPc3zfRex0RmMWNxlOAbg",
+          "thumbnail_path": "channels/dejradio/media/483af5126cdae42e9a254d1a.jpg",
+          "duration_label": "0:33",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "121",
+      "posted_at": "2026-08-17T10:34:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/7289"
+    },
     {
       "id": "DEJradio/7288",
       "author_name": "DEJ",
@@ -31,14 +55,18 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "😁",
           "count": "3"
+        },
+        {
+          "emoji": "🤬",
+          "count": "1"
         }
       ],
-      "views_label": "415",
+      "views_label": "603",
       "posted_at": "2026-08-17T09:25:42+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7288"
@@ -64,7 +92,7 @@
       "reactions": [
         {
           "emoji": "👌",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "👍",
@@ -75,7 +103,7 @@
           "count": "1"
         }
       ],
-      "views_label": "627",
+      "views_label": "777",
       "posted_at": "2026-08-17T08:31:28+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7287"
@@ -101,14 +129,14 @@
       "reactions": [
         {
           "emoji": "🥰",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "👏",
           "count": "3"
         }
       ],
-      "views_label": "641",
+      "views_label": "748",
       "posted_at": "2026-08-17T08:17:55+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7286"
@@ -152,7 +180,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "18"
+          "count": "20"
         },
         {
           "emoji": "❤",
@@ -163,7 +191,7 @@
           "count": "1"
         }
       ],
-      "views_label": "764",
+      "views_label": "849",
       "posted_at": "2026-08-17T07:35:44+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7283"
@@ -200,7 +228,7 @@
           "count": "1"
         }
       ],
-      "views_label": "777",
+      "views_label": "848",
       "posted_at": "2026-08-17T07:23:57+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7281"
@@ -233,7 +261,7 @@
           "count": "1"
         }
       ],
-      "views_label": "812",
+      "views_label": "876",
       "posted_at": "2026-08-17T07:15:52+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7279"
@@ -280,7 +308,7 @@
           "count": "15"
         }
       ],
-      "views_label": "827",
+      "views_label": "902",
       "posted_at": "2026-08-17T07:12:08+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7276"
@@ -317,7 +345,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.74K",
+      "views_label": "1.77K",
       "posted_at": "2026-08-16T17:49:40+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7275"
@@ -354,7 +382,7 @@
           "count": "6"
         }
       ],
-      "views_label": "2.06K",
+      "views_label": "2.08K",
       "posted_at": "2026-08-16T15:43:18+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/7274"
@@ -405,7 +433,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.62K",
+      "views_label": "1.64K",
       "posted_at": "2026-08-16T15:31:10+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7271"
@@ -431,7 +459,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "47"
+          "count": "48"
         },
         {
           "emoji": "🫡",
@@ -450,7 +478,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.52K",
+      "views_label": "1.54K",
       "posted_at": "2026-08-16T14:56:01+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7270"
@@ -491,7 +519,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.26K",
+      "views_label": "1.28K",
       "posted_at": "2026-08-16T14:54:02+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7269"
@@ -526,9 +554,13 @@
         {
           "emoji": "🖕",
           "count": "2"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         }
       ],
-      "views_label": "1.49K",
+      "views_label": "1.51K",
       "posted_at": "2026-08-16T14:52:30+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7268"
@@ -4144,43 +4176,6 @@
       "posted_at": "2026-08-10T12:10:01+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7159"
-    },
-    {
-      "id": "DEJradio/7158",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/H3zyDQvILSggqpgDqZAaTQ64-4n1S_hPIS34mjjM7sLndrHSSNLqXSDf7xE1aVqKyuAlWC2IbJaPf2v8TB4O5zRLKeFfszvS37LoZJ5AslJN---SjNYqaFl4LtIza11V8AEMp8SyAFCMN9F960bU8-sSb1tgmjPqYbAwLUK-wymdI6fMYvAb1C_CA1z_1t1-itMw81Bo187I2eV6eXMib692gmw26_a2xq6fC4IDG9YmfEIxRlgprMEEhlaMS8ES0-q_GqZG0CgOsh8z1oamPSyDJ0-1aRy--fjsNVjujrFid5Pn-1AnzMx6MbqbGpR1h6O8Ym0aDvEwhx9WwwsDsw.jpg",
-      "author_photo_path": "channels/dejradio/media/55046b0a31dcc2903ce10a92.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i> دیدگاه؛<br>پیمان مکه؛ توافق دفاعی در برابر جمهوری اسلامی یا ترس از اسرائیل؟<br><br>پیمان دفاعی میان سه کشور عربستان سعودی، پاکستان و ترکیه زیر عنوان «پیمان دفاعی مکه»، به امضای نخست ‌وزیر پاکستان، ولیعهد عربستان و رئیس‌جمهور ترکیه در مکه رسید که مهم‌‌ترین بخش آن (حمله به یکی حمله به همه است) می‌باشد.<br><br>به نظر می‌رسد پشت شکل گیری این پیمان دفاعی سه جانبه، ترکیه باشد؛ به دلیل حس خطری که از سمت اسرائیل احساس می‌کند و با این توجیه که پس از سرنگونی جمهوری اسلامی، کشور ایران به یک هم‌پیمان و متحد با اسرائیل تبدیل خواهد شد و اسرائیل نیز با تکنولوژی و علم خود در بازسازی ایران و پیشرفت اقتصادی آن کمک خواهد کرد و این اتحاد عمیق خواهد بود و این موضوع زنگ خطری است برای کشورهای منطقه.<br><br>ترکیه با این توجیه توانست عربستان و پاکستان را همراه خود کند و یا بهتر بگوییم خود را در پیمان دفاعی دو جانبه پیشین آنها بگنجاند و با انتخاب یک نام مقدس برای مسلمانان جهان، به نوعی یک مشروعیت مذهبی نیز به آن ببخشد.<br><br>اما آیا این پیمان شامل حال رفتارهای خصمانه جمهوری اسلامی هم می‌شود؟ به نظر می‌آید خیر؛ چون پاکستان که دارای پیمان مشابهی با عربستان بود، در حملات رژیم به عربستان واکنش خاصی نشان نداد و ترکیه نیز جهت حفظ بقای رژیم از هیچ کوششی دریغ نکرد.<br>در واقع، هر سه کشور فوق از بقای رژیم به شیوه‌های گوناگون منتفع می‌شوند که مهم‌ترین آن اقتصادی است.<br><br><a href=\"?q=%23%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C\">#جمهوری_اسلامی</a> <a href=\"?q=%23%D8%AA%D8%B1%DA%A9%DB%8C%D9%87\">#ترکیه</a> <a href=\"?q=%23%D9%BE%DB%8C%D9%85%D8%A7%D9%86_%D9%85%DA%A9%D9%87\">#پیمان_مکه</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🔺📌 دیدگاه؛ پیمان مکه؛ توافق دفاعی در برابر جمهوری اسلامی یا ترس از اسرائیل؟ پیمان دفاعی میان سه کشور عربستان سعودی، پاکستان و ترکیه زیر عنوان «پیمان دفاعی مکه»، به امضای نخست ‌وزیر پاکستان، ولیعهد عربستان و رئیس‌جمهور ترکیه در مکه رسید که مهم‌‌ترین بخش آن (حمله به یکی حمله به همه است) می‌باشد. به نظر می‌رسد پشت شکل گیری این پیمان دفاعی سه جانبه، ترکیه باشد؛ به دلیل حس خطری که از سمت اسرائیل احساس می‌کند و با این توجیه که پس از سرنگونی جمهوری اسلامی، کشور ایران به یک هم‌پیمان و متحد با اسرائیل تبدیل خواهد شد و اسرائیل نیز با تکنولوژی و علم خود در بازسازی ایران و پیشرفت اقتصادی آن کمک خواهد کرد و این اتحاد عمیق خواهد بود و این موضوع زنگ خطری است برای کشورهای منطقه. ترکیه با این توجیه توانست عربستان و پاکستان را همراه خود کند و یا بهتر بگوییم خود را در پیمان دفاعی دو جانبه پیشین آنها بگنجاند و با انتخاب یک نام مقدس برای مسلمانان جهان، به نوعی یک مشروعیت مذهبی نیز به آن ببخشد. اما آیا این پیمان شامل حال رفتارهای خصمانه جمهوری اسلامی هم می‌شود؟ به نظر می‌آید خیر؛ چون پاکستان که دارای پیمان مشابهی با عربستان بود، در حملات رژیم به عربستان واکنش خاصی نشان نداد و ترکیه نیز جهت حفظ بقای رژیم از هیچ کوششی دریغ نکرد. در واقع، هر سه کشور فوق از بقای رژیم به شیوه‌های گوناگون منتفع می‌شوند که مهم‌ترین آن اقتصادی است. #جمهوری_اسلامی #ترکیه #پیمان_مکه @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7158",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/f-n80aMJcicTtDwmSnGqoTqKUeTBV-1R7Fg5TbroIA1z0_IsZXuxU7XM2pchR82P-GWyreNY3fg43e1TgXHFB0QRAmhstx_m1j4VqMh9mNGyYs4Rc_xAcSniHV6QaYt_-VYQIofGPEunGwSnh4yH89QdObFpsth3NqMLvT_6gUC6YkOC_HxSORfrUtUIKnZxq_YIuW18VYNYPwWJvxch-1cSWSCm7J9As7VRCtQFuRzhN1g9oVJ0S7cRerQYFYzAvtyPy3AqSEXfWtfY2pY98jX90yIjGoLF9grpQvqMb6Hft2PWVLSBKgPd280P8SSXBAmYXbZdgiwujGQtMwZyAw.jpg",
-          "thumbnail_path": "channels/dejradio/media/3af101b2e0356c00ca053024.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "26"
-        },
-        {
-          "emoji": "❤",
-          "count": "4"
-        },
-        {
-          "emoji": "🖕",
-          "count": "2"
-        }
-      ],
-      "views_label": "1.81K",
-      "posted_at": "2026-08-10T11:35:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/7158"
     }
   ]
 }

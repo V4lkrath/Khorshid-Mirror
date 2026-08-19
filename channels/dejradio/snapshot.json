@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-19T17:07:24.059Z",
+  "fetched_at": "2026-08-19T17:36:08.705Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,35 @@
     "subscriber_count": "13.4K"
   },
   "posts": [
+    {
+      "id": "DEJradio/7327",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/PVMINjVCaazwzABhBRTzG8skPZvO8TUqzVXmm08pum4IDlCL7Q8RUo7Z7a1LbBVWElDzGM2eCssNU9jWeGUIttIXt0s53IrcUG4J2XADPSP8cFOifUbyloy0Yh8pEadvbdL9fU5R7FcGpcoGHU3bMbo1I4OeEZXOGkrhz9tNt2JF2iFcjA06HMfB4YXoC4LkLI768Q4QZC_ckUOMiwdg-C6B7jRpoFjTDUDJueu8-gYHU4MMNySuVVKnY6AoV0G9HH0VSzmU-OsSXTrIOv3-8Atju4EUtzd08G1_mRwFXdKuVdiTVsY5Jq9A98eMyqX1GpRdQw2wvHVo3eAi_JXWiQ.jpg",
+      "author_photo_path": "channels/dejradio/media/3e8a8c88b90edcc14a09eef5.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i> بحران بنزین؛ سفره خالی<br><br><a href=\"?q=%23%D8%AA%D9%88%D8%B1%D9%85\">#تورم</a> <a href=\"?q=%23%DA%A9%D9%85%D8%A8%D9%88%D8%AF_%D8%B3%D9%88%D8%AE%D8%AA\">#کمبود_سوخت</a> <a href=\"?q=%23%D8%A8%D9%86%D8%B2%DB%8C%D9%86\">#بنزین</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺📢 بحران بنزین؛ سفره خالی #تورم #کمبود_سوخت #بنزین @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/7327",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/I2mie6rW1agYYdNYo-0-51JGQ-4QfLeSb0OSx3HriGJSfCVScZReQ8tEA2RkpZa-BSZcbswc-wJCGBrFXUpSfqr1jXy2VfypXJE2WKN8z8AcAdhcCynCbj8_lMM_L-m-W7Z0GTJvyquGbDiLfhNgnENnhQ8EjopRWuCLDVI5v0CrNEN0Mf4OHIGDWUH3F9KSpJSGtGQTr2U-7ugSJ4ReR_gOIs4L03gS_22tfgYviEX3HvHOV_VoahCwgxPFbDaw9Wmla94VJsMX6lic4jilXsHwtAeDwBjeuozx7O58sQlXy_knrJDQ9u24YdRCvJWiKTAu6VrxSa62ZQE8xf4q0g",
+          "thumbnail_path": "channels/dejradio/media/fac0b4fcee08ff95b2b8c987.jpg",
+          "duration_label": "0:55",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤬",
+          "count": "6"
+        }
+      ],
+      "views_label": "234",
+      "posted_at": "2026-08-19T17:10:12+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/7327"
+    },
     {
       "id": "DEJradio/7326",
       "author_name": "DEJ",
@@ -31,14 +60,18 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "🔥",
+          "count": "2"
+        },
+        {
+          "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "424",
+      "views_label": "562",
       "posted_at": "2026-08-19T15:58:23+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7326"
@@ -64,10 +97,14 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "4"
+          "count": "5"
+        },
+        {
+          "emoji": "😱",
+          "count": "1"
         }
       ],
-      "views_label": "504",
+      "views_label": "603",
       "posted_at": "2026-08-19T15:35:36+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7325"
@@ -93,10 +130,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "5"
+          "count": "6"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         }
       ],
-      "views_label": "811",
+      "views_label": "868",
       "posted_at": "2026-08-19T13:54:45+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7324"
@@ -122,11 +163,11 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "22"
+          "count": "24"
         },
         {
           "emoji": "🤮",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "🖕",
@@ -141,7 +182,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.24K",
+      "views_label": "1.28K",
       "posted_at": "2026-08-19T10:55:14+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7323"
@@ -167,7 +208,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "11"
+          "count": "13"
         },
         {
           "emoji": "🔥",
@@ -178,7 +219,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.15K",
+      "views_label": "1.18K",
       "posted_at": "2026-08-19T10:39:14+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7322"
@@ -204,18 +245,18 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "18"
+          "count": "19"
         },
         {
           "emoji": "😁",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "❤",
           "count": "3"
         }
       ],
-      "views_label": "1.38K",
+      "views_label": "1.42K",
       "posted_at": "2026-08-19T10:01:13+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7321"
@@ -241,14 +282,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "20"
+          "count": "21"
         },
         {
           "emoji": "😁",
           "count": "1"
         }
       ],
-      "views_label": "1.53K",
+      "views_label": "1.56K",
       "posted_at": "2026-08-19T08:26:02+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7320"
@@ -274,7 +315,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "15"
+          "count": "16"
         },
         {
           "emoji": "👍",
@@ -285,7 +326,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.44K",
+      "views_label": "1.47K",
       "posted_at": "2026-08-19T08:15:08+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7319"
@@ -322,7 +363,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.94K",
+      "views_label": "1.95K",
       "posted_at": "2026-08-18T21:57:39+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7318"
@@ -352,7 +393,7 @@
         },
         {
           "emoji": "🔥",
-          "count": "11"
+          "count": "10"
         },
         {
           "emoji": "💔",
@@ -360,7 +401,7 @@
         },
         {
           "emoji": "🤬",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "🤔",
@@ -379,7 +420,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.97K",
+      "views_label": "1.98K",
       "posted_at": "2026-08-18T21:19:42+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7317"
@@ -412,7 +453,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.79K",
+      "views_label": "1.8K",
       "posted_at": "2026-08-18T21:07:03+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7316"
@@ -445,7 +486,7 @@
           "count": "9"
         }
       ],
-      "views_label": "1.69K",
+      "views_label": "1.7K",
       "posted_at": "2026-08-18T20:40:55+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7315"
@@ -482,7 +523,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.66K",
+      "views_label": "1.67K",
       "posted_at": "2026-08-18T20:03:12+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7314"
@@ -511,7 +552,7 @@
           "count": "17"
         }
       ],
-      "views_label": "1.83K",
+      "views_label": "1.84K",
       "posted_at": "2026-08-18T18:01:34+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7313"
@@ -548,7 +589,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.72K",
+      "views_label": "1.74K",
       "posted_at": "2026-08-18T18:01:31+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7312"
@@ -626,7 +667,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.89K",
+      "views_label": "1.9K",
       "posted_at": "2026-08-18T10:47:37+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7310"
@@ -3976,74 +4017,6 @@
       "posted_at": "2026-08-12T17:14:08+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/7208"
-    },
-    {
-      "id": "DEJradio/7204",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/QkDCRzwqyK7g5M7KGntO_RRPQ08yZjxr81dzJIp0Sjum8_Zf6-VtOUnAVyLtqUpQ5_u3trd_HlYjoSoKAQhuj7IkeEBoWrbQ6YxfRYwT67h-I1rglLU8seymPn715HX1caAvNe_3Tti_Pcgc4MXd3LjzRRG5tve1P87wIZ-WwcF2xZaARl6NhV9ufPY1lQMpBFDSFk1s8uQATWjGTbeERJBgwHrFRacGZnml7p2XmOyabR3vnQ1FyWpqoYNaoJ2ifFWOMUCxwSKLhpH_9LOTmKzxmX2Fo0dX7AyvNmnKgjFB5_foMPuf_lkQyoFhxWPHbi72vMEqmkGvpJxZ_xvJdA.jpg",
-      "author_photo_path": "channels/dejradio/media/faa4b414b231992449336f68.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5213419616725903784\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji><tg-emoji emoji-id=\"5938304994145998707\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i></tg-emoji> مایک ایوانس تحلیلگر سیاسی، در مقاله تحلیلی که ۲۱ امرداد ۱۴۰۵ در «اورشلیم پست» منتشر شد، در پاسخ به این پرسش که «چرا جمهوری اسلامی جرات حمله به اسرائیل را ندارد؟» می‌نویسد: «اسرائیل در طول دو جنگ ثابت کرد که رهبران ارشد حکومت را هدف قرار می‌دهد و مستقیم سر مار را می‌زند و اجازه تولیدمثل به مارها را نمی‌دهد.»<br><br>او پیشنهاد داد دونالد ترامپ به جای هدفگیری زیرساخت‌های عمرانی و پل‌ها در ایران، همان مسیری را برود که اسرائیل رفت.<br>این نویسنده توضیح داد در جریان عملیات «خشم حماسی» و «طلوع شیران» اسرائیل با ایجاد یک «مه دیجیتالی» بزرگترین حمله سایبری را علیه خدمات دولتی، رسانه‌ها، انرزی و بانک‌های ایران به اجرا گذاشت و آن را مختل کرد و بعد از هک تلویزیون حکومتی، جی‌پی‌اس را از کار انداخت.»<br><br>ایوانس تأکید می‌کند اسرائیل این راه را رفت و موفق بود و رهبران جمهوری اسلامی اگر بدانند جنگ به بهای از بین رفت خودشان تمام می‌شود به مسیر آخرالزمانی خود ادامه نخواهند داد.<br><br>او در بخش دیگری از این مقاله توضیح داد رهبران رژیم ایران لاف می‌زنند که می‌خواهند به بهشت بروند و کنار ۷۲ حوری باشند، اما ایالات متحده می‌تواند ۷۲ ویرجینیایی به آنها بدهد: جنگجویان جوان آمریکایی با ستون فقرات ناوهای توماس جفرسون، بنجامین فرانکلین و آبراهام لینکلن، که با استفاده از پیشرفته‌ترین فناوری مبتنی بر هوش مصنوعی، این شیاطین را هدف قرار می‌دهند.<br><br>از بین بردن جمهوری اسلامی به صبر و زمان نیاز دارد اما در نهایت، رژیم نازی اسلامی را می‌توان شکست داد و وقتی این اتفاق بیافتد، مردم ایران همچون شیر برمی‌خیزند و برای بازپس‌گیری کشورشان قیام خواهند کرد.<br><br><a href=\"?q=%23%D8%AC%D9%86%DA%AF\">#جنگ</a> <a href=\"?q=%23%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84\">#اسرائیل</a> <a href=\"?q=%23IRGCterrorits\">#IRGCterrorits</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🚨🔸 مایک ایوانس تحلیلگر سیاسی، در مقاله تحلیلی که ۲۱ امرداد ۱۴۰۵ در «اورشلیم پست» منتشر شد، در پاسخ به این پرسش که «چرا جمهوری اسلامی جرات حمله به اسرائیل را ندارد؟» می‌نویسد: «اسرائیل در طول دو جنگ ثابت کرد که رهبران ارشد حکومت را هدف قرار می‌دهد و مستقیم سر مار را می‌زند و اجازه تولیدمثل به مارها را نمی‌دهد.» او پیشنهاد داد دونالد ترامپ به جای هدفگیری زیرساخت‌های عمرانی و پل‌ها در ایران، همان مسیری را برود که اسرائیل رفت. این نویسنده توضیح داد در جریان عملیات «خشم حماسی» و «طلوع شیران» اسرائیل با ایجاد یک «مه دیجیتالی» بزرگترین حمله سایبری را علیه خدمات دولتی، رسانه‌ها، انرزی و بانک‌های ایران به اجرا گذاشت و آن را مختل کرد و بعد از هک تلویزیون حکومتی، جی‌پی‌اس را از کار انداخت.» ایوانس تأکید می‌کند اسرائیل این راه را رفت و موفق بود و رهبران جمهوری اسلامی اگر بدانند جنگ به بهای از بین رفت خودشان تمام می‌شود به مسیر آخرالزمانی خود ادامه نخواهند داد. او در بخش دیگری از این مقاله توضیح داد رهبران رژیم ایران لاف می‌زنند که می‌خواهند به بهشت بروند و کنار ۷۲ حوری باشند، اما ایالات متحده می‌تواند ۷۲ ویرجینیایی به آنها بدهد: جنگجویان جوان آمریکایی با ستون فقرات ناوهای توماس جفرسون، بنجامین فرانکلین و آبراهام لینکلن، که با استفاده از پیشرفته‌ترین فناوری مبتنی بر هوش مصنوعی، این شیاطین را هدف قرار می‌دهند. از بین بردن جمهوری اسلامی به صبر و زمان نیاز دارد اما در نهایت، رژیم نازی اسلامی را می‌توان شکست داد و وقتی این اتفاق بیافتد، مردم ایران همچون شیر برمی‌خیزند و برای بازپس‌گیری کشورشان قیام خواهند کرد. #جنگ #اسرائیل #IRGCterrorits @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7204?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ljsz0stHH-SA4CMPF3MLjEuQC5x6C7ScAICb83NAfSIF-xs2qFuWMipcWi3r7VhiZRwUbjhIfnA8R9u6HzeGWSNkYXKTIcUyx7kH2Rol88t65oOzpyo4PgtOQMi1KllPt_2-wQhNRPnnDM2aW0H-K8lZzhD068Njy8vfzeNS4rwVSlGd0oTmFW_Kd0yH4vTqw3NgGA9onfhYHJK_ScrVem0g9kZxqmRsKpRMXtzB__QS2FRsai5IMFiU-2Ka7L43laDYzEpJrRg9fWHQGn8wQhncdN2sEsYqJveb3eIDVtb-xGs5lTnU79u7OH1zVecMNlgh4472QcEk5ZPHKpCZjg.jpg",
-          "thumbnail_path": "channels/dejradio/media/62070b20b8cbd1207523514b.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.79875
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7205?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Kd9X6N7hpUo4QcYON2kLTGq9G6VVqB5ZQ5_SMenL0W-3ishrlVjQzqHASyP7BgNo9-JHz_ESwE0dqizrq2hNuElRE-_1FG8NuoJYxo5lpN99v60fn6w5rwRlQomLwPUUPKhTAn7lX5Xp653aYztDGrOzufSzdIxhJk8NrMbVtSQBw15XvpISksQBTT5fZWmrBjw-aF8lGxn4_8pDrxcnS6LomM78_h2S_kujPIkPfLxZdlxqk0aEgnLVpXjGmxLAGG1NkY7jBbSxCDDBUGb_pTpfPzLBJWGCmC1B6JZvV9jQrZQtk86Rt19txrcZkM1IQ2gPUdfNfmYisEyKzL6hWg.jpg",
-          "thumbnail_path": "channels/dejradio/media/d715fbbd4cb68d7ceee60a24.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.79875
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7206?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/OrZLQt1mgxbN49KXkjXnyIRQG8KQgOEwT4hk-cMQUOjh-avT7YPfDp1cMWb_iXTecOtlYzVTcWJSBaDKogrI8Z8LNICCXwX0BCQprQkvZuTQI9VmHeNNmyTPCewiZN-p31PiUguAb2A-ipnaao2ka9xF5X4om-hRKq21FwHemh5ZRnerYtOlEzj14l1nBF4JAhSCiYAoLBX5GwKvZ8A1FK0jhccsOUNFmd3YBuDAMi73wCTpTCNMb-QyXxFse4JuCgNd3_qIfY3Ldq_DvZYDVX6P5fRRqd5OyFKHsj8KcsCFsjw19WHDYbqwx6Uq1TI90Y3ohiWsPqGKlvOWfpHe9A.jpg",
-          "thumbnail_path": "channels/dejradio/media/9746825e332d855bbfe24b7e.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.79875
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7207?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/T3ZbWrgqVDzeMvIPY71cIw9dDDGaA3aLjuOGRcglM12YIY8JpvnHE8_2Mx_OzgayVY7LLnYkF4Yruy7LfSmFQMnTezGEkqafgYpmzh9tEZST0rAZnTxvbfjWYdHn-6jQSKYJkiBxASyh3HkclkwRJWk4CSh5KAag7w6k7MKRy7GEO372dXetqhuMfuxOteq6NEyDn9wT2Qv-cL-zie3StHA_oXAG2ui7-GlyHOysKk1tgFIk0fHIZ_HUsqDCS-lr9d6rsVmoWAo72l4bSKvG0LX2oSHio4UMGh1ZwgxJ8QT1xATIhRgJ6r0MGi1d7wu-CLcUkx0ET6JZfoEJNkBMdQ.jpg",
-          "thumbnail_path": "channels/dejradio/media/2114daad9853ece1afffdb9f.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.79875
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "42"
-        },
-        {
-          "emoji": "👏",
-          "count": "4"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        },
-        {
-          "emoji": "💯",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.86K",
-      "posted_at": "2026-08-12T15:43:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/7204"
     }
   ]
 }

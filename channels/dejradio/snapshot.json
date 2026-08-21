@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-21T16:07:53.522Z",
+  "fetched_at": "2026-08-21T16:21:27.734Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,43 @@
     "subscriber_count": "13.4K"
   },
   "posts": [
+    {
+      "id": "DEJradio/7370",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VHmM4JmPM_9un3SguH9WX4JftLn0OMJ-nrj97FdUqBh0NqhzJOyjZb5Il1Gy9QJpj_R3Kl5u_N5x3RZ03nzbAr2yWXWzHFpQqEHorba5mfC8PZtBEL2HhMBrShcl-n9yJJjcqpxql42PZkkieUzbUafjr--xoyVWLL4ja9S2stL8mBgBAs28y6LCpBWAsjfNQ_Su9f6bm2tqL9sJPUyqnTppAu82cG8_a6b8cH85vlYhRwLPGUrfCfv3aa-61xoPs4bIXcwMpakEs1tuYt1V_TgzM-14PZ-wFeRTnTMQbuI6SxsZVlpkHW-iOtWFZSWP-E107gjbe1iXSE9tjbFwZg.jpg",
+      "author_photo_path": "channels/dejradio/media/16ccdf460b96d316e25286e0.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A1.png')\"><b>🤡</b></i><tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji> خانم خیاط‌ها برای \"رزمنده‌ها\" پشه‌بند دوختند!<br><br><a href=\"?q=%23%D8%AC%D9%86%DA%AF\">#جنگ</a> <a href=\"?q=%23%D8%B1%D8%B2%D9%85%D9%86%D8%AF%D9%87\">#رزمنده</a> <a href=\"?q=%23%D9%BE%D8%B4%D9%87_%D8%A8%D9%86%D8%AF\">#پشه_بند</a> <br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🤡🔺 خانم خیاط‌ها برای \"رزمنده‌ها\" پشه‌بند دوختند! #جنگ #رزمنده #پشه_بند @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/7370",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GlYO-5FX3uLV839v7QFVVxdwTIY4iASyki--UcTqSXYbJiMeqAPN8zOVuzqdxnqYY2bPDac6xPqXhYeOaRRCn63ULVx4GbkA66D0vTNVdSybLiORkmQVve5b9jxXZAXlBFn_RU1SbqqcPAtlhFu7L8s54l4hXKGuHwr_4-fy-c2QSKZ-79CKAbbrwKk6DEtqwCJrucp0pCUsulN3V0pGDLqkf31eHBTjZP5TVcwbV3Gh5Cgkjs1m4QmtJMHPs2U04Rz1uItBHzJ6uB7zy4ZztwE1YnchZdGakSDU7KU05MsriLmDFYr0eV0AhKqTglCAbywgJL1k72xbKYr7gTtxXw",
+          "thumbnail_path": "channels/dejradio/media/755da6ba8187a9cc21feaec0.jpg",
+          "duration_label": "1:33",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤮",
+          "count": "4"
+        },
+        {
+          "emoji": "😁",
+          "count": "1"
+        },
+        {
+          "emoji": "👀",
+          "count": "1"
+        }
+      ],
+      "views_label": "152",
+      "posted_at": "2026-08-21T16:11:12+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/7370"
+    },
     {
       "id": "DEJradio/7369",
       "author_name": "DEJ",
@@ -31,18 +68,18 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "15"
+          "count": "16"
         },
         {
           "emoji": "😁",
-          "count": "12"
+          "count": "14"
         },
         {
           "emoji": "👍",
           "count": "1"
         }
       ],
-      "views_label": "808",
+      "views_label": "875",
       "posted_at": "2026-08-21T12:46:06+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7369"
@@ -68,7 +105,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "14"
+          "count": "16"
         },
         {
           "emoji": "👍",
@@ -83,7 +120,7 @@
           "count": "1"
         }
       ],
-      "views_label": "862",
+      "views_label": "908",
       "posted_at": "2026-08-21T12:10:12+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7368"
@@ -109,14 +146,18 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "❤",
           "count": "2"
+        },
+        {
+          "emoji": "😍",
+          "count": "1"
         }
       ],
-      "views_label": "808",
+      "views_label": "848",
       "posted_at": "2026-08-21T12:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7367"
@@ -158,15 +199,15 @@
           "count": "5"
         },
         {
-          "emoji": "❤",
-          "count": "2"
+          "emoji": "🤬",
+          "count": "4"
         },
         {
-          "emoji": "🤬",
+          "emoji": "❤",
           "count": "2"
         }
       ],
-      "views_label": "1.15K",
+      "views_label": "1.2K",
       "posted_at": "2026-08-21T11:25:03+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7365"
@@ -192,7 +233,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "13"
+          "count": "14"
         },
         {
           "emoji": "👍",
@@ -203,7 +244,7 @@
           "count": "1"
         }
       ],
-      "views_label": "802",
+      "views_label": "827",
       "posted_at": "2026-08-21T11:24:49+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7364"
@@ -233,14 +274,14 @@
         },
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "😎",
           "count": "2"
         }
       ],
-      "views_label": "876",
+      "views_label": "896",
       "posted_at": "2026-08-21T10:26:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7363"
@@ -266,14 +307,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "20"
+          "count": "21"
         },
         {
           "emoji": "🤮",
           "count": "1"
         }
       ],
-      "views_label": "857",
+      "views_label": "870",
       "posted_at": "2026-08-21T10:21:15+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7362"
@@ -308,14 +349,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "18"
+          "count": "19"
         },
         {
           "emoji": "🖕",
           "count": "1"
         }
       ],
-      "views_label": "904",
+      "views_label": "920",
       "posted_at": "2026-08-21T10:11:16+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7360"
@@ -341,7 +382,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "9"
+          "count": "11"
         },
         {
           "emoji": "❤",
@@ -352,7 +393,7 @@
           "count": "1"
         }
       ],
-      "views_label": "899",
+      "views_label": "911",
       "posted_at": "2026-08-21T10:07:25+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/7359"
@@ -397,7 +438,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.26K",
+      "views_label": "1.27K",
       "posted_at": "2026-08-21T07:51:30+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7358"
@@ -467,7 +508,7 @@
           "count": "21"
         }
       ],
-      "views_label": "1.08K",
+      "views_label": "1.09K",
       "posted_at": "2026-08-21T07:14:44+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7356"
@@ -530,7 +571,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "14"
+          "count": "15"
         },
         {
           "emoji": "🥰",
@@ -545,7 +586,7 @@
           "count": "1"
         }
       ],
-      "views_label": "967",
+      "views_label": "971",
       "posted_at": "2026-08-21T07:05:12+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7354"
@@ -571,7 +612,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "15"
+          "count": "16"
         },
         {
           "emoji": "😢",
@@ -3929,65 +3970,6 @@
       "posted_at": "2026-08-15T08:04:08+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7254"
-    },
-    {
-      "id": "DEJradio/7251",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/OofrZQkqkgnGPanXjqgAaVybZCRoyfj8CaAwKXKDwmvHHjUJVVGeL--xKxO8oK0WrJM8e36KCpLxlNlonO-9rXGWvJv3l8GIgPrLBRzCxo-qihfUey78udTQuZjNiew2B5d0O2rZ-aFF7SVUFoawNFOMqC1thKdiECmN1kblN9sUd_GDwbKZMG_hSdr9LRifwxI3At5nK3e2WTBDyJ3nhCBH-AH7jTHYu-Hxh5KXwU0fNcAdVT-ztOrF3mQGuFh_b8pkKTdONdJ0TI0VJ_eIzA0wr7L_r6oXvTlPQLQTjA7LfQ3Jx-TNTqWZ-QoJiDdF4pW_KPMbLaiRlC7SdiV85Q.jpg",
-      "author_photo_path": "channels/dejradio/media/70e8c28a150ba674d064b9e5.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i> ساختار فرماندهی نظامی جمهوری اسلامی پس از دو جنگ ۱۲ و ۴۰ روزه، تغییر کرده است. ادغام ستادکل نیروهای مسلح و قرارگاه مرکزی خاتم‌الانبیا، پیامدهای چند شکست و تجربه بود: <br><br>حذف زنجیره‌ای از فرماندهان ارشد، کندی روند تجزیه‌وتحلیل اطلاعات، طولانی بودن فرآیند تصمیم‌گیری در سطوح فرماندهی تا اجرای فرامین در میدان و همچنین دوگانگی در هدایت عملیات از جمله دلایل این ادغام است.<br><br>در جنگ‌های اخیر فرآیند طولانی تصمیم‌گیری و ناهماهنگی بین ارتش و سپاه پاسداران انقلاب اسلامی نشان داد نیروهای مسلح جمهوری اسلامی آسیب‌پذیر است.<br><br>پس از کشته شدن علی خامنه‌ای برخی یگان‌ها از اتاق مرکزی فرمان نمی‌گرفتند. برای نمونه حکومت در حال مذاکره با آمریکا اما نیروی دریایی سـ.ـپاه پاسداران با آمریکا در آب‌های جنوب ایران درگیر بود.<br><br>ساختار نظامی و امنیتی جمهوری اسلامی دچار آسیب‌هایی است که ادغام ستادکل نیروهای مسلح و قرارگاه خاتم‌الانبیا کمکی به بازسازی یا ترمیم آن نمی‌کند.<br>کمبود تسلیحات پیشرفته، حفره‌های اطلاعاتی، جاسوسی و خرابکاری و همچنین به کارگیری نیروهای ایدئولوژیک کم سواد به جای متخصصان مشکلاتی نیست که با ادغان چند یگان قابل حل باشد.<br><br>فرای اینها نیروهای مسلح جمهوری اسلامی پایگاه مردمی خود را از دست داده‌اند و اساسا مردم به آنها به چشم قاتل و سرکوبگر نگاه می‌کنند. به این مسائل باید فرسودگی و خستگی، مشکلات معیشتی و بی‌انگیزگی نیروها را افزود.<br><br><a href=\"?q=%23%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C_%D9%85%D8%B3%D9%84%D8%AD\">#نیروهای_مسلح</a> <a href=\"?q=%23%D8%AC%D9%86%DA%AF\">#جنگ</a> <a href=\"?q=%23IRGCterrorists\">#IRGCterrorists</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🔺📌 ساختار فرماندهی نظامی جمهوری اسلامی پس از دو جنگ ۱۲ و ۴۰ روزه، تغییر کرده است. ادغام ستادکل نیروهای مسلح و قرارگاه مرکزی خاتم‌الانبیا، پیامدهای چند شکست و تجربه بود: حذف زنجیره‌ای از فرماندهان ارشد، کندی روند تجزیه‌وتحلیل اطلاعات، طولانی بودن فرآیند تصمیم‌گیری در سطوح فرماندهی تا اجرای فرامین در میدان و همچنین دوگانگی در هدایت عملیات از جمله دلایل این ادغام است. در جنگ‌های اخیر فرآیند طولانی تصمیم‌گیری و ناهماهنگی بین ارتش و سپاه پاسداران انقلاب اسلامی نشان داد نیروهای مسلح جمهوری اسلامی آسیب‌پذیر است. پس از کشته شدن علی خامنه‌ای برخی یگان‌ها از اتاق مرکزی فرمان نمی‌گرفتند. برای نمونه حکومت در حال مذاکره با آمریکا اما نیروی دریایی سـ.ـپاه پاسداران با آمریکا در آب‌های جنوب ایران درگیر بود. ساختار نظامی و امنیتی جمهوری اسلامی دچار آسیب‌هایی است که ادغام ستادکل نیروهای مسلح و قرارگاه خاتم‌الانبیا کمکی به بازسازی یا ترمیم آن نمی‌کند. کمبود تسلیحات پیشرفته، حفره‌های اطلاعاتی، جاسوسی و خرابکاری و همچنین به کارگیری نیروهای ایدئولوژیک کم سواد به جای متخصصان مشکلاتی نیست که با ادغان چند یگان قابل حل باشد. فرای اینها نیروهای مسلح جمهوری اسلامی پایگاه مردمی خود را از دست داده‌اند و اساسا مردم به آنها به چشم قاتل و سرکوبگر نگاه می‌کنند. به این مسائل باید فرسودگی و خستگی، مشکلات معیشتی و بی‌انگیزگی نیروها را افزود. #نیروهای_مسلح #جنگ #IRGCterrorists @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7251?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/oehZ2Rn0hrm6ge36G6RW8x6Z8Ze-zdo_oq-bJPgkoF2oD-jN3F3bARjQkIezeUZGFcxCwis9zCa2bP3Iqo4wf-2uqXP87-SWNgA7Og8Zp9kG7diLEwYNSmRSmXldcde7MyU5Dp0bx8wfJ79JMuw6GBsjcXtMAVyHWk_Zi80EfiDD0Ho04DMT2RZN3a9Iaxt7uRI3RFyvERcfSg1YhfymTtOJAlqR9sGi04tLA4jqypf_t_R7yk2xwuk0dL4wL7CEyLRQ7lDYEwZ5XYnuDcznvpXIgW8t6DLpVILkQZR8fl_S5SWMlFal95v5moKKbOVgHs0_q-gh7e5x5wP04sDnIg.jpg",
-          "thumbnail_path": "channels/dejradio/media/98a91bc1e429b4043526eb81.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7252?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ERY2RT8snTHMyGNynsAQkO6Cl_Gd2HnGdq09w7Ne0h3diwjM9Cg9fR76uf6u9tKnIc2Z53_OTo-TQJ8bS6fADcwtL7ykFjIHT8-cDIG2FQWiHQ2gbBtMt8kLaWCAPwpWeVMybYS7uqA_V2gSRE25fpYyOTZG2GYoGwahTzp2ckUHrzaW59NXJ4_e955aZvNSdz0NYCMuet6x85AG8d1Z1UBHnTF3tjcX0xOueUvNLJjvKu-4NQdKIs9s0zOKgG4ZPLADquns897gvFaEXXrwyz4RG_IQGPaY1Ryn9HDqsBhiXTqWsg1_pMmKV04U-n-lU_SMwoFgFjXXsH30ikt8Ng.jpg",
-          "thumbnail_path": "channels/dejradio/media/3b6e66ec15bca6c19a843df9.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7253?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/XjJrZNXS93mixFxZhF4C_4ekElvW-BdQsWuCN6NWYPGIeXfZVGqjZY5arLWYQSU8Ph7PMO-5sxINnZZQVx7N8wr-WrqZc0R1e1oWi23bn5aZpu3j4qNKVZMeUYyB5zonusKRsZ-KTtu0ODSW3wVuu-5Ra6hLSFdVdsukQGVtvumtc4nm0Z4DBPVM1ewl5fvEv8GbED-IU3myw3Tz2xtcIljWeU7Dy3-x1lblmT5TJtQUJyrLu7mmqEFi-8DwUD9FI_aaMeyt_wSCHWfA3ukQ_512Vi2wniOTqttTwT_KSQcP_6zuOad5XBp6Q-D8xOaD1ij2N3pjf-GegnqFNre0aQ.jpg",
-          "thumbnail_path": "channels/dejradio/media/bda8c06bf88a28ede349c833.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "29"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "🥰",
-          "count": "1"
-        },
-        {
-          "emoji": "💯",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.76K",
-      "posted_at": "2026-08-15T07:45:12+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/7251"
     }
   ]
 }

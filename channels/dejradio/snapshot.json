@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-21T12:10:16.724Z",
+  "fetched_at": "2026-08-21T12:18:36.316Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -28,8 +28,17 @@
           "aspect_ratio": 0.8
         }
       ],
-      "reactions": [],
-      "views_label": "1",
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "3"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "116",
       "posted_at": "2026-08-21T12:10:12+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7368"
@@ -55,10 +64,10 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "1"
+          "count": "3"
         }
       ],
-      "views_label": "50",
+      "views_label": "165",
       "posted_at": "2026-08-21T12:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7367"
@@ -97,14 +106,14 @@
         },
         {
           "emoji": "🔥",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "417",
+      "views_label": "490",
       "posted_at": "2026-08-21T11:25:03+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7365"
@@ -130,14 +139,14 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "5"
+          "count": "7"
         },
         {
           "emoji": "👍",
           "count": "3"
         }
       ],
-      "views_label": "356",
+      "views_label": "397",
       "posted_at": "2026-08-21T11:24:49+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7364"
@@ -174,7 +183,7 @@
           "count": "2"
         }
       ],
-      "views_label": "556",
+      "views_label": "566",
       "posted_at": "2026-08-21T10:26:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7363"
@@ -207,7 +216,7 @@
           "count": "1"
         }
       ],
-      "views_label": "571",
+      "views_label": "574",
       "posted_at": "2026-08-21T10:21:15+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7362"
@@ -249,7 +258,7 @@
           "count": "1"
         }
       ],
-      "views_label": "599",
+      "views_label": "605",
       "posted_at": "2026-08-21T10:11:16+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7360"
@@ -282,7 +291,7 @@
           "count": "1"
         }
       ],
-      "views_label": "619",
+      "views_label": "622",
       "posted_at": "2026-08-21T10:07:25+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/7359"
@@ -368,7 +377,7 @@
           "count": "1"
         }
       ],
-      "views_label": "993",
+      "views_label": "994",
       "posted_at": "2026-08-21T07:20:51+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7357"
@@ -397,7 +406,7 @@
           "count": "18"
         }
       ],
-      "views_label": "939",
+      "views_label": "942",
       "posted_at": "2026-08-21T07:14:44+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7356"
@@ -434,7 +443,7 @@
           "count": "5"
         }
       ],
-      "views_label": "985",
+      "views_label": "989",
       "posted_at": "2026-08-21T07:08:59+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7355"
@@ -471,7 +480,7 @@
           "count": "2"
         }
       ],
-      "views_label": "864",
+      "views_label": "865",
       "posted_at": "2026-08-21T07:05:12+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7354"
@@ -508,7 +517,7 @@
           "count": "2"
         }
       ],
-      "views_label": "928",
+      "views_label": "930",
       "posted_at": "2026-08-21T07:02:59+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7353"

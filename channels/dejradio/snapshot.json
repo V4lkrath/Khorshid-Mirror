@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-22T11:11:07.094Z",
+  "fetched_at": "2026-08-22T11:34:28.352Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,39 @@
     "subscriber_count": "13.4K"
   },
   "posts": [
+    {
+      "id": "DEJradio/7381",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VHmM4JmPM_9un3SguH9WX4JftLn0OMJ-nrj97FdUqBh0NqhzJOyjZb5Il1Gy9QJpj_R3Kl5u_N5x3RZ03nzbAr2yWXWzHFpQqEHorba5mfC8PZtBEL2HhMBrShcl-n9yJJjcqpxql42PZkkieUzbUafjr--xoyVWLL4ja9S2stL8mBgBAs28y6LCpBWAsjfNQ_Su9f6bm2tqL9sJPUyqnTppAu82cG8_a6b8cH85vlYhRwLPGUrfCfv3aa-61xoPs4bIXcwMpakEs1tuYt1V_TgzM-14PZ-wFeRTnTMQbuI6SxsZVlpkHW-iOtWFZSWP-E107gjbe1iXSE9tjbFwZg.jpg",
+      "author_photo_path": "channels/dejradio/media/16ccdf460b96d316e25286e0.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5828025979334823630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> با وجود شرایط جنگی حکومت در تجمعات شبانه و مانورهای رزمی خیابانی اقدام به نزدیک‌ کردن کودکان و خانواده‌ها به تجهیزات جنگی می‌کند، آن‌هم با وجود آنکه هر آن ممکن است این تجهیزات هدف حمله قرار بگیرند.<br><br><a href=\"?q=%23%D8%B3%D9%BE%D8%B1_%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C\">#سپر_انسانی</a> <a href=\"?q=%23%D8%AC%D9%86%DA%AF\">#جنگ</a> <a href=\"?q=%23%D8%AA%D8%AC%D9%85%D8%B9%D8%A7%D8%AA_%D8%AD%DA%A9%D9%88%D9%85%D8%AA%DB%8C\">#تجمعات_حکومتی</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "🔺🎥 با وجود شرایط جنگی حکومت در تجمعات شبانه و مانورهای رزمی خیابانی اقدام به نزدیک‌ کردن کودکان و خانواده‌ها به تجهیزات جنگی می‌کند، آن‌هم با وجود آنکه هر آن ممکن است این تجهیزات هدف حمله قرار بگیرند. #سپر_انسانی #جنگ #تجمعات_حکومتی @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/7381",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/MUqF0mzx9_npHUK7F668KqM3jAoJTb_F8zYGW3k4Z6y_Ws9FPJJkpxC5AKPF7XYqJ63I8KUWKf5JlbkUKMQvZgeHgpXq8WaUk3umDEEB_Cb6zSPsvnS1DBiiEOADfSepxbUsCNOwKGWTYgE7riRBucAEJVa3qTG8EFPS7l8NWDX7G1URuWafc_9rZx7nwOzlTr2ldQCgjj8Fwes6czlT0_0_EqmSfMieOs2Yfvxa4hXHeATQ5zCmASkV-smHISg5J5VoZnsMmvIW8rpjo2RKCpc35NtNaaHxt1_7l6VBah_8dGE5bfDLu8JAadXc15nbDTQzDyenrVQVvMCT4eliVg",
+          "thumbnail_path": "channels/dejradio/media/a073b5155d3e1b46d945fbab.jpg",
+          "duration_label": "0:17",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤬",
+          "count": "5"
+        },
+        {
+          "emoji": "😁",
+          "count": "2"
+        }
+      ],
+      "views_label": "188",
+      "posted_at": "2026-08-22T11:19:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/7381"
+    },
     {
       "id": "DEJradio/7380",
       "author_name": "DEJ",
@@ -31,10 +64,14 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "1"
+          "count": "6"
+        },
+        {
+          "emoji": "🖕",
+          "count": "4"
         }
       ],
-      "views_label": "94",
+      "views_label": "312",
       "posted_at": "2026-08-22T11:07:14+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7380"
@@ -60,7 +97,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "16"
+          "count": "24"
         },
         {
           "emoji": "👏",
@@ -75,7 +112,7 @@
           "count": "1"
         }
       ],
-      "views_label": "415",
+      "views_label": "565",
       "posted_at": "2026-08-22T10:34:33+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7379"
@@ -110,11 +147,11 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "14"
+          "count": "16"
         },
         {
           "emoji": "👍",
-          "count": "1"
+          "count": "2"
         },
         {
           "emoji": "🤮",
@@ -125,7 +162,7 @@
           "count": "1"
         }
       ],
-      "views_label": "763",
+      "views_label": "845",
       "posted_at": "2026-08-22T09:15:14+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7377"
@@ -151,14 +188,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "20"
+          "count": "27"
         },
         {
           "emoji": "💯",
           "count": "1"
         }
       ],
-      "views_label": "334",
+      "views_label": "365",
       "posted_at": "2026-08-22T09:11:43+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7376"
@@ -184,7 +221,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "🤬",
@@ -199,7 +236,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.04K",
+      "views_label": "1.09K",
       "posted_at": "2026-08-22T07:09:19+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7375"
@@ -225,7 +262,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "12"
+          "count": "13"
         },
         {
           "emoji": "❤",
@@ -244,7 +281,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.01K",
+      "views_label": "1.06K",
       "posted_at": "2026-08-22T07:05:32+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7374"
@@ -270,7 +307,7 @@
       "reactions": [
         {
           "emoji": "🤮",
-          "count": "57"
+          "count": "59"
         },
         {
           "emoji": "😁",
@@ -297,7 +334,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.76K",
+      "views_label": "1.8K",
       "posted_at": "2026-08-21T22:31:43+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7373"
@@ -330,7 +367,7 @@
           "count": "7"
         }
       ],
-      "views_label": "1.68K",
+      "views_label": "1.71K",
       "posted_at": "2026-08-21T19:20:52+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7372"
@@ -367,7 +404,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.59K",
+      "views_label": "2.62K",
       "posted_at": "2026-08-21T18:20:08+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7371"
@@ -412,7 +449,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.69K",
+      "views_label": "1.71K",
       "posted_at": "2026-08-21T16:11:12+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7370"
@@ -457,7 +494,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.79K",
+      "views_label": "1.82K",
       "posted_at": "2026-08-21T12:46:06+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7369"
@@ -498,7 +535,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.61K",
+      "views_label": "1.62K",
       "posted_at": "2026-08-21T12:10:12+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7368"
@@ -535,7 +572,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.57K",
+      "views_label": "1.58K",
       "posted_at": "2026-08-21T12:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7367"
@@ -585,7 +622,7 @@
           "count": "3"
         }
       ],
-      "views_label": "2.24K",
+      "views_label": "2.26K",
       "posted_at": "2026-08-21T11:25:03+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7365"
@@ -622,7 +659,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.35K",
+      "views_label": "1.37K",
       "posted_at": "2026-08-21T11:24:49+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7364"
@@ -663,7 +700,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.37K",
+      "views_label": "1.38K",
       "posted_at": "2026-08-21T10:26:26+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7363"
@@ -689,7 +726,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "31"
+          "count": "32"
         },
         {
           "emoji": "🤮",
@@ -700,7 +737,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.82K",
+      "views_label": "1.85K",
       "posted_at": "2026-08-21T10:21:15+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7362"
@@ -3965,60 +4002,6 @@
       "posted_at": "2026-08-16T08:57:02+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7266"
-    },
-    {
-      "id": "DEJradio/7264",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/OofrZQkqkgnGPanXjqgAaVybZCRoyfj8CaAwKXKDwmvHHjUJVVGeL--xKxO8oK0WrJM8e36KCpLxlNlonO-9rXGWvJv3l8GIgPrLBRzCxo-qihfUey78udTQuZjNiew2B5d0O2rZ-aFF7SVUFoawNFOMqC1thKdiECmN1kblN9sUd_GDwbKZMG_hSdr9LRifwxI3At5nK3e2WTBDyJ3nhCBH-AH7jTHYu-Hxh5KXwU0fNcAdVT-ztOrF3mQGuFh_b8pkKTdONdJ0TI0VJ_eIzA0wr7L_r6oXvTlPQLQTjA7LfQ3Jx-TNTqWZ-QoJiDdF4pW_KPMbLaiRlC7SdiV85Q.jpg",
-      "author_photo_path": "channels/dejradio/media/70e8c28a150ba674d064b9e5.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5951842387465605469\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><tg-emoji emoji-id=\"5951677112829088371\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji> <b>حسین طائب رئیس جدید بسیج در قم به دیدار شماری از مراجع تقلید شیعه رفته است. </b>اغلب این مراجع که به دشت جایگاه خودشان و حکومت را در خطر می‌بینند به طائب برای مقابله با مردم چراغ سبز نشان داده‌اند.<br>یک منبع امنیتی به دژ می‌گوید حسین طائب را به ریاست بسیج منصوب کردند تا به خاطر کارنامه سیاهی که دارد پروپاگاندا از او لولوخورخوره بسازد تا شاید جلوی اعتراضات و خیزش‌ها را بگیرند.<br>همین منبع می‌گوید: «حسین طائب یک بیمار روانی است، آنهایی که از نزدیک با او کار کردند میدانند دچار عارضه‌ای خطرناکی است، به صغیر و کبیر بدبین است، مرض شک دارد و دائم همه را به جان هم می‌اندازد. در دوران ریاست بر اطلاعات سـ.ـپاه آنقدر غرق فساد و پرونده‌سازی حتی برای خودی‌ها شده بود که حسین سلامی مجبور شد او را عزل کند.»<br>بعد از تلفات سنگین در جنگ و ریزش نیروهای سرکوب، بسیج با کمبود نیرو روبه‌رو شده و مدت‌هاست حکومت با تبلیغات به اسم «جانفدا» عضو داوطلب جذب می‌کند.<br><br><a href=\"?q=%23%D8%B7%D8%A7%D8%A6%D8%A8\">#طائب</a> <a href=\"?q=%23%D8%B3%D8%B1%DA%A9%D9%88%D8%A8\">#سرکوب</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "⭕️⭕️ حسین طائب رئیس جدید بسیج در قم به دیدار شماری از مراجع تقلید شیعه رفته است. اغلب این مراجع که به دشت جایگاه خودشان و حکومت را در خطر می‌بینند به طائب برای مقابله با مردم چراغ سبز نشان داده‌اند. یک منبع امنیتی به دژ می‌گوید حسین طائب را به ریاست بسیج منصوب کردند تا به خاطر کارنامه سیاهی که دارد پروپاگاندا از او لولوخورخوره بسازد تا شاید جلوی اعتراضات و خیزش‌ها را بگیرند. همین منبع می‌گوید: «حسین طائب یک بیمار روانی است، آنهایی که از نزدیک با او کار کردند میدانند دچار عارضه‌ای خطرناکی است، به صغیر و کبیر بدبین است، مرض شک دارد و دائم همه را به جان هم می‌اندازد. در دوران ریاست بر اطلاعات سـ.ـپاه آنقدر غرق فساد و پرونده‌سازی حتی برای خودی‌ها شده بود که حسین سلامی مجبور شد او را عزل کند.» بعد از تلفات سنگین در جنگ و ریزش نیروهای سرکوب، بسیج با کمبود نیرو روبه‌رو شده و مدت‌هاست حکومت با تبلیغات به اسم «جانفدا» عضو داوطلب جذب می‌کند. #طائب #سرکوب @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7264?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/n9_fFl9pjkSUsayjhXzobFx-EWL6lhep-NWXDaBpELvZs5VzccF37NU3AP7DSIQfboJ6J5NBADnM8F8f8fU-tD3_rHRxv3FU_7F6VS_FV-9LNh9O02PK5Qf8FSwDw6op3bQJX2o1WvIG5Usi988i0c8239emCW0P5_qwaw__G3PwwnDXot-n2j4IOfhGAxqynfMYQla9rK5JrTBRTgZcnOl2hXk9IQUlVdXSqnS0CFpx0t8w6mFbblqKyICCvMVoAPiIWPsh7xStUPojbk0phev_k0_-PDskksiv-ool9CdSa34fMNqJvtq-_3Bt75qA0_ETvmZLhUc8DUD2LjFwgg.jpg",
-          "thumbnail_path": "channels/dejradio/media/8da7025dc47f2b71332929aa.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7265?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/dkVPxda7L7PzohqS8TStupGRc9MiD6xTmkuW14zKMgJ8iui37kMfh-qR1bUxsdq7JydRw7yFQBQ_VDcur_iQMLEvP3S9RlJDHhWPDttPIdMMEz2RFmv1DrDeiaZmC3kPHlIeNsPz02A1qDf85v6cooVpaI6My0HeDMzKcCYcrzAhS8GT-6ULBzcWE78V1hT3_sSBaeZT939CRvs8mS52HD_ipIMFn1BNmCoTTaJXCOCab2CKe-tpD2F4lcYQ_8KgwAZ0xz8k-ZlOwKaBwZvYGoRe01k1a0HTGN9wZ0d3BXww8lx9Biz8aHHyXcfbYt6gKgogtPH6WWOmAULIiekBkQ.jpg",
-          "thumbnail_path": "channels/dejradio/media/820ea9e98228335db978bf99.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤮",
-          "count": "28"
-        },
-        {
-          "emoji": "🤬",
-          "count": "5"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "😁",
-          "count": "1"
-        }
-      ],
-      "views_label": "2.19K",
-      "posted_at": "2026-08-16T08:54:26+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/7264"
     }
   ]
 }

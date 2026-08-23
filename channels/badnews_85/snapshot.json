@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-23T21:11:20.157Z",
+  "fetched_at": "2026-08-23T21:35:45.130Z",
   "channel": {
     "username": "badnews_85",
     "title": "BadNews85 | بدنیوز",
@@ -10,6 +10,39 @@
     "subscriber_count": "232K"
   },
   "posts": [
+    {
+      "id": "BadNews_85/28542",
+      "author_name": "BadNews85 | بدنیوز",
+      "author_photo_url": "https://cdn4.telesco.pe/file/hiV0Vmpy8s5gOWpssDjNf1Ou_NWLArIZ3Lg8s4NYRhyWAoaali9m__bXjBF-acPAoIGUuC-tRQllI55uI6AgxfgeUqYWv5MyL5BD6y4V7zSl3tSSEH26ehkFX5oAZ9WVk7XHyXCN_a-I7CJDS8BMu8fE12Gu-oUi-2-yILeqx1Z7YMrKBepOYfD-_v7f_J5BnDGe78zYX_KUl4_-LhinyH2M6AhSmxVeg9e0Oegf_Wx7dvYyhT6Xuw-etpJqD5q8Az96ZT2k0riU6Oh_dgeogFnkd9HybqB3DVTZ0srSgVAsm82WhmU_B3MQuSMgXMmbinOOf-jZMoeJCLk_raIgJw.jpg",
+      "author_photo_path": "channels/badnews_85/media/8c4e73e09f348d019931b156.jpg",
+      "body_html": "شما میتونی با ساده ترین چیزا یه شاهکار خلق کنی؛ استعدادش تو این کار ده از دهه واقعا : <br><br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
+      "plain_text": "شما میتونی با ساده ترین چیزا یه شاهکار خلق کنی؛ استعدادش تو این کار ده از دهه واقعا : @BadNews_85",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/BadNews_85/28542",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RRXOJ5QxftIWSfuHj6wWxcAl4_PDGlBG9LamSayr0VstW17_l_8o2zhCvtLawMGT3ur0-8ZGGo98bSCuxlMUMGkQc_dYs3ZdDL7tkssNgkceC7w8dSWV0DGSUnIJ7jMYBI2VRgWkpuvffsnuysxELd4Myx2RC1mJE6OhdypKYcdMWCGPbN0KdbHBC6Lu9bLWeMxljJcFNddZj_8KVzR8wJjJu8I-bhiGMkZAgn56Yp0J6XohdyATz0_OfMo9ig7s5rspVBJvCNZbefbBlfdroveenaCtY0ACebkMggI3me6izLFpU1OJM2GnHKUAy-2IRH5M4C2mZNVc3PYwRWGgGw",
+          "thumbnail_path": "channels/badnews_85/media/a7a4c987d5f92d8b1c4d92d2.jpg",
+          "duration_label": "0:29",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "13"
+        },
+        {
+          "emoji": "🔥",
+          "count": "4"
+        }
+      ],
+      "views_label": "517",
+      "posted_at": "2026-08-23T21:34:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/BadNews_85/28542"
+    },
     {
       "id": "BadNews_85/28541",
       "author_name": "BadNews85 | بدنیوز",
@@ -31,14 +64,18 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "544"
+          "count": "616"
         },
         {
           "emoji": "🖕",
-          "count": "12"
+          "count": "15"
         },
         {
           "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "😐",
           "count": "7"
         },
         {
@@ -46,15 +83,11 @@
           "count": "5"
         },
         {
-          "emoji": "😐",
-          "count": "5"
-        },
-        {
           "emoji": "❤‍🔥",
           "count": "3"
         }
       ],
-      "views_label": "6.48K",
+      "views_label": "7.67K",
       "posted_at": "2026-08-23T20:03:34+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28541"
@@ -70,26 +103,26 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "343"
+          "count": "364"
         },
         {
           "emoji": "🤣",
-          "count": "101"
+          "count": "104"
         },
         {
           "emoji": "🤬",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "💔",
           "count": "2"
         }
       ],
-      "views_label": "10.9K",
+      "views_label": "11.7K",
       "posted_at": "2026-08-23T18:23:01+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28540"
@@ -115,7 +148,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "368"
+          "count": "384"
         },
         {
           "emoji": "💔",
@@ -127,7 +160,7 @@
         },
         {
           "emoji": "👍",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "🍓",
@@ -138,7 +171,7 @@
           "count": "3"
         }
       ],
-      "views_label": "14.1K",
+      "views_label": "14.7K",
       "posted_at": "2026-08-23T17:02:24+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28539"
@@ -164,11 +197,11 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "1.08K"
+          "count": "1.1K"
         },
         {
           "emoji": "❤",
-          "count": "43"
+          "count": "46"
         },
         {
           "emoji": "🤣",
@@ -176,7 +209,7 @@
         },
         {
           "emoji": "❤‍🔥",
-          "count": "18"
+          "count": "19"
         },
         {
           "emoji": "🖕",
@@ -191,7 +224,7 @@
           "count": "3"
         }
       ],
-      "views_label": "15.8K",
+      "views_label": "16.3K",
       "posted_at": "2026-08-23T16:02:42+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28538"
@@ -217,7 +250,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "🖕",
@@ -228,7 +261,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.2K",
+      "views_label": "15.7K",
       "posted_at": "2026-08-23T16:02:35+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28537"
@@ -254,7 +287,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "1.53K"
+          "count": "1.55K"
         },
         {
           "emoji": "😭",
@@ -266,7 +299,7 @@
         },
         {
           "emoji": "❤",
-          "count": "7"
+          "count": "8"
         },
         {
           "emoji": "😐",
@@ -285,7 +318,7 @@
           "count": "2"
         }
       ],
-      "views_label": "17.8K",
+      "views_label": "18.1K",
       "posted_at": "2026-08-23T14:12:06+00:00",
       "edited": true,
       "permalink": "https://t.me/BadNews_85/28536"
@@ -301,7 +334,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "420"
+          "count": "428"
         },
         {
           "emoji": "🤯",
@@ -324,19 +357,19 @@
           "count": "9"
         },
         {
-          "emoji": "🔥",
+          "emoji": "❤",
           "count": "5"
         },
         {
-          "emoji": "❤",
-          "count": "4"
+          "emoji": "🔥",
+          "count": "5"
         },
         {
           "emoji": "👍",
           "count": "2"
         }
       ],
-      "views_label": "18.5K",
+      "views_label": "18.8K",
       "posted_at": "2026-08-23T13:07:52+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28535"
@@ -362,11 +395,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "783"
+          "count": "788"
         },
         {
           "emoji": "😐",
-          "count": "238"
+          "count": "239"
         },
         {
           "emoji": "❤",
@@ -389,7 +422,7 @@
           "count": "1"
         }
       ],
-      "views_label": "20.7K",
+      "views_label": "20.9K",
       "posted_at": "2026-08-23T12:20:11+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28534"
@@ -415,7 +448,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "850"
+          "count": "858"
         },
         {
           "emoji": "🤣",
@@ -446,7 +479,7 @@
           "count": "1"
         }
       ],
-      "views_label": "20.2K",
+      "views_label": "20.5K",
       "posted_at": "2026-08-23T11:58:12+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28533"
@@ -472,7 +505,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "268"
+          "count": "269"
         },
         {
           "emoji": "💔",
@@ -499,7 +532,7 @@
           "count": "2"
         }
       ],
-      "views_label": "21.5K",
+      "views_label": "21.7K",
       "posted_at": "2026-08-23T10:05:04+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28532"
@@ -525,7 +558,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "1.19K"
+          "count": "1.2K"
         },
         {
           "emoji": "🤣",
@@ -533,7 +566,7 @@
         },
         {
           "emoji": "❤",
-          "count": "42"
+          "count": "43"
         },
         {
           "emoji": "🖕",
@@ -541,7 +574,7 @@
         },
         {
           "emoji": "👍",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "💔",
@@ -560,7 +593,7 @@
           "count": "2"
         }
       ],
-      "views_label": "25K",
+      "views_label": "25.1K",
       "posted_at": "2026-08-23T06:17:28+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28531"
@@ -586,11 +619,11 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "709"
+          "count": "710"
         },
         {
           "emoji": "👍",
-          "count": "110"
+          "count": "111"
         },
         {
           "emoji": "🤣",
@@ -613,7 +646,7 @@
           "count": "3"
         }
       ],
-      "views_label": "25.6K",
+      "views_label": "25.7K",
       "posted_at": "2026-08-22T22:12:01+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28530"
@@ -648,11 +681,11 @@
       "reactions": [
         {
           "emoji": "🤯",
-          "count": "550"
+          "count": "552"
         },
         {
           "emoji": "❤",
-          "count": "93"
+          "count": "94"
         },
         {
           "emoji": "🔥",
@@ -660,7 +693,7 @@
         },
         {
           "emoji": "🤣",
-          "count": "16"
+          "count": "17"
         },
         {
           "emoji": "👍",
@@ -675,7 +708,7 @@
           "count": "1"
         }
       ],
-      "views_label": "25.1K",
+      "views_label": "25.2K",
       "posted_at": "2026-08-22T22:04:06+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28528"
@@ -782,7 +815,7 @@
           "count": "1"
         }
       ],
-      "views_label": "23.8K",
+      "views_label": "23.9K",
       "posted_at": "2026-08-22T20:34:07+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28525"
@@ -893,7 +926,7 @@
           "count": "1"
         }
       ],
-      "views_label": "24.9K",
+      "views_label": "25K",
       "posted_at": "2026-08-22T19:11:33+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28522"
@@ -5192,51 +5225,6 @@
       "posted_at": "2026-08-17T13:00:05+00:00",
       "edited": false,
       "permalink": "https://t.me/BadNews_85/28415"
-    },
-    {
-      "id": "BadNews_85/28414",
-      "author_name": "BadNews85 | بدنیوز",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Dj2lqcAV6Bud2ZUXK0oyXCQ2YiVvQSiYt8aAMCR7bOQAJghaO9ZckEAiLfv-dhp7ty1hNKwP0BnltoN9jaH6viFNH49pXud6YWfPB_itnJX846UhMy9pI4raRyJwMNTY-y8iAHEEWSpLoh_qSFlEH7pdB7JHZnqkKOijGTLOZ9-xBoUiPLELJXsyEppISZIkw1hBaZe9juvZX9AfdKD0_2mh_39jJMvmHKA0RjlYhYnMHuRHzevSgzGhNIVvhKQPZGBoK57VhrHscUBeUWYvN_RkWj79pNZYsMYgKZgSDvfdDZfFmTq83ziaHfdwgu-Co67peGrqsJ27KleqWZM_VQ.jpg",
-      "author_photo_path": "channels/badnews_85/media/7a52a07927dc8e5f862cbc73.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <b>ترامپ </b>:<br><br><blockquote>ترامپ: خدا شاهده این بار عمان بیاد واسطه بشه و بگه مذاکره کنین سر تنگه هرمز، اونا ام بمبارون میکنیم.</blockquote><br><blockquote>تا ایران پرچم سفید تسلیم رو بالا نبره، دیگه ول کن نمیشم.</blockquote><br><br><a href=\"https://t.me/BadNews_85\" target=\"_blank\">@BadNews_85</a>",
-      "plain_text": "🔴 ترامپ : ترامپ: خدا شاهده این بار عمان بیاد واسطه بشه و بگه مذاکره کنین سر تنگه هرمز، اونا ام بمبارون میکنیم. تا ایران پرچم سفید تسلیم رو بالا نبره، دیگه ول کن نمیشم. @BadNews_85",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/BadNews_85/28414",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/szNkVtxLAC8o2lUcH3P5xu9R8BQ1cJOoNLkdpa5u91KxVmjA11s4SsBgzkihXq20yUVDcE2c9wPXvh1_tcgIwpA-Qsu79FFC060R_ycD2Y0D7syXn26LV298coTY0jwnR9PggCSKcypJ76ywo6QiW6zeT-92E-LZyw_lwWUKKTVZAjtStQ1b-l1NxeWjjYYI388iMc7TkWNLUsrA8ypBu-evPPY6bU8_YbgRxGmfKMgO6fcK0dSY0W_RNUlGuuwrlkfZej_Tt-mq60HokBaoEerqezrLrf_mWyNev0JIZ-KmHtYw3zQiSE75oHD9n-Q_Wh-Hj0UFE_prVJ1zbGqQ2Q",
-          "thumbnail_path": "channels/badnews_85/media/881e5ff15b3c1cde4cfbe9dd.jpg",
-          "duration_label": "0:14",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "580"
-        },
-        {
-          "emoji": "❤",
-          "count": "62"
-        },
-        {
-          "emoji": "🖕",
-          "count": "27"
-        },
-        {
-          "emoji": "👍",
-          "count": "19"
-        },
-        {
-          "emoji": "💔",
-          "count": "1"
-        }
-      ],
-      "views_label": "25.1K",
-      "posted_at": "2026-08-17T11:36:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/BadNews_85/28414"
     }
   ]
 }

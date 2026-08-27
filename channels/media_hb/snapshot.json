@@ -1,15 +1,604 @@
 {
   "schema": 2,
-  "fetched_at": "2026-08-27T04:42:11.614Z",
+  "fetched_at": "2026-08-27T13:06:45.955Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | Media Hub",
     "description_html": "برای تبلیغات و همکاری پیوی پیام بدید<br><br><a href=\"https://t.me/Behdad_ps\" target=\"_blank\">@Behdad_ps</a>",
     "photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
     "photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
-    "subscriber_count": "158K"
+    "subscriber_count": "159K"
   },
   "posts": [
+    {
+      "id": "Media_HB/105810",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i>کاخ سفید: در حال حاضر، هیچ مذاکره‌ای با ایران در جریان نیست.</b><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>این وضعیت تا زمانی ادامه خواهد داشت که آقای ترامپ احساس کند که شاید آنها به شکلی جدی و سازنده وارد مذاکرات شوند.</b></blockquote>",
+      "plain_text": "‼️کاخ سفید: در حال حاضر، هیچ مذاکره‌ای با ایران در جریان نیست. 🔻این وضعیت تا زمانی ادامه خواهد داشت که آقای ترامپ احساس کند که شاید آنها به شکلی جدی و سازنده وارد مذاکرات شوند.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "26"
+        }
+      ],
+      "views_label": "798",
+      "posted_at": "2026-08-27T13:00:24+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105810"
+    },
+    {
+      "id": "Media_HB/105809",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>محسن نامجو برگشت ایران</b>",
+      "plain_text": "🔻محسن نامجو برگشت ایران",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/105809",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hJTPmYzvGrhrEHQtpExmNrUIiBN6k9XhY7OvfQEFWcxHGllketU1v_HEKiGCuQrtjCUJ3PKjf5YCB1fULRhdN_XtBPI2Jpyn_TBvvmJUewojDafObUrqHUTAYOaYWCqx-_IxM-E8VSEnyUllNEv_HDd5eZfIpGciMLUeytGj9wsJrBQ9Frf3DT-IrKgtgURjcUYiNfte1QvHe3ipBPr2qepuMSUI2ah55gWUIXkjIAcZHgRB7A6Rp-1yqH62guck5ukqAQFZKT58gb6-hXLjcDYxkOwvlhejkh7QYkDMqjbEJvD2B97R9bT1HtZOZ1Av18MdL_xeXi1dXAfA4UqugQ",
+          "thumbnail_path": "channels/media_hb/media/98e1934a6ead88c4c00607be.jpg",
+          "duration_label": "1:00",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤡",
+          "count": "88"
+        },
+        {
+          "emoji": "🔥",
+          "count": "7"
+        },
+        {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "😭",
+          "count": "1"
+        }
+      ],
+      "views_label": "2.23K",
+      "posted_at": "2026-08-27T12:46:59+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105809"
+    },
+    {
+      "id": "Media_HB/105808",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> مشخص شده این سیل بخاطر این بوده که بخشی از یه یخچال طبیعی توی ارتفاع حدود ۵۲۰۰ متری کوه های هیمالیا فرو ریخته، بعد ازون یه رودخونه رو مسدود کرده و مثل یه سد طبیعی سیل شدیدی پشت سرش راه انداخته. <br>بعد ازینکه این سد طبیعی شکسته آب با شدت زیادی راه پیدا کرده. بنابر گزارشات موج اولیه آب که وارد شده تقریبا ۹ متر ارتفاع داشته.<br>تا الانم بیشتر از ۳۳۰ نفر کشته شدن و بالای ۱۵۰۰ نفر مفقودن.</b>",
+      "plain_text": "🔴 مشخص شده این سیل بخاطر این بوده که بخشی از یه یخچال طبیعی توی ارتفاع حدود ۵۲۰۰ متری کوه های هیمالیا فرو ریخته، بعد ازون یه رودخونه رو مسدود کرده و مثل یه سد طبیعی سیل شدیدی پشت سرش راه انداخته. بعد ازینکه این سد طبیعی شکسته آب با شدت زیادی راه پیدا کرده. بنابر گزارشات موج اولیه آب که وارد شده تقریبا ۹ متر ارتفاع داشته. تا الانم بیشتر از ۳۳۰ نفر کشته شدن و بالای ۱۵۰۰ نفر مفقودن.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "60"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "3.83K",
+      "posted_at": "2026-08-27T12:20:33+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/105808"
+    },
+    {
+      "id": "Media_HB/105807",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> آتلانتیک:<br></b><blockquote><b>آمریکا میخواد موضوع جنگ ایران از تیتر اول رسانه های دنیا محو بشه.</b></blockquote><b><br></b><blockquote><b>یکی از مقامات گفته درحال کنترل وضعیت تا انتخابات میان‌دوره‌ای هستیم.</b></blockquote><b><br></b><blockquote><b>ترامپ قصد داره با محاصره و تحریم اقتصادی اوضاع رو تا انتخابات کنترل کنه و وضعیت رو آروم کنه.</b></blockquote>",
+      "plain_text": "🔴 آتلانتیک: آمریکا میخواد موضوع جنگ ایران از تیتر اول رسانه های دنیا محو بشه. یکی از مقامات گفته درحال کنترل وضعیت تا انتخابات میان‌دوره‌ای هستیم. ترامپ قصد داره با محاصره و تحریم اقتصادی اوضاع رو تا انتخابات کنترل کنه و وضعیت رو آروم کنه.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "45"
+        },
+        {
+          "emoji": "🤡",
+          "count": "4"
+        }
+      ],
+      "views_label": "4.75K",
+      "posted_at": "2026-08-27T11:58:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105807"
+    },
+    {
+      "id": "Media_HB/105806",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b>کل این ۲ دقیقه ویدیو که میبینید صف بنزینه‌.<br>یعنی فقط ویدیو گرفتن همچین فاجعه‌ای ۲ دقیقه طول کشیده حالا تو صف بودنش به کنار.</b>",
+      "plain_text": "کل این ۲ دقیقه ویدیو که میبینید صف بنزینه‌. یعنی فقط ویدیو گرفتن همچین فاجعه‌ای ۲ دقیقه طول کشیده حالا تو صف بودنش به کنار.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/105806",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RBfiTICZEtdTcwx2b4AYGomqppL8c6FHOmQjWMp467jGXA_8VXvOGWhvbj25ORbSTOvmieoKeReOGf648jpDF1inUYXVREH2ExIS-0AqF4M543evPfMXxUCvnr5okGlEGMYpa_q6Y6-MZ7AodmUhWiizznOKU1qohANrJFv5Sy_TPKNIjSdF0lJmAnWUr5DvJZU4cTLe-rO6WMYYf9OYTil_poqdC0SoMLshwfJcCE9o6hPt_ToCmiHhYAc4BOOehpGjWG9sT2N400L347mJBGdZ_tAh0urHmLnLtl4OQ6qo_GkF6mupbFBlIyxoRcc2LuH2Xg_kQYmknBpYAXrjEA",
+          "thumbnail_path": "channels/media_hb/media/d0bee417a933faadc0267ac3.jpg",
+          "duration_label": "2:17",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "💔",
+          "count": "76"
+        },
+        {
+          "emoji": "🤣",
+          "count": "5"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        },
+        {
+          "emoji": "😭",
+          "count": "1"
+        }
+      ],
+      "views_label": "5.23K",
+      "posted_at": "2026-08-27T11:49:05+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105806"
+    },
+    {
+      "id": "Media_HB/105805",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> وزیر خارجه قطر با دمپایی اومد ایران تا با عراقچی بشینن.</b>",
+      "plain_text": "🔴 وزیر خارجه قطر با دمپایی اومد ایران تا با عراقچی بشینن.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/105805",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ecVwfQ2FSBuOBkHacKld3_MbjkfVGsgf72qndiCHLPVnU7s44h_uyduulCQL3KDgYsR5g5cgIqfTldL_m_XJl1-XSb0RApgMUDr9CteKIRIh444MgfPqYLkG7BNTnZOWYBx2qXZA6FdZt0qpMQB7TXPTb1PjKTDUvBkWdKr6vSNVmSnMOfHKbpH2BDKkjwjBkLQurdHks16N1E3XztDVgZH7scvJfVgpw6hmVGphXGI9oL_d9g4YCsgQHlNxaINogCZUbM24-VmmrvN6f00HTRxNyDVnM-ACRynN02_5lktFe9dkFoti7eFDuIn39ljJJJwKQOt_Br9XGdARvGGZEQ",
+          "thumbnail_path": "channels/media_hb/media/6f7ed8abcd0bb7916aced6b3.jpg",
+          "duration_label": "0:45",
+          "aspect_ratio": 1.304347826086951
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "85"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "🤡",
+          "count": "3"
+        }
+      ],
+      "views_label": "5.75K",
+      "posted_at": "2026-08-27T11:17:34+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105805"
+    },
+    {
+      "id": "Media_HB/105804",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> وزیر بهداشت:<br>قیمت دارو افزایش پیدا کرده، چون در حمل و نقل مشکل ایجاد شده، مواد اولیه‌ای که با کشتی به کشور میاوردیم رو الان به اجبار با هواپیما میاریم.</b><br><blockquote>—<b> آمریکا از قبل اعلام کرده بود محصولات غذایی و دارویی جزو محاصره نیست و اجازه واردات دارن.</b></blockquote>",
+      "plain_text": "🔴 وزیر بهداشت: قیمت دارو افزایش پیدا کرده، چون در حمل و نقل مشکل ایجاد شده، مواد اولیه‌ای که با کشتی به کشور میاوردیم رو الان به اجبار با هواپیما میاریم. — آمریکا از قبل اعلام کرده بود محصولات غذایی و دارویی جزو محاصره نیست و اجازه واردات دارن.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "46"
+        },
+        {
+          "emoji": "😭",
+          "count": "11"
+        },
+        {
+          "emoji": "😡",
+          "count": "6"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        },
+        {
+          "emoji": "😐",
+          "count": "1"
+        }
+      ],
+      "views_label": "6.49K",
+      "posted_at": "2026-08-27T10:46:38+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105804"
+    },
+    {
+      "id": "Media_HB/105803",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b>رئیس بانک مرکزی سوریه، ویدیویی از رئیس‌جمهوری سوریه منتشر کرده که در حال انجام اولین پرداخت با ویزاکارت توی یکی از فروشگاه‌های دمشقه.<br>این پرداخت بعد از حذف رسمی سوریه از فهرست کشورهای حامی تروریسم آمریکا انجام شده.</b>",
+      "plain_text": "رئیس بانک مرکزی سوریه، ویدیویی از رئیس‌جمهوری سوریه منتشر کرده که در حال انجام اولین پرداخت با ویزاکارت توی یکی از فروشگاه‌های دمشقه. این پرداخت بعد از حذف رسمی سوریه از فهرست کشورهای حامی تروریسم آمریکا انجام شده.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/105803",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/IfVx1_9rQgVid7poB3erVdoO8jXOasStvp8D6OGkQ1mmeXtX8eopoYyQoiUzwWx31ontNaCdzlbFPYSZpi_pIKJVT-DzDrRjg5So4kIGjFG1t2QuM8ZeiyJ7sTVFWiDfMWv46tbYLwb0n9Huw9FZIJRp_SjN0Px1uczfhpqi7YOxWl8MvsMJFN7fluKwKdydhpFjdoWToON4LHCE3V-BZcmE8Vmo0ekYrWLKHxGNGp413KshGePOoRq7Flsnkr5jRGhCwrVUa8d1rbN2pwRzTOLuNZJ-MrcymcRL4XkeqTmttZ48AAsNFdSMjFJGKx5O4SLhtQ3FhER3ABiy6GlMxg",
+          "thumbnail_path": "channels/media_hb/media/d1654f75af6b468b0fec75e3.jpg",
+          "duration_label": "0:29",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "103"
+        },
+        {
+          "emoji": "💔",
+          "count": "11"
+        },
+        {
+          "emoji": "🤣",
+          "count": "10"
+        },
+        {
+          "emoji": "🔥",
+          "count": "5"
+        },
+        {
+          "emoji": "😭",
+          "count": "5"
+        },
+        {
+          "emoji": "👀",
+          "count": "2"
+        }
+      ],
+      "views_label": "7.23K",
+      "posted_at": "2026-08-27T10:18:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105803"
+    },
+    {
+      "id": "Media_HB/105802",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> قالیباف:<br></b><blockquote><b>رهنمودهای رهبر درباره حمایت از دولت، حفظ وحدت و همدلی، نقشه‌راه ما برای عبور از شرایط دشوار است.<br></b></blockquote><blockquote><b>کشور درگیر یک جنگ اقتصادی تمام‌عیار است و دشمن همه ظرفیت‌هایش را برای فشار بر مردم به کار گرفته؛ اما دولت و دستگاه اجرایی برای اداره کشور و رفع نقاط ضعف تلاش می‌کنند.<br></b></blockquote><blockquote><b>با تکیه بر توان مردم، بخش خصوصی و همه ارکان نظام، دشمن را در جنگ اقتصادی هم شکست خواهیم داد و به‌زودی شاهد بی‌اعتباری عملیات روانی دشمن خواهیم بود.</b></blockquote>",
+      "plain_text": "🔴 قالیباف: رهنمودهای رهبر درباره حمایت از دولت، حفظ وحدت و همدلی، نقشه‌راه ما برای عبور از شرایط دشوار است. کشور درگیر یک جنگ اقتصادی تمام‌عیار است و دشمن همه ظرفیت‌هایش را برای فشار بر مردم به کار گرفته؛ اما دولت و دستگاه اجرایی برای اداره کشور و رفع نقاط ضعف تلاش می‌کنند. با تکیه بر توان مردم، بخش خصوصی و همه ارکان نظام، دشمن را در جنگ اقتصادی هم شکست خواهیم داد و به‌زودی شاهد بی‌اعتباری عملیات روانی دشمن خواهیم بود.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "59"
+        },
+        {
+          "emoji": "🤡",
+          "count": "9"
+        }
+      ],
+      "views_label": "6.97K",
+      "posted_at": "2026-08-27T09:57:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105802"
+    },
+    {
+      "id": "Media_HB/105801",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>امروز روز بزرگداشت \"زکریا رازیه\"، به همه کسایی که ارادت خاصی بهش دارن و یا شاگردش هستن این روز رو تبریک میگم</b>",
+      "plain_text": "♦️امروز روز بزرگداشت \"زکریا رازیه\"، به همه کسایی که ارادت خاصی بهش دارن و یا شاگردش هستن این روز رو تبریک میگم",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/105801",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/b14p6hz5Og7GKP_Q1P9C5KyCRH2IqT6lpcbUiAzq-5IlYVIMBmaiXdy2MSZkCWdqsUB1TQf-7WmC3SbW3kLr-0ONy7f5107b86Pkj5bRmCiLvJWY85HxJOMn5cIjBHeU_YhJ2h79h4DMgvomvVNhA2Bhr3RvdSm4DkwxblqwpZjEGVFweBN9vGEKCbjDCRbDKI8PoppgWPYmGYlmdwh1baObRkJ4XQj9o64Qv1SOC1CFYtx4HngMHBXQvm7bUuuoqaQqAV0K6UsH0-GWgiYwMW8hXP_xk9IEYIykojhMN_kKJ25rIx12M5It1LSJA3-QDa907xTs16isg6-2bQ7SzA.jpg",
+          "thumbnail_path": "channels/media_hb/media/31d9e2b85f01f63465cf7c0e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.4000000000000083
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "221"
+        },
+        {
+          "emoji": "❤",
+          "count": "49"
+        },
+        {
+          "emoji": "😁",
+          "count": "3"
+        },
+        {
+          "emoji": "🤡",
+          "count": "1"
+        }
+      ],
+      "views_label": "8.24K",
+      "posted_at": "2026-08-27T08:33:34+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105801"
+    },
+    {
+      "id": "Media_HB/105800",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i>هگست: ایران می‌داند که ما کنترل تنگه هرمز را در دست داریم و نفت از طریق آن جریان دارد.<br></b><blockquote><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>آنها روی کنترل این تنگه شرط‌بندی بزرگی انجام داده‌اند و نمی‌توانند آن را کنترل کنند.</b></blockquote>",
+      "plain_text": "‼️هگست: ایران می‌داند که ما کنترل تنگه هرمز را در دست داریم و نفت از طریق آن جریان دارد. 🔻آنها روی کنترل این تنگه شرط‌بندی بزرگی انجام داده‌اند و نمی‌توانند آن را کنترل کنند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/105800",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/iWN6ZWxzd-DCRtSZXjy5R-S-Y0LSfyFIKgF4Tk3fuiVFu8pfuIfifTKBtg9NYzztz000RAb5NwPNyadWZZGOJpkFPz-oKwQFXjP79sjjrnR96xbNXeSvZgB2LAK4MZO6h7pSIIrImGeO_jMnKMcKvecPXEdgQooyjM1xo965Zlx45pldB2R-Zmz8FooMttfqaefIfJoVOFb0DoViStYonhaoZ-ihP8Odgy5dxdE3Rfxykrl45tqRHRau_mqGLnLT4Rt54UhBPmPtWfxPYsWxpuMtWTRvUFCzrUe6pHnij3hVvsFoIv-89iPOzQ4FvcENiEOEpS-EjTq4mL_5G2-Gzw",
+          "thumbnail_path": "channels/media_hb/media/1415bcf72dfae4966cb12e3a.jpg",
+          "duration_label": "0:25",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤡",
+          "count": "70"
+        },
+        {
+          "emoji": "👍",
+          "count": "31"
+        },
+        {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "8.35K",
+      "posted_at": "2026-08-27T08:06:52+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105800"
+    },
+    {
+      "id": "Media_HB/105799",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "ویدیوهایی که همچین کیفیتی دارن و هیچوقت از دست ندین",
+      "plain_text": "ویدیوهایی که همچین کیفیتی دارن و هیچوقت از دست ندین",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/105799",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Be36wDuMMl8-oMekpzAWQIxE-8Bk09Tml6dU7uA4PrA81N6ghf-zqhPH-kcNsanPdogSrDBQXll9WnwY_HpSxgHSNAgyZyqS6S0ZR8P4vNWiU0reUpGr7tMf7ZqvyuAirN-FJLVkYt_jc5viGTclvSv6ltuqf9-uTXX4LmcQKaydcvIl4jKTPfI1P2QoUKvCG5c5ldDu4uWT1m7tui9XsNmt1JBsY3zkFekmHl89STH-bVkMGCrnqgFJ-Rt8B2EeGZWv2XfYlkY25p-ajnYcpvUhCGILHRrCYuM_4q-k20TV3BCFALXKi_E_2TzBeXCIe-3e1JBEQIfuTT4FqY2hDQ",
+          "thumbnail_path": "channels/media_hb/media/1d0b262e1860662134b14387.jpg",
+          "duration_label": "2:16",
+          "aspect_ratio": 1.3333333333333333
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "106"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "7.77K",
+      "posted_at": "2026-08-27T08:02:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105799"
+    },
+    {
+      "id": "Media_HB/105798",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽</b></i> بارسلونا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i> - <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i> اتلتیک بیلبائو<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')\"><b>🏆</b></i> لالیگا اسپانیا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9594.png')\"><b>🕔</b></i> پنج‌شنبه ساعت ۲۲:۳۰<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> ورزشگاه نیوکمپ<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i> با بیش از ۶۰۰ نوع آپشن پیش‌بینی<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9186.png')\"><b>👆</b></i> با بالاترین ضرایب پیش‌بینی<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938A.png')\"><b>📊</b></i> نگاهی به آمار دو تیم:<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> بارسلونا<b>:</b> ۶ برد، ۱ تساوی و ۳ شکست در ۱۰ بازی اخیر.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> اتلتیک بیلبائو<b>:</b> ۵ برد، ۱ تساوی و ۴ شکست در ۱۰ بازی اخیر.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9388.png')\"><b>📈</b></i> میانگین گل در ۱۰ بازی اخیر بارسلونا: ۳.۵ گل در هر بازی.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9388.png')\"><b>📈</b></i> میانگین گل در ۱۰ بازی اخیر اتلتیک بیلبائو: ۳.۹ گل در هر بازی.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA7A0.png')\"><b>🧠</b></i> بودجه‌ی تفریح از بودجه ضروریات زندگی جداست.<br><b><br></b><a href=\"https://jd.inal.ink/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><br></a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i> ورود به سایت با فیلترشکن<br><br> کلیک کنید <a href=\"https://viloh.xyz/affiliates/?btag=23811_l386783\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">BetForward.com</a><br> کلیک کنید <a href=\"https://viloh.xyz/affiliates/?btag=23811_l386783\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">BetForward.com</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i><a href=\"https://t.me/betforward_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"> </a><a href=\"https://t.me/betforward_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>دریافت سرورفیلترشکن رایگان</b></a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>r5<br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i> </b><a href=\"https://t.me/BetForward\" target=\"_blank\"><b>@BetForward</b></a>",
+      "plain_text": "⚽ بارسلونا 🇪🇸 - 🇪🇸 اتلتیک بیلبائو 🏆 لالیگا اسپانیا 🇪🇸 🕔 پنج‌شنبه ساعت ۲۲:۳۰ 📍 ورزشگاه نیوکمپ 🎲 با بیش از ۶۰۰ نوع آپشن پیش‌بینی 👆 با بالاترین ضرایب پیش‌بینی 📊 نگاهی به آمار دو تیم: ✅ بارسلونا: ۶ برد، ۱ تساوی و ۳ شکست در ۱۰ بازی اخیر. ✅ اتلتیک بیلبائو: ۵ برد، ۱ تساوی و ۴ شکست در ۱۰ بازی اخیر. 📈 میانگین گل در ۱۰ بازی اخیر بارسلونا: ۳.۵ گل در هر بازی. 📈 میانگین گل در ۱۰ بازی اخیر اتلتیک بیلبائو: ۳.۹ گل در هر بازی. 🧠 بودجه‌ی تفریح از بودجه ضروریات زندگی جداست. 👍 ورود به سایت با فیلترشکن کلیک کنید BetForward.com کلیک کنید BetForward.com 🟢 دریافت سرورفیلترشکن رایگان 🅰r5 💻 @BetForward",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Media_HB/105798",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/MEVcVRbcpiFArBm-WFMAEABpMncpsl8VOwGbfM-EaQ93VHHcKbqPjiK2yCnqlqrJkwG3h1Bw2nhu8lqKrKpqlM08NPtfP2t475GwAg6sGpiJNqD-3keG3s8NWslZ8PbZCwUx76nfj6CPnAs0Bdq8R1Hi3-sKAWVGAdt9nmL7KMMuZcwO99M8qVAOo4laguz7lxvXgEXDZvuk2X7bs1Ld3Z4EHznWC2-HoxH6h378B7EMEwu5Utc4PMzy5vBjBxvQwtuazXhHcM4Ay9_dMQm7ffi6vFN7BTPIGFXK--9SuD_ZXaiPKqA1FImcEUSLTk6JZa8Rkb_FIKleUm-x2NsjPQ.jpg",
+          "thumbnail_path": "channels/media_hb/media/b3f8808b356b2cd78f9553f7.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "7"
+        }
+      ],
+      "views_label": "7.49K",
+      "posted_at": "2026-08-27T08:02:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105798"
+    },
+    {
+      "id": "Media_HB/105797",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>مهدی طائب: میدونین چرا اسرائیل انقدر تو علوم ارتباطات بی سیم خوبه؟چون حضرت موسی یادشون داره",
+      "plain_text": "🔻مهدی طائب: میدونین چرا اسرائیل انقدر تو علوم ارتباطات بی سیم خوبه؟چون حضرت موسی یادشون داره",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "166"
+        },
+        {
+          "emoji": "👍",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "7.22K",
+      "posted_at": "2026-08-27T07:32:40+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105797"
+    },
+    {
+      "id": "Media_HB/105796",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>مهدی طائب: میدونین چرا اسرائیل انقدر تو علوم ارتباطات بی سیم خوبه؟چون حضرت موسی یادشون داره</b>",
+      "plain_text": "🔻مهدی طائب: میدونین چرا اسرائیل انقدر تو علوم ارتباطات بی سیم خوبه؟چون حضرت موسی یادشون داره",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/105796",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TTdaI3PiR6tN6cAOaGlRbXAyXyxDnfTRDARLzV8gobvZfHt9O8S9Ki-uwLl1rbPBNx4f1vSob1wRfLBvpotiNwc-Qd0dmf7CRgwNIBtxcqhRAK3h4jOh0oRYq2DeVXzQyzSRshnByvnCWLs8-Mmy1zphFXfPExrly1rMAT4jsyImBKDg71-Bm2ZSgTfw7Om0UCMde8g2woYL8o35UDQqIRNQixJT3W21ttbL6X0UEqQnx4JYywm7tLZ_Y4pCOfOf60K9rWNCCxTCtNPcnccGxOhe7_9wpOLlYIwPv1Kp3u65h4iLFrNiG1yv4PXPw4xrT6v-SUsTS06gmMigc819IA",
+          "thumbnail_path": "channels/media_hb/media/878f7e3cb791114fbe14e70c.jpg",
+          "duration_label": "1:04",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "228"
+        },
+        {
+          "emoji": "👍",
+          "count": "6"
+        },
+        {
+          "emoji": "🤡",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "3"
+        },
+        {
+          "emoji": "😁",
+          "count": "2"
+        },
+        {
+          "emoji": "😐",
+          "count": "2"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
+        }
+      ],
+      "views_label": "8.28K",
+      "posted_at": "2026-08-27T06:56:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105796"
+    },
+    {
+      "id": "Media_HB/105795",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>بلومبرگ: آمریکا بدنبال حکم مصادره نفتکش‌های ایرانی به عنوان غنیمت جنگی است<br><br></b><blockquote><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>وزارت دادگستری آمریکا در حال آماده‌سازی برای فعال‌کردن یک دادگاه دریایی است که مدت‌هاست بلااستفاده مانده است؛ اقدامی که به گفته سه فرد مطلع از برنامه‌ها، با هدف تسهیل توقیف نفتکش‌های ایرانی و ثبت آنها به‌عنوان غنیمت جنگی متعلق به آمریکا انجام می‌شود.</b></blockquote>",
+      "plain_text": "♦️بلومبرگ: آمریکا بدنبال حکم مصادره نفتکش‌های ایرانی به عنوان غنیمت جنگی است 🔻وزارت دادگستری آمریکا در حال آماده‌سازی برای فعال‌کردن یک دادگاه دریایی است که مدت‌هاست بلااستفاده مانده است؛ اقدامی که به گفته سه فرد مطلع از برنامه‌ها، با هدف تسهیل توقیف نفتکش‌های ایرانی و ثبت آنها به‌عنوان غنیمت جنگی متعلق به آمریکا انجام می‌شود.",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "57"
+        },
+        {
+          "emoji": "👍",
+          "count": "13"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "8.63K",
+      "posted_at": "2026-08-27T06:13:45+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105795"
+    },
+    {
+      "id": "Media_HB/105794",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/UAWYbNtgWInBLPOJxma9F5eKa-pmm5a1Vyis037tinStUCE9gmvUMafUEmKxOVczGG7wzv0sGUDObETy-B7KPM84WmWeEjCzG3UwbHsK_XANgr56BTikRC1fdVp5b4KIriOtipjytZOur3SKh63d3oJ9zUcnbwDY-snHniNTDlvi6qq-XboGeCmqeu273LkyTg2F7Eos6gqEKPuQXL3SzGW0GCvJhW2p47i-QLpkz1gbpyXO5M4Sy1A0ZlAaCUO_LfV72GnLphO58tzzCdNx_uJfu0MUqg_d1CJTahHlbwRJgajw_5BJxkSu2bPa_aZDOsu8yt8YZAsAebHPvySCeQ.jpg",
+      "author_photo_path": "channels/media_hb/media/310d1a366f64b3212889008b.jpg",
+      "body_html": "<blockquote>عشق و حال و این حرفا</blockquote><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>کالابرگ سرپرستان خانوارهایی که رقم انتهایی کد ملی آن‌ها ۷ ، ۸ و ۹ است، امروز شارژ شد</b>",
+      "plain_text": "عشق و حال و این حرفا 🔻کالابرگ سرپرستان خانوارهایی که رقم انتهایی کد ملی آن‌ها ۷ ، ۸ و ۹ است، امروز شارژ شد",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "107"
+        },
+        {
+          "emoji": "🏆",
+          "count": "5"
+        },
+        {
+          "emoji": "❤",
+          "count": "4"
+        },
+        {
+          "emoji": "🔥",
+          "count": "2"
+        },
+        {
+          "emoji": "💔",
+          "count": "1"
+        }
+      ],
+      "views_label": "9.45K",
+      "posted_at": "2026-08-27T05:10:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/105794"
+    },
     {
       "id": "Media_HB/105793",
       "author_name": "مدیا هاب | Media Hub",
@@ -21,14 +610,22 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "54"
+          "count": "151"
         },
         {
           "emoji": "❤",
-          "count": "4"
+          "count": "8"
+        },
+        {
+          "emoji": "😐",
+          "count": "8"
+        },
+        {
+          "emoji": "🤣",
+          "count": "3"
         }
       ],
-      "views_label": "2.57K",
+      "views_label": "10.8K",
       "posted_at": "2026-08-27T02:40:12+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105793"
@@ -44,11 +641,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "32"
+          "count": "64"
         },
         {
           "emoji": "🔥",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "❤",
@@ -59,7 +656,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.63K",
+      "views_label": "11.4K",
       "posted_at": "2026-08-27T01:15:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105792"
@@ -75,7 +672,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "123"
+          "count": "145"
         },
         {
           "emoji": "❤",
@@ -94,7 +691,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.02K",
+      "views_label": "13.5K",
       "posted_at": "2026-08-26T21:37:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105791"
@@ -3195,653 +3792,6 @@
       "posted_at": "2026-08-24T20:02:21+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/105689"
-    },
-    {
-      "id": "Media_HB/105688",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> عاصم منیر:<br>پاکستان با قاطعیت به نقش تسهیل‌گر خود ادامه خواهد داد و معتقد است که پایان این بحران، سرآغازی برای فصل نوینی از همکاری‌های همه‌جانبه در جهت بازسازی، توسعه منطقه‌ای و تحقق امنیت جمعی خواهد بود.</b>",
-      "plain_text": "🔴 عاصم منیر: پاکستان با قاطعیت به نقش تسهیل‌گر خود ادامه خواهد داد و معتقد است که پایان این بحران، سرآغازی برای فصل نوینی از همکاری‌های همه‌جانبه در جهت بازسازی، توسعه منطقه‌ای و تحقق امنیت جمعی خواهد بود.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/105688",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/L24MlO1fMtPqoJsk92OkdlKt6OxpyZSxximBZe3UHS1nYjRPSQZxUcmbjNrvY74KlmCZQac39isTuxYK8NQYoqOlCMhhNbefMk5Ot1VRPn2I7NNHekpMljAaNks20mGXfTfTICEb8YNo_9XTn3bVOnGjyX6V4wbbRAycbERhDFAkQMkuuv02NJhlXWPHhjVoPVMpEv_7GklzfbDUdzya5I71H4PmSSwWZNNIbfHbjr0c-3RwY-Jp2Ht48UPG3a4UL5aTAIXDmT9Ki24HAb5CgJzxFTbO5stYuvaRJSsrBKpkBpB6kA96AP5oqb1xzL-UKPC_ZrCoxLwbKCj5j7N5lw",
-          "thumbnail_path": "channels/media_hb/media/a5f759189626814d39f4c2c4.jpg",
-          "duration_label": "0:05",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "135"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        },
-        {
-          "emoji": "👀",
-          "count": "2"
-        },
-        {
-          "emoji": "😭",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.9K",
-      "posted_at": "2026-08-24T19:54:12+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105688"
-    },
-    {
-      "id": "Media_HB/105687",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> نتانیاهو:<br>تبریک میگم به ترامپ و بسنت به خاطر تحریم‌های جدید علیه رژیم ایران.<br>شما به درستی بهای سنگینی رو از اون دیکتاتوری بی‌رحم و از کسایی که به تداوم تجاوزات اون کمک میکنن، مطالبه میکنید.</b>",
-      "plain_text": "🔴 نتانیاهو: تبریک میگم به ترامپ و بسنت به خاطر تحریم‌های جدید علیه رژیم ایران. شما به درستی بهای سنگینی رو از اون دیکتاتوری بی‌رحم و از کسایی که به تداوم تجاوزات اون کمک میکنن، مطالبه میکنید.",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/105687",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/e85i-yjNjBjhJe4xclpWLM1vL2nwSqHCrZRfNLvkCrRt81Th8lY6czg4jMcRiMrsGIMW3GM_r1g0TqXG1ccsN1sdDcF5VWZwuGAgGxFTorHzYvl80Pao-sPBteI0Yx4CTfXmJJRqsirANkBH5ddDsXnsVJvA6Qm7xLJdUA3YsLY78qj31whBpr359BRCy0MX0fAu0e1lY7hlBuDM890xzUgzsV6-Bkc-gqcWNWIHT2hRjqfbaHaAXUiI4WC64Ja3ktsicN8T-e6kwhJ_eQS28vI7j88VgW6c3nEIAo1JfAj6zmlOAFFnvByWtbeH3UBSxE8ote7kk4eO5Toxu3bGEQ.jpg",
-          "thumbnail_path": "channels/media_hb/media/15aab6a76021c4d4f2e36350.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.1904761904761905
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "209"
-        },
-        {
-          "emoji": "🤡",
-          "count": "12"
-        },
-        {
-          "emoji": "😭",
-          "count": "3"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        },
-        {
-          "emoji": "🤣",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.6K",
-      "posted_at": "2026-08-24T19:19:12+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105687"
-    },
-    {
-      "id": "Media_HB/105686",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<b>صدا و سیما:<br><br>فیلد مارشال محسن رضایی<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i></b>",
-      "plain_text": "صدا و سیما: فیلد مارشال محسن رضایی😂",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/105686",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qg8heK6DcG1iH2fiMOgpbNBm7E9w1wvgwMWmdgS4NAOG_2syRDZhMpf-xK2DaSsVk2m3GibTS60AMH0X29hLjdbd7tDMe66iY86U-D71FTAOD7lflXGt_-53aQawcY3YRsnkZhX5-4qdr5ufkKQwhex5W3I5KPdBMRk56m9obrg5nG5AKKfDxDopjjH5Emf8SNIBQEHB6o5QAYrzYYMu83R-mLbKRzsoj34lRmMEAUj4kIttBmBtWw2bkuVrHlyjp0hlKpM9X5OgbcSE3uvDONoDsKTWdm1GyM8XPKSqlV10yyyIbOjbTX6FIAKJLaSWT9qxgsFk0jkiH6c6ie_iqA",
-          "thumbnail_path": "channels/media_hb/media/f9423f291943f0f840711f5e.jpg",
-          "duration_label": "0:13",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "242"
-        },
-        {
-          "emoji": "🤡",
-          "count": "14"
-        },
-        {
-          "emoji": "❤",
-          "count": "8"
-        },
-        {
-          "emoji": "😁",
-          "count": "2"
-        },
-        {
-          "emoji": "😡",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.8K",
-      "posted_at": "2026-08-24T18:41:31+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/105686"
-    },
-    {
-      "id": "Media_HB/105685",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽</b></i> فولام <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB4.png')\"><b>🏴</b></i> - <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB4.png')\"><b>🏴</b></i> چلسی<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')\"><b>🏆</b></i> لیگ برتر انگلیس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB4.png')\"><b>🏴</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9594.png')\"><b>🕔</b></i> دوشنبه ساعت ۲۲:۳۰<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F9F.png')\"><b>🏟</b></i> ورزشگاه کریون کاتج <br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i> با بیش از ۵۵۰ نوع آپشن پیش‌بینی<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9186.png')\"><b>👆</b></i> ضرایب شگفت‌انگیز<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938A.png')\"><b>📊</b></i> نگاهی به آمار دو تیم:<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> فولام<b>:</b> ۳ برد، ۳ تساوی و ۴ شکست در ۱۰ بازی اخیر.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> چلسی<b>:</b> ۴ برد، ۲ تساوی و ۴ شکست در ۱۰ بازی اخیر.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9388.png')\"><b>📈</b></i> میانگین گل در ۱۰ بازی اخیر فولام: ۳.۶ گل در هر بازی.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9388.png')\"><b>📈</b></i> میانگین گل در ۱۰ بازی اخیر چلسی: ۲.۳ گل در هر بازی.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA7A0.png')\"><b>🧠</b></i> بازی زمانی لذت‌بخش است که کنترل در دستان شما بماند.<br><b><br></b><a href=\"https://jd.inal.ink/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><br></a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i> ورود به سایت با فیلترشکن<br><br> کلیک کنید <a href=\"https://viloh.xyz/affiliates/?btag=23811_l386783\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">BetForward.com</a><br> کلیک کنید <a href=\"https://viloh.xyz/affiliates/?btag=23811_l386783\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">BetForward.com</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i><a href=\"https://t.me/betforward_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"> </a><a href=\"https://t.me/betforward_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>دریافت سرورفیلترشکن رایگان</b></a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i>r2<br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i> </b><a href=\"https://t.me/BetForward\" target=\"_blank\"><b>@BetForward</b></a>",
-      "plain_text": "⚽ فولام 🏴 - 🏴 چلسی 🏆 لیگ برتر انگلیس 🏴 🕔 دوشنبه ساعت ۲۲:۳۰ 🏟 ورزشگاه کریون کاتج 🎲 با بیش از ۵۵۰ نوع آپشن پیش‌بینی 👆 ضرایب شگفت‌انگیز 📊 نگاهی به آمار دو تیم: ✅ فولام: ۳ برد، ۳ تساوی و ۴ شکست در ۱۰ بازی اخیر. ✅ چلسی: ۴ برد، ۲ تساوی و ۴ شکست در ۱۰ بازی اخیر. 📈 میانگین گل در ۱۰ بازی اخیر فولام: ۳.۶ گل در هر بازی. 📈 میانگین گل در ۱۰ بازی اخیر چلسی: ۲.۳ گل در هر بازی. 🧠 بازی زمانی لذت‌بخش است که کنترل در دستان شما بماند. 👍 ورود به سایت با فیلترشکن کلیک کنید BetForward.com کلیک کنید BetForward.com 🟢 دریافت سرورفیلترشکن رایگان 🅰r2 💻 @BetForward",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/105685",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jZ4K6TMiEf6d9GHGERy336_Vtppn6EQmA407r_dnbnzWzC_TewxDm9Jn812_ERJjTW76Nb-nKRspsWokfa1Ut6nNsE8dq_ytU2nu4Tq-T0TOi6LtRlRen5YQ_O0UyS9_kkzgxuD1InGXyh318_cTwdO5Pf8n9-NGtY8jfK2DnA3PiOE4HQVIYTeO7BwoMRqfDoZQCfeABo8dLS3htMyzDxZUnNeeEd8splsH4CQtIIS6Fpn29bmZpJqrj3oN_BJECCEn0h-QseahrA7Lw1jcN8Tl31Mtrt2HkX846RDc58g_ZqnLExADaPBHjTJrJikwsVbEDzz4t6N9UFavbbaYXw.jpg",
-          "thumbnail_path": "channels/media_hb/media/ba6d7a5fec3369b6a6cccf39.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        },
-        {
-          "emoji": "👀",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.2K",
-      "posted_at": "2026-08-24T18:40:23+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105685"
-    },
-    {
-      "id": "Media_HB/105684",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i>آکسیوس به نقل از مقام‌های آمریکایی:<br><br>تحریم‌ها می‌تواند مسیری برای اقدام علیه ایران پس از انتخابات کنگره باشد؛ زمانی که بازگشت به اقدام نظامی امکان‌پذیر خواهد بود.</b>",
-      "plain_text": "🚨آکسیوس به نقل از مقام‌های آمریکایی: تحریم‌ها می‌تواند مسیری برای اقدام علیه ایران پس از انتخابات کنگره باشد؛ زمانی که بازگشت به اقدام نظامی امکان‌پذیر خواهد بود.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "107"
-        },
-        {
-          "emoji": "💔",
-          "count": "5"
-        },
-        {
-          "emoji": "❤",
-          "count": "4"
-        }
-      ],
-      "views_label": "9.8K",
-      "posted_at": "2026-08-24T18:05:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105684"
-    },
-    {
-      "id": "Media_HB/105683",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> آمریکا، سوریه را از فهرست کشورهای حامی تروریسم حذف کرد.<br>سوریه در ابتدا در سال ۱۹۷۹ به عنوان یک کشور حامی تروریسم معرفی شد.<br>این تصمیم یک مانع مهم برای ارتباطات بانکی، سرمایه‌گذاری، تجارت و تعامل اقتصادی سوریه با جهان را برمی‌دارد و می‌تواند مسیر ورود سرمایه و بازسازی اقتصاد سوریه را آسان‌تر کند.</b>",
-      "plain_text": "🔴 آمریکا، سوریه را از فهرست کشورهای حامی تروریسم حذف کرد. سوریه در ابتدا در سال ۱۹۷۹ به عنوان یک کشور حامی تروریسم معرفی شد. این تصمیم یک مانع مهم برای ارتباطات بانکی، سرمایه‌گذاری، تجارت و تعامل اقتصادی سوریه با جهان را برمی‌دارد و می‌تواند مسیر ورود سرمایه و بازسازی اقتصاد سوریه را آسان‌تر کند.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "93"
-        },
-        {
-          "emoji": "💔",
-          "count": "12"
-        },
-        {
-          "emoji": "🤣",
-          "count": "3"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        },
-        {
-          "emoji": "👀",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.1K",
-      "posted_at": "2026-08-24T18:01:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105683"
-    },
-    {
-      "id": "Media_HB/105682",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> بسنت:<br></b><blockquote><b>باید تمام شعب بانک ملی تعطیل شوند.</b></blockquote><b><br></b><blockquote><b>من قصد ندارم جدول زمانی مشخصی تعیین کنم، اما باید بدانید که ما اینجا صبر نامحدودی نداریم.</b></blockquote><b><br></b><blockquote><b>کشورهای منطقه در طول سال‌ها چه چیزی از سازش با ایران به دست آورده‌اند؟ در حالی که ما ایران را بمباران می‌کردیم، ایران کشورهای حاشیه خلیج فارس را بمباران می‌کرد.<br></b></blockquote><blockquote><b>سازش با این رژیم کارساز نیست</b>.</blockquote>",
-      "plain_text": "🔴 بسنت: باید تمام شعب بانک ملی تعطیل شوند. من قصد ندارم جدول زمانی مشخصی تعیین کنم، اما باید بدانید که ما اینجا صبر نامحدودی نداریم. کشورهای منطقه در طول سال‌ها چه چیزی از سازش با ایران به دست آورده‌اند؟ در حالی که ما ایران را بمباران می‌کردیم، ایران کشورهای حاشیه خلیج فارس را بمباران می‌کرد. سازش با این رژیم کارساز نیست.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "174"
-        },
-        {
-          "emoji": "😁",
-          "count": "7"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "🤡",
-          "count": "3"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        },
-        {
-          "emoji": "👀",
-          "count": "1"
-        }
-      ],
-      "views_label": "11K",
-      "posted_at": "2026-08-24T17:40:28+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Media_HB/105682"
-    },
-    {
-      "id": "Media_HB/105681",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>بسنت درباره چین و ایران:</b><br><br><b>امروز می‌خواهیم به صراحت اعلام کنیم که هیچ‌کس فراتر از دسترسی تحریم‌های ایالات متحده نیست.</b><br><br><b>اگر آن‌ها تراکنش‌ها را تسهیل کنند و بخشی از چرخه‌ای باشند که نفت ایران را به پول و ابزار سرکوب تبدیل می‌کند، هدف تحریم قرار خواهند گرفت.</b>",
-      "plain_text": "‼️🔴بسنت درباره چین و ایران: امروز می‌خواهیم به صراحت اعلام کنیم که هیچ‌کس فراتر از دسترسی تحریم‌های ایالات متحده نیست. اگر آن‌ها تراکنش‌ها را تسهیل کنند و بخشی از چرخه‌ای باشند که نفت ایران را به پول و ابزار سرکوب تبدیل می‌کند، هدف تحریم قرار خواهند گرفت.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "135"
-        },
-        {
-          "emoji": "🤡",
-          "count": "6"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "💔",
-          "count": "2"
-        },
-        {
-          "emoji": "👀",
-          "count": "1"
-        }
-      ],
-      "views_label": "10.5K",
-      "posted_at": "2026-08-24T17:20:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105681"
-    },
-    {
-      "id": "Media_HB/105680",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>بسنت:<br><br>تا پایان همین هفته شاهد اعمال تحریم‌هایی علیه یک مؤسسه مالی بزرگ به دلیل ارتباط با ایران خواهید بود.</b>",
-      "plain_text": "🔴بسنت: تا پایان همین هفته شاهد اعمال تحریم‌هایی علیه یک مؤسسه مالی بزرگ به دلیل ارتباط با ایران خواهید بود.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "132"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "🤡",
-          "count": "3"
-        },
-        {
-          "emoji": "💔",
-          "count": "2"
-        }
-      ],
-      "views_label": "9.45K",
-      "posted_at": "2026-08-24T17:19:35+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105680"
-    },
-    {
-      "id": "Media_HB/105679",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>بسنت درباره ایران:</b><br><br><b>خطاب به سربازان عادی که از این رژیم حمایت می‌کنند: وقتی می‌بینید حقوق‌تان یکی پس از دیگری قطع می‌شود یا به بهانه‌های مختلف عقب می‌افتد، از خود بپرسید که آیا فرماندهانتان دارند کشور را به سمت پیروزی هدایت می‌کنند یا نابودی؛ و یادتان باشد که دیوار برلین زمانی فرو ریخت که سربازان عادی تصمیم گرفتند به مردم خود شلیک نکنند.</b><br><br><b>و خطاب به کسانی که حامی تهران بوده‌اند: بهای سنجیدن عزم و اراده واشنگتن را دست‌کم نگیرید.</b>",
-      "plain_text": "🚨🔴بسنت درباره ایران: خطاب به سربازان عادی که از این رژیم حمایت می‌کنند: وقتی می‌بینید حقوق‌تان یکی پس از دیگری قطع می‌شود یا به بهانه‌های مختلف عقب می‌افتد، از خود بپرسید که آیا فرماندهانتان دارند کشور را به سمت پیروزی هدایت می‌کنند یا نابودی؛ و یادتان باشد که دیوار برلین زمانی فرو ریخت که سربازان عادی تصمیم گرفتند به مردم خود شلیک نکنند. و خطاب به کسانی که حامی تهران بوده‌اند: بهای سنجیدن عزم و اراده واشنگتن را دست‌کم نگیرید.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
-          "emoji": "❤",
-          "count": "231"
-        },
-        {
-          "emoji": "🔥",
-          "count": "16"
-        },
-        {
-          "emoji": "🤣",
-          "count": "9"
-        },
-        {
-          "emoji": "🤡",
-          "count": "3"
-        },
-        {
-          "emoji": "🦄",
-          "count": "3"
-        },
-        {
-          "emoji": "👍",
-          "count": "2"
-        }
-      ],
-      "views_label": "9.72K",
-      "posted_at": "2026-08-24T17:16:55+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105679"
-    },
-    {
-      "id": "Media_HB/105678",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>بسنت:<br><br>تحریم‌ها ۵ شریان حیاتی ایران در سایر کشورها را هدف قرار داده است؛ ارزهای دیجیتال، فناوری، طلا، صنعت هوانوردی و کشتیرانی.</b>",
-      "plain_text": "🚨🔴بسنت: تحریم‌ها ۵ شریان حیاتی ایران در سایر کشورها را هدف قرار داده است؛ ارزهای دیجیتال، فناوری، طلا، صنعت هوانوردی و کشتیرانی.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "94"
-        },
-        {
-          "emoji": "❤",
-          "count": "4"
-        },
-        {
-          "emoji": "🤡",
-          "count": "3"
-        },
-        {
-          "emoji": "👀",
-          "count": "1"
-        }
-      ],
-      "views_label": "9.19K",
-      "posted_at": "2026-08-24T17:15:28+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105678"
-    },
-    {
-      "id": "Media_HB/105677",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i>بسنت:<br><br>هر نهادی که به روند پولشویی برای ایران کمک کند، از سیستم مالی مبتنی بر دلار آمریکا اخراج خواهد شد.</b>",
-      "plain_text": "🔴‼️بسنت: هر نهادی که به روند پولشویی برای ایران کمک کند، از سیستم مالی مبتنی بر دلار آمریکا اخراج خواهد شد.",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "139"
-        },
-        {
-          "emoji": "🤡",
-          "count": "5"
-        },
-        {
-          "emoji": "❤",
-          "count": "1"
-        },
-        {
-          "emoji": "😭",
-          "count": "1"
-        },
-        {
-          "emoji": "👀",
-          "count": "1"
-        }
-      ],
-      "views_label": "8.98K",
-      "posted_at": "2026-08-24T17:13:25+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105677"
-    },
-    {
-      "id": "Media_HB/105676",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>بسنت درباره ایران:<br><br>تحت ریاست‌جمهوری ترامپ، آمریکا دیگر تهدید ایران را «مدیریت» نمی‌کند.<br><br>ما داریم کارِ آن را یکسره می‌کنیم (به آن پایان می‌دهیم)</b>",
-      "plain_text": "🔴بسنت درباره ایران: تحت ریاست‌جمهوری ترامپ، آمریکا دیگر تهدید ایران را «مدیریت» نمی‌کند. ما داریم کارِ آن را یکسره می‌کنیم (به آن پایان می‌دهیم)",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "163"
-        },
-        {
-          "emoji": "❤",
-          "count": "5"
-        },
-        {
-          "emoji": "🤡",
-          "count": "4"
-        },
-        {
-          "emoji": "👀",
-          "count": "2"
-        },
-        {
-          "emoji": "😍",
-          "count": "1"
-        }
-      ],
-      "views_label": "9.23K",
-      "posted_at": "2026-08-24T17:09:55+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105676"
-    },
-    {
-      "id": "Media_HB/105675",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>بسنت،وزیر خزانه داری امریکا:<br><br>ما یک یورش (حمله) اقتصادی همه‌جانبه را علیه ارتباطات مالی ایران در سراسر جهان آغاز کرده‌ایم.</b><br><br><b>هدف ما این است که هرگونه شریان حیاتی اقتصادی که این رژیم مستبد را سر پا نگه داشته، قطع کنیم تا تهران کاملاً منزوی و تنها بماند</b>",
-      "plain_text": "🔴🚨بسنت،وزیر خزانه داری امریکا: ما یک یورش (حمله) اقتصادی همه‌جانبه را علیه ارتباطات مالی ایران در سراسر جهان آغاز کرده‌ایم. هدف ما این است که هرگونه شریان حیاتی اقتصادی که این رژیم مستبد را سر پا نگه داشته، قطع کنیم تا تهران کاملاً منزوی و تنها بماند",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "122"
-        },
-        {
-          "emoji": "❤",
-          "count": "4"
-        },
-        {
-          "emoji": "🤡",
-          "count": "4"
-        },
-        {
-          "emoji": "🤣",
-          "count": "3"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        },
-        {
-          "emoji": "👀",
-          "count": "1"
-        }
-      ],
-      "views_label": "8.89K",
-      "posted_at": "2026-08-24T17:08:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105675"
-    },
-    {
-      "id": "Media_HB/105674",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bHC94-FfQyGhxAAUW0bv8pwPZHKArCyiYS83at01SjgYWrZaIwhTl0PibaNsf974JZ_WBBXLLY8fAqizOwWoNMOo6_J7xcnIUvAyIbapFLlh2_vxqUpY7ImQ8_Ac7KGaY5Suvhe4l0xGLBKhXs_GNJqQkJO_BH0mTYSen-A79IXwowdDbIQ8dWitMcTjT7IgC2ialPft1O1n-QBa8-9oIDGsCi6T9QlE5cum2SA87EZhM3EhF6Vx2lRT0Cd_46_ujevDqy_QajZoM2kgxieY2Ox4OLWYoXgqlEIjqaVEFTC4x6AT3xx3ldj_3IhWU1rRXr6uqsk0PbGzfMp_2votbg.jpg",
-      "author_photo_path": "channels/media_hb/media/2a9502f3424d3988efdde6ad.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>وزیر خزانه داری امریکا:<br><br>امروز، وزارت خزانه‌داری ایالات متحده «عملیات طرد اقتصادی» (Operation Economic Outcast) را به عنوان یک کمپین بی‌سابقه علیه جمهوری اسلامی ایران آغاز کرد</b>",
-      "plain_text": "🚨🔴وزیر خزانه داری امریکا: امروز، وزارت خزانه‌داری ایالات متحده «عملیات طرد اقتصادی» (Operation Economic Outcast) را به عنوان یک کمپین بی‌سابقه علیه جمهوری اسلامی ایران آغاز کرد",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Media_HB/105674",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fIr9UGD66IbVQra0rZdDTMa7ikI85YXKMp2TyL6g9gyhnxfCwUdYU7Smm5jDqckU8H8NBXN5Y8wkZfopGkep7djujZMk90PLtSUOUQbAQ46_HuwxVK2_UVzU2kuhrJxjOHFntbi5tG9Sa5AUMuCkHDf8Z8zaEGJJdlxY2psugNJdZ2jaWPI6rj7XzuatU_NqbwqqhYuDDIg5OorNYQwgOQyqhbaknp152Xv6iDRwrzTYGm2T9F_vDAkymrF_xc5LLZe1KLc7nMMwBbX1GNuyDq-W4tkv6d4DXVEfVgEeWSg7C98zsx7wt_Ds9A5TektlHntfbhdzflxmgTwaM3LY8A",
-          "thumbnail_path": "channels/media_hb/media/ee1fa903df031bbe7dd018e7.jpg",
-          "duration_label": "0:19",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "96"
-        },
-        {
-          "emoji": "🔥",
-          "count": "13"
-        },
-        {
-          "emoji": "🤣",
-          "count": "4"
-        },
-        {
-          "emoji": "🤡",
-          "count": "3"
-        },
-        {
-          "emoji": "💔",
-          "count": "2"
-        }
-      ],
-      "views_label": "8.4K",
-      "posted_at": "2026-08-24T17:07:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105674"
-    },
-    {
-      "id": "Media_HB/105673",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cwmNwNkA8ozQZ_tR8HZjD2BSJYJOy7qkqutXTk2_ubx5sYdgplsdT206opAA_AVRgsbAnzkf4B1yE2_jpTmHnGwo1gU1NratjrCTp2N0Yb3LLq_h_HTicNfj97B4QbOO_5LYYTk9y5ZTaA-nxEU3GiDAQzZ_oa-ZaJ4XzfLqeu7eb1iPl75GxklLDx1w-CJVrEkwZEMaOzvBWIDJXHLr-lygOMX_5z-TVj-4dN-uFNwDPTcu5ow397fpohMOhT28QsjQ83wupfipOFh0UCnXjDcO7tf1uq4k43D-vefGe_wLg6FvzxsgMwnWI36nSFrWjSddvsfRD3o18ubbN5Yl4g.jpg",
-      "author_photo_path": "channels/media_hb/media/f27e56949f18d6dde8a3f7ef.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>وزیر خزانه داری امریکا:</b><br><br><blockquote><b>سقوط پول ملی ایران همچنان ادامه دارد: امروز نرخ دلار با شکسته شدن رکوردها، از مرز ۲ میلیون ریال عبور کرد.</b></blockquote><b><br></b><blockquote><b>آخر هفته گذشته، عبدالناصر همتی، رئیس کل بانک مرکزی ایران، اعتراف کرد که ریزش هم‌زمان درآمدهای نفتی، مالیاتی و حق بیمه تأمین اجتماعی، «تمام بخش‌های اقتصاد ایران را فلج کرده است.»</b></blockquote><b><br></b><blockquote><b><u>آماده دلار ۳ میلیونی می‌شویم</u></b></blockquote>",
-      "plain_text": "🔴وزیر خزانه داری امریکا: سقوط پول ملی ایران همچنان ادامه دارد: امروز نرخ دلار با شکسته شدن رکوردها، از مرز ۲ میلیون ریال عبور کرد. آخر هفته گذشته، عبدالناصر همتی، رئیس کل بانک مرکزی ایران، اعتراف کرد که ریزش هم‌زمان درآمدهای نفتی، مالیاتی و حق بیمه تأمین اجتماعی، «تمام بخش‌های اقتصاد ایران را فلج کرده است.» آماده دلار ۳ میلیونی می‌شویم",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/105673",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qq3O9TXi-H_ZBxTDpaMNKwVcFKddHH38yGn8HGGA6nuX8z3W8vKCT_TdJ0dXExNhfPfyrJPry2-Mgsp_G9NtchtR3RaRiXBbCwTotHD8U8ochLI5itBYNZpcjLbhyLYtZvpo707Zsx72c9QW5R6Clg74a8pNoZsSBGFJ_QtNjitouHRW_Dt4r5LWAAhO9r-mqc6v3iPkhKXrL3UcDr7LodDpAsDLiKG6_5fDz1bSchkGRxqAnLjj5TxI50wj0h869V0i09w5AuAJfNV9SNKAOYYX3SwVQYXpCZ680M0oDyaI5BN0iDDH4qpyNa1B7bT7Q0aziDQ1XWhVGWxoiHypfA.jpg",
-          "thumbnail_path": "channels/media_hb/media/86b2df234a72e9686df8cf04.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "102"
-        },
-        {
-          "emoji": "💔",
-          "count": "20"
-        },
-        {
-          "emoji": "❤",
-          "count": "7"
-        },
-        {
-          "emoji": "😭",
-          "count": "4"
-        },
-        {
-          "emoji": "👀",
-          "count": "1"
-        },
-        {
-          "emoji": "😡",
-          "count": "1"
-        }
-      ],
-      "views_label": "8.16K",
-      "posted_at": "2026-08-24T16:49:08+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105673"
-    },
-    {
-      "id": "Media_HB/105672",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/cwmNwNkA8ozQZ_tR8HZjD2BSJYJOy7qkqutXTk2_ubx5sYdgplsdT206opAA_AVRgsbAnzkf4B1yE2_jpTmHnGwo1gU1NratjrCTp2N0Yb3LLq_h_HTicNfj97B4QbOO_5LYYTk9y5ZTaA-nxEU3GiDAQzZ_oa-ZaJ4XzfLqeu7eb1iPl75GxklLDx1w-CJVrEkwZEMaOzvBWIDJXHLr-lygOMX_5z-TVj-4dN-uFNwDPTcu5ow397fpohMOhT28QsjQ83wupfipOFh0UCnXjDcO7tf1uq4k43D-vefGe_wLg6FvzxsgMwnWI36nSFrWjSddvsfRD3o18ubbN5Yl4g.jpg",
-      "author_photo_path": "channels/media_hb/media/f27e56949f18d6dde8a3f7ef.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><b>نتانیاهو:<br><br>ایران تلاش کرد یکی از پسران من را ترور کند!</b>",
-      "plain_text": "🚨‼️نتانیاهو: ایران تلاش کرد یکی از پسران من را ترور کند!",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "123"
-        },
-        {
-          "emoji": "🤣",
-          "count": "53"
-        },
-        {
-          "emoji": "💔",
-          "count": "13"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "😡",
-          "count": "2"
-        }
-      ],
-      "views_label": "7.48K",
-      "posted_at": "2026-08-24T16:31:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/105672"
     }
   ]
 }

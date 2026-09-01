@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-01T20:12:33.791Z",
+  "fetched_at": "2026-09-01T22:08:13.492Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,39 @@
     "subscriber_count": "13.6K"
   },
   "posts": [
+    {
+      "id": "DEJradio/7632",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/hzNOy0SQUg37IkwFsI6zrqHm8jswb4GJV0mPhLqG-qEL4qC-Ni_4Ge2hmvbue89CswBt9nKSptcQ84b6ASowXbipR-Fh3s46q7ocEjCSB-Ix6s0EoqcYLYo5TFSMDKIe62qdneDNDv4wNoqF48apI_M4Vtc2ARtVegdji7cbhPImP_LYLj8qtLaYFe1OLCdfgpm9mwvuucH9qpy6Sizg7dcLHvLexaR89qF4yhybkf1AZFHx3RHoNI984oi5-RtqKFKQi5RKW0yxpQD7_BmwzEdbjFkPyAXkLtDA3QnPg-O1GcYiNBm-GBBgj7aL0tlNZZ8BcCwZG9KQK8PJb4VT_g.jpg",
+      "author_photo_path": "channels/dejradio/media/45acecb8e40ff34259fb72ee.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5949286409478082944\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9598.png')\"><b>🕘</b></i> خبر ۲۱<br>سه‌شنبه ۱۰ شهریور ۱۴۰۵<br><br><a href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\">#خبر۲۱</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "⭕️🕘 خبر ۲۱ سه‌شنبه ۱۰ شهریور ۱۴۰۵ #خبر۲۱ @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/7632",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mCRmQbYBIp8Y6i0Tes4aCv6Kn4KPVYpmuUbbQKGFwA1WQ6bDwxnXm7ZchJPcXponlw-2i74jbmU0THk0yMUpMEqs56idZ2PiecixQCkVCQ_c0k-eAU43lymhLE25m_apMyXx1U4OJwC8fA6T8yFevSmpEbSc39JolGhmkLa8a-3AgrEq3Qp7-foyScllpCFcGRz_aTVbC8meGG8OiQ08GAwJzfCmRr2ntpZ6hovbYhMrWn2SHyFWhNetgPTMUTzAP7aJUp4DZidBGEEu-Po3x4K0tkKWAqstVZQdSYwOXspGcDAPRqA1gebtz3LUa2uNvZLf0du3qUjPoNzKmIxMhA",
+          "thumbnail_path": "channels/dejradio/media/e841986cc07503e2fce02fc0.jpg",
+          "duration_label": "3:36",
+          "aspect_ratio": 1.7824267782426628
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "6"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        }
+      ],
+      "views_label": "807",
+      "posted_at": "2026-09-01T20:27:24+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/7632"
+    },
     {
       "id": "DEJradio/7628",
       "author_name": "DEJ",
@@ -58,14 +91,18 @@
       "reactions": [
         {
           "emoji": "🤮",
-          "count": "7"
+          "count": "16"
         },
         {
           "emoji": "👎",
           "count": "3"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         }
       ],
-      "views_label": "471",
+      "views_label": "1.26K",
       "posted_at": "2026-09-01T19:54:24+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7628"
@@ -91,14 +128,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "17"
+          "count": "23"
         },
         {
           "emoji": "❤",
-          "count": "1"
+          "count": "3"
         }
       ],
-      "views_label": "1.24K",
+      "views_label": "1.79K",
       "posted_at": "2026-09-01T19:24:52+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7627"
@@ -114,14 +151,18 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "25"
+          "count": "31"
         },
         {
           "emoji": "😁",
-          "count": "7"
+          "count": "9"
+        },
+        {
+          "emoji": "🤮",
+          "count": "1"
         }
       ],
-      "views_label": "945",
+      "views_label": "1.36K",
       "posted_at": "2026-09-01T19:21:30+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7626"
@@ -147,18 +188,18 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "30"
+          "count": "33"
         },
         {
           "emoji": "❤",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "😁",
-          "count": "4"
+          "count": "5"
         }
       ],
-      "views_label": "1.2K",
+      "views_label": "1.54K",
       "posted_at": "2026-09-01T18:57:42+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7625"
@@ -184,7 +225,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "15"
+          "count": "18"
         },
         {
           "emoji": "👏",
@@ -199,7 +240,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.63K",
+      "views_label": "1.91K",
       "posted_at": "2026-09-01T18:19:49+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7624"
@@ -225,11 +266,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "23"
+          "count": "25"
         },
         {
           "emoji": "👍",
-          "count": "18"
+          "count": "20"
         },
         {
           "emoji": "❤",
@@ -248,7 +289,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.11K",
+      "views_label": "2.33K",
       "posted_at": "2026-09-01T17:33:45+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7623"
@@ -274,11 +315,11 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "18"
+          "count": "21"
         },
         {
           "emoji": "🔥",
-          "count": "12"
+          "count": "13"
         },
         {
           "emoji": "👏",
@@ -293,7 +334,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.6K",
+      "views_label": "1.77K",
       "posted_at": "2026-09-01T17:04:47+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7622"
@@ -319,7 +360,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "17"
+          "count": "20"
         },
         {
           "emoji": "👏",
@@ -330,7 +371,7 @@
           "count": "3"
         }
       ],
-      "views_label": "1.48K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-01T16:56:22+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/7621"
@@ -356,7 +397,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "17"
+          "count": "20"
         },
         {
           "emoji": "❤",
@@ -367,7 +408,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.44K",
+      "views_label": "1.61K",
       "posted_at": "2026-09-01T16:46:30+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7620"
@@ -393,14 +434,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "12"
+          "count": "15"
         },
         {
           "emoji": "👏",
           "count": "3"
         }
       ],
-      "views_label": "1.41K",
+      "views_label": "1.51K",
       "posted_at": "2026-09-01T16:36:58+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7619"
@@ -426,18 +467,18 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "🤮",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "👍",
           "count": "1"
         }
       ],
-      "views_label": "1.49K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-01T15:55:22+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7618"
@@ -471,14 +512,14 @@
         },
         {
           "emoji": "👍",
-          "count": "2"
+          "count": "4"
         },
         {
           "emoji": "🤬",
           "count": "1"
         }
       ],
-      "views_label": "1.48K",
+      "views_label": "1.58K",
       "posted_at": "2026-09-01T14:02:08+00:00",
       "edited": true,
       "permalink": "https://t.me/DEJradio/7617"
@@ -504,7 +545,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "17"
+          "count": "19"
         },
         {
           "emoji": "🔥",
@@ -515,7 +556,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.79K",
+      "views_label": "1.93K",
       "posted_at": "2026-09-01T12:52:29+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7616"
@@ -541,22 +582,22 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "20"
+          "count": "21"
         },
         {
           "emoji": "❤",
           "count": "6"
         },
         {
-          "emoji": "😁",
+          "emoji": "👏",
           "count": "4"
         },
         {
-          "emoji": "👏",
-          "count": "3"
+          "emoji": "😁",
+          "count": "4"
         }
       ],
-      "views_label": "1.64K",
+      "views_label": "1.7K",
       "posted_at": "2026-09-01T11:04:13+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7615"
@@ -582,10 +623,10 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "17"
+          "count": "19"
         }
       ],
-      "views_label": "1.66K",
+      "views_label": "1.72K",
       "posted_at": "2026-09-01T10:02:35+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7614"
@@ -611,14 +652,14 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "43"
+          "count": "47"
         },
         {
           "emoji": "❤",
           "count": "1"
         }
       ],
-      "views_label": "1.8K",
+      "views_label": "1.87K",
       "posted_at": "2026-09-01T09:44:07+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7613"
@@ -4049,47 +4090,6 @@
       "posted_at": "2026-08-27T19:25:07+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7512"
-    },
-    {
-      "id": "DEJradio/7511",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bb2mMYoAzjAJER4bYwgxxt8y2HWvVLbmyLZglVCMqpWTRUulcNDYGdWnjrHqY9WWQgvQxVo-qwaYlUtlO1evqNCjrc_NycvsaU_Pg0YLjb-5oZrSFzDVk7J0NFEw-_vDgq7SwZ5kgPvAX9ehiu8XwA7CMq43qPODu-XUxd0z1ARKuS9bmfOleSeQpWY1nO-_B3j8Tuh6Sb2EzcsSaNZZBky5Vpg26_ErwTFvRuEnTLM2naTXtPsgdkeN3WMiBxUZiReKdhgCzt_GBmvFI-hT0gyJVdS4v3HnaObLuXPF5_C3vVD2gwoshYOQ7c5U-p25p__pWW7ulJGrU7HUsM3ftw.jpg",
-      "author_photo_path": "channels/dejradio/media/e2c285689932045e5a6cf355.jpg",
-      "body_html": "<b><tg-emoji emoji-id=\"5213419616725903784\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji></b><b><tg-emoji emoji-id=\"5951842387465605469\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji></b><b> رئیس پیشین موساد: مردم ایران برای دیدن اندکی روشنایی مشتاق سقوط جمهوری اسلامی هستند </b><br><br>دیوید بارنئا، رئیس پیشین موساد، در مراسمی در اورشلیم گفت دونالد ترامپ، رئیس جمهوری آمریکا، به‌خوبی می‌داند که نباید اجازه داد حکومت افراطی جمهوری اسلامی پابرجا بماند. <br>بارنئا تصمیم آمریکا برای اعمال تحریم‌های بسیار سنگین علیه جمهوری اسلامی را «درست و قابل‌تقدیر» خواند، اما تأکید کرد تحریم‌ها تنها مرحله‌ای دیگر از این مسیر هستند و به‌باور او، چاره‌ای جز تشدید اقدامات اقتصادی، سیاسی و عملیاتی علیه جمهوری اسلامی تا زمان سقوط آن وجود ندارد. <br>رئیس پیشین موساد با اطمینان گفت جمهوری اسلامی سقوط خواهد کرد و افزود مردم ایران برای دیدن اندکی روشنایی، مشتاق و نیازمند این تحول هستند. به گفتۀ او، جهان آزاد نیز خواهان سقوط جمهوری اسلامی است و آمریکا و اسرائیل در رأس این تلاش، مصمم‌تر از همیشه ایستاده‌اند.<br><br> <a href=\"https://x.com/hashtag/%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84?src=hashtag_click\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">#اسرائیل</a> <a href=\"https://x.com/hashtag/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86?src=hashtag_click\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">#ایران</a> <a href=\"https://x.com/hashtag/%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C?src=hashtag_click\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">#جمهوری_اسلامی</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🚨⭕️ رئیس پیشین موساد: مردم ایران برای دیدن اندکی روشنایی مشتاق سقوط جمهوری اسلامی هستند دیوید بارنئا، رئیس پیشین موساد، در مراسمی در اورشلیم گفت دونالد ترامپ، رئیس جمهوری آمریکا، به‌خوبی می‌داند که نباید اجازه داد حکومت افراطی جمهوری اسلامی پابرجا بماند. بارنئا تصمیم آمریکا برای اعمال تحریم‌های بسیار سنگین علیه جمهوری اسلامی را «درست و قابل‌تقدیر» خواند، اما تأکید کرد تحریم‌ها تنها مرحله‌ای دیگر از این مسیر هستند و به‌باور او، چاره‌ای جز تشدید اقدامات اقتصادی، سیاسی و عملیاتی علیه جمهوری اسلامی تا زمان سقوط آن وجود ندارد. رئیس پیشین موساد با اطمینان گفت جمهوری اسلامی سقوط خواهد کرد و افزود مردم ایران برای دیدن اندکی روشنایی، مشتاق و نیازمند این تحول هستند. به گفتۀ او، جهان آزاد نیز خواهان سقوط جمهوری اسلامی است و آمریکا و اسرائیل در رأس این تلاش، مصمم‌تر از همیشه ایستاده‌اند. #اسرائیل #ایران #جمهوری_اسلامی @DEJradio",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/DEJradio/7511",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/OHCzLY5Q1ywBzbQ4cmvjooWg18glpNEqj8Uf0o4U_4ub_ucBa6CkPBXDFyCzX8oyVmEsHCorDeQE7-oMcDMZllGhosJsNQAwF2P7HLr6PrJ4Nw7mAQMxK6sdcszcdcbRHyOd0gm9os_hoXW6fPgq-LAc-mdGiZfDEDtxg5SUtpseyRjSr9-u4QRcWcy0iGXHrq5A3JaHzfVOKc20Pm0QUgSnMYor4sCN7W8eNjBRH3QChEa0c6pEOfmGcZvU_cGU6OlgSSDScGCFkWZ00EkQxHz9no3dhq9rHABFuSZ1GEK6KRtEl81NRyBeTmYXSlZeezsAc6rrg5954UswGcj3ow",
-          "thumbnail_path": "channels/dejradio/media/0e9a48656abdf6676194b061.jpg",
-          "duration_label": "2:28",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "47"
-        },
-        {
-          "emoji": "💯",
-          "count": "13"
-        },
-        {
-          "emoji": "❤",
-          "count": "2"
-        },
-        {
-          "emoji": "🖕",
-          "count": "1"
-        }
-      ],
-      "views_label": "2.58K",
-      "posted_at": "2026-08-27T19:16:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/7511"
     }
   ]
 }

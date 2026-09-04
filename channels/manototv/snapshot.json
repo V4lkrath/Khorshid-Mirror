@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-04T21:43:05.506Z",
+  "fetched_at": "2026-09-04T21:54:25.329Z",
   "channel": {
     "username": "manototv",
     "title": "تلویزیون منوتو",
@@ -28,8 +28,17 @@
           "aspect_ratio": 0.7500000000000188
         }
       ],
-      "reactions": [],
-      "views_label": "1",
+      "reactions": [
+        {
+          "emoji": "😭",
+          "count": "15"
+        },
+        {
+          "emoji": "❤",
+          "count": "8"
+        }
+      ],
+      "views_label": "661",
       "posted_at": "2026-09-04T21:43:03+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107410"
@@ -79,8 +88,17 @@
           "aspect_ratio": 0.75
         }
       ],
-      "reactions": [],
-      "views_label": "2",
+      "reactions": [
+        {
+          "emoji": "❤‍🔥",
+          "count": "15"
+        },
+        {
+          "emoji": "🫡",
+          "count": "6"
+        }
+      ],
+      "views_label": "660",
       "posted_at": "2026-09-04T21:42:52+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107406"
@@ -103,8 +121,13 @@
           "aspect_ratio": 0.7500000000000188
         }
       ],
-      "reactions": [],
-      "views_label": "1",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "10"
+        }
+      ],
+      "views_label": "656",
       "posted_at": "2026-09-04T21:42:48+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107405"
@@ -130,14 +153,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "23"
+          "count": "31"
         },
         {
           "emoji": "🕊",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "862",
+      "views_label": "1.48K",
       "posted_at": "2026-09-04T21:33:06+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107404"
@@ -244,14 +267,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "7"
+          "count": "10"
         },
         {
           "emoji": "👎",
           "count": "1"
         }
       ],
-      "views_label": "892",
+      "views_label": "1.21K",
       "posted_at": "2026-09-04T21:32:58+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107394"
@@ -358,10 +381,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "6"
+          "count": "10"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         }
       ],
-      "views_label": "510",
+      "views_label": "1.12K",
       "posted_at": "2026-09-04T21:32:49+00:00",
       "edited": false,
       "permalink": "https://t.me/ManotoTV/107384"

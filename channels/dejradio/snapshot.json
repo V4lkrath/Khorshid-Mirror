@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T21:16:19.377Z",
+  "fetched_at": "2026-09-07T22:13:32.507Z",
   "channel": {
     "username": "dejradio",
     "title": "DEJ",
@@ -10,6 +10,39 @@
     "subscriber_count": "13.7K"
   },
   "posts": [
+    {
+      "id": "DEJradio/7754",
+      "author_name": "DEJ",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WiWd0NxcaGrOsIi7NmVQ999CzSFvLysGF_LayEb8s0QRXtw0tbTT7R8gkKE97ulcgQjXD8ICNgBSR51BhnVLWs0YoAJEgMCwf1TBLv3VBcGJ4bKkWqA_WO6pLo7PuExGxB_FsslMFsoamCDTj-cjyiIaP7wyYxmynVTwuEVXV9yDk7TQ1gHvPKbI978mtbqj4BPjt40Cgjnoip_Nk2RiNBMijbyQ0ct-VEhnC7s3dX2PboMj36eQAd-vBTxaMDJhuNEqP8zwo193owdmj9jZlODF8qO6pe-0sFlRfnYx2CQC6pHwEP1WoF2sjQ8HfAKHj3RUVl3m6xfgtOzEFLW9Cg.jpg",
+      "author_photo_path": "channels/dejradio/media/339b3c919cff2bfabc919f62.jpg",
+      "body_html": "<tg-emoji emoji-id=\"5949286409478082944\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9598.png')\"><b>🕘</b></i> خبر ۲۱<br>دوشنبه ۱۶ شهریور ۱۴۰۵<br><br><a href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\">#خبر۲۱</a><br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
+      "plain_text": "⭕️🕘 خبر ۲۱ دوشنبه ۱۶ شهریور ۱۴۰۵ #خبر۲۱ @DEJradio",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/DEJradio/7754",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/m-j-SKFXE1ZGuYHIzUy_odcrZDb6rOp_Mm-jmehjWChhfu2HzAMfR_eNz4rtbGvhGlcace4GrGWwjgn2BG0pK1Y2cKpYE9CYX1IPtMGEQ3Ief0c4lICSwEZvYyItZ-D-1cbFliasJlDohN4xVCsDdGmaSleLXT_HWw2cNttEvrmqerDDh1WwmcySxGv7TuEd3gQjGgj4NpRJmGhpGTcDCNZKes6A8zJgd539TBfShDSW2Pm3Tab95OanG5X2thxFI4PN--nHpGrufBxCTGco7MtF9_CIQ5rlI4hrL7wYpTzM3DANuHQ74r2XBl8D4oErQr8tDhFwKRrKTUyneer48Q",
+          "thumbnail_path": "channels/dejradio/media/9ed59d16a9bb1f6a8b15258e.jpg",
+          "duration_label": "2:47",
+          "aspect_ratio": 1.7824267782426628
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        }
+      ],
+      "views_label": "404",
+      "posted_at": "2026-09-07T21:27:45+00:00",
+      "edited": false,
+      "permalink": "https://t.me/DEJradio/7754"
+    },
     {
       "id": "DEJradio/7753",
       "author_name": "DEJ",
@@ -31,7 +64,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "26"
+          "count": "36"
         },
         {
           "emoji": "👍",
@@ -50,7 +83,7 @@
           "count": "1"
         }
       ],
-      "views_label": "904",
+      "views_label": "1.15K",
       "posted_at": "2026-09-07T19:45:56+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7753"
@@ -76,7 +109,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "39"
+          "count": "41"
         },
         {
           "emoji": "❤",
@@ -87,7 +120,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.3K",
+      "views_label": "1.45K",
       "posted_at": "2026-09-07T17:24:21+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7752"
@@ -113,7 +146,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "16"
+          "count": "17"
         },
         {
           "emoji": "❤",
@@ -124,7 +157,7 @@
           "count": "4"
         }
       ],
-      "views_label": "1.29K",
+      "views_label": "1.41K",
       "posted_at": "2026-09-07T16:33:30+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7751"
@@ -150,7 +183,7 @@
       "reactions": [
         {
           "emoji": "🖕",
-          "count": "42"
+          "count": "43"
         },
         {
           "emoji": "🤮",
@@ -161,7 +194,7 @@
           "count": "4"
         }
       ],
-      "views_label": "1.63K",
+      "views_label": "1.68K",
       "posted_at": "2026-09-07T12:13:17+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7750"
@@ -187,7 +220,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "42"
+          "count": "43"
         },
         {
           "emoji": "👍",
@@ -198,7 +231,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.68K",
+      "views_label": "1.74K",
       "posted_at": "2026-09-07T12:09:07+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7749"
@@ -224,11 +257,11 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "48"
+          "count": "50"
         },
         {
           "emoji": "👏",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "😁",
@@ -239,7 +272,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.54K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-07T11:57:16+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7748"
@@ -292,7 +325,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "44"
+          "count": "46"
         },
         {
           "emoji": "😁",
@@ -311,7 +344,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.8K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-07T10:21:45+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7744"
@@ -337,7 +370,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "31"
+          "count": "33"
         },
         {
           "emoji": "😱",
@@ -356,7 +389,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.89K",
+      "views_label": "1.93K",
       "posted_at": "2026-09-07T08:41:46+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7741"
@@ -382,7 +415,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "59"
+          "count": "61"
         },
         {
           "emoji": "👍",
@@ -405,7 +438,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.69K",
+      "views_label": "1.71K",
       "posted_at": "2026-09-07T08:35:29+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7740"
@@ -431,7 +464,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "75"
+          "count": "77"
         },
         {
           "emoji": "👍",
@@ -450,7 +483,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.06K",
+      "views_label": "2.11K",
       "posted_at": "2026-09-07T08:13:22+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7739"
@@ -476,7 +509,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "59"
+          "count": "60"
         },
         {
           "emoji": "🤮",
@@ -491,7 +524,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.8K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-07T07:13:47+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7738"
@@ -517,11 +550,11 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "43"
+          "count": "44"
         },
         {
           "emoji": "👏",
-          "count": "17"
+          "count": "18"
         },
         {
           "emoji": "🔥",
@@ -532,7 +565,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.78K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-07T07:05:55+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7737"
@@ -567,7 +600,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "82"
+          "count": "84"
         },
         {
           "emoji": "💔",
@@ -582,7 +615,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.14K",
+      "views_label": "2.15K",
       "posted_at": "2026-09-06T21:26:41+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7735"
@@ -617,7 +650,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "55"
+          "count": "57"
         },
         {
           "emoji": "👍",
@@ -636,7 +669,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.08K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-06T21:24:03+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7733"
@@ -4169,52 +4202,6 @@
       "posted_at": "2026-09-02T08:16:22+00:00",
       "edited": false,
       "permalink": "https://t.me/DEJradio/7637"
-    },
-    {
-      "id": "DEJradio/7635",
-      "author_name": "DEJ",
-      "author_photo_url": "https://cdn4.telesco.pe/file/kge6abc6arwGqnIupkMwZoVlL--3Sui5pxGLneYhuUQWhqPYl9FDGSY6CMC2i5a4u-uADBLCYuCgEFYeYu1ApMqnwf2ob-9lW1WvW8Ct5CDXnb91GU7RQNkpjxNH6uI9u_Mf7rqB-Sj-_JrdfuC8spgxH4_uNDOVV715RuVJljhw-21PchhtL31tc85bkrHc8f51t6OeGOA7lNbpoa-7axVTWBPTDljbnrboXP9_UmLgvGj878rEp-oueYqyPdXYn0encTQghE28lOzeL9QWz5SnE8aW2bDDKnIjttICw-CqlZs0OcPrMNiaIueJhQVGJPXjttvYy9RoaXuvi_NGVw.jpg",
-      "author_photo_path": "channels/dejradio/media/3deaed87d6c123eb7ed088af.jpg",
-      "body_html": "<tg-emoji emoji-id=\"5213419616725903784\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji><tg-emoji emoji-id=\"5938304994145998707\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i></tg-emoji> بر اساس گزارش روابط عمومی سـ.ـپاه کرمانشاه، چهارشنبه ۱۱ شهریور ۱۴۰۵، چهار عضو نیروی هوافضای سپاه به نام‌های رضا محمدی، شهرام جعفری، علیرضا شکیبا و جعفر کهریزی در حمله آمریکا کشته شدند.<br><br>منابع میدانی می‌گویند آنها دقایقی پس از آنکه از یک لانچر موشک بالستیک پرتاب شد، شناسایی و هدف قرار گرفتند.<br><br><a href=\"?q=%23%D8%AC%D9%86%DA%AF\">#جنگ</a> <a href=\"?q=%23IRGCterrorist\">#IRGCterrorist</a> <a href=\"?q=%23%D8%AD%D9%85%D9%84%D9%87_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\">#حمله_آمریکا</a> <br><a href=\"https://t.me/DEJradio\" target=\"_blank\">@DEJradio</a>",
-      "plain_text": "🚨🔸 بر اساس گزارش روابط عمومی سـ.ـپاه کرمانشاه، چهارشنبه ۱۱ شهریور ۱۴۰۵، چهار عضو نیروی هوافضای سپاه به نام‌های رضا محمدی، شهرام جعفری، علیرضا شکیبا و جعفر کهریزی در حمله آمریکا کشته شدند. منابع میدانی می‌گویند آنها دقایقی پس از آنکه از یک لانچر موشک بالستیک پرتاب شد، شناسایی و هدف قرار گرفتند. #جنگ #IRGCterrorist #حمله_آمریکا @DEJradio",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7635?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/NWzD0TY6UmAoJaPJlH36Z-ZN_GN49rHvHQ-gmgh3yscJa0pYPAxlBY9T8ymc9H6jyd6SbeEHZsFCd7O7UF7g8aDRlSnpJfKyylncCL4vM4U039rl3FpRDzO_eFgCFd3x_Pg6WjjnDB4ONl_C6ThIeJekvbdNDQCVwTY8g3ei6n9melS1BIaOW1ruWMfklJLtMWbEavgHoY9isKB2wR1tBagsdNeIv1HI3fOro0xBLA1fNbIZ5abRykh-z_uDatzaqzTF1CZd_sfkmNuTEXntgUIBXc3QGvf_BX7L1CTZ8O5YT9-YU2toN-dj6uFy9b4llNbS-vFFw6RvxPBUVLG25w.jpg",
-          "thumbnail_path": "channels/dejradio/media/c5da9ece47f44c21332de054.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/DEJradio/7636?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/GeTH7G1D8lJaLWEN6MXhRfx-04I4_NnFa5LzzB-KnsPMFUzo5CbtRWikYfA4Y5-MI01RVwezHRzTmDPZazAeK_nHiUsDdPDYiD0nQHCPOpO_EdkndvhE_upc_vLbwgtx5jyfzHMYSO-1CuQZ5Ez-ASGcjgTHhXi8M_55OI39b6OfJBrWmJgelsx527t9h3Ry89gAHmg8nrvn3nA-8ZpFnUGFQxHR5nxffcCMZ5WWkDvV1HQXjycl2s2BYlXj5BxS4Ig08__pppl4SDsP813Zkry1F1EgoyQBeVR0mv9GWWygyeoF70Tri_IaSPNRUCuDKu7nrYxxx9cjhMVKBIGgug.jpg",
-          "thumbnail_path": "channels/dejradio/media/ee01faf6370bdf8b5fd0b5ff.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "31"
-        },
-        {
-          "emoji": "👏",
-          "count": "12"
-        },
-        {
-          "emoji": "🔥",
-          "count": "6"
-        }
-      ],
-      "views_label": "1.62K",
-      "posted_at": "2026-09-02T08:12:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/DEJradio/7635"
     }
   ]
 }

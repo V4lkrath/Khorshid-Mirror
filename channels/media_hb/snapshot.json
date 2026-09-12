@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-11T23:49:08.733Z",
+  "fetched_at": "2026-09-12T01:31:12.365Z",
   "channel": {
     "username": "media_hb",
     "title": "مدیا هاب | Media Hub",
@@ -10,6 +10,62 @@
     "subscriber_count": "149K"
   },
   "posts": [
+    {
+      "id": "Media_HB/107036",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Dcg-5BEkSrNTjc3zURL5GQqVicvpC5yFSc3s8npS6ch1wxSm-CY5dIL3F3ry5jzU559RduB7PD2nwWvPfjSot6Cn5cJxoPppMy4XVNJ8-s5mQlwE0jB_XR8BBNo7lmRN5ncYXtJXpsHN7gC-HYRQmrjxly-jFmb5uSR9DaXUldyqbf5dbiJ0i9ToHESTyahZJqerHP2iJYfmc0AwQJtW-C-o4rmsriOQjctm-f2eCzUjQH-4D-4NBJCWoO52aVM4yFD8o9-MY5JHifK87rmO9xOVhQdniL8nX-OJziw6p6PaHNyvOdFt_bT9NFAZim-MeSt5JcDlnNXYSrDo8VdEow.jpg",
+      "author_photo_path": "channels/media_hb/media/73fe904acde8979ce4e1b6fc.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i>مرز شلمچه بین ایران و عراق توسط عراق بسته شد!!",
+      "plain_text": "🚨مرز شلمچه بین ایران و عراق توسط عراق بسته شد!!",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🤡",
+          "count": "11"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        }
+      ],
+      "views_label": "1.47K",
+      "posted_at": "2026-09-12T00:21:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Media_HB/107036"
+    },
+    {
+      "id": "Media_HB/107035",
+      "author_name": "مدیا هاب | Media Hub",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Dcg-5BEkSrNTjc3zURL5GQqVicvpC5yFSc3s8npS6ch1wxSm-CY5dIL3F3ry5jzU559RduB7PD2nwWvPfjSot6Cn5cJxoPppMy4XVNJ8-s5mQlwE0jB_XR8BBNo7lmRN5ncYXtJXpsHN7gC-HYRQmrjxly-jFmb5uSR9DaXUldyqbf5dbiJ0i9ToHESTyahZJqerHP2iJYfmc0AwQJtW-C-o4rmsriOQjctm-f2eCzUjQH-4D-4NBJCWoO52aVM4yFD8o9-MY5JHifK87rmO9xOVhQdniL8nX-OJziw6p6PaHNyvOdFt_bT9NFAZim-MeSt5JcDlnNXYSrDo8VdEow.jpg",
+      "author_photo_path": "channels/media_hb/media/73fe904acde8979ce4e1b6fc.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>مرز شلمچه بین ایران و عراق توسط عراق بسته شد</b>!!",
+      "plain_text": "🚨مرز شلمچه بین ایران و عراق توسط عراق بسته شد!!",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Media_HB/107035",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/QOr9MlQCW7BjZo96Vu51JC43d9A995agpPwduVoeUXU24vRbFgK6HyJVAdMQsC5yiiqEqp2Zqb1bY4qcjhimRQmNXhkWmsxcx0ZReJWTsrv9yxCMrbCsdpTKTBpJ2o9oegTHTheFWN-GeFG_4MT59WgAHinzr_AtH5itbrnZ14mjrzVdowjrFL3Xnd27ucvWLomz-KvNiHt1Yhniy0Nl8JZt7oEjEbkjHQherzmuctkjZXkAuyfwF-_T_zDD3R0D6VwI4OOlBJVgyK-WzG6_oTX9upGiL-UnMhZhwsLC1G9TWBhqDnjeNaUg3hmIhM_LWvhDHAtt8Hp1piNAADMpcw",
+          "thumbnail_path": "channels/media_hb/media/5b20b356bfb5d2e69ec097a5.jpg",
+          "duration_label": "0:27",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "32"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        }
+      ],
+      "views_label": "1.53K",
+      "posted_at": "2026-09-12T00:20:32+00:00",
+      "edited": true,
+      "permalink": "https://t.me/Media_HB/107035"
+    },
     {
       "id": "Media_HB/107034",
       "author_name": "مدیا هاب | Media Hub",
@@ -31,7 +87,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "48"
+          "count": "56"
         },
         {
           "emoji": "❤",
@@ -43,7 +99,7 @@
         },
         {
           "emoji": "🤡",
-          "count": "3"
+          "count": "5"
         },
         {
           "emoji": "😭",
@@ -54,7 +110,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.08K",
+      "views_label": "4.14K",
       "posted_at": "2026-09-11T21:56:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107034"
@@ -70,7 +126,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "36"
+          "count": "37"
         },
         {
           "emoji": "👍",
@@ -81,7 +137,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.3K",
+      "views_label": "5.17K",
       "posted_at": "2026-09-11T21:25:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107033"
@@ -97,11 +153,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "48"
+          "count": "51"
         },
         {
           "emoji": "🤡",
-          "count": "18"
+          "count": "19"
         },
         {
           "emoji": "🤣",
@@ -116,7 +172,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.35K",
+      "views_label": "6.12K",
       "posted_at": "2026-09-11T20:59:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107032"
@@ -132,7 +188,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "146"
+          "count": "154"
         },
         {
           "emoji": "🔥",
@@ -151,7 +207,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.66K",
+      "views_label": "7.33K",
       "posted_at": "2026-09-11T20:21:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107031"
@@ -167,14 +223,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "32"
+          "count": "33"
         },
         {
           "emoji": "🦄",
           "count": "1"
         }
       ],
-      "views_label": "6.7K",
+      "views_label": "7.32K",
       "posted_at": "2026-09-11T20:19:15+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/107030"
@@ -190,7 +246,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "59"
+          "count": "65"
         },
         {
           "emoji": "🔥",
@@ -209,7 +265,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.71K",
+      "views_label": "7.27K",
       "posted_at": "2026-09-11T20:15:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107029"
@@ -235,7 +291,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "81"
+          "count": "88"
         },
         {
           "emoji": "🤣",
@@ -250,7 +306,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.17K",
+      "views_label": "7.66K",
       "posted_at": "2026-09-11T20:03:30+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/107028"
@@ -276,7 +332,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "94"
+          "count": "100"
         },
         {
           "emoji": "❤",
@@ -291,7 +347,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.93K",
+      "views_label": "7.37K",
       "posted_at": "2026-09-11T19:59:59+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107027"
@@ -317,7 +373,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "58"
+          "count": "64"
         },
         {
           "emoji": "🔥",
@@ -332,7 +388,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.73K",
+      "views_label": "7.13K",
       "posted_at": "2026-09-11T19:58:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107026"
@@ -348,11 +404,11 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "110"
+          "count": "113"
         },
         {
           "emoji": "🤣",
-          "count": "43"
+          "count": "44"
         },
         {
           "emoji": "❤‍🔥",
@@ -375,7 +431,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.31K",
+      "views_label": "7.62K",
       "posted_at": "2026-09-11T19:28:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107025"
@@ -414,7 +470,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "141"
+          "count": "144"
         },
         {
           "emoji": "👍",
@@ -441,7 +497,7 @@
           "count": "3"
         }
       ],
-      "views_label": "7.24K",
+      "views_label": "7.52K",
       "posted_at": "2026-09-11T19:26:20+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107023"
@@ -467,22 +523,22 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "73"
+          "count": "77"
         },
         {
           "emoji": "🤣",
-          "count": "19"
+          "count": "20"
         },
         {
           "emoji": "🤡",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "💔",
           "count": "1"
         }
       ],
-      "views_label": "7.2K",
+      "views_label": "7.55K",
       "posted_at": "2026-09-11T19:26:13+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107022"
@@ -498,7 +554,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "188"
+          "count": "194"
         },
         {
           "emoji": "🤡",
@@ -517,7 +573,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.99K",
+      "views_label": "7.26K",
       "posted_at": "2026-09-11T19:14:20+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107021"
@@ -543,7 +599,7 @@
       "reactions": [
         {
           "emoji": "👀",
-          "count": "44"
+          "count": "45"
         },
         {
           "emoji": "🤣",
@@ -558,7 +614,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.17K",
+      "views_label": "7.44K",
       "posted_at": "2026-09-11T19:11:42+00:00",
       "edited": true,
       "permalink": "https://t.me/Media_HB/107020"
@@ -574,7 +630,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "41"
+          "count": "43"
         },
         {
           "emoji": "👍",
@@ -585,7 +641,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.06K",
+      "views_label": "7.31K",
       "posted_at": "2026-09-11T19:03:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107019"
@@ -618,7 +674,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.2K",
+      "views_label": "7.42K",
       "posted_at": "2026-09-11T18:54:54+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107018"
@@ -662,7 +718,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": "87"
+          "count": "89"
         },
         {
           "emoji": "❤",
@@ -685,7 +741,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.09K",
+      "views_label": "7.29K",
       "posted_at": "2026-09-11T18:32:26+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/107015"
@@ -3740,103 +3796,6 @@
       "posted_at": "2026-09-10T13:26:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Media_HB/106922"
-    },
-    {
-      "id": "Media_HB/106921",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/b1xdxcZ9lRLw7IyE4f7XqYJAjlUayHBnKMmu8k5eRzqtw0JAYxMdddHMHWP5HdiyvW4iR5WZRT1Zen0kkSyYMGn0C9DPrfE-DE31oXeWmeg8HTKIRoTIZdDD2tjwUBiQ8WOd1Qj8V2B9Zcenfcqc35EXz1MpWMERomrHjJfWRyR7IYbHZh3CMh9UYHC3ImCohrEcClC9kfU6X15oO_73uO6yusMjaWFeHkpvwV2A6mY1vDo5nKRgnj-L11QwxW88cco8KCKkYvPTNEmK3ZSijDR7VtSuDDHoRZQ-S0icnzC7K2gvk0CHsfNn8BiK3TZVQIISx7LsvRMvUCmJ3IwLQg.jpg",
-      "author_photo_path": "channels/media_hb/media/0231869a9aedba5cd9379727.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>نفت به قیمت ١٠۵ دلار رسید</b>",
-      "plain_text": "🔴نفت به قیمت ١٠۵ دلار رسید",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/106921",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Ps8qQ7-_CG25VKwve_8mnPmoIstfHZCkFaUWJc5TNJcnIvNnYn-Zr9_9_Sz5_Ofoq8c8KWMsW-SZxsRzcz2NOCKb-ONU1j9NC9kUL4m5xAsdBIZ5-0-XRfyMsxHbpSlL62SCOMs6oA0H8LrGMXwOifyjo33EoYgnD8fZn8WQeJgmIZHm1X8ZcFXdaGlQHCgx3aEivEykZSLzpXeJeb2W8Ta1iMczH-zHefKajt5EQ23x2r7LVjS5qULSR-gsZM4WGi9xNeXS2wnUpzQYmqCfCzSt-_ab3lz56HCx6S8rP_aDc9OqtthQJjT_-A3SDfoo7bdya1Ro5swzdAnuL386Tg.jpg",
-          "thumbnail_path": "channels/media_hb/media/a4f70ab9a67820dbf8bb23b5.jpg",
-          "duration_label": null,
-          "aspect_ratio": 1.9704433497536946
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "55"
-        },
-        {
-          "emoji": "😭",
-          "count": "1"
-        }
-      ],
-      "views_label": "7.18K",
-      "posted_at": "2026-09-10T13:22:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/106921"
-    },
-    {
-      "id": "Media_HB/106917",
-      "author_name": "مدیا هاب | Media Hub",
-      "author_photo_url": "https://cdn4.telesco.pe/file/b1xdxcZ9lRLw7IyE4f7XqYJAjlUayHBnKMmu8k5eRzqtw0JAYxMdddHMHWP5HdiyvW4iR5WZRT1Zen0kkSyYMGn0C9DPrfE-DE31oXeWmeg8HTKIRoTIZdDD2tjwUBiQ8WOd1Qj8V2B9Zcenfcqc35EXz1MpWMERomrHjJfWRyR7IYbHZh3CMh9UYHC3ImCohrEcClC9kfU6X15oO_73uO6yusMjaWFeHkpvwV2A6mY1vDo5nKRgnj-L11QwxW88cco8KCKkYvPTNEmK3ZSijDR7VtSuDDHoRZQ-S0icnzC7K2gvk0CHsfNn8BiK3TZVQIISx7LsvRMvUCmJ3IwLQg.jpg",
-      "author_photo_path": "channels/media_hb/media/0231869a9aedba5cd9379727.jpg",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>حملات هوایی ارتش اسرائیل در نبطیه جنوب لبنان</b></div>",
-      "plain_text": "🔴حملات هوایی ارتش اسرائیل در نبطیه جنوب لبنان",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/106917?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/dYkrnv4jEC6IN25nF4HqUnora69O51KgZ9b01rGr708amdgc9KDXO17gMzvmPPzSQifpgjZqIsIE--XN1LiYm3u0brRaCqaFcSWMnzSxzHF-LPNTrNr9Vq1hAsAkCDGslCz_MnIDRtl1ExoqThgJ2LsGHOmuNMq35vFRhaHajPeugh4eoWCGK-qa6PE9uFxmhCl91m5aYogN_LHEIk6NeZ4mbmOv0cPTrRZtnHjcLZfqpsSGi8_2aP_eY_qpRc7SSs_a9D400ijSia9ytPVY43KybDmgwZmhtgBXRZlg33OBCc73AR-Dql-6VbrCxAHt8Q68ZJyKcqaURZ9eZmdAzA.jpg",
-          "thumbnail_path": "channels/media_hb/media/e539017c17deee78f54eb8bd.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.5625
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/106918?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/MVnKTCiBBAk0ItqM6FmhJqVMwDhM2KSuDvSGIU6PDGxcIr3I04faeT-Z5oL3XyhYXYriX_R6j5ov8HHWAZ9Rdo2kafrpRfde30mh0jonjyuwGSr1QNOnfyJ52eNxvKA-LaV4PBxZPnhZfG5Cy52teFcUw95AabIXCM0mojrt3e3VpPfTqp7PUqdyUcwjNREQaCZrhnN9osy7qCFJR54hvQmqBNc7-TtBq5c225sI2RTj-YOLtv84KDHUEjHEoFo8-IicbR-hi8F70RQeRA0kja5Gmr7mEXIYub-2BU6waVc52VPht_8l7qUK_seI_9ol6sgxI99zYnnLQeeGUW6W0w.jpg",
-          "thumbnail_path": "channels/media_hb/media/898084ff195cc45e5df119ff.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.5625
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/106919?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/IFxuXb2aIyEpTWPL1ElptxWubgrh5H7Wmv4HbAQik1jt-PTiV5c0-x5lbX18NpDCaumn9dSC3j2CoCCxCa2427H9GmUOkmBcW6LnCkK_4_LZlUcSgwqPcn4TgBQlJuqGwhKnt2O-prPsIw17Wu5Us9g4r3Ficth37umRsozFrFxncklMMDf65Z9OiWlQ90rqbX9crlz1b7TfCjdLVOLcAkqAm7Jx8dm38ffpBXJbZ1d2pG2wqeXgKLLPfBaJ93hJLP8XZqaTe2UXQ82nAOA14RUYNoankR7GUch_9V0f8pLZmRKr9JJMPlctg5cEvXybgwFK0BtRNFgscygT1z_DKg.jpg",
-          "thumbnail_path": "channels/media_hb/media/81b348148816d1cb85fbba1a.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.75
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Media_HB/106920?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/F_0KHjYdJ26yDLhYhh5wJxtCXrWoYz_a9LV2lzKENBlHXb6f5SqvSi6sCDif9R7CVBZLvgoa5Mo5HTonAr-hXtCPf4i91CK2K6udFhqH7_gCJ3DoxZIBcQnClBgLLK0eW_ms2DKh1sM6BBjN32UAwDPhhjln1WrgFSFnvFydc0SEBpJUMgrKLUIXX08UA52dK5IB-ujdMJR7jvDjOpQ1U8XBxNeWZWi3J5MYeT78dm0cTXSg2by7KZ_rr4sFdz8Ajpkv_dF0S0eiWFFxkdSPT7sdA2pG7Spr40fRxT6IKywDP9dhPIfmSb7VaXObrtXr_q0gDfc3O7j0g-uUINjzZw.jpg",
-          "thumbnail_path": "channels/media_hb/media/46ebdf0d3e51726a225583e6.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.5625
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "55"
-        },
-        {
-          "emoji": "❤",
-          "count": "3"
-        },
-        {
-          "emoji": "😡",
-          "count": "1"
-        }
-      ],
-      "views_label": "7.03K",
-      "posted_at": "2026-09-10T13:20:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Media_HB/106917"
     }
   ]
 }
